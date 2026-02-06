@@ -1,2 +1,6 @@
 data_local/
 ~*
+jupyter-*
+ipython/
+.env
+*.ipynb_checkpoints
