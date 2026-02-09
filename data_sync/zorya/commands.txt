@@ -1,0 +1,30 @@
+# To copy *.no_annot.csv
+while read line; do cp ../../results/acc_batch_*/$line.no_annot.csv no_annot/; done < zorya_acc.txt 
+while read line; do cp ../../results/$line.no_annot.csv no_annot/; done < zorya_acc.txt
+
+# To get status.txt
+while read acc
+do
+	if [[ ! -f no_annot/${acc}.no_annot.csv ]]
+	then 
+		echo $acc Pending >> status.txt
+	else
+		echo $acc Done >> status.txt
+	fi
+done < zorya_acc.txt 
+
+
+# Generate combined no_annot file
+head -n 1 "$(ls no_annot/*.csv | head -n 1)" > ${today}_zorya.no_annot.combined.csv
+tail -n +2 -q no_annot/*.csv >> ${today}_zorya.no_annot.combined.csv
+
+# Preparing to run foldseek
+mkdir ../../data/structures/bacterial/zorya
+mkdir ../../data/structures/human/zorya
+mkdir -p ../../results/acc_zorya/foldseek
+
+# Run foldseek locally
+sbatch ../../scripts/07_submit_run_foldseek.sh priorities/zorya/2025-07-26_zorya.no_annot.combined.csv zorya
+
+# Add annotations
+sbatch ../../scripts/08_submit_add_annotations.sh results/acc_zorya/2025-07-26_zorya.no_annot.combined.foldseek.csv zorya

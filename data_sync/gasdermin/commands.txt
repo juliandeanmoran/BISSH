@@ -1,0 +1,35 @@
+
+# To find out which batches have the accessions
+while read line; do grep $line ../../data/accession_batches/*.txt; done < gasdermin_acc.txt
+
+
+# To copy *.no_annot.csv
+while read line; do cp ../../results/acc_batch_*/$line.no_annot.csv no_annot/; done < gasdermin_acc.txt
+while read line; do cp ../../results/$line.no_annot.csv no_annot/; done < gasdermin_acc.txt
+
+# To get status.txt
+while read acc
+do
+	if [[ ! -f no_annot/${acc}.no_annot.csv ]]
+	then 
+		echo $acc Pending >> status.txt
+	else
+		echo $acc Done >> status.txt
+	fi
+done < gasdermin_acc.txt
+
+
+# Generate combined no_annot file
+head -n 1 "$(ls no_annot/*.csv | head -n 1)" > ${today}_gasdermin_1.no_annot.combined.csv
+tail -n +2 -q no_annot/*.csv >> ${today}_gasdermin_1.no_annot.combined.csv
+
+# Preparing to run foldseek
+mkdir ../../data/structures/bacterial/gasdermin
+mkdir ../../data/structures/human/gasdermin
+mkdir -p ../../results/acc_gasdermin/foldseek
+
+# Run foldseek locally
+sbatch ../../scripts/07_submit_run_foldseek.sh priorities/gasdermin/2025-07-26_gasdermin.no_annot.combined.csv gasdermin
+
+# Add annotations
+sbatch ../../scripts/08_submit_add_annotations.sh results/acc_gasdermin/2025-07-26_gasdermin.no_annot.combined.foldseek.csv gasdermin
