@@ -1,0 +1,263 @@
+Gene	EAGLE Annotation	Current SFARI Score	Existing ClinGen curation	Concordance 	Definitive ClinGen Classification with ASD features 
+NRXN1	Definitive (score=143.75)	Score 1	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 07/10/2019]"	Concordant	Yes
+SCN2A	Definitive (score=109.3)	Score 1	"Definitive: Complex NDD (autosomal dominant) [Epilepsy GCEP, 05/07/2019]"	Concordant	Yes
+MECP2	LoF curation: Definitive (score=106.65)	Score 1S	"Definitive: Rett Syndrome (X-linked) [Rett and Angelman-like Disorders GCEP, 05/02/2018]"	Concordant	Yes
+MECP2	Duplication curation: Definitive (score=23.5)	Score 1S	Definitive	Concordant	Yes
+CHD8	Definitive (score=97.65)	Score 1S	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 07/16/2018]"	Concordant	Yes
+DDX3X	Definitive (score=78.6)	Score 1S	"Definitive: X-linked Syndromic Intellectual disability (X-linked) [Intellectual Disability and Autism GCEP, 05/05/2020]"	Concordant	Yes
+SHANK3	Definitive (score=74.85)	Score 1S	"Definitive: Phelan-McDermid syndrome (autosomal dominant) [Intellectual Disability and Autism GCEP, 12/12/2018]"	Concordant	Yes
+PTEN	Definitive (score=63.15)	Score 1S	"Definitive: PTEN hamartoma tumor syndrome (autosomal dominant) [Hereditary Cancer GCEP, 04/05/2024]"	Concordant	Yes
+FOXP1	Definitive (score=60.45)	Score 1S	"Definitive: Intellectual disability-severe speech delay-mild dysmorphism syndrome (autosomal dominant) [Intellectual Disability and Autism GCEP, 05/09/2019]"	Concordant	Yes
+MBD5	LoF curation: Definitive (score=46.6)	Score 1S	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 02/15/2023]"	Concordant	Yes
+MBD5	Duplication curation: Moderate (score=8.5)	Score 1S	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 02/15/2023]"	Concordant	Yes
+ADNP	Definitive (score=41.5)	Score 1S	"Definitive: ADNP-related multiple congenital anomalies - intellectual disability - autism spectrum disorder (autosomal dominant) [Intellectual Disability and Autism GCEP, 01/15/2020]"	Concordant	Yes
+DMD	Definitive (score=40.95)	Score S	"Definitive: Progressive Muscular Dystrophy (X-linked) [Limb Girdle Muscular Dystrophy GCEP, 04/09/2021]"	Concordant	Yes
+SYNGAP1	Definitive (score=40.75)	Score 1S	"Definitive: Complex NDD (autosomal dominant) [Epilepsy GCEP, 04/02/2019]"	Concordant	Yes
+HNRNPU	Definitive (score=38.8)	Score 1S	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 10/11/2022]"	Concordant	Yes
+KMT2E	Definitive (score=38.65)	Score 1S	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 08/02/2022]"	Concordant	Yes
+TCF20	Definitive (score=38)	Score 1S	"Definitive: Developmental delay with variable intellectual impairment and behavioural abnormalities (autosomal dominant) [Syndromic Disorders GCEP, 10/07/2020]"	Concordant	Yes
+AUTS2	Definitive (score=35.5)	Score 1	"Definitive: Syndromic Intellectual disability (autosomal dominant) [Intellectual Disability and Autism GCEP, 09/01/2020]"	Concordant	Yes
+POGZ	Definitive (score=35.4)	Score 1S	"Definitive: Intellectual disability microcephaly-strabismus behavioral abnormalities syndrome (autosomal dominant) [Intellectual Disability and Autism GCEP, 03/09/2020]"	Concordant	Yes
+MED13L	Definitive (score=35)	Score 1S	"Definitive: Syndromic Intellectual Disability (autosomal dominant) [Intellectual Disability and Autism GCEP, 04/21/2021]"	Concordant	Yes
+ARID1B	Definitive (score=34.75)	Score 1S	"Definitive: Coffin-Siris syndrome (autosomal dominant) [Intellectual Disability and Autism GCEP, 12/04/2019]"	Concordant	Yes
+PTCHD1-AS	"Definitive (score=33.6) – PTCHD1-AS 
+
+Entire PTCHD1 locus (PTCHD1 + PTCHD1-AS) is definitive"	Score 2	NA 	Discordant	NA
+CTNNB1	Definitive (score=32.75)	Score 1	"Definitive: Severe intellectual disability-progressive spastic diplegia syndrome (autosomal dominant) [Intellectual Disability and Autism GCEP, 02/03/2021]"	Concordant	Yes
+NAA15	Definitive (score=31.7)	Score 1S	"Definitive: Syndromic intellectual disability (autosomal dominant) [Intellectual Disability and Autism GCEP, 01/05/2022]"	Concordant	Yes
+CREBBP	Definitive (score=31.35)	Score 1S	"Definitive: Rubinstein-Taybi syndrome (autosomal dominant) [Intellectual Disability and Autism GCEP, 04/27/2018]"	Concordant	Yes
+SLC6A1	Definitive (score=31.15)	Score 1S	NA	Concordant	NA
+DEAF1	Definitive - Autosomal dominant (score=30.9)	Score 1S	NA	Concordant	NA
+DEAF1	Limited - Autosomal recessive (score=3.4)	Score 1S	NA	Concordant	NA
+GRIN2B	Definitive (score=29.65)	Score 1	"Definitive: Complex NDD (autosomal dominant) [Epilepsy GCEP, 03/19/2019]"	Concordant	Yes
+ASXL3	Definitive (score=28.85)	Score 1S	"Definitive: Syndromic intellectual disability (autosomal dominant) [Intellectual Disability and Autism GCEP, 10/06/2021]"	Concordant	Yes
+SETD5	Definitive (score=28.05)	Score 1S	"Definitive: Syndromic Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 07/27/2023]"	Concordant	Yes
+TRIP12	Definitive (score=27)	Score 1S	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 04/05/2022]"	Concordant	Yes
+CHD2	Definitive (score=25)	Score 1S	"Definitive: Complex NDD (autosomal dominant) [Epilepsy GCEP, 07/14/2022]"	Concordant	Yes
+SATB2	Definitive (score=24.95)	Score 2S	"Definitive: SATB2-associated disorder (autosomal dominant) [Intellectual Disability and Autism GCEP, 09/15/2020]"	Discordant	Yes
+TANC2	Definitive (score=24.95)	Score 1S	"Definitive: intellectual developmental disorder with autistic features and language delay, with or without seizures (autosomal dominant) [Intellectual Disability and Autism GCEP, 09/07/2022]"	Concordant	Yes
+CTTNBP2	Definitive (score=24.8)	Score 2	NA	Discordant	NA
+NCKAP1	Definitive (score=24.75)	Score 1	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 12/06/2023]"	Concordant	Yes
+EP300	Definitive (score=23.6)	Score 1S	"Definitive: Rubinstein-Taybi syndrome due to EP300 haploinsufficiency (autosomal dominant) [Syndromic Disorders GCEP, 05/20/2022]"	Concordant	Yes
+NSD1	Definitive (score=22.9)	Score 1S	"Definitive: Sotos Syndrome (autosomal dominant) [Intellectual Disability and Autism GCEP, 10/26/2018]"	Concordant	Yes
+ANKRD11	Definitive (score=22.6)	Score 1S	"Definitive: KBG syndrome (autosomal dominant) [Intellectual Disability and Autism GCEP, 11/26/2019]"	Concordant	Yes
+MYT1L	Definitive (score=20.35)	Score 1	"Definitive: Syndromic intellectual disability (autosomal dominant) [Intellectual Disability and Autism GCEP, 08/18/2020]"	Concordant	Yes
+DYRK1A	Definitive (score=20.2)	Score 1S	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 07/15/2020]"	Concordant	Yes
+MARK2	Definitive (score=20.05)	Score 2	NA	Discordant	NA
+STXBP1	Definitive (score=19.1)	Score 1S	"Definitive: Developmental and epileptic encephalopathy (autosomal dominant) [Epilepsy GCEP, 10/20/2017]"	Concordant	Yes
+CIC	Definitive (score=18.7)	Score 1	NA	Concordant	NA
+KMT2A	Definitive (score=18.55)	Score 1S	"Definitive: Wiedemann-Steiner syndrome (autosomal dominant) [Syndromic Disorders GCEP, 05/22/2022]"	Concordant	Yes
+SHANK2	Definitive (score=18.55)	Score 1	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 07/17/2019]"	Concordant	Yes
+UBR5	Definitive (score=18.45)	Score 2	NA	Discordant	NA
+CUL3	Definitive (score=18.4)	Score 1	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 01/16/2021]
+
+Definitive: Pseudohypoaldosteronism type 2E (autosomal dominant) [Tubulopathy GCEP, 12/01/2021]"	Concordant	Yes
+DIP2A	Definitive (score=18.2)	Score 1	NA	Concordant	NA
+SOX5	Definitive (score=17.6)	Score 1S	"Definitive: Lamb-Shaffer syndrome (autosomal dominant) [Intellectual Disability and Autism GCEP, 01/27/2022]"	Concordant	Yes
+GIGYF1	Definitive (score=17.25)	Score 1	NA	Concordant	NA
+WDFY3	Definitive (score=17.2)	Score 1	"Definitive: Syndromic intellectual disability (autosomal dominant) [Intellectual Disability and Autism GCEP, 01/19/2022]"	Concordant	Yes
+TSC1	Definitive (score=17.1)	Score 1S	"Definitive: Tuberous Sclerosis Complex (autosomal dominant) [General Gene Curation GCEP, 01/23/2019]"	Concordant	Yes
+RFX3	Definitive (score=15.95)	Score 1	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 04/03/2024]"	Concordant	NA
+DNMT3A	Definitive (score=15.9)	Score 1S	"Definitive: Tatton-Brown-Rahman overgrowth syndrome (autosomal dominant) [Intellectual Disability and Autism GCEP, 06/08/2023]
+
+Limited: Heyn-Sproul-Jackson syndrome (autosomal dominant) [Intellectual Disability and Autism GCEP, 06/08/2023]"	Concordant	Yes
+CSDE1	Definitive (score=15.55)	Score 1S	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 11/21/2023]"	Concordant 	NA
+NIPBL	Definitive (score=15.3)	Score 1S	"Definitive: Cornelia de Lange Syndrome (autosomal dominant) [Intellectual Disability and Autism GCEP, 06/28/2023]"	Concordant	Yes
+WAC	Definitive (score=15)	Score 1S	"Definitive: DeSanto-Shinawi syndrome (autosomal dominant) [Intellectual Disability and Autism GCEP, 11/10/2022]"	Concordant	Yes
+SHANK1	Definitive (score=14.65)	Score 2	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 03/20/2024]"	Discordant	NA
+AHDC1	Definitive (score=14.25)	Score 1S	"Definitive: AHDC1-related intellectual disability - obstructive sleep apnea - mild dysmorphism syndrome (autosomal dominant) [Intellectual Disability and Autism GCEP, 11/16/2021]"	Concordant	Yes
+ARHGEF9	Definitive (score=14.2)	Score 1S	"Moderate: X-linked Complex NDD (X-linked) [Intellectual Disability and Autism GCEP, 11/21/2019]"	Concordant	Yes
+ASH1L	Definitive (score=14.15)	Score 1	"Definitive: syndromic complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 02/23/2023]"	Concordant	Yes
+KMT2C	Definitive (score=14.1)	Score 1S	"Definitive: Syndromic intellectual disability (autosomal dominant) [Intellectual Disability and Autism GCEP, 03/02/2022]"	Concordant	Yes
+KMT5B	Definitive (score=14.05)	Score 1	"Definitive: Complex NDD (autosomal dominant) [Syndromic Disorders GCEP, 04/08/2022]"	Concordant	Yes
+MSL3	Strong (score=13.9)	Score 1S	"Definitive: Basilicata-Akhtar syndrome (X-linked) [Intellectual Disability and Autism GCEP, 01/18/2022]"	Concordant	No
+ARX	Definitive (score=13.8)	Score 1S	"Definitive: Developmental and Epileptic Encephalopathy (X-linked) [Epilepsy GCEP, 06/04/2019]
+
+Definitive: X-linked Complex NDD (X-linked) [Intellectual Disability and Autism GCEP, 12/01/2020]"	Concordant	No
+CNTN6	LoF curation: Definitive  (score=13.8); 	Score 2	"Disputed: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 09/20/2022]"	Discordant	Yes
+CNTN6	Duplication curation: Limited (score=1) 	Score 2	"Disputed: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 09/20/2022]"	Discordant	Yes
+KDM6B	Definitive (score=13.75)	Score 1	"Definitive: Syndromic intellectual disability (autosomal dominant) [Intellectual Disability and Autism GCEP, 01/19/2022]
+
+Limited: Syndromic intellectual disability (autosomal recessive) [Intellectual Disability and Autism GCEP, 02/18/2022]"	Concordant	Yes
+DSCAM	Definitive (score=13.5)	Score 1	NA	Concordant	NA
+TCF4	Definitive (score=13.5)	Score 1S	"Definitive: Pitt-Hopkins syndrome (autosomal dominant) [Rett and Angelman-like Disorders GCEP, 05/02/2018]"	Concordant	Yes
+EHMT1	Definitive (score=13.5)	Score 1S	"Definitive: Kleefstra syndrome (autosomal dominant) [Intellectual Disability and Autism GCEP, 06/07/2018]"	Concordant	Yes
+DYNC1H1	Definitive (score=13.45)	Score 1	"Definitive: neuronopathy, distal hereditary motor (autosomal dominant) [Charcot-Marie-Tooth GCEP, 07/12/2023]"	Concordant	No
+TLK2	Definitive (score=13.25)	Score 1S	NA	Concordant	NA
+BRAF	Definitive (score=13.05)	Score 1S	"Definitive: Cardiofaciocutaneous syndrome (autosomal dominant) [RASopathy GCEP, 07/24/2018]
+
+Moderate: Noonan syndrome (autosomal dominant) [RASopathy GCEP, 07/24/2018]
+
+Limited: Noonan syndrome with multiple lentigines (autosomal dominant) [RASopathy GCEP, 07/24/2018]"	Concordant	Yes
+CACNA1D	Definitive (score=12.7)	Score 2	"Moderate: Sinoatrial node dysfunction and deafness (autosomal recessive) [Hearing Loss GCEP, 05/01/2018]"	Discordant	Yes
+RAI1	Definitive (score=12.25)	Score 1S	"Definitive: Smith-Magenis syndrome (autosomal dominant) [Intellectual Disability and Autism GCEP, 09/05/2018]"	Concordant	Yes
+GRIA2	Definitive (score=12)	Score 1	"Definitive: Neurodevelopmental disorder with language impairment and behavioral abnormalities (autosomal dominant) [Syndromic Disorders GCEP, 05/30/2023]"	Concordant	Yes
+NLGN4X	Definitive (score=12)	Score 1	"Definitive: X-linked Complex NDD (X-linked) [Intellectual Disability and Autism GCEP, 08/01/2018]"	Concordant	Yes
+RIMS1	Moderate (score=11.35)	Score 1	NA	Discordant	NA
+KCNQ3	Moderate (score=11.1)	Score 1	"Definitive: Complex NDD (autosomal dominant) [Epilepsy GCEP, 08/01/2023] 
+
+Moderate: Self-limited familial neonatal epilepsy (autosomal dominant) [Epilepsy GCEP, 08/01/2023] 
+
+Limited: Developmental and epileptic encephalopathy (autosomal recessive) [Epilepsy GCEP, 08/01/2023]"	Discordant	NA
+NRXN3	Moderate (score=11.1)	Score 1	NA	Discordant	NA
+SON	Moderate (score=11)	Score 1S	"Definitive: ZTTK syndrome (autosomal dominant) [Intellectual Disability and Autism GCEP, 09/24/2023]"	Discordant	Yes
+TBR1	Moderate (score=10.85)	Score 1	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 03/25/2020]"	Discordant	Yes
+ANK2	Moderate (score=10.8)	Score 1	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 12/15/2020]
+
+Disputed: Brugada syndrome (autosomal dominant) [Brugada Syndrome GCEP, 11/21/2017]
+
+Disputed: Long QT syndrome (autosomal dominant) [Long QT Syndrome GCEP, 12/15/2020]
+
+Disputed: Catecholaminergic polymorphic ventricular tachycardia (autosomal dominant) [Catecholaminergic Polymorphic Ventricular Tachycardia GCEP, 01/20/2021]"	Discordant	Yes
+ZNF462	Moderate (score=10.6)	Score 1S	"Definitive: Weiss-Kruszka syndrome (autosomal dominant) [Syndromic Disorders GCEP, 08/25/2020]"	Discordant	Yes
+CTCF	Moderate (score=10.45)	Score 1S	"Definitive: Syndromic intellectual disability (autosomal dominant) [Intellectual Disability and Autism GCEP, 07/21/2021]"	Discordant	Yes
+DDX53	Moderate (score=10.2)	Score 2	NA	Concordant	NA
+SMARCC2	Moderate (score=10)	Score 1S	"Definitive: Coffin-Siris syndrome (autosomal dominant) [Intellectual Disability and Autism GCEP, 02/02/2022]"	Discordant	Yes
+MEF2C	Moderate (score=9.85)	Score 1S	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 02/06/2019]"	Discordant	Yes
+EBF3	Moderate (score=9.75)	Score 1S	"Definitive: Hypotonia, ataxia, and delayed development syndrome (autosomal dominant) [Intellectual Disability and Autism GCEP, 05/16/2023]"	Discordant	Yes
+PHF3	Moderate (score=9.75)	Score 1	NA	Discordant	NA
+CASZ1	Moderate (score=9.55)	Score 1	"Limited: Congenital heart disease (autosomal dominant) [Congenital Heart Disease GCEP, 08/12/2024] "	Discordant	NA
+PHF12	Moderate (score=9.5)	Score 1	NA	Discordant	NA
+MED13	Moderate (score=9.3)	Score 1S	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 05/17/2022]"	Discordant	Yes
+NF1	Moderate (score=9.3)	Score 1S	"Definitive: Neurofibromatosis Type 1 (autosomal dominant) [General Gene Curation GCEP, 03/05/2019]
+
+No Known Disease Relationship: Familial ovarian cancer (autosomal dominant) [Breast/Ovarian Cancer GCEP, 02/22/2017]"	Discordant	No
+ATRX	Moderate (score=9.25)	Score 1	"Definitive: ATR-X-related syndrome (X-linked) [Intellectual Disability and Autism GCEP, 09/29/2021]"	Discordant	No
+BCL11A	Moderate (score=9.15)	Score 1S	"Definitive: Dias-Logan syndrome (autosomal dominant) [Intellectual Disability and Autism GCEP, 09/13/2020]"	Discordant	Yes
+TBL1XR1	Moderate (score=9.15)	Score 1	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 07/07/2020]"	Discordant	Yes
+IRF2BPL	Moderate (score=9)	Score 1S	"Definitive: Neurodegenerative disease (autosomal dominant) [Epilepsy GCEP, 09/05/2023]"	Discordant	No
+AFF2	Moderate (score=8.7)	Score 1	"Definitive: Non-syndromic X-linked intellectual disability (X-linked) [Intellectual Disability and Autism GCEP, 10/20/2017]"	Discordant	Yes
+CELF4	Moderate (score=8.5)	Score 1	NA	Discordant	NA
+PPP2R5D	Moderate (score=8.5)	Score 1S	"Definitive: Syndromic intellectual disability (autosomal dominant) [Intellectual Disability and Autism GCEP, 01/12/2022]"	Discordant	Yes
+PSMD6	Moderate (score=8.3)	Score 1	NA	Discordant	NA
+RORB	Moderate (score=8.25)	Score 1S	"Moderate: Epilepsy (autosomal dominant) [Epilepsy GCEP, 09/21/2022]"	Discordant	No
+TAOK1	Moderate (score=8.25)	Score 1S	"Definitive: Syndromic intellectual disability (autosomal dominant) [Intellectual Disability and Autism GCEP, 08/04/2021]"	Discordant	Yes
+CHD7	Moderate (score=8.1)	Score 1S	"Definitive: CHARGE syndrome (autosomal dominant) [Hearing Loss GCEP, 08/22/2018, Contributors: [Intellectual Disability and Autism GCEP]"	Discordant	No
+SPAST	Moderate (score=8.1)	Score 1	NA	Discordant	NA
+NR4A2	Moderate (score=7.75)	Score 1	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 05/05/2021]"	Discordant	Yes
+BRSK2	Moderate (score=7.7)	Score 1S	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 02/03/2021]"	Discordant	Yes
+CACNA1E	Moderate (score=7.5)	Score 1	"Definitive: Developmental and epileptic encephalopathy (autosomal dominant) [Intellectual Disability and Autism GCEP, 12/06/2023]"	Discordant	Yes
+MEIS2	Moderate (score=7.5)	Score 1S	"Definitive: Syndromic Intellectual disability (autosomal dominant) [Intellectual Disability and Autism GCEP, 04/06/2022]"	Discordant	Yes
+BAZ2B	Moderate (score=7.35)	Score 1	"Limited: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 10/19/2022]"	Discordant	Yes
+ANK3	Moderate (score=7.3)	Score 1	"Moderate: Intellectual disability (autosomal recessive) [Intellectual Disability and Autism GCEP, 10/07/2020]"	Discordant	Yes
+RELN	Disputed (score=7.2); contradictory evidence	Score 1	"Definitive: Lissencephaly with cerebellar hypoplasia (autosomal recessive) [Brain Malformations GCEP, 12/04/2023]
+
+Disputed: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 03/17/2021]"	Discordant	No
+TRPC6	Moderate (score=7.2)	Score 2	NA	Concordant	NA
+NRXN2	Moderate (score=7)	Score 1	NA	Discordant	NA
+PER2	Moderate (score=6.75)	Score 2	NA	Concordant	NA
+NLGN3	Moderate (score=6.5)	Score 1	"Moderate: X-linked Complex NDD (X-linked) [Intellectual Disability and Autism GCEP, 08/15/2018]"	Discordant	Yes
+RERE	Moderate (score=6.5)	Score 1S	"Definitive: Complex NDD with or without congenital anomalies (autosomal dominant) [Intellectual Disability and Autism GCEP, 03/21/2023]"	Discordant	Yes
+TNPO3	Moderate (score=6.35)	Score 3	"Moderate: Muscular dystrophy, limb-girdle, autosomal dominant (autosomal dominant) [Limb Girdle Muscular Dystrophy GCEP, 03/30/2023]"	Discordant	No
+VPS13B	Moderate (score=6.35)	Score 1S	"Definitive: Cohen syndrome (autosomal recessive) [Intellectual Disability and Autism GCEP, 11/13/2018]"	Discordant	Yes
+CSNK2A1	Moderate (score=6.2)	Score 1S	"Definitive: Syndromic intellectual disability (autosomal dominant) [Intellectual Disability and Autism GCEP, 06/15/2022]"	Discordant	Yes
+OFD1	Limited (score=6)	Score 2	"Definitive: Ciliopathy (X-linked) [Intellectual Disability and Autism GCEP, 04/27/2018]"	Discordant	Yes (Rarely)
+PSMD12	Limited (score=6)	Score 1S	"Definitive: Stankiewicz-Isidor syndrome (autosomal dominant) [Intellectual Disability and Autism GCEP, 03/05/2024]"	Discordant	Yes
+PAX5	Limited (score=5.75)	Score 1	"Moderate: PAX5-related B lymphopenia and autism spectrum disorder (autosomal recessive) [Antibody Deficiencies GCEP, 02/28/2023]"	Discordant	Yes
+FOXG1	Limited (score=5.7)	Score 1S	"Definitive: FOXG1 Disorder (autosomal dominant) [Rett and Angelman-like Disorders GCEP, 07/02/2018]"	Discordant	Yes
+CNOT3	Limited (score=5.6)	Score 1S	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 08/24/2021]"	Discordant	Yes
+TBCEL	Limited (score=5.6)	Score 1	NA	Discordant	NA
+CAPRIN1	Limited (score=5.5)	Score 1	NA	Discordant	NA
+PHF21A	Limited (score=5.35)	Score 1S	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 04/06/2022]"	Discordant	Yes
+MBOAT7	Limited (score=5.25)	Score 1S	"Definitive: Complex NDD (autosomal recessive) [Intellectual Disability and Autism GCEP, 11/21/2023] "	Discordant	NA
+PTCHD1	"Limited (score=5.2)
+*Note this is strictly PTCHD1-ASD association
+
+Entire PTCHD1 locus (PTCHD1 + PTCHD1-AS) is definitive"	Score 1	"Definitive: Non-syndromic X-linked intellectual disability (X-linked) [Intellectual Disability and Autism GCEP, 08/15/2018]"	Discordant	Yes
+APBB1	Limited (score=4.95)	Score 2	NA	Discordant	NA
+SRPRA	Limited (score=4.75)	Score 1	NA	Discordant	NA
+DISC1	Limited (score=4.6)	Score 2	NA	Discordant	NA
+HNRNPR	Limited (score=4.6)	Score 2S	Definitive: Syndromic Intellectual Disability (autosomal dominant) [Intellectual Disability and Autism GCEP; 05/03/2023] 	Discordant	No
+ZMYND8	Limited (score=4.5)	Score 1S	NA	Discordant	NA
+SETD1A	Limited (score=4.35)	Score 1S	NA	Discordant	NA
+PHF2	Limited (score=4.25)	Score 1	NA	Discordant	NA
+SKI	Limited (score=4.25)	Score 1	"Definitive: Shprintzen-Goldberg syndrome (autosomal dominant) [Craniofacial Malformations GCEP, 10/29/2020]"	Discordant	No
+ZNF711	Limited (score=4.25)	Score 2	"Definitive: X-linked complex neurodevelopmental disorder (X-linked) [Intellectual Disability and Autism GCEP, 09/22/2022]"	Discordant	Yes (Rarely)
+KATNAL2	Limited (score=4.1)	Score 1	"Disputed: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 05/20/2020]"	Discordant	Yes
+LDB1	Limited (score=4)	Score 1	NA	Discordant	NA
+SET	Limited (score=4)	Score 2	"Definitive: Intellectual Disability (autosomal dominant) [Intellectual Disability and Autism, GCEP, 1/17/2021]"	Discordant	Yes (Rarely)
+CACNA2D3	Limited (score=3.75)	Score 1	NA	Discordant	NA
+DMPK	Limited (score=3.75)	Score 1S	NA	Discordant	NA
+HDAC8	Limited (score=3.7)	Score S	"Definitive: Cornelia de Lange syndrome (X-Linked) [Intellectual Disability and Autism GCEP, 09/11/2018]"	Discordant	Yes
+EIF4E	Limited (score=3.6)	Score 2	NA	Discordant	NA
+GRIN2A	Limited (score=3.6)	Score 1	"Definitive: Complex NDD (autosomal dominant) [Epilepsy GCEP, 07/16/2019]"	Discordant	No
+MIB1	Limited (score=3.6)	Score 2	"No Known Disease Relationship (Animal Model Only): Dilated cardiomyopathy (autosomal dominant) [Dilated Cardiomyopathy GCEP, 09/04/2020]"	Discordant	No 
+TRAF7	Limited (score=3.5)	Score 1S	"Definitive: Syndromic complex neurodevelopmental disorder (autosomal dominant) [Intellectual Disability and Autism GCEP, 09/06/2023]"	Discordant	NA
+AGAP2	Limited (score=3.25)	Score 2	NA	Discordant	NA
+ANP32A	Limited (score=3.1)	Score 1	NA	Discordant	NA
+BCKDK	Limited (score=3.1)	Score 1	"Definitive: Branched-chain keto acid dehydrogenase kinase deficiency (autosomal recessive) [Aminoacidopathy GCEP, 01/18/2019]"	Discordant	Yes
+NCOA1	Limited (score=3)	Score 1	NA	Discordant	NA
+NLGN2	Limited (score=3)	Score 1	NA	Discordant	NA
+KIF1A	Limited (score=2.95)	Score 2S	"Definitive: Syndromic intellectual disability (autosomal dominant) [Intellectual Disability and Autism GCEP, 09/24/2020]"	Discordant	Yes
+NACC1	Limited (score=2.85)	Score 1S	"Definitive: NACC1-related neurodevelopmental disorder with epilepsy, cataracts and episodic irritability (autosomal dominant) [Intellectual Disability and Autism GCEP, 10/04/2023]"	Discordant	No
+DLGAP2	Limited (score=2.8)	Score 2	"Limited: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 10/14/2021]"	Discordant	Yes
+KDM5B	Limited (score=2.8)	Score 1	"Moderate: Intellectual disability (autosomal recessive) [Intellectual Disability and Autism GCEP, 03/01/2022]"	Discordant	No
+PIGA	Limited (score=2.75)	No score provided	"Definitive: Complex NDD (X-linked) [Epilepsy GCEP, 04/16/2024]"	Discordant	NA
+ASTN2	Limited (score=2.5)	Score 2	NA	Discordant	NA
+SATB1	Limited (score=2.5)	Score 1S	"Definitive: Complex NND (autosomal dominant) [Intellectual Disability and Autism GCEP, 09/17/2024]"	Discordant	NA
+DLG4	Limited (score=2.45)	Score 1	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 01/17/2023]"	Discordant	Yes
+ALDH5A1	Limited (score=2.35)	Score 1S	"Definitive: Succinic semialdehyde dehydrogenase deficiency (autosomal recessive) [Intellectual Disability and Autism GCEP, 04/27/2021]"	Discordant	Yes
+SYN1	Limited (score=2.35)	Score 1	"Definitive: X-linked Complex NDD (X-linked) [Intellectual Disability and Autism GCEP, 04/05/2023]"	Discordant	NA
+CAMTA2	Limited (score=2.1)	Score 1	NA	Discordant	NA
+GNAI1	Limited (score=2.1)	Score 1S	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 03/17/2021]"	Discordant	Yes
+TCF7L2	Limited (score=2.1)	Score 1	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 12/15/2021]"	Discordant	Yes
+TEK	Limited (score=2)	Score 1	"Definitive: TEK-related primary glaucoma (autosomal dominant) [Glaucoma and Neuro-Ophthalmology GCEP, 08/18/2022]"	Discordant	No
+NOTCH3	Limited (score=1.75)	No score provided	"Disputed: Pulmonary arterial hypertension (autosomal dominant) [Pulmonary Hypertension GCEP, 11/03/2022]"	Discordant	No
+UBR1	Limited (score=1.6)	Score 1	NA	Discordant	NA
+EIF3G	Limited (score=1.5)	Score 1	NA	Discordant	NA
+KDM3B	Limited (score=1.5)	Score 1S	"Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 09/17/2024]"	Discordant	NA
+PPP1R9B	Limited (score=1.5)	Score 1	NA	Discordant	NA
+RBM10	Limited (score=1.5)	No score provided	NA	Discordant	NA
+ABCE1	Limited (score=1.4)	Score 1	NA	Discordant	NA
+PACS1	Limited (score=1.35)	Score 1S	"Definitive: Schuurs-Hoeijmakers syndrome (autosomal dominant) [Intellectual Disability and Autism GCEP, 06/26/2020]"	Discordant	Yes
+EPOR	Limited (score=1.3)	No score provided	NA	Discordant	NA
+ARF3	Limited (score=1.25)	Score 1	NA	Discordant	NA
+HDLBP	Limited (score=1.25)	Score 1	NA	Discordant	NA
+LRRC4C	Limited (score=1.25)	Score 1	NA	Discordant	NA
+KANSL1	Limited (score=1.1)	Score 1S	"Definitive: Koolen-de Vries syndrome (autosomal dominant) [Intellectual Disability and Autism GCEP, 02/18/2022]"	Discordant	Yes
+PCDH11X	Limited (score=1.1)	Score 2	NA	Discordant	NA
+ACTB	Limited (score=1)	Score 1S	"Definitive: Baraitser-Winter cerebrofrontofacial syndrome (autosomal dominant) [Brain Malformations GCEP, 10/26/2021]
+
+Moderate: ACTB-associated syndromic thrombocytopenia (autosomal dominant) [Hemostasis Thrombosis GCEP, 05/25/2022]"	Discordant	No
+HAPSTR1 (C16orf72)	Limited (score=1)	No score provided	NA	Discordant	NA
+DPYSL2	Limited (score=1)	Score 1	NA	Discordant	NA
+ELAVL3	Limited (score=1)	Score 1	NA	Discordant	NA
+F12	Limited (score=1)	No score provided	"Definitive: Congenital Factor XII Deficiency (autosomal recessive) [Hemostasis Thrombosis GCEP, 01/22/2020]
+
+Moderate: Hereditary Angioedema Type 3 (autosomal dominant) [Hemostasis Thrombosis GCEP, 05/25/2022]"	Discordant	No
+POMGNT1	Limited (score=1)	Score 1S	"Strong: Myopathy caused by variation in POMGNT1 (autosomal recessive) [Limb Girdle Muscular Dystrophy GCEP, 06/21/2023]"	Discordant	No
+PPP5C	Limited (score=1)	Score 1	NA	Discordant	NA
+TBCK	Limited (score=1)	Score 1S	"Definitive: Syndromic complex NDD (autosomal recessive) [Intellectual Disability and Autism GCEP, 02/07/2024]"	Discordant	No
+RTL9	Limited (score=0.85)	No score provided	NA	Discordant	NA
+SOS2	Limited (score=0.85)	Score 1	Definitive: Noonan syndrome (autosomal dominant) [RASopathy GCEP; 08/27/2020]	Discordant	No
+CORO1A	Limited (score=0.7)	Score 1	"Definitive: severe combined immunodeficiency due to CORO1A deficiency (autosomal recessive) [SCID-CID GCEP, 06/03/2022]"	Discordant	No
+CDC42	Limited (score=0.5)	No score provided	"Definitive: macrothrombocytopenia-lymphedema-developmental delay-facial dysmorphism-camptodactyly syndrome (autosomal dominant) [Hemostasis Thrombosis GCEP, 10/27/2021]"	Discordant	No
+MYO1C	Limited (score=0.5)	No score provided	"Disputed: Nonsyndromic genetic hearing loss (autosomal dominant) [Hearing Loss GCEP, 06/26/2018]
+
+Disputed: Autosomal dominant nonsyndromic hearing loss (autosomal dominant) [Hearing Loss GCEP, 06/26/2018]"	Discordant	No
+TM9SF4	Limited (score=0.5)	Score 1	NA	Discordant	NA
+VEZF1	Limited (score=0.5)	Score 1	NA	Discordant	NA
+FAM47A	Limited (score=0.45)	Score 2	NA	Discordant	NA
+GRIN2C	Limited (score=0.4)	No score provided	NA	Discordant	NA
+ADSL	Limited (score=0.35)	Score 1S	"Definitive: adenylosuccinate lyase deficiency (autosomal recessive) [Intellectual Disability and Autism GCEP, 09/07/2020]"	Discordant	Yes
+GABRB2	Limited (score=0.3)	Score 1	Definitive: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP; 01/16/2024]	Discordant	NA
+GFAP	Limited (score=0.3)	Score 1	"Definitive: Alexander disease (autosomal dominant) [Leukodystrophy and Leukoencephalopathy GCEP, 01/10/2024]"	Discordant	No
+MKX	Limited (score=0.3)	Score 1	NA	Discordant	NA
+SORCS1	Limited (score=0.25)	No score provided	NA	Discordant	NA
+AP2S1	Limited (score=0.2)	Score 1	NA	Discordant	NA
+ASB9	Limited (score=0.1)	No score provided	NA	Discordant	NA
+HTR2C	Limited (score=0.1)	No score provided	NA	Discordant	NA
+NUP155	Limited (score=0.1)	Score 1	NA	Discordant	NA
+ASB11	No scorable evidence (score=0)	No score provided	NA	Concordant 	NA
+FAM221A	No scorable evidence (score=0)	No score provided	NA	Concordant 	NA
+GRAMD4	No scorable evidence (score=0)	No score provided	NA	Concordant 	NA
+GRIN2D	No scorable evidence (score=0)	No score provided	"Definitive: Complex NDD (autosomal dominant) [Epilepsy GCEP, 03/15/2022]"	Concordant 	Yes
+MAP1A	No scorable evidence (score=0)	Score 1	NA	Discordant 	NA
+NDUFS3	No scorable evidence (score=0)	No score provided	"Moderate: Leigh syndrome (autosomal recessive) [Mitochondrial Diseases GCEP, 06/20/2019]"	Concordant 	No
+NPIPA1	No scorable evidence (score=0)	No score provided	NA	Concordant 	NA
+RAB4B	No scorable evidence (score=0)	No score provided	NA	Concordant 	NA
+RPL34	No scorable evidence (score=0)	No score provided	NA	Concordant 	NA
+UBE2G2	No scorable evidence (score=0)	No score provided	NA	Concordant 	NA
+CNTNAP2	Refuted	Score 2S	"Definitive: Complex NDD (autosomal recessive) [Epilepsy GCEP, 06/15/2021]
+
+Disputed: Complex NDD (autosomal dominant) [Intellectual Disability and Autism GCEP, 03/16/2021]"	Discordant 	Yes
