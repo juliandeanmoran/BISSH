@@ -61,7 +61,7 @@ u5: C_alpha_i --> C_alpha_j
 	+ -1 if negative
 	+ 0 if 0
 ```
-|C_alpha_i - C_alpha_k|
+|C_alpha_i - C_alpha_j|
 cos(theta_12)
 cos(theta_34)
 cos(theta_15)
