@@ -1,0 +1,2 @@
+RMSD=47.249104
+Aligned_atoms=2855
