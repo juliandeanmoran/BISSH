@@ -4,3 +4,4 @@ jupyter-*
 ipython/
 .env
 *.ipynb_checkpoints
+results/test_pymol_align/pymol_alignments/
