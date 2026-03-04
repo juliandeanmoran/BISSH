@@ -6,3 +6,4 @@ ipython/
 *.ipynb_checkpoints
 results/test_pymol_align/pymol_alignments/
 results/test_tm-align/tm_alignments
+*__pycache__
