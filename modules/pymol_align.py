@@ -70,7 +70,7 @@ def get_alphafold_structures(
     api_endpoint: str,
     wait_time: float = 1.0,
     overwrite: bool = False,
-) -> pl.DataFrame:
+) -> tuple[pl.DataFrame, str, str]:
     
     # Initialize column structures
     col_query_structure_file_name = col_query_uniprot_id.replace("_id", "_AF_file")
