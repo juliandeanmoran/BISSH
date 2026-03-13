@@ -26,10 +26,12 @@ def get_alphafold_structure(
 ) -> str | None:
     
     # Check if file already exists:
-    out_file = f"{out_dir}/{uniprot_id}_AF.pdb"
+    out_file = out_dir / f"{uniprot_id}_AF.pdb"
     if os.path.exists(out_file) and not overwrite:
         logger.warning(f"For {uniprot_id}, ALphaFold structure is already on file at {out_file}.")
-        return out_file
+        return str(out_file)
+    else:
+        out_file = str(out_file)
 
     time.sleep(wait_time)
     url = f"{api_endpoint}/{uniprot_id}"
@@ -78,6 +80,9 @@ def get_alphafold_structures(
     col_query_structure_file, col_target_structure_file = [], []
 
     for i in range(len(df_uniprot_ids)):
+        
+        logger.info("============================================================")
+        logger.info("Query protein:")
 
         # Query proteins
         query_protein_structure_file = get_alphafold_structure(
@@ -88,6 +93,9 @@ def get_alphafold_structures(
             overwrite=overwrite
         )
         col_query_structure_file.append(query_protein_structure_file)
+
+        logger.info("")
+        logger.info("Target protein:")
 
         # Target proteins
         target_protein_structure_file = get_alphafold_structure(
@@ -104,7 +112,8 @@ def get_alphafold_structures(
     ).with_columns(
         pl.Series(col_target_structure_file_name, col_target_structure_file)
     )
-    
+
+    logger.info("============================================================")
     return df, col_query_structure_file_name, col_target_structure_file_name
 
 
