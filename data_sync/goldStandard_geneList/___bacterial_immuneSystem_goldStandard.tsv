@@ -1,1 +1,4 @@
-Gene_name	Refseq_NCBI_accession	Uniprot_accession	Bacterial_system	Data_source	Notes
+Gene_name	Refseq_NCBI_accession	Uniprot_or_uniparc_accession	Bacterial_species	Bacterial_system	Data_source	Data_source_notes
+Cas1	NA	A0A1Q4PK74	Escherichia coli	CRISPR Cas	2020_Bernheim.pdf	Review
+Cas2	NA	P45956	Escherichia coli	CRISPR Cas	2020_Bernheim.pdf	Review
+Cas9	NA	Q99ZW2	Streptococcus pyogenes serotype M1	CRISPR Cas	2020_Bernheim.pdf	Review
