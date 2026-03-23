@@ -1,0 +1,10 @@
+Gene_name	Refseq_NCBI_accession	Uniprot_or_uniparc_accession	Bacterial_species	Bacterial_system	Data_source	Data_source_notes	Functional_assay	Cloned_into_plasmid	Did_structural_validation?	Function_in_bacteria
+Cas1	NA	A0A1Q4PK74	Escherichia coli	CRISPR Cas	2020_Bernheim.pdf	Review	NA	E. coli	TRUE	Antiphage
+Cas2	NA	P45956	Escherichia coli	CRISPR Cas	2020_Bernheim.pdf	Review	NA		FALSE	Abortive infection
+Cas9	NA	Q99ZW2	Streptococcus pyogenes serotype M1	CRISPR Cas	2020_Bernheim.pdf	Review	NA		FALSE	Plasmid defense
+			"# If coming from same paper, please make sure is same organism"						NA	Transposon defense
+									FALSE	Extracellular infection signalling; Intracellular pathogen sensing
+									FALSE	Pore-forming
+									NA	Transmembrane domain
+									FALSE	Intracellular pathogen sensing
+									FALSE	Antiphage; Nuclease
