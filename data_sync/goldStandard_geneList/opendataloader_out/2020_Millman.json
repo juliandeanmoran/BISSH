@@ -1,0 +1,5069 @@
+{
+  "file name" : "2020_Millman.pdf",
+  "number of pages" : 11,
+  "author" : "Adi Millman",
+  "title" : "Diversity and classification of cyclic-oligonucleotide-based anti-phage signalling systems",
+  "creation date" : "D:20201112102646+05'30'",
+  "modification date" : "D:20241210141112-05'00'",
+  "kids" : [ {
+    "type" : "paragraph",
+    "id" : 204,
+    "page number" : 1,
+    "bounding box" : [ 50.298, 738.856, 137.178, 764.696 ],
+    "font" : "Whitney-Medium",
+    "font size" : 20.0,
+    "text color" : "[1.0, 1.0, 1.0]",
+    "content" : "AnAlysis"
+  }, {
+    "type" : "paragraph",
+    "id" : 205,
+    "page number" : 1,
+    "bounding box" : [ 51.1, 728.483, 203.723, 738.811 ],
+    "font" : "Whitney-Semibold2",
+    "font size" : 8.0,
+    "text color" : "[1.0, 1.0, 1.0]",
+    "content" : "https://doi.org/10.1038/s41564-020-0777-y"
+  }, {
+    "type" : "heading",
+    "id" : 219,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 42.52, 607.94, 486.083, 694.94 ],
+    "heading level" : 1,
+    "font" : "Whitney-Semibold",
+    "font size" : 24.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Diversity and classification of cyclicoligonucleotide-based anti-phage signalling systems"
+  }, {
+    "type" : "paragraph",
+    "id" : 220,
+    "page number" : 1,
+    "bounding box" : [ 42.52, 580.292, 355.887, 599.455 ],
+    "font" : "Whitney-Semibold",
+    "font size" : 12.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Adi Millman, Sarah Melamed, Gil Amitai and Rotem Sorek ✉"
+  }, {
+    "type" : "paragraph",
+    "id" : 222,
+    "page number" : 1,
+    "bounding box" : [ 42.52, 451.368, 552.813, 568.626 ],
+    "font" : "Whitney-Bold",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Cyclic-oligonucleotide-based anti-phage signalling systems (CBASS) are a family of defence systems against bacteriophages (hereafter phages) that share ancestry with the cGAS–STING innate immune pathway in animals. CBASS systems are composed of an oligonucleotide cyclase, which generates signalling cyclic oligonucleotides in response to phage infection, and an effector that is activated by the cyclic oligonucleotides and promotes cell death. Cell death occurs before phage replication is completed, therefore preventing the spread of phages to nearby cells. Here, we analysed 38,000 bacterial and archaeal genomes and identified more than 5,000 CBASS systems, which have diverse architectures with multiple signalling molecules, effectors and ancillary genes. We propose a classification system for CBASS that groups systems according to their operon organization, signalling molecules and effector function. Four major CBASS types were identified, sharing at least six effector subtypes that promote cell death by membrane impairment, DNA degradation or other means. We observed evidence of extensive gain and loss of CBASS systems, as well as shuffling of effector genes between systems. We expect that our classification and nomenclature scheme will guide future research in the developing CBASS field."
+  }, {
+    "type" : "paragraph",
+    "id" : 210,
+    "page number" : 1,
+    "bounding box" : [ 40.994, 392.316, 63.837, 445.241 ],
+    "font" : "Whitney-Light",
+    "font size" : 41.608,
+    "text color" : "[0.48700693249702454, 0.3190051019191742, 0.6319981813430786]",
+    "content" : "B"
+  }, {
+    "type" : "paragraph",
+    "id" : 211,
+    "page number" : 1,
+    "bounding box" : [ 63.541, 399.661, 291.645, 433.207 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "acteria and archaea have active defence systems to protect themselves against infections by viruses1–4. Recent studies in Vibrio cholerae and Escherichia coli have reported a bacterial"
+  }, {
+    "type" : "paragraph",
+    "id" : 212,
+    "page number" : 1,
+    "bounding box" : [ 42.49, 242.163, 291.652, 401.707 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "defence system that is thought to share ancient common ancestry with the animal cGAS–STING antiviral pathway5. The bacterial cyclic GMP-AMP synthase (cGAS)6 generates cyclic GMP-AMP (cGAMP) molecules after sensing that the cell has been infected, and the cGAMP molecules activate a phospholipase7 that degrades the inner membrane of the bacterial cell, resulting in cell death5. cGAS-mediated cell death occurs before the phage is able to complete its replication cycle, such that no mature phage particles emerge from the infected cell and the phage does not spread to nearby cells5. This mode of bacterial defence was named CBASS5. In general, CBASS systems are characterized by at least two proteins with the following minimal configuration: one protein is thought to sense the presence of the phage and then produce the cyclic-oligonucleotide signal, and the second is an effector protein that senses the cyclic-oligonucleotide signal and exerts the cell-suicide function (Fig. 1a)."
+  }, {
+    "type" : "paragraph",
+    "id" : 213,
+    "page number" : 1,
+    "bounding box" : [ 42.492, 168.661, 291.621, 244.209 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Bioinformatics and functional analyses have revealed that variants of the CBASS system are widespread in bacterial and archaeal genomes, forming a large and highly diverse family of anti-phage defence systems58–11. Bacterial CBASS systems show variety in every part of the system, including the oligonucleotide cyclase, the signalling molecule produced, the effector cell-killing gene and ancillary genes58–10."
+  }, {
+    "type" : "paragraph",
+    "id" : 214,
+    "page number" : 1,
+    "bounding box" : [ 42.495, 116.162, 291.631, 170.707 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Here we systematically analysed CBASS systems in microbial genomes and identified four major types of CBASS. We analysed the different protein domains that are associated with cyclic-oligonucleotide recognition, effector activity and ancillary functions, and propose a standardized nomenclature to describe CBASS diversity."
+  }, {
+    "type" : "paragraph",
+    "id" : 215,
+    "page number" : 1,
+    "bounding box" : [ 42.495, 95.729, 73.665, 108.639 ],
+    "font" : "Whitney-Semibold",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Results"
+  }, {
+    "type" : "paragraph",
+    "id" : 216,
+    "page number" : 1,
+    "bounding box" : [ 42.495, 74.161, 291.643, 97.207 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The presence of an oligonucleotide cyclase gene of the CD-NTase family is the hallmark of CBASS systems5,8. To study the distribution"
+  }, {
+    "type" : "paragraph",
+    "id" : 217,
+    "page number" : 1,
+    "bounding box" : [ 303.634, 242.163, 552.78, 433.207 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "and variation of CBASS systems in bacteria and archaea, we first searched for homologues of oligonucleotide cyclase genes in a set of 38,167 bacterial and archaeal genomes belonging to 14,566 species (see Methods). We found 5,756 such genes in 4,894 (13%) of the genomes, spanning—in agreement with previous analyses5,8—all major bacterial phyla as well as one archaeal phylum (Supplementary Tables 1–5). We next analysed the genomic environment of the oligonucleotide cyclases and identified, in the majority of cases, the effector gene and additional commonly associated ancillary genes, which are denoted CD-NTase associated proteins (Cap) genes12 (Fig. 1b,c; see Methods). On the basis of the analysis of these identified CBASS systems, we propose a CBASS classification scheme that is based on three axes: the CBASS operon composition (CBASS types I, II, III and IV); the effector activity; and the signalling molecule produced by the oligonucleotide cyclase (Fig. 1b). Overall, we detected 5,675 cyclase-containing CBASS operons; some operons contain more than one cyclase (see below)."
+  }, {
+    "type" : "paragraph",
+    "id" : 218,
+    "page number" : 1,
+    "bounding box" : [ 303.638, 74.161, 552.794, 234.034 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Classification axis I: CBASS operon configuration. Type I CBASS comprises a compact two-gene system. In 2,376 of the CBASS systems that we identified (42%), the system has a minimal configuration that consists of an oligonucleotide cyclase and an effector gene, without associated ancillary genes (Supplementary Table 1). As this is the most abundant CBASS configuration, we denote it type I. A type I CBASS from Bacillus cereus, when cloned into Bacillus subtilis, was demonstrated experimentally to confer protection against phages, indicating that this two-gene minimal configuration does not necessitate ancillary genes for its anti-phage activity5. Type I CBASS can be found in all major phyla (Fig. 2). The effector proteins in the majority of type I CBASS systems contain one or several transmembrane-spanning helices, which are predicted to form pores in the membrane once activated by the cyclic-oligonucleotide signal511 (Fig. 2d)."
+  }, {
+    "type" : "paragraph",
+    "id" : 209,
+    "page number" : 1,
+    "bounding box" : [ 42.52, 44.539, 443.6, 57.234 ],
+    "font" : "Whitney-Book",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Department of Molecular Genetics, Weizmann Institute of Science, Rehovot, Israel. ✉e-mail: rotem.sorek@weizmann.ac.il"
+  }, {
+    "type" : "footer",
+    "id" : 224,
+    "page number" : 1,
+    "bounding box" : [ 42.52, 22.883, 552.789, 33.864 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 163,
+      "page number" : 1,
+      "bounding box" : [ 42.52, 22.883, 552.789, 33.864 ],
+      "heading level" : 5,
+      "font" : "Whitney-Book",
+      "font size" : 6.75,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1608 NAtuRe MicRobioloGy | VOL 5 | DeceMbeR 2020 | 1608–1615 | www.nature.com/naturemicrobiology"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 225,
+    "page number" : 2,
+    "bounding box" : [ 42.065, 747.379, 553.519, 770.635 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 171,
+      "page number" : 2,
+      "bounding box" : [ 42.065, 747.379, 553.519, 770.635 ],
+      "heading level" : 2,
+      "font" : "Whitney-Bold",
+      "font size" : 12.0,
+      "text color" : "[1.0, 1.0, 1.0]",
+      "content" : "NATurE MICroBIoloGy AnAlysis"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 235,
+    "page number" : 2,
+    "bounding box" : [ 474.244, 676.641, 526.053, 728.45 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Cyclic-oligonucleotide"
+  }, {
+    "type" : "paragraph",
+    "id" : 232,
+    "page number" : 2,
+    "bounding box" : [ 51.036, 716.041, 413.492, 726.385 ],
+    "font" : "Whitney-Bold2",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "a b"
+  }, {
+    "type" : "paragraph",
+    "id" : 237,
+    "page number" : 2,
+    "bounding box" : [ 452.226, 712.409, 466.312, 722.829 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Core"
+  }, {
+    "type" : "paragraph",
+    "id" : 246,
+    "page number" : 2,
+    "bounding box" : [ 448.783, 676.688, 484.509, 712.414 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Phage sensor"
+  }, {
+    "type" : "paragraph",
+    "id" : 245,
+    "page number" : 2,
+    "bounding box" : [ 462.332, 677.23, 485.456, 700.353 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Effector"
+  }, {
+    "type" : "paragraph",
+    "id" : 236,
+    "page number" : 2,
+    "bounding box" : [ 435.553, 676.154, 459.265, 699.866 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Cyclase"
+  }, {
+    "type" : "paragraph",
+    "id" : 312,
+    "page number" : 2,
+    "bounding box" : [ 484.011, 675.502, 505.172, 696.663 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "sensor"
+  }, {
+    "type" : "paragraph",
+    "id" : 310,
+    "page number" : 2,
+    "bounding box" : [ 216.532, 679.353, 238.814, 689.773 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Effector"
+  }, {
+    "type" : "paragraph",
+    "id" : 233,
+    "page number" : 2,
+    "bounding box" : [ 502.234, 670.909, 526.791, 681.329 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Ancillary"
+  }, {
+    "type" : "paragraph",
+    "id" : 250,
+    "page number" : 2,
+    "bounding box" : [ 183.312, 667.977, 197.456, 679.632 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "G A"
+  }, {
+    "type" : "paragraph",
+    "id" : 248,
+    "page number" : 2,
+    "bounding box" : [ 197.802, 653.441, 211.985, 665.343 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "U A"
+  }, {
+    "type" : "paragraph",
+    "id" : 311,
+    "page number" : 2,
+    "bounding box" : [ 299.803, 651.988, 322.085, 662.408 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Effector"
+  }, {
+    "type" : "list",
+    "id" : 239,
+    "level" : "3",
+    "page number" : 2,
+    "bounding box" : [ 409.159, 571.04, 431.2, 655.497 ],
+    "numbering style" : "roman numbers",
+    "number of list items" : 4,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 409.161, 645.077, 426.867, 655.497 ],
+      "font" : "Helvetica",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Type I",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 409.159, 621.136, 428.672, 631.556 ],
+      "font" : "Helvetica",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Type II",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 197,
+        "page number" : 2,
+        "bounding box" : [ 493.581, 631.614, 544.599, 642.034 ],
+        "font" : "Helvetica",
+        "font size" : 6.5,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "E2 E1 JAB"
+      }, {
+        "type" : "paragraph",
+        "id" : 198,
+        "page number" : 2,
+        "bounding box" : [ 501.322, 622.412, 543.487, 629.72 ],
+        "font" : "Helvetica-Oblique2",
+        "font size" : 4.5,
+        "text color" : "[1.0, 1.0, 1.0]",
+        "content" : "cap2 cap3"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 409.161, 596.397, 430.481, 606.817 ],
+      "font" : "Helvetica",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Type III",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 200,
+        "page number" : 2,
+        "bounding box" : [ 487.061, 607.678, 536.513, 618.097 ],
+        "font" : "Helvetica",
+        "font size" : 6.5,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "TRIP13 HORMA"
+      }, {
+        "type" : "paragraph",
+        "id" : 201,
+        "page number" : 2,
+        "bounding box" : [ 491.557, 597.375, 536.229, 605.115 ],
+        "font" : "Helvetica-Oblique2",
+        "font size" : 4.5,
+        "text color" : "[1.0, 1.0, 1.0]",
+        "content" : "cap6 cap8 cap7"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 409.159, 571.04, 431.2, 581.46 ],
+      "font" : "Helvetica",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Type IV",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 308,
+    "page number" : 2,
+    "bounding box" : [ 92.96, 639.235, 116.074, 649.655 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Cyclase"
+  }, {
+    "type" : "paragraph",
+    "id" : 252,
+    "page number" : 2,
+    "bounding box" : [ 206.026, 637.21, 220.105, 648.845 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "U U"
+  }, {
+    "type" : "paragraph",
+    "id" : 309,
+    "page number" : 2,
+    "bounding box" : [ 301.89, 629.089, 324.172, 639.508 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Effector"
+  }, {
+    "type" : "paragraph",
+    "id" : 257,
+    "page number" : 2,
+    "bounding box" : [ 208.218, 610.255, 215.745, 631.764 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "A G"
+  }, {
+    "type" : "paragraph",
+    "id" : 258,
+    "page number" : 2,
+    "bounding box" : [ 200.093, 617.516, 204.429, 627.935 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "A"
+  }, {
+    "type" : "paragraph",
+    "id" : 255,
+    "page number" : 2,
+    "bounding box" : [ 198.153, 586.61, 204.783, 608.099 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "A A"
+  }, {
+    "type" : "paragraph",
+    "id" : 254,
+    "page number" : 2,
+    "bounding box" : [ 189.112, 593.715, 193.447, 604.134 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "A"
+  }, {
+    "type" : "paragraph",
+    "id" : 241,
+    "page number" : 2,
+    "bounding box" : [ 487.062, 582.319, 546.114, 593.356 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "QueC TGT OGG"
+  }, {
+    "type" : "paragraph",
+    "id" : 243,
+    "page number" : 2,
+    "bounding box" : [ 488.861, 572.018, 544.76, 579.758 ],
+    "font" : "Helvetica-Oblique2",
+    "font size" : 4.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "cap9 cap10 cap11"
+  }, {
+    "type" : "paragraph",
+    "id" : 260,
+    "page number" : 2,
+    "bounding box" : [ 76.271, 561.358, 342.036, 571.777 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Detection of phage infection Production of signalling molecule Activation of cell suicide"
+  }, {
+    "type" : "heading",
+    "id" : 262,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 51.035, 548.65, 54.651, 558.994 ],
+    "heading level" : 3,
+    "font" : "Whitney-Bold2",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "c"
+  }, {
+    "type" : "paragraph",
+    "id" : 273,
+    "page number" : 2,
+    "bounding box" : [ 51.036, 530.788, 68.742, 541.208 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Type I"
+  }, {
+    "type" : "list",
+    "id" : 287,
+    "level" : "3",
+    "page number" : 2,
+    "bounding box" : [ 216.798, 441.94, 289.922, 541.208 ],
+    "numbering style" : "roman numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 216.798, 530.788, 236.311, 541.208 ],
+      "font" : "Helvetica",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Type II",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 195,
+        "page number" : 2,
+        "bounding box" : [ 315.804, 523.193, 362.972, 540.097 ],
+        "font" : "Helvetica",
+        "font size" : 4.997,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "EffectorCyclase E2 E1JAB"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 216.953, 441.94, 289.922, 452.359 ],
+      "font" : "Helvetica",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Type III (double HORMA)",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 300,
+    "page number" : 2,
+    "bounding box" : [ 381.264, 530.788, 421.362, 541.208 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Type II (short)"
+  }, {
+    "type" : "paragraph",
+    "id" : 306,
+    "page number" : 2,
+    "bounding box" : [ 159.849, 523.364, 188.004, 540.677 ],
+    "font" : "Helvetica",
+    "font size" : 4.997,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "CyclaseEffector"
+  }, {
+    "type" : "paragraph",
+    "id" : 301,
+    "page number" : 2,
+    "bounding box" : [ 483.549, 524.886, 527.413, 532.895 ],
+    "font" : "Helvetica",
+    "font size" : 4.997,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Cyclase E2 effector"
+  }, {
+    "type" : "paragraph",
+    "id" : 289,
+    "page number" : 2,
+    "bounding box" : [ 381.264, 504.747, 546.26, 525.713 ],
+    "font" : "Helvetica",
+    "font size" : 5.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Rhizobium phaseoli ser. phaseoli R744 Ga0175853_15 1,410 kb 1,400 kb"
+  }, {
+    "type" : "paragraph",
+    "id" : 263,
+    "page number" : 2,
+    "bounding box" : [ 51.033, 482.962, 183.88, 525.713 ],
+    "font" : "Helvetica",
+    "font size" : 5.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Alloactinosynnema sp. L-07 Ga0133422_11 2,470 kb Rhodothermus marinus SG0.5JP17-172 Contig33 20 kb"
+  }, {
+    "type" : "paragraph",
+    "id" : 275,
+    "page number" : 2,
+    "bounding box" : [ 216.953, 504.747, 349.677, 525.713 ],
+    "font" : "Helvetica-Oblique2",
+    "font size" : 5.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Thioalkalimicrobium aerophilum AL3 Thiae_Contig18.1 1,250 kb"
+  }, {
+    "type" : "paragraph",
+    "id" : 291,
+    "page number" : 2,
+    "bounding box" : [ 381.26, 482.962, 522.529, 503.732 ],
+    "font" : "Helvetica",
+    "font size" : 5.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Salegentibacter sp. T436 Ga0175168_11 1,820 kb"
+  }, {
+    "type" : "paragraph",
+    "id" : 279,
+    "page number" : 2,
+    "bounding box" : [ 216.951, 482.767, 267.246, 503.732 ],
+    "font" : "Helvetica",
+    "font size" : 5.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Vibrio alginolyticus K01M1 K01M1_chromosome1"
+  }, {
+    "type" : "paragraph",
+    "id" : 278,
+    "page number" : 2,
+    "bounding box" : [ 312.941, 483.247, 332.121, 491.262 ],
+    "font" : "Helvetica",
+    "font size" : 5.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "2,630 kb"
+  }, {
+    "type" : "paragraph",
+    "id" : 293,
+    "page number" : 2,
+    "bounding box" : [ 381.264, 467.852, 427.489, 481.947 ],
+    "font" : "Helvetica-Oblique2",
+    "font size" : 5.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Sphingopyxis macrogoltabida EY-1"
+  }, {
+    "type" : "paragraph",
+    "id" : 268,
+    "page number" : 2,
+    "bounding box" : [ 51.034, 460.979, 107.164, 481.944 ],
+    "font" : "Helvetica-Oblique2",
+    "font size" : 5.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Staphylococcus schleiferi 2142-05 Ga0100882_11"
+  }, {
+    "type" : "paragraph",
+    "id" : 282,
+    "page number" : 2,
+    "bounding box" : [ 216.95, 460.784, 256.615, 481.749 ],
+    "font" : "Helvetica",
+    "font size" : 5.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Vibrio cholerae 2010AA-142 Ga0124411_1020"
+  }, {
+    "type" : "paragraph",
+    "id" : 294,
+    "page number" : 2,
+    "bounding box" : [ 381.264, 459.794, 485.613, 468.997 ],
+    "font" : "Helvetica",
+    "font size" : 5.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Ga0100961_11 4,240 kb"
+  }, {
+    "type" : "paragraph",
+    "id" : 267,
+    "page number" : 2,
+    "bounding box" : [ 107.944, 459.794, 212.674, 467.809 ],
+    "font" : "Helvetica",
+    "font size" : 5.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "50 kb 40 kb"
+  }, {
+    "type" : "paragraph",
+    "id" : 281,
+    "page number" : 2,
+    "bounding box" : [ 280.855, 459.794, 293.085, 467.809 ],
+    "font" : "Helvetica",
+    "font size" : 5.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "20 kb"
+  }, {
+    "type" : "paragraph",
+    "id" : 302,
+    "page number" : 2,
+    "bounding box" : [ 381.264, 442.523, 403.305, 452.943 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Type IV"
+  }, {
+    "type" : "paragraph",
+    "id" : 288,
+    "page number" : 2,
+    "bounding box" : [ 303.842, 435.53, 352.219, 452.761 ],
+    "font" : "Helvetica",
+    "font size" : 4.997,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "TRIP13HORMACyclaseEffector"
+  }, {
+    "type" : "paragraph",
+    "id" : 305,
+    "page number" : 2,
+    "bounding box" : [ 491.588, 435.577, 522.005, 452.332 ],
+    "font" : "Helvetica",
+    "font size" : 4.997,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "CyclaseEffectorOGG"
+  }, {
+    "type" : "paragraph",
+    "id" : 307,
+    "page number" : 2,
+    "bounding box" : [ 160.833, 434.852, 204.599, 452.081 ],
+    "font" : "Helvetica",
+    "font size" : 4.997,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "CyclaseHORMATRIP13Effector"
+  }, {
+    "type" : "list",
+    "id" : 274,
+    "level" : "3",
+    "page number" : 2,
+    "bounding box" : [ 52.284, 440.88, 122.718, 451.3 ],
+    "numbering style" : "roman numbers",
+    "number of list items" : 1,
+    "next list id" : 400,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 52.284, 440.88, 122.718, 451.3 ],
+      "font" : "Helvetica",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Type III (single HORMA)",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 303,
+    "page number" : 2,
+    "bounding box" : [ 474.394, 436.523, 487.351, 448.103 ],
+    "font" : "MyriadPro-Regular",
+    "font size" : 4.997,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "QueC"
+  }, {
+    "type" : "paragraph",
+    "id" : 304,
+    "page number" : 2,
+    "bounding box" : [ 483.255, 435.492, 492.855, 443.186 ],
+    "font" : "Helvetica",
+    "font size" : 4.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "TGT"
+  }, {
+    "type" : "paragraph",
+    "id" : 283,
+    "page number" : 2,
+    "bounding box" : [ 216.95, 372.973, 361.373, 437.724 ],
+    "font" : "Helvetica",
+    "font size" : 5.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Achromobacter sp. 2789STDY5608621 Ga0106542_1006 150 kb Arenimonas metalli CF5-1 Ga0072994_114 20 kb Mesorhizobium sp. L2C054A000 Ga0123925_102 120 kb"
+  }, {
+    "type" : "paragraph",
+    "id" : 269,
+    "page number" : 2,
+    "bounding box" : [ 52.283, 372.799, 200.604, 437.724 ],
+    "font" : "Helvetica",
+    "font size" : 5.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Rhizobium phaseoli ser. phaseoli N671 Ga0175528_16 320 kb Rhodanobacter denitriﬁcans 2APBS1 R2APBS1_Contig319 4,140 kb Steroidobacter denitriﬁcans DSM 18526 Ga0175996_11 2,830 kb"
+  }, {
+    "type" : "paragraph",
+    "id" : 296,
+    "page number" : 2,
+    "bounding box" : [ 381.261, 372.799, 531.9, 437.724 ],
+    "font" : "Helvetica",
+    "font size" : 5.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Desulfosporosinus meridiei S10, DSM 13257 Desmer_Contig92.1 360 kb Methylomonas methanica MC09 Contig38 4,530 kb Moorella thermoacetica DSM 2955 MOTHA_contig000001 2,320 kb"
+  }, {
+    "type" : "list",
+    "id" : 313,
+    "level" : "4",
+    "page number" : 2,
+    "bounding box" : [ 42.52, 277.554, 545.963, 361.342 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 395,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 42.52, 277.554, 545.963, 361.342 ],
+      "font" : "Whitney-Bold",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Fig. 1 | General description of cbASS systems. a, A general model for the mode of action of cbASS systems. Phage infection is sensed by the cyclase (or by the ancillary genes, together with the cyclase), leading to activation of the cyclase, which generates a cyclic-oligonucleotide signalling molecule. The signalling molecule is sensed by the effector and activates its cell-killing function. cbASS cyclases can generate a variety of cyclic di- and trinucleotides, and cbASS effectors can exert cell death through membrane degradation, cleavage of phage and host DNA, formation of membrane-spanning pores and by other means of which the mechanisms are yet to be identified. b, Four types of cbASS systems classified according to their ancillary gene content. The box arrows with dashed outlines represent genes that are present in some, but not all, of the systems in the respective cbASS type. Ancillary genes are denoted as cap genes. c, Representative examples of cbASS operons and their genomic neighbourhood. The name of the bacterial species and the accession of the relevant genomic scaffold in the IMG database34 are indicated on the left.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 227,
+    "page number" : 2,
+    "bounding box" : [ 42.52, 221.16, 291.671, 254.827 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Type II CBASS includes ancillary genes that encode ubiquitinassociated domains. We found that 2,199 CBASS systems (39%) include, in addition to the core cyclase-effector pair, two genes (called"
+  }, {
+    "type" : "list",
+    "id" : 228,
+    "level" : "1",
+    "page number" : 2,
+    "bounding box" : [ 42.519, 42.662, 291.685, 223.327 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 42.519, 200.16, 291.665, 223.327 ],
+      "font" : "MinionPro-It",
+      "font size" : 9.3,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "cap2 and cap3 (ref. 12)) that encode domains that are typical of the eukaryotic ubiquitin machinery. These systems are denoted type",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 202,
+        "level" : "2",
+        "page number" : 2,
+        "bounding box" : [ 42.519, 105.66, 291.656, 202.327 ],
+        "numbering style" : "roman numbers",
+        "number of list items" : 1,
+        "next list id" : 427,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 2,
+          "bounding box" : [ 42.519, 105.66, 291.656, 202.327 ],
+          "font" : "MinionPro-Regular",
+          "font size" : 9.3,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "II CBASS. cap2 comprises a fusion between a ubiquitin-activating E1-like enzymatic domain and a ubiquitin-conjugating E2-like domain. The second gene, cap3, encodes a protein domain that is predicted to be an isopeptidase of the JAB/JAMM family, which is usually found in eukaryotic deubiquitinase enzymes that remove ubiquitin from target proteins. Two type II CBASS systems, one from E. coli and one from V. cholerae, were shown experimentally to confer defence against a phylogenetically wide set of coliphages, when cloned to an E. coli strain that lack a CBASS system5. Interestingly, cap2 and",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 42.52, 42.662, 291.685, 107.827 ],
+      "font" : "MinionPro-It",
+      "font size" : 9.3,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "cap3 were necessary for protection against some, but not all, of the phages, suggesting that these genes have an ancillary function in the CBASS system that expands the range of phages against which the system protects. As ubiquitin is not known to be present in E. coli or V. cholerae, evidence is lacking about which protein is the target of the ubiquitin-handling domains encoded by the cap2 and cap3 ancillary",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 229,
+    "page number" : 2,
+    "bounding box" : [ 303.637, 200.16, 552.781, 254.706 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "genes. In the experimentally tested type II CBASS systems from E. coli and V. cholerae, the effector gene is a phospholipase that is thought to degrade the inner bacterial membrane once activated by the signalling molecule5,7; such phospholipase domains are the most common effector domains in type II CBASS systems (Fig. 2d)."
+  }, {
+    "type" : "paragraph",
+    "id" : 230,
+    "page number" : 2,
+    "bounding box" : [ 303.637, 74.163, 552.783, 202.327 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "As the cap3 gene is short (encoding 160 amino acids on average), it is sometimes not annotated in the genome in which the CBASS is identified. Nevertheless, examination of the intergenic regions downstream of cap2 enabled the identification of cap3 in many cases (Supplementary Table 2). In a minority (19) of type II CBASS systems, cap2 and cap3 are fused and, in other cases (13), cap3 is fused to the effector gene. A subset of 616 (28%) of the type II CBASS systems have a minimal configuration that comprises, in addition to the cyclase-effector pair, only a short E2-domain gene, without E1 or JAB (Fig. 1c and Supplementary Table 2). It is unclear whether this subtype functions on its own or whether it uses other genes in the cell to fill in for the missing E1 and JAB functions."
+  }, {
+    "type" : "paragraph",
+    "id" : 231,
+    "page number" : 2,
+    "bounding box" : [ 303.637, 42.66, 552.775, 65.83 ],
+    "font" : "MinionPro-It",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Type III CBASS includes ancillary genes that encode HORMA and TRIP13 domains. About 10% of the CBASS systems that we"
+  }, {
+    "type" : "footer",
+    "id" : 314,
+    "page number" : 2,
+    "bounding box" : [ 42.52, 22.883, 552.763, 33.864 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 164,
+      "page number" : 2,
+      "bounding box" : [ 42.52, 22.883, 552.763, 33.864 ],
+      "heading level" : 5,
+      "font" : "Whitney-Book",
+      "font size" : 6.75,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "NAtuRe MicRobioloGy | VOL 5 | DeceMbeR 2020 | 1608–1615 | www.nature.com/naturemicrobiology 1609"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 315,
+    "page number" : 3,
+    "bounding box" : [ 41.265, 747.379, 553.039, 770.635 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 172,
+      "page number" : 3,
+      "bounding box" : [ 41.265, 747.379, 553.039, 770.635 ],
+      "heading level" : 2,
+      "font" : "Whitney-Bold",
+      "font size" : 12.0,
+      "text color" : "[1.0, 1.0, 1.0]",
+      "content" : "AnAlysis NATurE MICroBIoloGy"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 320,
+    "page number" : 3,
+    "bounding box" : [ 85.845, 723.409, 307.613, 733.753 ],
+    "font" : "Whitney-Bold3",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "a b"
+  }, {
+    "type" : "paragraph",
+    "id" : 392,
+    "page number" : 3,
+    "bounding box" : [ 102.742, 716.725, 109.97, 727.145 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "25"
+  }, {
+    "type" : "paragraph",
+    "id" : 384,
+    "page number" : 3,
+    "bounding box" : [ 320.015, 716.725, 327.243, 727.145 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "25"
+  }, {
+    "type" : "table",
+    "id" : 386,
+    "level" : "7",
+    "page number" : 3,
+    "bounding box" : [ 113.965, 590.487, 290.638, 725.872 ],
+    "number of rows" : 6,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 114.09, 721.905, 116.592, 725.747 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 116.592, 590.675, 290.513, 725.747 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 6,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 36,
+          "page number" : 3,
+          "bounding box" : [ 166.924, 632.225, 177.766, 642.644 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "507"
+        }, {
+          "type" : "paragraph",
+          "id" : 37,
+          "page number" : 3,
+          "bounding box" : [ 179.534, 653.668, 190.376, 664.088 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "372"
+        }, {
+          "type" : "paragraph",
+          "id" : 38,
+          "page number" : 3,
+          "bounding box" : [ 228.895, 588.714, 265.347, 599.133 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "197 141"
+        }, {
+          "type" : "paragraph",
+          "id" : 39,
+          "page number" : 3,
+          "bounding box" : [ 278.952, 602.299, 289.794, 612.718 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "116"
+        }, {
+          "type" : "paragraph",
+          "id" : 40,
+          "page number" : 3,
+          "bounding box" : [ 118.363, 694.469, 138.24, 712.688 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "3,685/ 18,356"
+        }, {
+          "type" : "paragraph",
+          "id" : 41,
+          "page number" : 3,
+          "bounding box" : [ 127.105, 636.762, 143.368, 654.981 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "680/ 7,431"
+        }, {
+          "type" : "paragraph",
+          "id" : 42,
+          "page number" : 3,
+          "bounding box" : [ 139.351, 652.303, 155.614, 670.523 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "551/ 4,595"
+        }, {
+          "type" : "paragraph",
+          "id" : 43,
+          "page number" : 3,
+          "bounding box" : [ 151.961, 704.94, 168.224, 723.16 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "345/ 1,562"
+        }, {
+          "type" : "paragraph",
+          "id" : 44,
+          "page number" : 3,
+          "bounding box" : [ 167.821, 639.089, 176.856, 649.508 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "42/"
+        }, {
+          "type" : "paragraph",
+          "id" : 45,
+          "page number" : 3,
+          "bounding box" : [ 180.431, 660.532, 189.466, 670.952 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "46/"
+        }, {
+          "type" : "paragraph",
+          "id" : 46,
+          "page number" : 3,
+          "bounding box" : [ 191.774, 672.921, 202.616, 691.141 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "53/ 332"
+        }, {
+          "type" : "paragraph",
+          "id" : 47,
+          "page number" : 3,
+          "bounding box" : [ 205.788, 636.69, 216.63, 654.91 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "21/ 230"
+        }, {
+          "type" : "paragraph",
+          "id" : 48,
+          "page number" : 3,
+          "bounding box" : [ 216.63, 602.63, 227.472, 620.85 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "5/ 201"
+        }, {
+          "type" : "paragraph",
+          "id" : 49,
+          "page number" : 3,
+          "bounding box" : [ 232.36, 595.578, 237.781, 605.997 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "0/"
+        }, {
+          "type" : "paragraph",
+          "id" : 50,
+          "page number" : 3,
+          "bounding box" : [ 241.85, 621.246, 252.692, 639.466 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "9/ 146"
+        }, {
+          "type" : "paragraph",
+          "id" : 51,
+          "page number" : 3,
+          "bounding box" : [ 257.216, 595.578, 262.637, 605.997 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "0/"
+        }, {
+          "type" : "paragraph",
+          "id" : 52,
+          "page number" : 3,
+          "bounding box" : [ 266.706, 638.049, 277.548, 656.268 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "11/ 118"
+        }, {
+          "type" : "paragraph",
+          "id" : 53,
+          "page number" : 3,
+          "bounding box" : [ 281.669, 609.163, 287.09, 619.582 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "3/"
+        }, {
+          "type" : "paragraph",
+          "id" : 55,
+          "level" : "1",
+          "page number" : 3,
+          "bounding box" : [ 224.771, 715.884, 278.809, 726.303 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Type I Type II"
+        }, {
+          "type" : "paragraph",
+          "id" : 58,
+          "level" : "1",
+          "page number" : 3,
+          "bounding box" : [ 224.771, 691.534, 281.338, 714.041 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Type III Type IV Standalone cyclase"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 114.09, 695.646, 116.592, 721.905 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 114.09, 669.388, 116.592, 695.646 ],
+        "row number" : 3,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 4,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 114.09, 643.13, 116.592, 669.388 ],
+        "row number" : 4,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 5,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 114.09, 616.871, 116.592, 643.13 ],
+        "row number" : 5,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 6,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 114.09, 590.675, 116.592, 616.871 ],
+        "row number" : 6,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 378,
+    "level" : "6",
+    "page number" : 3,
+    "bounding box" : [ 330.663, 590.487, 506.297, 725.872 ],
+    "number of rows" : 6,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 330.788, 721.905, 333.283, 725.747 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 333.283, 590.675, 506.172, 725.747 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 6,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 62,
+          "page number" : 3,
+          "bounding box" : [ 335.083, 701.426, 351.346, 711.845 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "5,321"
+        }, {
+          "type" : "paragraph",
+          "id" : 63,
+          "page number" : 3,
+          "bounding box" : [ 343.715, 666.904, 359.978, 677.324 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "1,866"
+        }, {
+          "type" : "paragraph",
+          "id" : 64,
+          "page number" : 3,
+          "bounding box" : [ 355.155, 686.417, 371.418, 696.837 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "1,885"
+        }, {
+          "type" : "paragraph",
+          "id" : 65,
+          "page number" : 3,
+          "bounding box" : [ 368.376, 708.92, 384.639, 719.34 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "1,094"
+        }, {
+          "type" : "paragraph",
+          "id" : 66,
+          "page number" : 3,
+          "bounding box" : [ 383.528, 643.381, 394.37, 653.8 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "347"
+        }, {
+          "type" : "paragraph",
+          "id" : 67,
+          "page number" : 3,
+          "bounding box" : [ 395.293, 681.295, 406.135, 691.715 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "108"
+        }, {
+          "type" : "paragraph",
+          "id" : 68,
+          "page number" : 3,
+          "bounding box" : [ 408.228, 670.265, 419.07, 680.684 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "213"
+        }, {
+          "type" : "paragraph",
+          "id" : 69,
+          "page number" : 3,
+          "bounding box" : [ 421.013, 621.716, 431.855, 632.136 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "176"
+        }, {
+          "type" : "paragraph",
+          "id" : 70,
+          "page number" : 3,
+          "bounding box" : [ 432.921, 610.237, 443.763, 620.657 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "123"
+        }, {
+          "type" : "paragraph",
+          "id" : 71,
+          "page number" : 3,
+          "bounding box" : [ 446.773, 588.885, 454.001, 599.304 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "75"
+        }, {
+          "type" : "paragraph",
+          "id" : 72,
+          "page number" : 3,
+          "bounding box" : [ 459.428, 618.063, 466.656, 628.483 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "90"
+        }, {
+          "type" : "paragraph",
+          "id" : 73,
+          "page number" : 3,
+          "bounding box" : [ 471.46, 588.885, 478.688, 599.304 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "61"
+        }, {
+          "type" : "paragraph",
+          "id" : 74,
+          "page number" : 3,
+          "bounding box" : [ 483.946, 658.916, 491.174, 669.335 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "60"
+        }, {
+          "type" : "paragraph",
+          "id" : 75,
+          "page number" : 3,
+          "bounding box" : [ 496.381, 602.71, 503.609, 613.13 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "38"
+        }, {
+          "type" : "paragraph",
+          "id" : 76,
+          "page number" : 3,
+          "bounding box" : [ 335.09, 708.641, 353.16, 719.06 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "1,140/"
+        }, {
+          "type" : "paragraph",
+          "id" : 77,
+          "page number" : 3,
+          "bounding box" : [ 345.958, 674.119, 358.607, 684.539 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "277/"
+        }, {
+          "type" : "paragraph",
+          "id" : 78,
+          "page number" : 3,
+          "bounding box" : [ 356.969, 693.632, 369.618, 704.052 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "350/"
+        }, {
+          "type" : "paragraph",
+          "id" : 79,
+          "page number" : 3,
+          "bounding box" : [ 370.19, 716.135, 382.839, 726.555 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "250/"
+        }, {
+          "type" : "paragraph",
+          "id" : 80,
+          "page number" : 3,
+          "bounding box" : [ 384.438, 650.596, 393.473, 661.015 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "36/"
+        }, {
+          "type" : "paragraph",
+          "id" : 81,
+          "page number" : 3,
+          "bounding box" : [ 396.872, 688.51, 405.907, 698.93 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "19/"
+        }, {
+          "type" : "paragraph",
+          "id" : 82,
+          "page number" : 3,
+          "bounding box" : [ 410.366, 677.259, 419.401, 687.678 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "33/"
+        }, {
+          "type" : "paragraph",
+          "id" : 83,
+          "page number" : 3,
+          "bounding box" : [ 421.917, 628.938, 430.952, 639.357 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "11/"
+        }, {
+          "type" : "paragraph",
+          "id" : 84,
+          "page number" : 3,
+          "bounding box" : [ 435.638, 617.459, 441.059, 627.878 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "5/"
+        }, {
+          "type" : "paragraph",
+          "id" : 85,
+          "page number" : 3,
+          "bounding box" : [ 447.683, 596.106, 453.104, 606.526 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "0/"
+        }, {
+          "type" : "paragraph",
+          "id" : 86,
+          "page number" : 3,
+          "bounding box" : [ 460.338, 625.291, 465.759, 635.711 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "5/"
+        }, {
+          "type" : "paragraph",
+          "id" : 87,
+          "page number" : 3,
+          "bounding box" : [ 472.545, 596.106, 477.966, 606.526 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "0/"
+        }, {
+          "type" : "paragraph",
+          "id" : 88,
+          "page number" : 3,
+          "bounding box" : [ 484.856, 666.137, 490.277, 676.557 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "8/"
+        }, {
+          "type" : "paragraph",
+          "id" : 89,
+          "page number" : 3,
+          "bounding box" : [ 497.291, 609.925, 502.712, 620.345 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "1/"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 330.788, 695.646, 333.283, 721.905 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 330.788, 669.388, 333.283, 695.646 ],
+        "row number" : 3,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 4,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 330.788, 643.13, 333.283, 669.388 ],
+        "row number" : 4,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 5,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 330.788, 616.871, 333.283, 643.13 ],
+        "row number" : 5,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 6,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 330.788, 590.675, 333.283, 616.871 ],
+        "row number" : 6,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 393,
+    "page number" : 3,
+    "bounding box" : [ 86.308, 604.78, 96.727, 711.699 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Genomes with CBASS in phylum (%)"
+  }, {
+    "type" : "paragraph",
+    "id" : 385,
+    "page number" : 3,
+    "bounding box" : [ 302.621, 607.308, 313.04, 709.169 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Species with CBASS in phylum (%)"
+  }, {
+    "type" : "paragraph",
+    "id" : 391,
+    "page number" : 3,
+    "bounding box" : [ 102.742, 690.465, 109.97, 700.885 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "20"
+  }, {
+    "type" : "paragraph",
+    "id" : 383,
+    "page number" : 3,
+    "bounding box" : [ 320.015, 690.465, 327.243, 700.885 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "20"
+  }, {
+    "type" : "paragraph",
+    "id" : 390,
+    "page number" : 3,
+    "bounding box" : [ 102.742, 664.205, 109.97, 674.625 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "15"
+  }, {
+    "type" : "paragraph",
+    "id" : 382,
+    "page number" : 3,
+    "bounding box" : [ 320.015, 664.205, 327.243, 674.625 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "15"
+  }, {
+    "type" : "paragraph",
+    "id" : 389,
+    "page number" : 3,
+    "bounding box" : [ 102.742, 637.945, 109.97, 648.365 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "10"
+  }, {
+    "type" : "paragraph",
+    "id" : 381,
+    "page number" : 3,
+    "bounding box" : [ 320.015, 637.945, 327.243, 648.365 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "10"
+  }, {
+    "type" : "paragraph",
+    "id" : 388,
+    "page number" : 3,
+    "bounding box" : [ 106.356, 611.685, 109.97, 622.105 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "5"
+  }, {
+    "type" : "paragraph",
+    "id" : 380,
+    "page number" : 3,
+    "bounding box" : [ 323.629, 611.685, 327.243, 622.105 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "5"
+  }, {
+    "type" : "paragraph",
+    "id" : 387,
+    "page number" : 3,
+    "bounding box" : [ 106.356, 585.425, 109.97, 595.845 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "0"
+  }, {
+    "type" : "paragraph",
+    "id" : 379,
+    "page number" : 3,
+    "bounding box" : [ 323.629, 585.425, 327.243, 595.845 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "0"
+  }, {
+    "type" : "paragraph",
+    "id" : 394,
+    "page number" : 3,
+    "bounding box" : [ 89.746, 548.578, 505.854, 590.96 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "ProteobacteriaFirmicutesActinobacteriaBacteroidetesEuryarchaeotaSpirochaetesCyanobacteriaChloroﬂexiTenericutesCrenarchaeotaPlanctomycetesThaumarchaeotaVerrucomicrobiaChlamydiae ProteobacteriaFirmicutesActinobacteriaBacteroidetesEuryarchaeotaSpirochaetesCyanobacteriaChloroﬂexiTenericutesCrenarchaeotaPlanctomycetesThaumarchaeotaVerrucomicrobiaChlamydiae"
+  }, {
+    "type" : "paragraph",
+    "id" : 321,
+    "page number" : 3,
+    "bounding box" : [ 85.845, 530.833, 307.637, 541.177 ],
+    "font" : "Whitney-Bold3",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "c d"
+  }, {
+    "type" : "table",
+    "id" : 346,
+    "level" : "7",
+    "page number" : 3,
+    "bounding box" : [ 115.838, 381.344, 290.873, 532.78 ],
+    "number of rows" : 11,
+    "number of columns" : 3,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 115.963, 527.454, 118.519, 532.327 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 118.519, 381.766, 266.206, 532.327 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 11,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 8,
+          "page number" : 3,
+          "bounding box" : [ 173.691, 426.992, 186.697, 437.412 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "70%"
+        }, {
+          "type" : "list",
+          "id" : 9,
+          "level" : "1",
+          "page number" : 3,
+          "bounding box" : [ 173.691, 484.134, 186.697, 507.865 ],
+          "numbering style" : "arabic numbers",
+          "number of list items" : 2,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 3,
+            "bounding box" : [ 175.498, 484.134, 184.89, 494.553 ],
+            "font" : "Helvetica",
+            "font size" : 6.5,
+            "text color" : "[0.0]",
+            "content" : "9%",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 3,
+            "bounding box" : [ 173.691, 497.446, 186.697, 507.865 ],
+            "font" : "Helvetica",
+            "font size" : 6.5,
+            "text color" : "[0.0]",
+            "content" : "10%",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "id" : 10,
+          "page number" : 3,
+          "bounding box" : [ 175.498, 509.965, 184.89, 520.384 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "8%"
+        }, {
+          "type" : "paragraph",
+          "id" : 11,
+          "page number" : 3,
+          "bounding box" : [ 198.209, 436.664, 211.215, 447.084 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "83%"
+        }, {
+          "type" : "paragraph",
+          "id" : 12,
+          "page number" : 3,
+          "bounding box" : [ 200.016, 505.428, 209.408, 515.847 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "9%"
+        }, {
+          "type" : "paragraph",
+          "id" : 13,
+          "page number" : 3,
+          "bounding box" : [ 200.016, 515.613, 209.408, 526.033 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "5%"
+        }, {
+          "type" : "paragraph",
+          "id" : 14,
+          "page number" : 3,
+          "bounding box" : [ 247.147, 408.467, 260.154, 418.887 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "44%"
+        }, {
+          "type" : "list",
+          "id" : 15,
+          "level" : "1",
+          "page number" : 3,
+          "bounding box" : [ 247.147, 451.718, 260.154, 485.115 ],
+          "numbering style" : "arabic numbers",
+          "number of list items" : 2,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 3,
+            "bounding box" : [ 247.147, 451.718, 260.154, 462.138 ],
+            "font" : "Helvetica",
+            "font size" : 6.5,
+            "text color" : "[0.0]",
+            "content" : "15%",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 3,
+            "bounding box" : [ 247.147, 474.696, 260.154, 485.115 ],
+            "font" : "Helvetica",
+            "font size" : 6.5,
+            "text color" : "[0.0]",
+            "content" : "16%",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "list",
+          "id" : 16,
+          "level" : "1",
+          "page number" : 3,
+          "bounding box" : [ 248.954, 489.711, 258.347, 508.392 ],
+          "numbering style" : "arabic numbers",
+          "number of list items" : 2,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 3,
+            "bounding box" : [ 248.954, 489.711, 258.347, 500.13 ],
+            "font" : "Helvetica",
+            "font size" : 6.5,
+            "text color" : "[0.0]",
+            "content" : "4%",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 3,
+            "bounding box" : [ 248.954, 497.972, 258.347, 508.392 ],
+            "font" : "Helvetica",
+            "font size" : 6.5,
+            "text color" : "[0.0]",
+            "content" : "5%",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "id" : 17,
+          "page number" : 3,
+          "bounding box" : [ 124.479, 423.476, 137.486, 433.895 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "65%"
+        }, {
+          "type" : "paragraph",
+          "id" : 18,
+          "page number" : 3,
+          "bounding box" : [ 124.479, 479.499, 137.486, 489.919 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "12%"
+        }, {
+          "type" : "paragraph",
+          "id" : 19,
+          "page number" : 3,
+          "bounding box" : [ 124.479, 495.294, 137.486, 505.714 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "10%"
+        }, {
+          "type" : "paragraph",
+          "id" : 20,
+          "page number" : 3,
+          "bounding box" : [ 126.286, 506.799, 135.679, 517.219 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "6%"
+        }, {
+          "type" : "paragraph",
+          "id" : 21,
+          "page number" : 3,
+          "bounding box" : [ 148.991, 420.72, 161.997, 431.139 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "61%"
+        }, {
+          "type" : "paragraph",
+          "id" : 22,
+          "page number" : 3,
+          "bounding box" : [ 148.991, 477.341, 161.997, 487.761 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "17%"
+        }, {
+          "type" : "paragraph",
+          "id" : 23,
+          "page number" : 3,
+          "bounding box" : [ 150.798, 495.769, 160.19, 516.549 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "6% 9%"
+        }, {
+          "type" : "paragraph",
+          "id" : 24,
+          "page number" : 3,
+          "bounding box" : [ 222.896, 389.728, 235.902, 400.147 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "19%"
+        }, {
+          "type" : "paragraph",
+          "id" : 25,
+          "page number" : 3,
+          "bounding box" : [ 222.896, 430.385, 235.902, 440.805 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "37%"
+        }, {
+          "type" : "paragraph",
+          "id" : 26,
+          "page number" : 3,
+          "bounding box" : [ 222.896, 477.816, 235.902, 488.235 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "28%"
+        }, {
+          "type" : "paragraph",
+          "id" : 27,
+          "page number" : 3,
+          "bounding box" : [ 224.703, 503.231, 234.095, 513.65 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[1.0]",
+          "content" : "7%"
+        }, {
+          "type" : "paragraph",
+          "id" : 28,
+          "page number" : 3,
+          "bounding box" : [ 224.703, 511.7, 234.095, 522.12 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[1.0]",
+          "content" : "5%"
+        }, {
+          "type" : "paragraph",
+          "id" : 29,
+          "page number" : 3,
+          "bounding box" : [ 120.363, 526.58, 261.963, 534.675 ],
+          "font" : "Helvetica",
+          "font size" : 5.0,
+          "text color" : "[0.0]",
+          "content" : "n = 5,675 n = 2,376 n = 2,199 n = 572 n = 43 n = 485"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 266.206, 381.766, 290.748, 532.327 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 11,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 31,
+          "page number" : 3,
+          "bounding box" : [ 272.023, 411.587, 285.029, 422.007 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "48%"
+        }, {
+          "type" : "paragraph",
+          "id" : 32,
+          "page number" : 3,
+          "bounding box" : [ 272.023, 460.974, 285.029, 471.394 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "19%"
+        }, {
+          "type" : "paragraph",
+          "id" : 33,
+          "page number" : 3,
+          "bounding box" : [ 272.023, 483.698, 285.029, 494.118 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "12%"
+        }, {
+          "type" : "paragraph",
+          "id" : 34,
+          "page number" : 3,
+          "bounding box" : [ 273.83, 495.424, 283.222, 505.844 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "4%"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 115.963, 512.882, 118.519, 527.454 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 115.963, 498.311, 118.519, 512.882 ],
+        "row number" : 3,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 4,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 115.963, 483.739, 118.519, 498.311 ],
+        "row number" : 4,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 5,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 115.963, 469.167, 118.519, 483.739 ],
+        "row number" : 5,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 6,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 115.963, 454.594, 118.519, 469.167 ],
+        "row number" : 6,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 7,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 115.963, 440.022, 118.519, 454.594 ],
+        "row number" : 7,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 8,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 115.963, 425.45, 118.519, 440.022 ],
+        "row number" : 8,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 9,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 115.963, 410.878, 118.519, 425.45 ],
+        "row number" : 9,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 10,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 115.963, 396.307, 118.519, 410.878 ],
+        "row number" : 10,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 11,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 115.963, 381.766, 118.519, 396.307 ],
+        "row number" : 11,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 357,
+    "page number" : 3,
+    "bounding box" : [ 101.562, 522.277, 112.404, 532.696 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0]",
+    "content" : "100"
+  }, {
+    "type" : "paragraph",
+    "id" : 356,
+    "page number" : 3,
+    "bounding box" : [ 105.176, 507.704, 112.404, 518.123 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0]",
+    "content" : "90"
+  }, {
+    "type" : "paragraph",
+    "id" : 358,
+    "page number" : 3,
+    "bounding box" : [ 84.135, 407.964, 94.555, 512.009 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0]",
+    "content" : "Genomes that belong to phylum (%)"
+  }, {
+    "type" : "paragraph",
+    "id" : 355,
+    "page number" : 3,
+    "bounding box" : [ 105.176, 493.131, 112.404, 503.55 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0]",
+    "content" : "80"
+  }, {
+    "type" : "paragraph",
+    "id" : 345,
+    "page number" : 3,
+    "bounding box" : [ 301.577, 417.545, 311.996, 496.656 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Effector in CBASS type (%)"
+  }, {
+    "type" : "paragraph",
+    "id" : 354,
+    "page number" : 3,
+    "bounding box" : [ 105.176, 478.558, 112.404, 488.977 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0]",
+    "content" : "70"
+  }, {
+    "type" : "paragraph",
+    "id" : 353,
+    "page number" : 3,
+    "bounding box" : [ 105.176, 463.985, 112.404, 474.404 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0]",
+    "content" : "60"
+  }, {
+    "type" : "paragraph",
+    "id" : 352,
+    "page number" : 3,
+    "bounding box" : [ 105.176, 449.412, 112.404, 459.831 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0]",
+    "content" : "50"
+  }, {
+    "type" : "paragraph",
+    "id" : 351,
+    "page number" : 3,
+    "bounding box" : [ 105.176, 434.839, 112.404, 445.258 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0]",
+    "content" : "40"
+  }, {
+    "type" : "paragraph",
+    "id" : 350,
+    "page number" : 3,
+    "bounding box" : [ 105.176, 420.266, 112.404, 430.685 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0]",
+    "content" : "30"
+  }, {
+    "type" : "paragraph",
+    "id" : 349,
+    "page number" : 3,
+    "bounding box" : [ 105.176, 405.693, 112.404, 416.112 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0]",
+    "content" : "20"
+  }, {
+    "type" : "paragraph",
+    "id" : 348,
+    "page number" : 3,
+    "bounding box" : [ 105.176, 391.12, 112.404, 401.539 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0]",
+    "content" : "10"
+  }, {
+    "type" : "paragraph",
+    "id" : 347,
+    "page number" : 3,
+    "bounding box" : [ 108.79, 376.547, 112.404, 386.966 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0]",
+    "content" : "0"
+  }, {
+    "type" : "paragraph",
+    "id" : 363,
+    "page number" : 3,
+    "bounding box" : [ 123.219, 362.997, 138.754, 381.216 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "All types"
+  }, {
+    "type" : "paragraph",
+    "id" : 364,
+    "page number" : 3,
+    "bounding box" : [ 148.349, 362.997, 162.798, 381.216 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Type I"
+  }, {
+    "type" : "paragraph",
+    "id" : 360,
+    "page number" : 3,
+    "bounding box" : [ 172.939, 362.997, 187.389, 381.216 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Type II"
+  }, {
+    "type" : "paragraph",
+    "id" : 361,
+    "page number" : 3,
+    "bounding box" : [ 197.53, 362.997, 211.98, 381.216 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Type III"
+  }, {
+    "type" : "paragraph",
+    "id" : 365,
+    "page number" : 3,
+    "bounding box" : [ 222.121, 362.997, 236.571, 381.216 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Type IV"
+  }, {
+    "type" : "paragraph",
+    "id" : 362,
+    "page number" : 3,
+    "bounding box" : [ 244.361, 362.997, 263.51, 381.216 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Standalone"
+  }, {
+    "type" : "paragraph",
+    "id" : 359,
+    "page number" : 3,
+    "bounding box" : [ 265.159, 362.997, 291.893, 381.216 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "All genomes"
+  }, {
+    "type" : "paragraph",
+    "id" : 366,
+    "page number" : 3,
+    "bounding box" : [ 100.917, 341.985, 299.175, 352.566 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Proteobacteria Firmicutes Actinobacteria Bacteroidetes"
+  }, {
+    "type" : "paragraph",
+    "id" : 371,
+    "level" : "5",
+    "page number" : 3,
+    "bounding box" : [ 100.917, 334.083, 290.123, 344.505 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Euryarchaeota Spirochaetes Cyanobacteria Chloroﬂexi"
+  }, {
+    "type" : "paragraph",
+    "id" : 376,
+    "level" : "5",
+    "page number" : 3,
+    "bounding box" : [ 100.917, 325.939, 176.129, 336.358 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Tenericutes Others"
+  }, {
+    "type" : "table",
+    "id" : 332,
+    "level" : "6",
+    "page number" : 3,
+    "bounding box" : [ 333.117, 381.294, 508.097, 532.78 ],
+    "number of rows" : 11,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 333.242, 527.275, 335.77, 532.655 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 335.77, 381.481, 507.972, 532.655 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 11,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 90,
+          "page number" : 3,
+          "bounding box" : [ 348.825, 381.781, 358.217, 392.201 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[1.0]",
+          "content" : "8%"
+        }, {
+          "type" : "paragraph",
+          "id" : 91,
+          "page number" : 3,
+          "bounding box" : [ 382.079, 405.168, 395.085, 415.588 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[1.0]",
+          "content" : "40%"
+        }, {
+          "type" : "paragraph",
+          "id" : 92,
+          "page number" : 3,
+          "bounding box" : [ 485.091, 391.031, 498.097, 401.45 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[1.0]",
+          "content" : "20%"
+        }, {
+          "type" : "paragraph",
+          "id" : 93,
+          "page number" : 3,
+          "bounding box" : [ 347.746, 436.459, 360.752, 446.879 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[1.0]",
+          "content" : "67%"
+        }, {
+          "type" : "paragraph",
+          "id" : 94,
+          "page number" : 3,
+          "bounding box" : [ 382.079, 445.969, 395.085, 456.388 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[1.0]",
+          "content" : "16%"
+        }, {
+          "type" : "paragraph",
+          "id" : 95,
+          "page number" : 3,
+          "bounding box" : [ 450.751, 434.087, 498.097, 446.144 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[1.0]",
+          "content" : "81% 39%"
+        }, {
+          "type" : "paragraph",
+          "id" : 96,
+          "page number" : 3,
+          "bounding box" : [ 347.746, 496.194, 360.752, 506.614 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[1.0]",
+          "content" : "15%"
+        }, {
+          "type" : "paragraph",
+          "id" : 97,
+          "page number" : 3,
+          "bounding box" : [ 417.504, 383.504, 426.896, 393.923 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[1.0]",
+          "content" : "4%"
+        }, {
+          "type" : "paragraph",
+          "id" : 98,
+          "page number" : 3,
+          "bounding box" : [ 486.176, 468.192, 495.569, 478.612 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[1.0]",
+          "content" : "8%"
+        }, {
+          "type" : "paragraph",
+          "id" : 99,
+          "page number" : 3,
+          "bounding box" : [ 348.831, 513.179, 358.224, 523.598 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[1.0]",
+          "content" : "6%"
+        }, {
+          "type" : "paragraph",
+          "id" : 100,
+          "page number" : 3,
+          "bounding box" : [ 382.085, 485.404, 395.092, 495.824 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[1.0]",
+          "content" : "30%"
+        }, {
+          "type" : "paragraph",
+          "id" : 101,
+          "page number" : 3,
+          "bounding box" : [ 416.418, 438.208, 429.425, 448.627 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[1.0]",
+          "content" : "71%"
+        }, {
+          "type" : "paragraph",
+          "id" : 102,
+          "page number" : 3,
+          "bounding box" : [ 417.51, 492.996, 498.104, 509.064 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "8% 5% 23%"
+        }, {
+          "type" : "paragraph",
+          "id" : 103,
+          "page number" : 3,
+          "bounding box" : [ 416.418, 509.025, 429.425, 519.445 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[1.0]",
+          "content" : "10%"
+        }, {
+          "type" : "paragraph",
+          "id" : 104,
+          "page number" : 3,
+          "bounding box" : [ 451.843, 505.444, 461.236, 515.863 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[1.0]",
+          "content" : "5%"
+        }, {
+          "type" : "paragraph",
+          "id" : 105,
+          "page number" : 3,
+          "bounding box" : [ 383.171, 516.097, 392.563, 526.517 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "9%"
+        }, {
+          "type" : "paragraph",
+          "id" : 106,
+          "page number" : 3,
+          "bounding box" : [ 417.51, 519.77, 426.903, 530.189 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "4%"
+        }, {
+          "type" : "paragraph",
+          "id" : 107,
+          "page number" : 3,
+          "bounding box" : [ 451.843, 515.655, 461.236, 526.075 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "9%"
+        }, {
+          "type" : "paragraph",
+          "id" : 108,
+          "page number" : 3,
+          "bounding box" : [ 486.183, 519.23, 495.575, 529.65 ],
+          "font" : "Helvetica",
+          "font size" : 6.5,
+          "text color" : "[0.0]",
+          "content" : "4%"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 333.242, 512.689, 335.77, 527.275 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 333.242, 498.104, 335.77, 512.689 ],
+        "row number" : 3,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 4,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 333.242, 483.518, 335.77, 498.104 ],
+        "row number" : 4,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 5,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 333.242, 468.932, 335.77, 483.518 ],
+        "row number" : 5,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 6,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 333.242, 454.346, 335.77, 468.932 ],
+        "row number" : 6,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 7,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 333.242, 439.761, 335.77, 454.346 ],
+        "row number" : 7,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 8,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 333.242, 425.177, 335.77, 439.761 ],
+        "row number" : 8,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 9,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 333.242, 410.591, 335.77, 425.177 ],
+        "row number" : 9,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 10,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 333.242, 396.005, 335.77, 410.591 ],
+        "row number" : 10,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 11,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 333.242, 381.481, 335.77, 396.005 ],
+        "row number" : 11,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 344,
+    "page number" : 3,
+    "bounding box" : [ 318.646, 522.092, 329.488, 532.512 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "100"
+  }, {
+    "type" : "paragraph",
+    "id" : 343,
+    "page number" : 3,
+    "bounding box" : [ 322.26, 507.506, 329.488, 517.926 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "90"
+  }, {
+    "type" : "paragraph",
+    "id" : 342,
+    "page number" : 3,
+    "bounding box" : [ 322.26, 492.92, 329.488, 503.34 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "80"
+  }, {
+    "type" : "paragraph",
+    "id" : 341,
+    "page number" : 3,
+    "bounding box" : [ 322.26, 478.334, 329.488, 488.754 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "70"
+  }, {
+    "type" : "paragraph",
+    "id" : 340,
+    "page number" : 3,
+    "bounding box" : [ 322.26, 463.748, 329.488, 474.168 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "60"
+  }, {
+    "type" : "paragraph",
+    "id" : 339,
+    "page number" : 3,
+    "bounding box" : [ 322.26, 449.162, 329.488, 459.582 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "50"
+  }, {
+    "type" : "paragraph",
+    "id" : 338,
+    "page number" : 3,
+    "bounding box" : [ 322.26, 434.576, 329.488, 444.996 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "40"
+  }, {
+    "type" : "paragraph",
+    "id" : 337,
+    "page number" : 3,
+    "bounding box" : [ 322.26, 419.99, 329.488, 430.41 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "30"
+  }, {
+    "type" : "paragraph",
+    "id" : 336,
+    "page number" : 3,
+    "bounding box" : [ 322.26, 405.404, 329.488, 415.824 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "20"
+  }, {
+    "type" : "paragraph",
+    "id" : 335,
+    "page number" : 3,
+    "bounding box" : [ 322.26, 390.818, 329.488, 401.238 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "10"
+  }, {
+    "type" : "paragraph",
+    "id" : 334,
+    "page number" : 3,
+    "bounding box" : [ 325.874, 376.232, 329.488, 386.652 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "0"
+  }, {
+    "type" : "caption",
+    "id" : 333,
+    "page number" : 3,
+    "bounding box" : [ 344.25, 370.272, 503.045, 380.691 ],
+    "linked content id" : 332,
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Type I Type II Type III Type IV All types"
+  }, {
+    "type" : "paragraph",
+    "id" : 323,
+    "level" : "5",
+    "page number" : 3,
+    "bounding box" : [ 357.505, 331.798, 485.899, 358.507 ],
+    "font" : "Helvetica",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Phospholipase 2TM 4TM 1TM Endonuclease TIR Phosphorylase Peptidase Unknown"
+  }, {
+    "type" : "list",
+    "id" : 395,
+    "level" : "4",
+    "page number" : 3,
+    "bounding box" : [ 42.52, 230.36, 552.682, 314.121 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 313,
+    "next list id" : 521,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 42.52, 230.36, 552.682, 314.121 ],
+      "font" : "Whitney-Bold",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Fig. 2 | Phylogenetic distribution of cbASS types and effectors. a, The presence of cbASS systems in analysed genomes, divided by phyla. Data for phyla with >100 genomes in the database are shown. The values above each bar represent the number of genomes from the specific phylum that contain cbASS out of the total number of genomes from the specific phylum that are present in the analysed database. b, The presence of cbASS systems in species, divided by phyla. A cbASS system was counted as present in a species if at least one genome of that species contained a cbASS. The values above each bar represent the number of species from the specific phylum that contain a cbASS out of the total number of species from the specific phylum that are present in the analysed database. c, Phyletic distribution of genomes per cbASS type. Data are shown for phyla with >200 genomes in the database. The bar on the right shows the phyletic distribution of all 38,167 genomes in the database for comparison purposes. d, The distribution of effector genes in each cbASS type.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 317,
+    "page number" : 3,
+    "bounding box" : [ 42.52, 105.66, 291.667, 212.706 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "identified (572 systems) are associated with another set of ancillary genes that, interestingly, also encode protein domains that were to date mainly described in eukaryotes13. One of these genes (hereafter, cap7) encodes a HORMA-domain protein; such proteins form signalling complexes that control steps in meiosis, mitosis and DNA repair in eukaryotes14. The second gene (cap6) encodes a TRIP13 domain (also called Pch2 domain), which is a known inhibitor of HORMA-domain protein activity. In eukaryotes, TRIP13 proteins dissociate the HORMA signalling complexes and, therefore, turn off the signal15."
+  }, {
+    "type" : "paragraph",
+    "id" : 318,
+    "page number" : 3,
+    "bounding box" : [ 42.522, 42.661, 291.657, 107.827 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "A type III CBASS from E. coli MS115-1 was shown to provide protection against phage-lambda infection9. The oligonucleotide cyclase in this system produces cyclic triadenylate molecules (cAAA) in response to phage infection, and this molecule was shown to activate the effector protein—an endonuclease that non-discriminately and completely degrades both phage and host"
+  }, {
+    "type" : "paragraph",
+    "id" : 319,
+    "page number" : 3,
+    "bounding box" : [ 303.637, 42.66, 552.789, 212.706 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "DNA leading to abortive infection and cell death9,10. It was shown that the HORMA-domain protein (Cap7) is essential for phage defence, and that the oligonucleotide cyclase becomes active only when physically bound by the HORMA-domain protein. By contrast, the TRIP13 protein Cap6 was shown to dissociate the HORMA-domain protein from the oligonucleotide cyclase, indicating that TRIP13 is a negative regulator of cyclic-oligonucleotide production9. On the basis of these results, it was suggested that, under normal conditions, Cap6 prevents Cap7 from associating with and activating the oligonucleotide cyclase; however, during phage infection, Cap7 recognizes the infection (perhaps by binding to a phage-encoded protein) and changes its conformation to remain bound to the oligonucleotide cyclase. This binding activates the production of the cyclic-oligonucleotide molecule, which in turn activates the effector protein leading to cell death before the phage has completed its replication cycle9,10."
+  }, {
+    "type" : "footer",
+    "id" : 396,
+    "page number" : 3,
+    "bounding box" : [ 42.52, 22.883, 552.789, 33.864 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 165,
+      "page number" : 3,
+      "bounding box" : [ 42.52, 22.883, 552.789, 33.864 ],
+      "heading level" : 5,
+      "font" : "Whitney-Book",
+      "font size" : 6.75,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1610 NAtuRe MicRobioloGy | VOL 5 | DeceMbeR 2020 | 1608–1615 | www.nature.com/naturemicrobiology"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 397,
+    "page number" : 4,
+    "bounding box" : [ 42.065, 747.379, 553.519, 770.635 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 173,
+      "page number" : 4,
+      "bounding box" : [ 42.065, 747.379, 553.519, 770.635 ],
+      "heading level" : 2,
+      "font" : "Whitney-Bold",
+      "font size" : 12.0,
+      "text color" : "[1.0, 1.0, 1.0]",
+      "content" : "NATurE MICroBIoloGy AnAlysis"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 399,
+    "page number" : 4,
+    "bounding box" : [ 42.515, 567.662, 291.675, 737.707 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Type III systems are overrepresented in Proteobacteria and are almost completely absent from Firmicutes (Fig. 2c). These CBASS systems appear in two main configurations: one with a single HORMA-domain protein (Cap7), and the second with two HORMA-domain proteins in which one of the two HORMA-domain proteins (which we denote Cap8) is considerably divergent and is identifiable only through structure-based comparisons, but not sequence-based comparisons9 (Fig. 1c). It was found that this divergent Cap8 HORMA domain does not activate the cyclase in vitro and it was therefore suggested that it functions as a scaffold9. The oligonucleotide cyclases that are present in the two type III subtypes form two distinct clades on the phylogenetic tree of the oligonucleotide cyclase family (Extended Data Fig. 1). A specific subclade of the type III CBASS systems (102 cases, 18% of type III systems) contains an additional ancillary gene with a predicted 3′–5′ exonuclease domain (Supplementary Table 3)."
+  }, {
+    "type" : "list",
+    "id" : 400,
+    "level" : "3",
+    "page number" : 4,
+    "bounding box" : [ 42.52, 483.664, 291.66, 559.329 ],
+    "numbering style" : "roman numbers",
+    "number of list items" : 1,
+    "previous list id" : 274,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 42.52, 483.664, 291.66, 559.329 ],
+      "font" : "MinionPro-It",
+      "font size" : 9.3,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Type IV CBASS includes ancillary proteins with nucleotide-modifying domains. Type IV is a rare form of CBASS, with only 43 occurrences in the analysed genomes, appearing mostly in archaea and Firmicutes. Type IV CBASS comprises two ancillary genes (cap9 and cap10) with protein domains that are involved in nucleotide modification. cap9 encodes a predicted QueC enzymatic domain, which is known to convert the modified base 7-carboxy-7-deazaguanine (CDG)",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 401,
+    "page number" : 4,
+    "bounding box" : [ 42.52, 462.661, 291.649, 485.828 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "to 7-cyano-7-deazaguanine (preQ0)16,17. cap10 encodes a predicted enzyme called TGT that catalyses base exchange of a specific gua-"
+  }, {
+    "type" : "paragraph",
+    "id" : 402,
+    "page number" : 4,
+    "bounding box" : [ 42.517, 357.662, 291.657, 464.707 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "nine residue with preQ0 in tRNA molecules18. Proteins with these enzymatic domains were also shown to modify guanine residues on DNA as part of a restriction-modification system called dpd19. In 12 (28%) of the type IV CBASS systems, another gene (cap11) that is annotated as an N-glycosylase/DNA lyase (OGG) is also present in the CBASS operon (Supplementary Table 4). N-glycosylase/DNA lyases are known to remove damaged guanine bases (8-oxoG) from the DNA and to nick DNA in apurinic/apyrimidinic sites20. To date, no type IV CBASS systems were demonstrated to defend against phages, and the function of their ancillary genes remains obscure."
+  }, {
+    "type" : "paragraph",
+    "id" : 403,
+    "page number" : 4,
+    "bounding box" : [ 42.524, 284.164, 291.669, 359.708 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Type IV systems are enriched in archaea and form two clades on the phylogenetic tree of the oligonucleotide cyclase family (Extended Data Fig. 1), one of which is a distinct, previously unreported clade. Notably, the relatively small number of sequenced archaeal genomes in the databases (representing only 2.5% of the set of >38,000 genomes that we analysed) may have led to an under-representation of type IV CBASS systems in our set of genomes."
+  }, {
+    "type" : "paragraph",
+    "id" : 404,
+    "page number" : 4,
+    "bounding box" : [ 42.52, 105.664, 291.679, 275.831 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Standalone oligonucleotide cyclases. We detected 485 (9%) cases in which the oligonucleotide cyclase gene was not associated with effector and/or ancillary genes (Supplementary Table 5). In many cases, these standalone cyclases appear at, or near to, the edge of partially assembled genomic scaffolds, most probably representing cases in which the remainder of the CBASS operon was in the not-yet-assembled part of the draft genome. Other cases of standalone cyclases may represent degenerated, pseudogenized CBASS systems in which some of the genes were mutated or deleted, or cases in which the effector gene is not adjacent to the cyclase but is rather found elsewhere on the genome. We cannot rule out the possibility that some oligonucleotide cyclases exert their function as standalone genes. Indeed, we detected three cases in which CBASS systems appear on a single gene, comprising a fusion between the oligonucleotide cyclase and the effector gene (Supplementary Table 1)."
+  }, {
+    "type" : "paragraph",
+    "id" : 405,
+    "page number" : 4,
+    "bounding box" : [ 42.52, 42.662, 291.664, 97.536 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Classification axis II: the effector cell-killing domain. The effector gene of CBASS systems is usually composed of two domainsthe cyclic-oligonucleotide-sensing domain and the cell-killing domain that becomes activated once the cyclic oligonucleotide is sensed. The various cell-killing domains can be associated with"
+  }, {
+    "type" : "paragraph",
+    "id" : 410,
+    "page number" : 4,
+    "bounding box" : [ 306.92, 710.089, 526.826, 732.256 ],
+    "font" : "Whitney-Semibold",
+    "font size" : 9.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Table 1 | Pfams that are commonly associated with cbASS systems in prokaryotes"
+  }, {
+    "type" : "paragraph",
+    "id" : 412,
+    "page number" : 4,
+    "bounding box" : [ 306.92, 694.37, 533.08, 704.698 ],
+    "font" : "Whitney-Semibold",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Pfam Function in cbASS Additional names"
+  }, {
+    "type" : "list",
+    "id" : 413,
+    "level" : "5",
+    "page number" : 4,
+    "bounding box" : [ 306.92, 643.84, 510.406, 690.562 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 306.92, 680.322, 510.406, 690.562 ],
+      "font" : "Whitney-Book",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "PF18144 Oligonucleotide cyclase cD-NTase8",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 193,
+        "page number" : 4,
+        "bounding box" : [ 306.92, 657.114, 465.16, 677.354 ],
+        "font" : "Whitney-Book",
+        "font size" : 8.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "PF18134 Domain of unknown function fused to cyclases"
+      }, {
+        "type" : "paragraph",
+        "id" : 194,
+        "page number" : 4,
+        "bounding box" : [ 473.432, 667.114, 499.798, 677.354 ],
+        "font" : "Whitney-Book",
+        "font size" : 8.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "AGS-c11"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 306.92, 643.84, 500.686, 654.08 ],
+      "font" : "Whitney-Book",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "PF18145 Oligonucleotide-sensing domain SAVeD11",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 414,
+    "level" : "5",
+    "page number" : 4,
+    "bounding box" : [ 306.92, 554.189, 508.934, 640.804 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 306.92, 630.564, 498.462, 640.804 ],
+      "font" : "Whitney-Book",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "PF18178 Oligonucleotide-sensing domain TPALS11",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 190,
+        "page number" : 4,
+        "bounding box" : [ 306.92, 607.289, 456.496, 627.529 ],
+        "font" : "Whitney-Book",
+        "font size" : 8.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "PF15009 Oligonucleotide-sensing domain (STING)"
+      }, {
+        "type" : "paragraph",
+        "id" : 191,
+        "page number" : 4,
+        "bounding box" : [ 473.432, 617.289, 495.408, 627.529 ],
+        "font" : "Whitney-Book",
+        "font size" : 8.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "STING"
+      }, {
+        "type" : "paragraph",
+        "id" : 192,
+        "page number" : 4,
+        "bounding box" : [ 306.92, 594.017, 515.462, 604.257 ],
+        "font" : "Whitney-Book",
+        "font size" : 8.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "PF18153 effector domain (2TM) S_2TMbeta11"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 306.92, 554.189, 508.934, 590.979 ],
+      "font" : "Whitney-Book",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "PF18179 effector domain (2TM) SUa-2TM11 PF18303 effector domain (2TM) SAF 2TM11 PF18181 effector domain (2TM) SLATT11",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 415,
+    "level" : "5",
+    "page number" : 4,
+    "bounding box" : [ 306.92, 487.814, 498.662, 551.154 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 306.92, 540.914, 498.662, 551.154 ],
+      "font" : "Whitney-Book",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "PF18183 effector domain (2TM) SLATT11",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 306.92, 487.814, 498.662, 537.88 ],
+      "font" : "Whitney-Book",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "PF18184 effector domain (2TM) SLATT11 PF18186 effector domain (2TM) SLATT11 PF18160 effector domain (2TM) SLATT11 PF18169 effector domain (2TM) SLATT11",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 416,
+    "page number" : 4,
+    "bounding box" : [ 306.92, 474.54, 538.664, 484.78 ],
+    "font" : "Whitney-Book",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "PF18167 effector domain (2TM) SMODS-associated"
+  }, {
+    "type" : "paragraph",
+    "id" : 417,
+    "page number" : 4,
+    "bounding box" : [ 306.92, 398.174, 527.414, 474.78 ],
+    "font" : "Whitney-Book",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "NUDIX domain11 PF18159 effector domain (4TM) S-4TM11 cOG3105 effector domain (1TM) DUF1043 PF00899 Ancillary gene, type II (e1 domain) PF14461 Ancillary gene, type II (e2 domain) PF14464 Ancillary gene, type II (JAb"
+  }, {
+    "type" : "paragraph",
+    "id" : 418,
+    "page number" : 4,
+    "bounding box" : [ 306.92, 341.254, 456.704, 398.414 ],
+    "font" : "Whitney-Book",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "domain) PF18173 Ancillary gene, type III (HORMA domain) PF18138 Ancillary gene, type III (HORMA domain)"
+  }, {
+    "type" : "paragraph",
+    "id" : 406,
+    "page number" : 4,
+    "bounding box" : [ 303.636, 252.661, 552.792, 317.71 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "several CBASS types. In our CBASS classification scheme, we mark cell-killing domains by capital letters (for example, phospholipase domain (A), transmembrane domains (B), endonuclease domain (C) and so on; see below). Thus, CBASS type I-A is a type I system with a phospholipase effector, and CBASS type II-C is a type II system with an endonuclease effector."
+  }, {
+    "type" : "paragraph",
+    "id" : 407,
+    "page number" : 4,
+    "bounding box" : [ 303.638, 210.662, 552.764, 254.707 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The following cell-killing domains are identified in CBASS effector genes. In some cases, they were shown to cause cell death; in other cases, the cell-killing effect is hypothesized but has not yet been examined experimentally."
+  }, {
+    "type" : "paragraph",
+    "id" : 408,
+    "page number" : 4,
+    "bounding box" : [ 303.635, 116.161, 552.781, 202.329 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Patatin-like phospholipase (A). Effector proteins with a patatin-like phospholipase domain were shown to degrade the phospholipids of the inner cell membrane, as demonstrated in vitro as well as by in vivo studies in V. cholerae7. This leads to a change in the cell shape and eventual cell lysis5. Effector genes with phospholipase domains are found both in type I and type II CBASS systems, but are absent from types III and IV. These effectors are the most common effectors in type II CBASS (Fig. 2d)."
+  }, {
+    "type" : "paragraph",
+    "id" : 409,
+    "page number" : 4,
+    "bounding box" : [ 303.638, 42.661, 552.775, 107.828 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Effectors with two or four transmembrane helices (B). This effector class is composed of proteins that do not have an identifiable enzymatic domain but, rather, encode transmembrane helices. These effectors are predicted to promote cell death by forming pores in the cell membrane once they become activated by the cyclic oligonucleotide5,11. Effectors with two transmembrane helices (2TM) are the"
+  }, {
+    "type" : "footer",
+    "id" : 419,
+    "page number" : 4,
+    "bounding box" : [ 42.52, 22.883, 552.76, 33.864 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 166,
+      "page number" : 4,
+      "bounding box" : [ 42.52, 22.883, 552.76, 33.864 ],
+      "heading level" : 5,
+      "font" : "Whitney-Book",
+      "font size" : 6.75,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "NAtuRe MicRobioloGy | VOL 5 | DeceMbeR 2020 | 1608–1615 | www.nature.com/naturemicrobiology 1611"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 420,
+    "page number" : 5,
+    "bounding box" : [ 41.265, 747.379, 553.039, 770.635 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 174,
+      "page number" : 5,
+      "bounding box" : [ 41.265, 747.379, 553.039, 770.635 ],
+      "heading level" : 2,
+      "font" : "Whitney-Bold",
+      "font size" : 12.0,
+      "text color" : "[1.0, 1.0, 1.0]",
+      "content" : "AnAlysis NATurE MICroBIoloGy"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 435,
+    "page number" : 5,
+    "bounding box" : [ 45.52, 720.602, 321.503, 732.266 ],
+    "font" : "Whitney-Semibold",
+    "font size" : 9.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Table 2 | experimentally studied cbASS systems and their classifications"
+  }, {
+    "type" : "paragraph",
+    "id" : 436,
+    "page number" : 5,
+    "bounding box" : [ 45.52, 694.88, 343.36, 715.208 ],
+    "font" : "Whitney-Semibold",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Species cyclase effector Ancillary genes"
+  }, {
+    "type" : "paragraph",
+    "id" : 437,
+    "page number" : 5,
+    "bounding box" : [ 363.184, 694.88, 514.72, 715.208 ],
+    "font" : "Whitney-Semibold",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Signalling molecule cbASS classification"
+  }, {
+    "type" : "paragraph",
+    "id" : 438,
+    "page number" : 5,
+    "bounding box" : [ 531.488, 704.88, 544.44, 715.208 ],
+    "font" : "Whitney-Semibold",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Ref."
+  }, {
+    "type" : "paragraph",
+    "id" : 439,
+    "page number" : 5,
+    "bounding box" : [ 45.512, 657.627, 535.77, 691.075 ],
+    "font" : "Whitney-Book",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "E. coli, V. cholerae DncV (cGAS) Phospholipase cap2, cap3 cGAMP Type II-AGA 5 P. aeruginosa, Xanthomonas citri"
+  }, {
+    "type" : "paragraph",
+    "id" : 440,
+    "page number" : 5,
+    "bounding box" : [ 141.162, 667.624, 536.066, 677.867 ],
+    "font" : "Whitney-Book",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "cD-NTase002 cD-NTase003 Phospholipase cap2, cap3 cGAMP Type II-AGA 8"
+  }, {
+    "type" : "paragraph",
+    "id" : 441,
+    "page number" : 5,
+    "bounding box" : [ 45.522, 591.253, 544.546, 654.592 ],
+    "font" : "Whitney-Book",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "E. coli cdne Phospholipase cap2, cap3 cyclic UMP-AMP Type II-AUA 8 Legionella pneumophila Lp-cdne02 2TM None cyclic UMP-UMP Type I-bUU 8 Enterobacter cloacae ec-cdnD02 endonuclease cap2, cap3 cyclic AMP-AMP-GMP Type II-cAAG 8,12 E. coli cdnc endonuclease cap6, cap7 cyclic AMP-AMP-AMP Type III-cAAA 9 P. aeruginosa cdnD endonuclease cap6, cap7,"
+  }, {
+    "type" : "paragraph",
+    "id" : 443,
+    "page number" : 5,
+    "bounding box" : [ 363.186, 591.249, 536.042, 601.493 ],
+    "font" : "Whitney-Book",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "cyclic AMP-AMP-AMP Type III-cAAA 9"
+  }, {
+    "type" : "paragraph",
+    "id" : 442,
+    "page number" : 5,
+    "bounding box" : [ 312.866, 581.253, 330.778, 591.493 ],
+    "font" : "Whitney-Book",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "cap8"
+  }, {
+    "type" : "paragraph",
+    "id" : 444,
+    "page number" : 5,
+    "bounding box" : [ 45.514, 554.325, 538.618, 578.217 ],
+    "font" : "Whitney-Book",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "B. cereus IK1_05630 4TM None Unknown Type I-b 8 Acinetobacter baumannii AbcdnD endonuclease cap2, cap3 cyclic AMP-AMP-AMP-AMP Type II-cAAAA 12"
+  }, {
+    "type" : "paragraph",
+    "id" : 422,
+    "page number" : 5,
+    "bounding box" : [ 42.52, 515.162, 291.674, 538.207 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "most common effector class in type I and type IV CBASS systems, and are rare in type III systems (Fig. 2d)."
+  }, {
+    "type" : "paragraph",
+    "id" : 423,
+    "page number" : 5,
+    "bounding box" : [ 42.519, 431.162, 291.669, 517.208 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Several protein families (Pfams) have been designated by Aravind and colleagues11 to identify CBASS-associated 2TM effector domains (Table 1). A minority of 2TM effectors contain an additional functional domain annotated as a NUDIX hydrolase11 (Table 1). This domain is known to cleave nucleoside diphosphate molecules linked to other moieties21 and, therefore, this subclass of effectors probably exerts another function instead of, or in addition to, forming membrane pores."
+  }, {
+    "type" : "paragraph",
+    "id" : 424,
+    "page number" : 5,
+    "bounding box" : [ 42.52, 336.661, 291.654, 433.208 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Some CBASS systems encode effector proteins with four transmembrane helices (4TM). This is possibly a fusion of two 2TM effectors, containing two distinct 2TM effector domains. A 4TM effector was demonstrated to promote infection-mediated cell death in the type I CBASS system of B. cereus VD146 (ref. 5). Interestingly, about 10% of the systems with a 4TM effector have two cyclase genes (compared with ~1% in systems with other effectors), suggesting that the effector may respond to signals from the two cyclases (see below)."
+  }, {
+    "type" : "paragraph",
+    "id" : 425,
+    "page number" : 5,
+    "bounding box" : [ 42.52, 305.162, 291.611, 338.707 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Finally, several CBASS effectors (69 of the cases) involve a single transmembrane domain (1TM). Most of these are annotated with a domain of unknown function DUF1043."
+  }, {
+    "type" : "paragraph",
+    "id" : 426,
+    "page number" : 5,
+    "bounding box" : [ 42.52, 242.161, 291.656, 296.829 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Endonuclease (C). Another common effector type encodes an endonuclease domain (Fig. 2d). Endonuclease domains are found mostly in CBASS types II and III. Four different subclasses of endonuclease domains appear with these effectors: HNH endonuclease (CBASS types I and II), NucC endonuclease (mostly in type"
+  }, {
+    "type" : "list",
+    "id" : 427,
+    "level" : "2",
+    "page number" : 5,
+    "bounding box" : [ 42.517, 105.661, 291.667, 244.207 ],
+    "numbering style" : "roman numbers",
+    "number of list items" : 1,
+    "previous list id" : 202,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 42.517, 105.661, 291.667, 244.207 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 9.3,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "III CBASS), a recently identified endonuclease of Pfam PF14130 (formerly called DUF4297)12 and, rarely, Mrr or calcineurin-like nucleases. The NucC-domain effector protein of type III CBASS from E. coli MS115-1 was shown to be activated by its cognate cyclic oligonucleotide (cyclic triadenylate) and, once activated, it was shown to degrade double-stranded DNA indiscriminately to fragments sized 50–100 bp (ref. 10). DNA degradation during the infection process eliminates both phage and host genomes, aborting the infection and leading to cell death10. In a similar manner, effector proteins that contain the DUF4297 endonuclease (denoted Cap4) or the HNH endonuclease domain (Cap5) were shown to degrade DNA into short fragments when activated by their cognate cyclic-oligonucleotide molecules12.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 428,
+    "page number" : 5,
+    "bounding box" : [ 42.52, 42.661, 291.638, 97.328 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "TIR domains (D). Toll/interleukin-1 receptor (TIR) domains were originally found in pathogen-sensing innate-immunity proteins in eukaryotes22. These domains were recently shown to participate in a widespread anti-phage defence system called Thoeris, the mechanism of action of which is yet to be deciphered2."
+  }, {
+    "type" : "paragraph",
+    "id" : 429,
+    "page number" : 5,
+    "bounding box" : [ 303.638, 452.163, 552.781, 538.207 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The presence of TIR domains within CBASS effectors mark TIRs as possibly exerting a cell-killing function. Three subclasses of TIR domains are associated with CBASS systems: (1) a TIR-like domain fused to a STING domain in type I CBASS; (2) a TIR-like domain fused to a cyclic-oligonucleotide-sensor domain annotated as Pfam PF18145 in type II systems; and (3) a TIR-like domain fused to a cyclic-oligonucleotide-sensor domain annotated as Pfam PF18178 in type III systems."
+  }, {
+    "type" : "paragraph",
+    "id" : 430,
+    "page number" : 5,
+    "bounding box" : [ 303.638, 410.165, 552.786, 443.831 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Phosphorylase/nucleosidase superfamily (E). Protein domains with this annotation are found rarely (60 cases in our set) in effector genes from type III CBASS systems."
+  }, {
+    "type" : "paragraph",
+    "id" : 431,
+    "page number" : 5,
+    "bounding box" : [ 303.638, 357.666, 552.773, 401.832 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Peptidase (F). Peptidases of the caspase-like superfamily are found rarely (20 such cases in our set) in effector genes that mostly belong to type I CBASS. We postulate that this domain may be involved in cell suicide, perhaps by cleaving essential cellular proteins."
+  }, {
+    "type" : "paragraph",
+    "id" : 432,
+    "page number" : 5,
+    "bounding box" : [ 303.635, 189.661, 552.784, 349.538 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Classification axis III: the signalling molecule. In a recent comprehensive study, Kranzusch and colleagues showed that the bacterial cGAS protein, which was originally detected in V. cholerae6, is part of a large and diverse family of oligonucleotide cyclases (CD-NTases) that is widespread in microorganisms8. Various cyclases from the CD-NTase family have been experimentally shown to generate a variety of cyclic di- and trinucleotides, including cyclic cGAMP, cyclic UMP-AMP, cyclic UMP-UMP and cyclic AMP-AMP-GMP8. CBASS systems of the same type can encode different cyclases that produce different signalling molecules (Table 2). We propose to include the biologically active signalling molecule of CBASS systems as a superscript annotation, such that, for example, a type II CBASS with a phospholipase effector that utilizes cyclic UMP-AMP signalling molecule will be named CBASS type II-AUA (Table 2)."
+  }, {
+    "type" : "paragraph",
+    "id" : 433,
+    "page number" : 5,
+    "bounding box" : [ 303.64, 137.162, 552.787, 191.707 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "A phylogenetic tree of the oligonucleotide cyclase proteins is shown in Extended Data Fig. 1. This tree largely follows the trees for this family of proteins presented in refs. 5,8, and we now add the updated CBASS and effector types overlaid on the tree (Extended Data Fig. 1)."
+  }, {
+    "type" : "paragraph",
+    "id" : 434,
+    "page number" : 5,
+    "bounding box" : [ 303.638, 42.662, 552.794, 139.208 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "CBASS effector genes must encode cyclic-oligonucleotide-sensing domains that match the signalling molecule produced by their cognate oligonucleotide cyclase. About 30% of the effector proteins in CBASS systems encode a domain called SAVED11, which was recently shown to form the oligonucleotide-sensing platform in the effector protein. Divergence in the nucleotide-binding pockets of SAVED enables the specific recognition of a large variety of cyclic oligonucleotides that differ in ring size and composition12. Other protein domains that are found in CBASS effector proteins that"
+  }, {
+    "type" : "footer",
+    "id" : 445,
+    "page number" : 5,
+    "bounding box" : [ 42.52, 22.883, 552.789, 33.864 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 167,
+      "page number" : 5,
+      "bounding box" : [ 42.52, 22.883, 552.789, 33.864 ],
+      "heading level" : 5,
+      "font" : "Whitney-Book",
+      "font size" : 6.75,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1612 NAtuRe MicRobioloGy | VOL 5 | DeceMbeR 2020 | 1608–1615 | www.nature.com/naturemicrobiology"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 446,
+    "page number" : 6,
+    "bounding box" : [ 42.065, 747.379, 553.519, 770.635 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 175,
+      "page number" : 6,
+      "bounding box" : [ 42.065, 747.379, 553.519, 770.635 ],
+      "heading level" : 2,
+      "font" : "Whitney-Bold",
+      "font size" : 12.0,
+      "text color" : "[1.0, 1.0, 1.0]",
+      "content" : "NATurE MICroBIoloGy AnAlysis"
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 508,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 104.09, 723.409, 108.146, 733.753 ],
+    "heading level" : 3,
+    "font" : "Whitney-Bold4",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "a"
+  }, {
+    "type" : "paragraph",
+    "id" : 457,
+    "page number" : 6,
+    "bounding box" : [ 114.798, 680.476, 135.026, 687.99 ],
+    "font" : "Helvetica3",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Strains"
+  }, {
+    "type" : "list",
+    "id" : 455,
+    "level" : "4",
+    "page number" : 6,
+    "bounding box" : [ 114.798, 594.162, 164.295, 673.404 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 114.798, 665.89, 164.295, 673.404 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "2-011-08_S4_C3",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 114.798, 594.162, 164.295, 659.058 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "3-105-05_S3_C2 3234/A AZ72 K71-77 MGH107",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 458,
+    "page number" : 6,
+    "bounding box" : [ 103.635, 574.196, 111.136, 619.345 ],
+    "font" : "Helvetica-Oblique3",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Escherichia coli"
+  }, {
+    "type" : "list",
+    "id" : 456,
+    "level" : "5",
+    "page number" : 6,
+    "bounding box" : [ 114.798, 522.435, 162.482, 587.331 ],
+    "numbering style" : "english letters",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 114.798, 579.817, 130.697, 587.331 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "G237",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 114.798, 522.435, 162.482, 572.985 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "H3 CVM N36204PS E831 KCJK1734",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 505,
+    "page number" : 6,
+    "bounding box" : [ 403.053, 678.146, 495.904, 729.414 ],
+    "font" : "Helvetica3",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Type III: single HORMAType III: double HORMA"
+  }, {
+    "type" : "paragraph",
+    "id" : 460,
+    "page number" : 6,
+    "bounding box" : [ 239.471, 676.703, 296.598, 726.342 ],
+    "font" : "Helvetica3",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Type III: single HORMA"
+  }, {
+    "type" : "paragraph",
+    "id" : 506,
+    "page number" : 6,
+    "bounding box" : [ 369.275, 678.147, 389.327, 696.675 ],
+    "font" : "Helvetica3",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Type II"
+  }, {
+    "type" : "paragraph",
+    "id" : 504,
+    "page number" : 6,
+    "bounding box" : [ 335.489, 678.145, 354.156, 695.512 ],
+    "font" : "Helvetica3",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Type I"
+  }, {
+    "type" : "paragraph",
+    "id" : 461,
+    "page number" : 6,
+    "bounding box" : [ 205.689, 676.706, 225.741, 695.235 ],
+    "font" : "Helvetica3",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Type II"
+  }, {
+    "type" : "paragraph",
+    "id" : 459,
+    "page number" : 6,
+    "bounding box" : [ 171.906, 676.7, 190.574, 694.067 ],
+    "font" : "Helvetica3",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Type I"
+  }, {
+    "type" : "paragraph",
+    "id" : 481,
+    "page number" : 6,
+    "bounding box" : [ 291.753, 522.459, 330.766, 689.405 ],
+    "font" : "Helvetica3",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Strains PsVir02 UM-01 KF702 ST-111 ATCC 43732 MRSN 20176 BTP034 ATCC 33364 ATCC 33351 PA_D22 AU20671"
+  }, {
+    "type" : "text block",
+    "id" : 488,
+    "page number" : 6,
+    "bounding box" : [ 367.931, 662.83, 398.942, 676.102 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 122,
+      "page number" : 6,
+      "bounding box" : [ 381.088, 665.814, 385.781, 673.328 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "C"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 495,
+    "page number" : 6,
+    "bounding box" : [ 435.496, 662.83, 466.507, 676.102 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 134,
+      "page number" : 6,
+      "bounding box" : [ 448.701, 665.821, 453.394, 673.335 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "C"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 463,
+    "page number" : 6,
+    "bounding box" : [ 171.531, 662.778, 202.542, 676.049 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 111,
+      "page number" : 6,
+      "bounding box" : [ 175.299, 665.764, 198.77, 673.278 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "B (4TM)"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 475,
+    "page number" : 6,
+    "bounding box" : [ 239.097, 662.778, 270.108, 676.049 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 125,
+      "page number" : 6,
+      "bounding box" : [ 252.298, 665.758, 256.991, 673.272 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "C"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 500,
+    "page number" : 6,
+    "bounding box" : [ 401.714, 648.481, 432.726, 661.753 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 133,
+      "page number" : 6,
+      "bounding box" : [ 415.239, 651.475, 419.575, 658.989 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "E"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 465,
+    "page number" : 6,
+    "bounding box" : [ 171.531, 648.429, 202.542, 661.701 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 140,
+      "page number" : 6,
+      "bounding box" : [ 175.299, 651.412, 198.77, 658.926 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "B (2TM)"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 473,
+    "page number" : 6,
+    "bounding box" : [ 205.314, 648.429, 236.326, 661.701 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 136,
+      "page number" : 6,
+      "bounding box" : [ 218.517, 651.412, 223.21, 658.926 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "C"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 484,
+    "page number" : 6,
+    "bounding box" : [ 334.146, 634.133, 365.16, 647.405 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 132,
+      "page number" : 6,
+      "bounding box" : [ 337.915, 637.117, 361.387, 644.631 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "B (2TM)"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 503,
+    "page number" : 6,
+    "bounding box" : [ 367.931, 634.133, 398.942, 647.405 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 128,
+      "page number" : 6,
+      "bounding box" : [ 381.628, 637.13, 385.242, 644.644 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "?"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 492,
+    "page number" : 6,
+    "bounding box" : [ 401.714, 634.133, 432.726, 647.405 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 119,
+      "page number" : 6,
+      "bounding box" : [ 414.921, 637.123, 419.614, 644.637 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "C"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 496,
+    "page number" : 6,
+    "bounding box" : [ 435.496, 634.133, 466.507, 647.405 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 142,
+      "page number" : 6,
+      "bounding box" : [ 448.701, 637.123, 453.394, 644.637 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "C"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 464,
+    "page number" : 6,
+    "bounding box" : [ 171.531, 634.081, 202.542, 647.353 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 116,
+      "page number" : 6,
+      "bounding box" : [ 175.299, 637.067, 198.77, 644.581 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "B (4TM)"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 472,
+    "page number" : 6,
+    "bounding box" : [ 205.314, 634.081, 236.326, 647.353 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 115,
+      "page number" : 6,
+      "bounding box" : [ 209.079, 637.19, 232.551, 644.704 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "B (2TM)"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 482,
+    "page number" : 6,
+    "bounding box" : [ 278.805, 561.355, 286.306, 636.865 ],
+    "font" : "Helvetica-Oblique3",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Pseudomonas aeruginosa"
+  }, {
+    "type" : "text block",
+    "id" : 489,
+    "page number" : 6,
+    "bounding box" : [ 367.931, 619.786, 398.942, 633.057 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 123,
+      "page number" : 6,
+      "bounding box" : [ 381.27, 622.771, 385.606, 630.285 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "A"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 493,
+    "page number" : 6,
+    "bounding box" : [ 401.714, 619.786, 432.726, 633.057 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 120,
+      "page number" : 6,
+      "bounding box" : [ 414.921, 622.778, 419.614, 630.292 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "C"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 476,
+    "page number" : 6,
+    "bounding box" : [ 239.097, 619.734, 270.108, 633.005 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 110,
+      "page number" : 6,
+      "bounding box" : [ 252.298, 622.715, 256.991, 630.229 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "C"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 501,
+    "page number" : 6,
+    "bounding box" : [ 401.714, 605.438, 432.726, 618.709 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 112,
+      "page number" : 6,
+      "bounding box" : [ 415.239, 608.432, 419.575, 615.946 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "E"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 497,
+    "page number" : 6,
+    "bounding box" : [ 435.496, 605.438, 466.507, 618.709 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 137,
+      "page number" : 6,
+      "bounding box" : [ 448.701, 608.426, 453.394, 615.94 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "C"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 470,
+    "page number" : 6,
+    "bounding box" : [ 171.531, 605.385, 202.542, 618.656 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 117,
+      "page number" : 6,
+      "bounding box" : [ 184.542, 608.363, 188.877, 615.877 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "A"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 471,
+    "page number" : 6,
+    "bounding box" : [ 205.314, 605.385, 236.326, 618.656 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 135,
+      "page number" : 6,
+      "bounding box" : [ 218.647, 608.493, 222.983, 616.007 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "A"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 485,
+    "page number" : 6,
+    "bounding box" : [ 334.146, 591.089, 365.16, 604.361 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 113,
+      "page number" : 6,
+      "bounding box" : [ 337.915, 594.074, 361.387, 601.588 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "B (2TM)"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 490,
+    "page number" : 6,
+    "bounding box" : [ 367.931, 591.089, 398.942, 604.361 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 124,
+      "page number" : 6,
+      "bounding box" : [ 381.088, 594.074, 385.781, 601.588 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "C"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 466,
+    "page number" : 6,
+    "bounding box" : [ 171.531, 591.038, 202.542, 604.309 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 146,
+      "page number" : 6,
+      "bounding box" : [ 172.588, 594.147, 201.481, 601.661 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "B (2/4TM)"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 491,
+    "page number" : 6,
+    "bounding box" : [ 367.931, 576.74, 398.942, 590.012 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 138,
+      "page number" : 6,
+      "bounding box" : [ 381.088, 579.728, 385.781, 587.242 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "C"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 494,
+    "page number" : 6,
+    "bounding box" : [ 401.714, 576.74, 432.726, 590.012 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 141,
+      "page number" : 6,
+      "bounding box" : [ 414.921, 579.735, 419.614, 587.249 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "C"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 467,
+    "page number" : 6,
+    "bounding box" : [ 171.531, 576.69, 202.542, 589.961 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 121,
+      "page number" : 6,
+      "bounding box" : [ 175.299, 579.802, 198.77, 587.316 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "B (4TM)"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 474,
+    "page number" : 6,
+    "bounding box" : [ 205.314, 576.69, 236.326, 589.961 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 129,
+      "page number" : 6,
+      "bounding box" : [ 218.465, 579.802, 223.158, 587.316 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "C"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 486,
+    "page number" : 6,
+    "bounding box" : [ 334.146, 562.392, 365.16, 575.664 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 143,
+      "page number" : 6,
+      "bounding box" : [ 337.915, 565.376, 361.387, 572.89 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "B (2TM)"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 498,
+    "page number" : 6,
+    "bounding box" : [ 435.496, 562.393, 466.507, 575.664 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 130,
+      "page number" : 6,
+      "bounding box" : [ 448.701, 565.383, 453.394, 572.897 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "C"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 478,
+    "page number" : 6,
+    "bounding box" : [ 239.097, 562.341, 270.108, 575.613 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 139,
+      "page number" : 6,
+      "bounding box" : [ 251.947, 565.32, 256.64, 572.834 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "D"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 502,
+    "page number" : 6,
+    "bounding box" : [ 334.146, 548.045, 365.16, 561.317 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 114,
+      "page number" : 6,
+      "bounding box" : [ 347.483, 551.044, 351.819, 558.558 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "A"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 468,
+    "page number" : 6,
+    "bounding box" : [ 171.531, 547.994, 202.542, 561.267 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 145,
+      "page number" : 6,
+      "bounding box" : [ 175.299, 551.104, 198.77, 558.618 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "B (2TM)"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 480,
+    "page number" : 6,
+    "bounding box" : [ 239.097, 547.993, 270.108, 561.267 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 126,
+      "page number" : 6,
+      "bounding box" : [ 252.616, 550.974, 256.952, 558.488 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "E"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 487,
+    "page number" : 6,
+    "bounding box" : [ 367.931, 533.696, 398.942, 546.968 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 144,
+      "page number" : 6,
+      "bounding box" : [ 371.702, 536.679, 395.174, 544.193 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "B (2TM)"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 479,
+    "page number" : 6,
+    "bounding box" : [ 205.314, 533.643, 236.326, 546.916 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 109,
+      "page number" : 6,
+      "bounding box" : [ 218.465, 536.752, 223.158, 544.266 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "C"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 499,
+    "page number" : 6,
+    "bounding box" : [ 435.496, 519.348, 466.507, 532.62 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 118,
+      "page number" : 6,
+      "bounding box" : [ 448.701, 522.34, 453.394, 529.854 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "C"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 469,
+    "page number" : 6,
+    "bounding box" : [ 171.531, 519.298, 202.542, 532.57 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 127,
+      "page number" : 6,
+      "bounding box" : [ 175.299, 522.407, 198.77, 529.921 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "B (2TM)"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 477,
+    "page number" : 6,
+    "bounding box" : [ 239.097, 519.298, 270.108, 532.57 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 131,
+      "page number" : 6,
+      "bounding box" : [ 252.298, 522.277, 256.991, 529.791 ],
+      "font" : "Helvetica3",
+      "font size" : 6.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "C"
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 520,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 104.09, 497.959, 382.254, 510.131 ],
+    "heading level" : 4,
+    "font" : "Helvetica3",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "b TRIP13 HORMA Cyclase Effector"
+  }, {
+    "type" : "paragraph",
+    "id" : 510,
+    "page number" : 6,
+    "bounding box" : [ 174.961, 485.483, 277.2, 492.997 ],
+    "font" : "Helvetica3",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Uncultured Xanthobacter bacterium"
+  }, {
+    "type" : "paragraph",
+    "id" : 514,
+    "page number" : 6,
+    "bounding box" : [ 376.908, 484.718, 459.263, 492.232 ],
+    "font" : "Helvetica3",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Endonuclease (NucC family)"
+  }, {
+    "type" : "paragraph",
+    "id" : 518,
+    "page number" : 6,
+    "bounding box" : [ 286.912, 471.79, 409.769, 479.304 ],
+    "font" : "Helvetica3",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "76 64 70 85 73 Identity (%)"
+  }, {
+    "type" : "paragraph",
+    "id" : 512,
+    "page number" : 6,
+    "bounding box" : [ 174.961, 458.677, 262.737, 466.191 ],
+    "font" : "Helvetica-Oblique3",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Bradyrhizobium sp. WSM3983"
+  }, {
+    "type" : "paragraph",
+    "id" : 515,
+    "page number" : 6,
+    "bounding box" : [ 376.908, 456.729, 459.263, 464.243 ],
+    "font" : "Helvetica3",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Endonuclease (NucC family)"
+  }, {
+    "type" : "paragraph",
+    "id" : 519,
+    "page number" : 6,
+    "bounding box" : [ 286.906, 443.781, 409.762, 451.295 ],
+    "font" : "Helvetica3",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "76 68 79 80 0 Identity (%)"
+  }, {
+    "type" : "paragraph",
+    "id" : 511,
+    "page number" : 6,
+    "bounding box" : [ 174.961, 431.877, 240.702, 439.378 ],
+    "font" : "Helvetica-Oblique3",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Desulfovibrio africanus"
+  }, {
+    "type" : "paragraph",
+    "id" : 516,
+    "page number" : 6,
+    "bounding box" : [ 391.163, 428.864, 485.081, 436.378 ],
+    "font" : "Helvetica3",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Endonuclease (DUF4297 family)"
+  }, {
+    "type" : "list",
+    "id" : 521,
+    "level" : "4",
+    "page number" : 6,
+    "bounding box" : [ 42.803, 350.02, 542.798, 412.788 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 395,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 42.803, 350.02, 542.798, 412.788 ],
+      "font" : "Whitney-Bold",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Fig. 3 | Rapid gain and loss of and gene shuffling in cbASS systems. a, The presence of different cbASS systems in closely related genomes. each row represents a different strain of either E. coli (left) or Pseudomonas aeruginosa (right), each column corresponds to a different cbASS type. The coloured boxes indicate the presence of the cbASS system. The white boxes depict absence of cbASS. The letter within the box (A–e) represents the effector type. A, phospholipase; b, transmembrane domains; c, endonuclease; D, TIR domain; e, phosphorylase/nucleosidase. ST-111, ST-111 38_London_12_ VIM_2_08_12. b, Phylogenetic tree of three highly similar cyclases (80–85% protein sequence identity) that belong to a type III cbASS. The percentage identity between each protein and its cognate protein in the neighbouring leaf of the tree is shown.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 448,
+    "page number" : 6,
+    "bounding box" : [ 42.52, 305.161, 291.664, 328.207 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "do not encode SAVED domains are predicted to form additional oligonucleotide-sensing platforms (Table 1)."
+  }, {
+    "type" : "paragraph",
+    "id" : 449,
+    "page number" : 6,
+    "bounding box" : [ 42.52, 189.661, 291.681, 297.033 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Variations on a theme. In addition to the common CBASS configurations presented above, several variations are worth mentioning. There are 78 cases in which the CBASS operon contains two oligonucleotide cyclase enzymes (Supplementary Tables 1–5). Interestingly, the majority (53%) of these CBASSs encode a 4TM effector that seems to be, as described above, a fusion of two 2TM effectors. It is possible that these systems represent an actual fusion of two CBASS effectors, and that each half of the effector senses the signalling molecule generated by one of the two associated oligonucleotide cyclases but not the other."
+  }, {
+    "type" : "paragraph",
+    "id" : 450,
+    "page number" : 6,
+    "bounding box" : [ 42.517, 84.663, 291.675, 191.707 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In 914 of the CBASS systems we examined, the oligonucleotide cyclase gene encodes an extra domain (Pfam PF18134). The vast majority (98%) of these cases are type I systems (Supplementary Table 1). It has previously been suggested that this protein domain functions as a cyclic-oligonucleotide sensor11, but its presence in the oligonucleotide cyclase protein suggests that its role may be to identify the invading phage. The abundance of the PF18134 protein domain specifically in type I CBASS systems may also imply that this domain replaces the function of the ancillary genes, which are naturally missing from type I systems."
+  }, {
+    "type" : "paragraph",
+    "id" : 451,
+    "page number" : 6,
+    "bounding box" : [ 42.52, 42.661, 291.645, 86.709 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "An interesting variant of CBASS systems lacks the hallmark oligonucleotide cyclase gene. Instead, these systems contain a gene that is annotated as an adenylate/guanylate cyclase, as well as an effector gene with a cyclic AMP (cAMP)-binding domain instead of the"
+  }, {
+    "type" : "paragraph",
+    "id" : 452,
+    "page number" : 6,
+    "bounding box" : [ 303.636, 209.779, 552.769, 328.208 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "common cyclic-oligonucleotide-binding domain (Supplementary Tables 6 and 7). We found 460 such systems (303 of type I CBASS and 127 of type II CBASS), and it is possible that, in these systems, the signalling molecule is a single nucleotide with a cyclic monophosphate rather than a cyclic oligonucleotide. As cAMP is frequently used for housekeeping signalling functions in bacteria23, it is probable that the signalling molecule is cGMP. Alternatively, it is possible that the adenylate cyclase gene produces a cAMP variant that differs from the housekeeping cAMP (for example, perhaps the cyclic phosphate is formed by covalent linkage with the 2′ carbon of the ribose instead of the 3′ carbon)."
+  }, {
+    "type" : "paragraph",
+    "id" : 453,
+    "page number" : 6,
+    "bounding box" : [ 303.636, 63.662, 552.787, 202.534 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Evolutionary shuffling of CBASS systems and genes. Many anti-phage defence systems were shown to undergo a high level of horizontal gene transfer1,24,25. It was suggested that bacteria use horizontal gene transfer to access defence mechanisms encoded by the pan-immune system of closely related strains1. In accordance with this, we found that different strains of the same species can host different CBASS types and effectors, sometimes with multiple systems in the same genome (Fig. 3a). This chequered pattern of CBASS distribution in closely related genomes suggests that CBASS systems are rapidly gained and lost, consistent with the present theory on the pan-immune system of bacteria1. We found 561 genomes that contain more than one CBASS, with some genomes containing four or even five of such systems (Supplementary Tables 1–7)."
+  }, {
+    "type" : "paragraph",
+    "id" : 454,
+    "page number" : 6,
+    "bounding box" : [ 303.638, 42.662, 552.773, 65.708 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Examination of the phylogenetic tree of oligonucleotide cyclases shows evidence for shuffling of cyclase and effector genes between"
+  }, {
+    "type" : "footer",
+    "id" : 522,
+    "page number" : 6,
+    "bounding box" : [ 42.52, 22.883, 552.76, 33.864 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 168,
+      "page number" : 6,
+      "bounding box" : [ 42.52, 22.883, 552.76, 33.864 ],
+      "heading level" : 5,
+      "font" : "Whitney-Book",
+      "font size" : 6.75,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "NAtuRe MicRobioloGy | VOL 5 | DeceMbeR 2020 | 1608–1615 | www.nature.com/naturemicrobiology 1613"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 523,
+    "page number" : 7,
+    "bounding box" : [ 41.265, 747.379, 553.039, 770.635 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 176,
+      "page number" : 7,
+      "bounding box" : [ 41.265, 747.379, 553.039, 770.635 ],
+      "heading level" : 2,
+      "font" : "Whitney-Bold",
+      "font size" : 12.0,
+      "text color" : "[1.0, 1.0, 1.0]",
+      "content" : "AnAlysis NATurE MICroBIoloGy"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 525,
+    "page number" : 7,
+    "bounding box" : [ 42.52, 630.664, 291.657, 737.707 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "CBASS systems (Extended Data Fig. 1). Cyclase genes that are phylogenetically close to each other on the tree (that is, those that have similar sequences) can be associated with different effector types and even with different CBASS types (Extended Data Fig. 1). In some cases, we found highly similar systems (>80% identity when comparing the cyclase proteins) that have completely different effectors (Fig. 3b). Presumably, such a shuffling of effector genes between CBASS systems is evolutionarily driven by the necessity to mitigate infection by phages that can inhibit or overcome some of the effectors."
+  }, {
+    "type" : "paragraph",
+    "id" : 526,
+    "page number" : 7,
+    "bounding box" : [ 42.52, 610.229, 88.69, 623.139 ],
+    "font" : "Whitney-Semibold",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Discussion"
+  }, {
+    "type" : "paragraph",
+    "id" : 527,
+    "page number" : 7,
+    "bounding box" : [ 42.52, 504.661, 291.666, 611.707 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "We have classified the vast diversity of CBASS systems into a streamlined nomenclature that will hopefully help researchers to give recognizable names to the CBASS systems that they study. The three classification identifiers are operon organization, effector type and signalling molecule, and applying this classification strategy will enable straightforward description of most CBASSs, providing a common language for research in the field. The complexity of CBASS systems parallels that of CRISPR systems, for which similar past classifications were instrumental in generating a common language for research in the field26,27."
+  }, {
+    "type" : "paragraph",
+    "id" : 528,
+    "page number" : 7,
+    "bounding box" : [ 42.52, 378.661, 291.677, 506.707 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "CBASS types differ by the content of their ancillary genes. In type II and type III CBASS systems, the proteins encoded by the ancillary genes have counteractive functions. In type III CBASS, the Cap7 HORMA-domain protein activates the oligonucleotide cyclase by directly binding to it, and the Cap6 TRIP13 protein inhibits this activation by dissociating Cap7 from the cyclase enzyme9. In a similar manner, it is predicted that the Cap2 ancillary protein of type II CBASS systems uses its E1 and E2 domains to conjugate a (yet unidentified) moiety to a target protein to possibly activate the cyclase enzyme, while the Cap3 JAB-domain isopeptidase protein would counteract this activity by removing this moiety from its target."
+  }, {
+    "type" : "paragraph",
+    "id" : 529,
+    "page number" : 7,
+    "bounding box" : [ 42.517, 252.661, 291.658, 380.707 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "An interesting parallel of the CBASS system is found in type III CRISPR–Cas systems. After recognising foreign nucleic acids through the crRNA–protein complex of type III CRISPR–Cas, the Cas10 subunit of the complex generates a cyclic oligoadenylate molecule (comprising 2–6 adenosine monophosphate molecules conjugated in a cyclic form)28,29. This molecule then binds to and activates the RNase effector Csm6 that indiscriminately degrades the RNA of both host and phage, presumably leading to cell dormancy or death28,29. In at least some cases, bona fide CBASS effectors, such as the NucC endonuclease, function as effectors of type III CRISPR– Cas systems10, suggesting that these two defence systems share functional components."
+  }, {
+    "type" : "paragraph",
+    "id" : 530,
+    "page number" : 7,
+    "bounding box" : [ 42.52, 168.662, 291.667, 254.707 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.3,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Interactions between bacteria and phages have led to the evolution of multiple and diverse bacterial immune systems. Many of these systems, including CBASS, are absent from many model organisms and have only been discovered very recently by studying the genomes of non-model organisms1,2,5,30 33. It is probable that many more novel defence systems will be discovered that will showcase the manifold ways in which bacteria have evolved to defend against virus infection."
+  }, {
+    "type" : "paragraph",
+    "id" : 531,
+    "page number" : 7,
+    "bounding box" : [ 42.52, 148.229, 80.52, 161.139 ],
+    "font" : "Whitney-Semibold",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Methods"
+  }, {
+    "type" : "paragraph",
+    "id" : 532,
+    "page number" : 7,
+    "bounding box" : [ 42.516, 43.909, 289.384, 149.989 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Identification of CBASS cyclases and operon types. Protein sequences of all of the genes in 38,167 bacterial and archaeal genomes were downloaded from the Integrated Microbial Genomes (IMG) database34 in October 2017. These proteins were clustered using the ‘cluster’ option of MMseqs2 (release 2-1c7a89; ref. 35), with the default parameters. The sequences of each cluster were aligned using Clustal Omega36. Multiple sequence alignments of clusters of 10 or more proteins were scanned with HHsearch37 using the 50% gap rule (-M 50) against the PDB_mmCIF70 (ref. 38) and Pfam32 (ref. 39) databases. For clusters with less than ten proteins, we used a step of HHblits37 with two iterations before scanning with HHsearch. Clusters with HHsearch hits to one of the cGAS entries (Protein Data Bank (PDB) codes: 4LEV, 4MKP, 4O67, 5VDR, 5V8H, 4LEW, 5VDP, 4KM5, 4O68, 4O69, 5V8J, 5V8N, 5V8O, 5VDO, 5VDQ, 5VDS, 5VDT, 5VDU, 5VDV, 5VDW,"
+  }, {
+    "type" : "paragraph",
+    "id" : 533,
+    "page number" : 7,
+    "bounding box" : [ 303.643, 710.209, 542.757, 738.222 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "4XJ5, 4XJ1, 4XJ6, 4XJ3 and 4XJ4; and Pfam: PF03281) with >90% probability in the top 30 hits were taken for manual analysis. Fragmented cyclase genes were counted as a single gene in further analyses."
+  }, {
+    "type" : "paragraph",
+    "id" : 534,
+    "page number" : 7,
+    "bounding box" : [ 303.637, 666.709, 551.647, 711.627 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "To identify the CBASS operon types, the genomic environments spanning ten genes upstream and downstream of each of the predicted oligonucleotide cyclase genes were searched to identify conserved gene cassettes, as previously described2,5. Predicted systems were manually reviewed and unrelated genes (such as mobilome genes and genes of other defence systems) were omitted."
+  }, {
+    "type" : "paragraph",
+    "id" : 535,
+    "page number" : 7,
+    "bounding box" : [ 303.636, 579.709, 552.036, 668.127 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "To search for unannotated JAB proteins, the nucleotide sequences of E1–E2 genes from type II CBASS operons that do not contain JAB were extracted, along with the 2,000 nucleotides upstream and downstream. These sequences were searched using BLASTx against the JAB protein from the CBASS operon of E. coli TW11681 (ref. 5). Hits with an e value of <0.01 were considered to be cases in which JAB was present. The same process was used to detect unannotated E2 genes. Phylogenetic analysis. Genomes that contain CBASS were counted for each phylum. A species was counted as containing CBASS (Fig. 2b) if at least one of the genomes belonging to the species had a CBASS system."
+  }, {
+    "type" : "paragraph",
+    "id" : 536,
+    "page number" : 7,
+    "bounding box" : [ 303.636, 492.709, 550.323, 581.127 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "To generate the phylogenetic tree in Extended Data Fig. 1, cyclases that did not have ten genes upstream and downstream were removed. The ‘clusthash’ option of MMseqs2 (release 6-f5a1c) was used to remove protein redundancies (using the ‘--min-seq-id 0.9’ parameter). Sequences that were shorter than 200 amino acids were also removed. The human cGAS protein (UniProt: Q8N884) was added, as well as the human oligoadenylate synthase genes (UniProt: P00973, P29728 and Q9Y6K5); these were used as an outgroup. Sequences were aligned using clustal-omega v.1.2.4 with the default parameters. FastTree40 was used to generate a tree from the multiple-sequence alignment using the default parameters. iTOL41 was used for tree visualization. Clades were coloured according to refs. 5,8."
+  }, {
+    "type" : "paragraph",
+    "id" : 537,
+    "page number" : 7,
+    "bounding box" : [ 303.637, 405.709, 552.788, 485.689 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Search for CBASS AMP/GMP cyclases. The genomic environments spanning ten genes upstream and downstream of E1–E2 genes were searched to identify conserved gene cassettes, as previously described25. Genes associated with E1– E2-containng operons that did not contain an oligonucleotide cyclase were mapped to their respective cluster (see the explanation for the protein clustering above). Multiple-sequence alignments of proteins in these clusters were scanned with HHsearch37 using the 50% gap rule (-M 50) against the Pfam32 (ref. 39) database. Clusters with hits to Pfam PF00211 with >90% probability in the top 30 hits were then manually examined."
+  }, {
+    "type" : "paragraph",
+    "id" : 538,
+    "page number" : 7,
+    "bounding box" : [ 303.637, 379.609, 542.432, 398.689 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Reporting Summary. Further information on research design is available in the Nature Research Reporting Summary linked to this article."
+  }, {
+    "type" : "paragraph",
+    "id" : 539,
+    "page number" : 7,
+    "bounding box" : [ 303.638, 358.529, 372.377, 371.439 ],
+    "font" : "Whitney-Semibold",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Data availability"
+  }, {
+    "type" : "paragraph",
+    "id" : 540,
+    "page number" : 7,
+    "bounding box" : [ 303.638, 315.109, 541.737, 360.027 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "All genomic data that support the findings of this study are available at IMG (https://img.jgi.doe.gov/cgi-bin/mer/main.cgi). Accession codes for all data are provided in Supplementary Tables 1–7. PDB and Pfam databases are available at the HHsuite database page (http://wwwuser.gwdg.de/~compbiol/data/hhsuite/ databases/hhsuite_dbs/)."
+  }, {
+    "type" : "paragraph",
+    "id" : 541,
+    "page number" : 7,
+    "bounding box" : [ 303.638, 285.409, 488.854, 307.234 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Received: 19 March 2020; Accepted: 16 July 2020; Published online: 24 August 2020"
+  }, {
+    "type" : "paragraph",
+    "id" : 542,
+    "page number" : 7,
+    "bounding box" : [ 303.638, 260.891, 350.588, 273.801 ],
+    "font" : "Whitney-Semibold",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "References"
+  }, {
+    "type" : "list",
+    "id" : 543,
+    "level" : "4",
+    "page number" : 7,
+    "bounding box" : [ 303.668, 43.471, 545.832, 262.389 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 10,
+    "next list id" : 547,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 303.735, 234.871, 517.988, 262.389 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1. Bernheim, A. & Sorek, R. The pan-immune system of bacteria: antiviral defence as a community resource. Nat. Rev. Microbiol. 18, 113–119 (2020).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 303.728, 217.471, 535.388, 236.289 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "2. Doron, S. et al. Systematic discovery of antiphage defense systems in the microbial pangenome. Science 359, eaar4120 (2018).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 303.72, 200.071, 536.61, 218.889 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "3. Rostøl, J. T. & Marraffini, L. (Ph)ighting phages: how bacteria resist their parasites. Cell Host Microbe 25, 184–194 (2019).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 303.713, 182.671, 539.52, 201.489 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "4. Hampton, H. G., Watson, B. N. J. & Fineran, P. C. The arms race between bacteria and their phage foes. Nature 577, 327–336 (2020).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 303.705, 165.271, 544.205, 184.089 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "5. Cohen, D. et al. Cyclic GMP–AMP signalling protects bacteria against viral infection. Nature 574, 691–695 (2019).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 303.698, 139.171, 541.452, 166.689 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "6. Davies, B. W., Bogard, R. W., Young, T. S. & Mekalanos, J. J. Coordinated regulation of accessory genetic elements produces cyclic di-nucleotides for V. cholerae virulence. Cell 149, 358–370 (2012).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 303.69, 113.071, 522.345, 140.589 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "7. Severin, G. B. et al. Direct activation of a phospholipase by cyclic GMP-AMP in El Tor Vibrio cholerae. Proc. Natl Acad. Sci. USA 115, E6048–E6055 (2018).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 303.683, 95.671, 523.154, 114.489 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "8. Whiteley, A. T. et al. Bacterial cGAS-like enzymes synthesize diverse nucleotide signals. Nature 567, 194–199 (2019).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 303.675, 69.571, 543.139, 97.089 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "9. Ye, Q. et al. HORMA domain proteins and a Trip13-like ATPase regulate bacterial cGAS-like enzymes to mediate bacteriophage immunity. Mol. Cell 77, 709–722 (2020).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 303.668, 43.471, 545.832, 70.989 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "10. Lau, R. K. et al. Structure and mechanism of a cyclic trinucleotide-activated bacterial endonuclease mediating bacteriophage immunity. Mol. Cell 77, 723–733 (2020).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 544,
+    "page number" : 7,
+    "bounding box" : [ 42.52, 22.883, 552.789, 33.864 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 169,
+      "page number" : 7,
+      "bounding box" : [ 42.52, 22.883, 552.789, 33.864 ],
+      "heading level" : 5,
+      "font" : "Whitney-Book",
+      "font size" : 6.75,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1614 NAtuRe MicRobioloGy | VOL 5 | DeceMbeR 2020 | 1608–1615 | www.nature.com/naturemicrobiology"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 545,
+    "page number" : 8,
+    "bounding box" : [ 42.065, 747.379, 553.519, 770.635 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 177,
+      "page number" : 8,
+      "bounding box" : [ 42.065, 747.379, 553.519, 770.635 ],
+      "heading level" : 2,
+      "font" : "Whitney-Bold",
+      "font size" : 12.0,
+      "text color" : "[1.0, 1.0, 1.0]",
+      "content" : "NATurE MICroBIoloGy AnAlysis"
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 547,
+    "level" : "4",
+    "page number" : 8,
+    "bounding box" : [ 42.482, 257.809, 291.466, 737.727 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 23,
+    "previous list id" : 543,
+    "next list id" : 548,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.617, 701.509, 279.644, 737.727 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "11. Burroughs, A. M., Zhang, D., Schäffer, D. E., Iyer, L. M. & Aravind, L. Comparative genomic analyses reveal a vast, novel network of nucleotide-centric systems in biological conflicts, immunity and signaling. Nucleic Acids Res. 43, 10633–10654 (2015).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.61, 675.409, 277.86, 702.927 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "12. Lowey, B. et al. CBASS immunity uses CARF-related effectors to sense 3′–5′- and 2′–5′-linked cyclic oligonucleotide signals and protect bacteria from phage infection. Cell 182, 38–49.e17 (2020).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.602, 649.309, 286.306, 676.827 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "13. Aravind, L. & Koonin, E. V. The HORMA domain: a common structural denominator in mitotic checkpoints, chromosome synapsis and DNA repair. Trends Biochem. Sci. 23, 284–286 (1998).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.595, 631.909, 275.918, 650.727 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "14. Rosenberg, S. C. & Corbett, K. D. The multifaceted roles of the HORMA domain in cellular signaling. J. Cell Biol. 211, 745–755 (2015).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.595, 614.509, 270.594, 633.327 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "15. Vader, G. Pch2(TRIP13): controlling cell division through regulation of HORMA domains. Chromosoma 124, 333–339 (2015).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.587, 588.409, 284.011, 615.927 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "16. Reader, J. S., Metzgar, D., Schimmel, P. & de Crécy-Lagard, V. Identification of four genes necessary for biosynthesis of the modified nucleoside queuosine. J. Biol. Chem. 279, 6280–6285 (2004).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.58, 553.609, 281.002, 589.827 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "17. McCarty, R. M., Somogyi, A., Lin, G., Jacobsen, N. E. & Bandarian, V. The deazapurine biosynthetic pathway revealed: in vitro enzymatic synthesis of PreQ(0) from guanosine 5′-triphosphate in four steps. Biochemistry 48, 3847–3852 (2009).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.572, 527.509, 277.395, 555.027 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "18. Okada, N. et al. Novel mechanism of post-transcriptional modification of tRNA. Insertion of bases of Q precursors into tRNA by a specific tRNA transglycosylase reaction. J. Biol. Chem. 254, 3067–3073 (1979).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.565, 510.109, 289.425, 528.927 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "19. Thiaville, J. J. et al. Novel genomic island modifies DNA with 7-deazaguanine derivatives. Proc. Natl Acad. Sci. USA 113, E1452–E1459 (2016).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.565, 492.709, 289.705, 511.527 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "20. David, S. S., O’Shea, V. L. & Kundu, S. Base-excision repair of oxidative DNA damage. Nature 447, 941–950 (2007).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.557, 475.309, 278.575, 494.389 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "21. McLennan, A. G. The Nudix hydrolase superfamily. Cell. Mol. Life Sci. 63, 123–143 (2006).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.55, 457.909, 276.992, 476.989 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "22. Akira, S. & Takeda, K. Toll-like receptor signalling. Nat. Rev. Immunol. 4, 499–511 (2004).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.542, 440.509, 280.585, 459.424 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "23. Botsford, J. L. & Harman, J. G. Cyclic AMP in prokaryotes. Microbiol. Rev. 56, 100–122 (1992).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.535, 423.109, 291.383, 441.927 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "24. Koonin, E. V., Makarova, K. S. & Wolf, Y. I. Evolutionary genomics of defense systems in archaea and bacteria. Annu. Rev. Microbiol. 71, 233–261 (2017).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.535, 405.709, 291.466, 424.527 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "25. van Houte, S., Buckling, A. & Westra, E. R. Evolutionary ecology of prokaryotic immune mechanisms. Microbiol. Mol. Biol. Rev. 80, 745–763 (2016).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.527, 388.309, 265.336, 407.127 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "26. Makarova, K. S. et al. Evolution and classification of the CRISPR–Cas systems. Nat. Rev. Microbiol. 9, 467–477 (2011).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.52, 370.909, 287.071, 389.727 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "27. Makarova, K. S. et al. An updated evolutionary classification of CRISPR–Cas systems. Nat. Rev. Microbiol. 13, 722–736 (2015).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.512, 344.809, 283.62, 372.327 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "28. Kazlauskiene, M., Kostiuk, G., Venclovas, Č., Tamulaitis, G. & Siksnys, V. A cyclic oligonucleotide signaling pathway in type III CRISPR-Cas systems. Science 357, 605–609 (2017).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.505, 327.409, 257.348, 346.227 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "29. Niewoehner, O. et al. Type III CRISPR–Cas systems produce cyclic oligoadenylate second messengers. Nature 548, 543–548 (2017).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.497, 310.009, 283.733, 328.827 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "30. Ofir, G. et al. DISARM is a widespread bacterial defence system with broad anti-phage activities. Nat. Microbiol. 3, 90–98 (2018).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.497, 292.609, 277.012, 311.427 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "31. Goldfarb, T. et al. BREX is a novel phage resistance system widespread in microbial genomes. EMBO J. 34, 169–183 (2015).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.49, 275.209, 277.344, 294.027 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "32. Ofir, G. & Sorek, R. Contemporary phage biology: from classic models to new insights. Cell 172, 1260–1270 (2018).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 42.482, 257.809, 281.008, 276.627 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "33. Lopatina, A., Tal, N. & Sorek, R. Abortive infection: bacterial suicide as an antiviral immune strategy. Annu. Rev. Virol. 7, 1 (2020).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 548,
+    "level" : "4",
+    "page number" : 8,
+    "bounding box" : [ 303.542, 562.309, 550.135, 737.727 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 8,
+    "previous list id" : 547,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 303.595, 710.209, 530.767, 737.727 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "34. Chen, I. M. A. et al. IMG/M v.5.0: an integrated data management and comparative analysis system for microbial genomes and microbiomes. Nucleic Acids Res. 47, D666–D677 (2019).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 303.587, 684.109, 533.977, 711.627 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "35. Steinegger, M. & Söding, J. MMseqs2 enables sensitive protein sequence searching for the analysis of massive data sets. Nat. Biotechnol. 35, 1026–1028 (2017).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 303.58, 666.709, 535.735, 685.527 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "36. Sievers, F. et al. Fast, scalable generation of high-quality protein multiple sequence alignments using Clustal Omega. Mol. Syst. Biol. 7, 539 (2011).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 303.572, 649.309, 548.415, 668.127 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "37. Steinegger, M. et al. HH-suite3 for fast remote homology detection and deep protein annotation. BMC Bioinform. 20, 473 (2019).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 303.565, 631.909, 518.672, 650.989 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "38. Berman, H. M. et al. The Protein Data Bank. Nucleic Acids Res. 28, 235–242 (2000).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 303.557, 614.509, 546.968, 633.424 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "39. El-Gebali, S. et al. The Pfam protein families database in 2019. Nucleic Acids Res. 47, D427–D432 (2019).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 303.55, 588.409, 546.871, 615.927 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "40. Price, M. N., Dehal, P. S. & Arkin, A. P. Fasttree: computing large minimum evolution trees with profiles instead of a distance matrix. Mol. Biol. Evol. 26, 1641–1650 (2009).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 303.542, 562.309, 550.135, 589.827 ],
+      "font" : "MinionPro-Regular",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "41. Letunic, I. & Bork, P. Interactive tree of life (iTOL) v3: an online tool for the display and annotation of phylogenetic and other trees. Nucleic Acids Res. 44, W242–W245 (2016).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 549,
+    "page number" : 8,
+    "bounding box" : [ 303.638, 541.229, 387.318, 554.139 ],
+    "font" : "Whitney-Semibold",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Acknowledgements"
+  }, {
+    "type" : "paragraph",
+    "id" : 550,
+    "page number" : 8,
+    "bounding box" : [ 303.638, 445.779, 552.725, 542.232 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 7.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "We thank the members of the Sorek laboratory for comments on earlier versions of this manuscript. A.M. was supported by a fellowship from the Ariane de Rothschild Women Doctoral Program and, in part, by the Israeli Council for Higher Education via the Weizmann Data Science Research Center. R.S. was supported in part by the Israel Science Foundation (personal grant no. 1360/16), the European Research Council (grant no. ERC-CoG 681203), the German Research Council (DFG) priority program SPP 2002 (grant no. SO 1611/1-1), the Israeli Council for Higher Education through the Weizmann Data Science Research Center, the Ernest and Bonnie Beutler Research Program of Excellence in Genomic Medicine, the Minerva Foundation with funding from the Federal German Ministry for Education and Research and the Knell Family Center for Microbiology."
+  }, {
+    "type" : "paragraph",
+    "id" : 551,
+    "page number" : 8,
+    "bounding box" : [ 303.638, 422.029, 392.398, 434.939 ],
+    "font" : "Whitney-Semibold",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Author contributions"
+  }, {
+    "type" : "paragraph",
+    "id" : 552,
+    "page number" : 8,
+    "bounding box" : [ 303.638, 404.888, 546.191, 423.032 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 7.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "A.M. collected and analysed the data and wrote the paper. S.M. and G.A. were involved in the classification of CBASS systems. R.S. supervised the study and wrote the paper."
+  }, {
+    "type" : "paragraph",
+    "id" : 553,
+    "page number" : 8,
+    "bounding box" : [ 303.638, 383.129, 389.627, 396.039 ],
+    "font" : "Whitney-Semibold",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "competing interests"
+  }, {
+    "type" : "paragraph",
+    "id" : 554,
+    "page number" : 8,
+    "bounding box" : [ 303.638, 365.988, 526.955, 384.132 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 7.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "R.S. is a scientific cofounder and consultant of BiomX, Pantheon Bioscience and Ecophage."
+  }, {
+    "type" : "paragraph",
+    "id" : 555,
+    "page number" : 8,
+    "bounding box" : [ 303.638, 341.894, 399.907, 354.804 ],
+    "font" : "Whitney-Semibold",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Additional information"
+  }, {
+    "type" : "paragraph",
+    "id" : 556,
+    "page number" : 8,
+    "bounding box" : [ 303.638, 258.372, 548.662, 343.142 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 7.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Extended data is available for this paper at https://doi.org/10.1038/s41564-020-0777-y. Supplementary information is available for this paper at https://doi.org/10.1038/ s41564-020-0777-y. Correspondence and requests for materials should be addressed to R.S. Reprints and permissions information is available at www.nature.com/reprints Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. © The Author(s), under exclusive licence to Springer Nature Limited 2020"
+  }, {
+    "type" : "footer",
+    "id" : 557,
+    "page number" : 8,
+    "bounding box" : [ 42.52, 22.883, 552.761, 33.864 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 170,
+      "page number" : 8,
+      "bounding box" : [ 42.52, 22.883, 552.761, 33.864 ],
+      "heading level" : 5,
+      "font" : "Whitney-Book",
+      "font size" : 6.75,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "NAtuRe MicRobioloGy | VOL 5 | DeceMbeR 2020 | 1608–1615 | www.nature.com/naturemicrobiology 1615"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 558,
+    "page number" : 9,
+    "bounding box" : [ 41.265, 747.379, 553.039, 770.635 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 178,
+      "page number" : 9,
+      "bounding box" : [ 41.265, 747.379, 553.039, 770.635 ],
+      "heading level" : 2,
+      "font" : "Whitney-Bold",
+      "font size" : 12.0,
+      "text color" : "[1.0, 1.0, 1.0]",
+      "content" : "AnAlysis NATurE MICroBIoloGy"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 561,
+    "page number" : 9,
+    "bounding box" : [ 104.438, 394.504, 490.838, 735.304 ],
+    "source" : "2020_Millman_images/imageFile1.png"
+  }, {
+    "type" : "caption",
+    "id" : 562,
+    "page number" : 9,
+    "bounding box" : [ 42.52, 342.472, 546.498, 384.248 ],
+    "linked content id" : 561,
+    "font" : "Whitney-Book",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Extended Data Fig. 1 | Phylogenetic analysis of oligonucleotide cyclases (cD-Ntase) and their cbASS types. The phylogenetic tree of all cyclases, as depicted and colored in refs (5 and 8) is presented in the center. each clade is then expanded and presented in the periphery as a circular tree to increase resolution. Outer ring depicts the effector type; middle ring depicts the system type. Numbers next to each clade represent the bootstrap value for that node in the central tree."
+  }, {
+    "type" : "paragraph",
+    "id" : 563,
+    "page number" : 9,
+    "bounding box" : [ 367.499, 25.15, 552.784, 33.864 ],
+    "font" : "Whitney-Book",
+    "font size" : 6.75,
+    "text color" : "[0.22999924421310425, 0.4130006730556488, 0.6189974546432495]",
+    "content" : "NAtuRe MicRobioloGy www.nature.com/naturemicrobiology"
+  }, {
+    "type" : "image",
+    "id" : 565,
+    "page number" : 10,
+    "bounding box" : [ 14.16, 748.68, 241.2, 780.6 ],
+    "source" : "2020_Millman_images/imageFile2.png"
+  } ]
+}

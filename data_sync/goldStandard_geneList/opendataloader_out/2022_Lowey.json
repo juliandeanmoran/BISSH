@@ -1,0 +1,4421 @@
+{
+  "file name" : "2022_Lowey.pdf",
+  "number of pages" : 8,
+  "author" : "Brianna Duncan-Lowey",
+  "title" : "CBASS phage defense and evolution of antiviral nucleotide signaling",
+  "creation date" : "D:20220224174301+05'30'",
+  "modification date" : "D:20241213121210-05'00'",
+  "kids" : [ {
+    "type" : "image",
+    "id" : 487,
+    "page number" : 1,
+    "bounding box" : [ 53.858, 718.072, 100.063, 769.039 ],
+    "source" : "2022_Lowey_images/imageFile1.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 506,
+    "page number" : 1,
+    "bounding box" : [ 182.721, 760.75, 352.576, 770.667 ],
+    "font" : "AdvTT153188ed",
+    "font size" : 8.966,
+    "text color" : "[1.0, 0.26, 0.0, 0.33]",
+    "content" : "Available online at www.sciencedirect.com"
+  }, {
+    "type" : "heading",
+    "id" : 507,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 218.835, 735.048, 315.292, 753.196 ],
+    "heading level" : 1,
+    "font" : "AdvPA49C",
+    "font size" : 16.438,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "ScienceDirect"
+  }, {
+    "type" : "paragraph",
+    "id" : 489,
+    "page number" : 1,
+    "bounding box" : [ 53.858, 676.319, 421.551, 710.39 ],
+    "font" : "AdvPA189",
+    "font size" : 15.94,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "CBASS phage defense and evolution of antiviral nucleotide signaling"
+  }, {
+    "type" : "paragraph",
+    "id" : 492,
+    "page number" : 1,
+    "bounding box" : [ 53.858, 658.725, 409.273, 676.346 ],
+    "font" : "AdvPA183",
+    "font size" : 14.944,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Brianna Duncan-Lowey1,2 and Philip J Kranzusch1,2,3"
+  }, {
+    "type" : "image",
+    "id" : 488,
+    "page number" : 1,
+    "bounding box" : [ 435.118, 730.034, 551.264, 769.039 ],
+    "source" : "2022_Lowey_images/imageFile2.png"
+  }, {
+    "type" : "image",
+    "id" : 490,
+    "page number" : 1,
+    "bounding box" : [ 522.804, 661.584, 551.856, 690.336 ],
+    "source" : "2022_Lowey_images/imageFile3.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 493,
+    "page number" : 1,
+    "bounding box" : [ 53.858, 462.554, 288.116, 631.454 ],
+    "font" : "AdvPA183",
+    "font size" : 8.468,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Cyclic oligonucleotide-based antiphage signaling system (CBASS) immunity is a widespread form of antiphage defense in bacteria and archaea. Each CBASS operon encodes a cGAS/DncV-like Nucleotidyltransferase (CD-NTase) enzyme that synthesizes a nucleotide second messenger in response to viral infection. An associated Cap effector protein then binds the nucleotide signal and executes cell death to destroy the host cell and block phage propagation. Here we build upon recent advances to establish rules controlling each step of CBASS activation and antiphage defense. Comparative analysis of CBASS, CRISPR, Pycsar, and cGAS-STING immunity provides insight into the evolution of phage defense and animal innate immunity and highlights new questions emerging in the role of nucleotide second messenger signaling in host–virus interactions."
+  }, {
+    "type" : "paragraph",
+    "id" : 494,
+    "page number" : 1,
+    "bounding box" : [ 53.858, 448.361, 91.718, 455.907 ],
+    "font" : "AdvPA189",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Addresses"
+  }, {
+    "type" : "list",
+    "id" : 495,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 53.858, 386.906, 294.094, 447.675 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 53.858, 429.425, 282.859, 447.675 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1Department of Microbiology, Harvard Medical School, Boston, MA 02115, USA",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 53.858, 386.906, 294.094, 424.091 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "2Department of Cancer Immunology and Virology, Dana-Farber Cancer Institute, Boston, MA 02115, USA 3Parker Institute for Cancer Immunotherapy at Dana-Farber Cancer Institute, Boston, MA 02115, USA",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 496,
+    "page number" : 1,
+    "bounding box" : [ 53.859, 358.502, 241.243, 375.435 ],
+    "font" : "AdvPA183",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Corresponding author: Kranzusch, Philip J (philip_kranzusch@dfci.harvard.edu)"
+  }, {
+    "type" : "paragraph",
+    "id" : 497,
+    "page number" : 1,
+    "bounding box" : [ 56.693, 251.013, 286.875, 337.759 ],
+    "font" : "AdvPA183",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Current Opinion in Immunology 2022, 74:156–163 This review comes from a themed issue on Innate Immunity (2022) Edited by Dusan Bogunovic and Zhijian James For complete overview of the section, please refer to the article collection, “Innate Immunity (2022)” Available online 2nd February 2022 https://doi.org/10.1016/j.coi.2022.01.002"
+  }, {
+    "type" : "paragraph",
+    "id" : 498,
+    "page number" : 1,
+    "bounding box" : [ 56.694, 218.131, 290.441, 246.13 ],
+    "font" : "AdvPA183",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "0952-7915/ã 2022 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/)."
+  }, {
+    "type" : "paragraph",
+    "id" : 499,
+    "page number" : 1,
+    "bounding box" : [ 53.858, 178.401, 117.826, 189.469 ],
+    "font" : "AdvPA189",
+    "font size" : 10.959,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Introduction"
+  }, {
+    "type" : "paragraph",
+    "id" : 500,
+    "page number" : 1,
+    "bounding box" : [ 53.858, 51.307, 294.097, 176.743 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Cyclic oligonucleotide-based antiphage signaling system (CBASS) immunity is a widespread form of antiviral defense in bacteria that inhibits phage replication [1 ]. Following infection, activation of CBASS immunity triggers rapid cell death and results in an abortive infection response that limits viral spread within the bacterial population [1 ,2 ,3]. More than 5000 CBASS operons have been identiﬁed in diverse bacteria and archaea, with each system responding to phage through synthesis of a specialized nucleotide second messenger signal [1 ,4 ]. CBASS operons are found in genomes of many"
+  }, {
+    "type" : "paragraph",
+    "id" : 501,
+    "page number" : 1,
+    "bounding box" : [ 311.131, 610.753, 551.303, 632.214 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "prokaryotes, demonstrating a broad importance in enabling bacteria to resist phage replication."
+  }, {
+    "type" : "paragraph",
+    "id" : 502,
+    "page number" : 1,
+    "bounding box" : [ 311.131, 322.072, 551.334, 597.575 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "CBASS operons function as self-contained antiviral defense systems that typically encode two to four protein components (Figure 1a) [1 ,5 ]. All CBASS operons contain a cGAS/DncV-like Nucleotidyltransferase (CDNTase) enzyme that senses phage replication and catalyzes synthesis of a nucleotide second messenger signal to initiate antiviral defense (Figure 1b) [4 ]. CD-NTases are named according to clade designations A–H, for example the CBASS operon in Enterobacter cloacae encodes the enzyme CD-NTase in clade D (CdnD). Each CBASS operon also encodes a CD-NTase-associated protein (Cap) effector that functions as a receptor to speciﬁcally recognize the CD-NTase nucleotide second messenger signal [2 ,5 ,6 ]. Upon nucleotide-binding, CBASS Cap effectors become activated and induce cell death through degradation of nucleic acid, depletion of essential cellular metabolites, or direct targeting of the host cell membrane [2 ,6 ,7 ,8 ,9]. Cap protein names are numbered according to domain organization; for example, the effector family containing a restriction endonuclease-like domain and a SAVED domain is called Cap4. Some CBASS operons contain additional accessory Cap genes that are hypothesized to regulate CD-NTase function (Figure 1a) [1 ,4 ,5 ]."
+  }, {
+    "type" : "paragraph",
+    "id" : 503,
+    "page number" : 1,
+    "bounding box" : [ 311.131, 160.441, 551.339, 308.951 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Here we summarize recent advances that explain the mechanism of CBASS immune defense. We deﬁne general principles that control each step of CBASS signaling including CD-NTase activation, nucleotide second messenger synthesis, and downstream effector function. Surprisingly, structural analysis of CD-NTases and Cap effectors in CBASS immunity has revealed remarkable homology with components of CRISPR antiphage defense and animal cGAS-STING innate immune signaling [2 ,4 ,7 ,8 ,10]. We highlight features of CBASS immunity that are shared among other signaling systems and describe the evolutionary roots that connect antiviral immunity in bacteria and animal cells."
+  }, {
+    "type" : "paragraph",
+    "id" : 504,
+    "page number" : 1,
+    "bounding box" : [ 311.131, 132.196, 414.965, 143.265 ],
+    "font" : "AdvPA189",
+    "font size" : 10.959,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "CD-NTase enzymes"
+  }, {
+    "type" : "paragraph",
+    "id" : 505,
+    "page number" : 1,
+    "bounding box" : [ 311.131, 51.307, 551.317, 130.538 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "CD-NTase proteins are bacterial and archaeal signaling enzymes that are present in all CBASS operons [4 ,5 ]. The CD-NTase family is named after the Vibrio cholerae enzyme Dinucleotide cyclase in Vibrio (DncV) [11] and the mammalian cytosolic DNA sensor cyclic GMP–AMP synthase (cGAS) [12]. The discovery that CBASS CDNTases are structural and functional homologs of human"
+  }, {
+    "type" : "footer",
+    "id" : 509,
+    "page number" : 1,
+    "bounding box" : [ 53.858, 30.251, 551.249, 37.797 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 456,
+      "page number" : 1,
+      "bounding box" : [ 53.858, 30.251, 551.249, 37.797 ],
+      "heading level" : 7,
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Current Opinion in Immunology 2022, 74:156–163 www.sciencedirect.com"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 510,
+    "page number" : 2,
+    "bounding box" : [ 60.945, 700.814, 558.471, 757.346 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 464,
+      "page number" : 2,
+      "bounding box" : [ 161.745, 749.296, 558.471, 757.346 ],
+      "font" : "AdvPA189",
+      "font size" : 7.97,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "CBASS phage defense and evolution of antiviral nucleotide signaling Duncan-Lowey and Kranzusch 157"
+    }, {
+      "type" : "paragraph",
+      "id" : 465,
+      "page number" : 2,
+      "bounding box" : [ 60.945, 700.814, 90.128, 708.361 ],
+      "font" : "AdvPA189",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Figure 1"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 513,
+    "page number" : 2,
+    "bounding box" : [ 318.217, 605.537, 558.417, 707.842 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "bacterial CD-NTases closely resemble the active conformation observed in cGAS bound to double-stranded DNA (Figure 2b,c) [4 ,10,18,19]. These results are consistent with a model where CBASS immune systems may be held in an inactive state by an inhibitory molecule that represses CD-NTase activation in the absence of phage infection [2 ,3,4 ,10,18,20]. Deﬁning the activating cue that initiates CD-NTase signaling in bacteria is a major open question in CBASS immunity."
+  }, {
+    "type" : "list",
+    "id" : 529,
+    "level" : "2",
+    "page number" : 2,
+    "bounding box" : [ 68.842, 627.49, 79.058, 680.356 ],
+    "numbering style" : "english letters",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 68.842, 670.836, 78.618, 680.356 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 8.0,
+      "text color" : "[0.039216, 0.039216, 0.023529]",
+      "content" : "(a)",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 68.842, 627.49, 79.058, 637.01 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 8.0,
+      "text color" : "[0.039216, 0.039216, 0.023529]",
+      "content" : "(b)",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 524,
+    "page number" : 2,
+    "bounding box" : [ 100.015, 661.076, 264.235, 671.217 ],
+    "font" : "Helvetica",
+    "font size" : 8.773,
+    "text color" : "[0.039216, 0.039216, 0.023529]",
+    "content" : "CdnD Cap2 Cap4"
+  }, {
+    "type" : "paragraph",
+    "id" : 526,
+    "page number" : 2,
+    "bounding box" : [ 195.076, 661.076, 216.05, 671.217 ],
+    "font" : "Helvetica",
+    "font size" : 8.773,
+    "text color" : "[0.039216, 0.039216, 0.023529]",
+    "content" : "Cap3"
+  }, {
+    "type" : "paragraph",
+    "id" : 525,
+    "page number" : 2,
+    "bounding box" : [ 93.671, 648.296, 262.727, 655.54 ],
+    "font" : "Helvetica",
+    "font size" : 6.267,
+    "text color" : "[0.11372, 0.098039, 0.090196]",
+    "content" : "CD-NTase E1/E2 JAB effector"
+  }, {
+    "type" : "paragraph",
+    "id" : 521,
+    "page number" : 2,
+    "bounding box" : [ 93.344, 614.242, 127.902, 637.864 ],
+    "font" : "Helvetica",
+    "font size" : 10.027,
+    "text color" : "[0.039216, 0.039216, 0.023529]",
+    "content" : "virus sensing"
+  }, {
+    "type" : "paragraph",
+    "id" : 522,
+    "page number" : 2,
+    "bounding box" : [ 141.612, 614.242, 280.66, 637.864 ],
+    "font" : "Helvetica",
+    "font size" : 10.027,
+    "text color" : "[0.039216, 0.039216, 0.023529]",
+    "content" : "second messenger synthesis cell death"
+  }, {
+    "type" : "paragraph",
+    "id" : 527,
+    "page number" : 2,
+    "bounding box" : [ 241.865, 582.776, 275.304, 594.366 ],
+    "font" : "Helvetica",
+    "font size" : 10.027,
+    "text color" : "[0.039216, 0.039216, 0.023529]",
+    "content" : "effector"
+  }, {
+    "type" : "paragraph",
+    "id" : 519,
+    "page number" : 2,
+    "bounding box" : [ 95.029, 550.803, 184.166, 593.073 ],
+    "font" : "Helvetica",
+    "font size" : 10.027,
+    "text color" : "[0.039216, 0.039216, 0.023529]",
+    "content" : "CD-NTase viral cue (?)"
+  }, {
+    "type" : "paragraph",
+    "id" : 514,
+    "page number" : 2,
+    "bounding box" : [ 318.217, 305.348, 558.427, 592.416 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Bacterial CD-NTases and animal cGLRs share a cagelike architecture formed by an N-terminal nucleotidyltransferase core and a C-terminal a-helix bundle (Figure 2b,c bottom) [4 ]. The CD-NTase active site functions as a monomeric unit and catalyzes phosphodiester bond formation through a conserved two-metal dependent mechanism [20]. The active site contains distinct nucleotide donor and acceptor pockets with side chains from the enzyme lid that determine nucleotide second messenger product speciﬁcity [4 ,21]. Rhodothermus marinus CdnE, for example, synthesizes the nucleotide second messenger 3030-c-UMP–AMP by selecting an ATP molecule in the donor pocket and a UTP molecule in the acceptor pocket, then forming a phosphodiester bond between the 50 phosphate of the ATP and the 30 OH of the UTP. The linear intermediate molecule is ﬂipped within the active site and a second phosphodiester bond is added to release the ﬁnal cyclized product 3030-c-UMP– AMP [4 ]. cGAS similarly uses a single active site to synthesize the nucleotide second messenger 2030-cGAMP (Figure 2c) [13,22–24]. While the synthesis of cyclic dinucleotide products by CD-NTases is well characterized, how this family of enzymes is able to synthesize cyclic trinucleotide nucleotide second messengers remains incompletely understood."
+  }, {
+    "type" : "image",
+    "id" : 530,
+    "page number" : 2,
+    "bounding box" : [ 144.024, 548.304, 179.33, 577.176 ],
+    "source" : "2022_Lowey_images/imageFile4.png"
+  }, {
+    "type" : "image",
+    "id" : 531,
+    "page number" : 2,
+    "bounding box" : [ 239.784, 541.764, 282.742, 574.236 ],
+    "source" : "2022_Lowey_images/imageFile5.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 533,
+    "page number" : 2,
+    "bounding box" : [ 209.903, 500.85, 292.931, 507.786 ],
+    "font" : "Helvetica",
+    "font size" : 6.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Current Opinion in Immunology"
+  }, {
+    "type" : "paragraph",
+    "id" : 534,
+    "page number" : 2,
+    "bounding box" : [ 60.945, 466.843, 297.443, 483.775 ],
+    "font" : "AdvPA183",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Overview of cyclic oligonucleotide-based antiphage signaling systems (CBASS)."
+  }, {
+    "type" : "list",
+    "id" : 535,
+    "level" : "3",
+    "page number" : 2,
+    "bounding box" : [ 60.946, 381.69, 295.155, 464.979 ],
+    "numbering style" : "english letters",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 60.946, 429.028, 292.063, 464.979 ],
+      "font" : "AdvPA189",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "(a) Representative CBASS operon from the bacterium Acinetobacter baumannii. Each CBASS operon encodes a CD-NTase (e.g. CdnD) and an effector protein (e.g. Cap4). CBASS operons also frequently encode accessory proteins including Cap2 and Cap3.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 60.946, 381.69, 295.155, 427.107 ],
+      "font" : "AdvPA189",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "(b) Schematic overview of CBASS signaling. Upon phage infection, CD-NTases are activated to produce nucleotide second messengers. The nucleotide second messenger signals by directly binding to the effector protein and inducing a cell death response that prevents phage propagation.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 511,
+    "page number" : 2,
+    "bounding box" : [ 60.945, 305.348, 301.132, 338.375 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "cGAS and animal cGAS-like receptors (cGLRs) demonstrates a direct evolutionary link between human innate immunity and bacterial antiphage defense [1 ,4 ,10]."
+  }, {
+    "type" : "paragraph",
+    "id" : 512,
+    "page number" : 2,
+    "bounding box" : [ 60.945, 51.307, 301.174, 292.171 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In response to phage infection, bacterial CD-NTases catalyze synthesis of a nucleotide second messenger signal to initiate downstream antiphage defense, a feature common to all CBASS (Figure 2a). CD-NTase nucleotide second messenger synthesis is known to be induced upon phage infection [1 ], but the viral cue responsible for CD-NTase activation in CBASS immunity is currently unknown. In human cells, cGAS binds directly to doublestranded DNA mislocalized in the cell cytosol and undergoes a conformational change that results in enzyme activation (Figure 2c) [13–15]. Other cGLRs including Drosophila cGLR1 sense double-stranded RNA, demonstrating that animal cGAS-like enzymes are capable of responding to diverse nucleic acid ligands [16,17]. However, bacterial CD-NTase enzymes do not respond to nucleic acid in vitro [4 ,10], and the lack of spatial compartmentalization in bacteria suggests CBASS immunity does not function through recognition of mislocalized DNA. In contrast to cGAS, many bacterial CD-NTases are robustly active in vitro without the addition of an activating ligand [4 ]. Additionally, structures of apo"
+  }, {
+    "type" : "heading",
+    "id" : 515,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 318.217, 282.319, 519.055, 293.388 ],
+    "heading level" : 2,
+    "font" : "AdvPA189",
+    "font size" : 10.959,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Nucleotide second messenger signals"
+  }, {
+    "type" : "paragraph",
+    "id" : 516,
+    "page number" : 2,
+    "bounding box" : [ 318.217, 50.636, 558.404, 280.661 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "A key mechanistic aspect common to all CBASS is the use of antiviral nucleotide second messenger signaling to dramatically amplify initial detection into a robust immune response. Activation of a few CD-NTase or cGAS enzymes following viral infection causes multiturnover production of hundreds of molecules of nucleotide second messenger product (Figure 3a) [4 ,13,21]. CD-NTase enzymes in bacteria are extremely diverse at the primary amino-acid level (typically <20% amino acid identity), and many distinct nucleotide second messenger products are used in CBASS immune systems [2 ,3,4 ,8 ,11,21]. The prototypical CD-NTase, V. cholerae DncV, synthesizes the cyclic dinucleotide 3030cGAMP composed of two purine bases [10,11]. More recently, bacterial CD-NTases have been characterized that produce pyrimidine-containing signals including 3030-c-UMP–AMP and 3030-c-UMP–CMP, cyclic trinucleotides including 303030-c-AMP–AMP–AMP and 303030-c-AMP–AMP–GMP, and second messengers containing non-canonical 20–50 phosphodiester bonds,"
+  }, {
+    "type" : "footer",
+    "id" : 537,
+    "page number" : 2,
+    "bounding box" : [ 60.945, 30.251, 558.393, 37.797 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 457,
+      "page number" : 2,
+      "bounding box" : [ 60.945, 30.251, 558.393, 37.797 ],
+      "heading level" : 7,
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "www.sciencedirect.com Current Opinion in Immunology 2022, 74:156–163"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 538,
+    "page number" : 3,
+    "bounding box" : [ 53.858, 700.814, 136.315, 757.346 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 466,
+      "page number" : 3,
+      "bounding box" : [ 53.858, 749.296, 136.315, 757.346 ],
+      "font" : "AdvPA189",
+      "font size" : 7.97,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "158 Innate immunity"
+    }, {
+      "type" : "paragraph",
+      "id" : 467,
+      "page number" : 3,
+      "bounding box" : [ 53.858, 700.814, 83.041, 708.361 ],
+      "font" : "AdvPA189",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Figure 2"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 543,
+    "page number" : 3,
+    "bounding box" : [ 144.744, 575.664, 284.052, 683.556 ],
+    "source" : "2022_Lowey_images/imageFile6.png"
+  }, {
+    "type" : "image",
+    "id" : 544,
+    "page number" : 3,
+    "bounding box" : [ 283.584, 575.664, 423.108, 683.556 ],
+    "source" : "2022_Lowey_images/imageFile7.png"
+  }, {
+    "type" : "image",
+    "id" : 545,
+    "page number" : 3,
+    "bounding box" : [ 422.544, 396.204, 457.814, 683.556 ],
+    "source" : "2022_Lowey_images/imageFile8.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 555,
+    "page number" : 3,
+    "bounding box" : [ 147.23, 671.419, 355.054, 680.939 ],
+    "font" : "Helvetica-Bold",
+    "font size" : 8.0,
+    "text color" : "[0.039216, 0.039216, 0.023529]",
+    "content" : "(a) (b) (c)"
+  }, {
+    "type" : "paragraph",
+    "id" : 551,
+    "page number" : 3,
+    "bounding box" : [ 165.173, 636.571, 428.752, 680.527 ],
+    "font" : "Helvetica-Bold",
+    "font size" : 9.898,
+    "text color" : "[0.039216, 0.039216, 0.023529]",
+    "content" : "Prokaryotes Eukaryotes detection of virus"
+  }, {
+    "type" : "paragraph",
+    "id" : 550,
+    "page number" : 3,
+    "bounding box" : [ 262.763, 636.57, 305.123, 659.89 ],
+    "font" : "Helvetica",
+    "font size" : 9.898,
+    "text color" : "[0.039216, 0.039216, 0.023529]",
+    "content" : "unknown viral cue?"
+  }, {
+    "type" : "paragraph",
+    "id" : 553,
+    "page number" : 3,
+    "bounding box" : [ 370.642, 616.352, 401.45, 639.671 ],
+    "font" : "Helvetica",
+    "font size" : 9.898,
+    "text color" : "[0.039216, 0.039216, 0.023529]",
+    "content" : "nucleic acid"
+  }, {
+    "type" : "image",
+    "id" : 546,
+    "page number" : 3,
+    "bounding box" : [ 144.744, 467.964, 284.052, 575.976 ],
+    "source" : "2022_Lowey_images/imageFile9.png"
+  }, {
+    "type" : "image",
+    "id" : 547,
+    "page number" : 3,
+    "bounding box" : [ 283.584, 467.964, 423.108, 575.976 ],
+    "source" : "2022_Lowey_images/imageFile10.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 554,
+    "page number" : 3,
+    "bounding box" : [ 158.573, 525.072, 214.694, 548.392 ],
+    "font" : "Helvetica",
+    "font size" : 9.898,
+    "text color" : "[0.039216, 0.039216, 0.023529]",
+    "content" : "active during infection"
+  }, {
+    "type" : "paragraph",
+    "id" : 559,
+    "page number" : 3,
+    "bounding box" : [ 232.155, 473.383, 270.121, 496.702 ],
+    "font" : "Helvetica",
+    "font size" : 9.898,
+    "text color" : "[0.039216, 0.039216, 0.023529]",
+    "content" : "acceptor UTP"
+  }, {
+    "type" : "paragraph",
+    "id" : 557,
+    "page number" : 3,
+    "bounding box" : [ 349.43, 473.383, 387.396, 496.702 ],
+    "font" : "Helvetica",
+    "font size" : 9.898,
+    "text color" : "[0.039216, 0.039216, 0.023529]",
+    "content" : "acceptor GTP"
+  }, {
+    "type" : "paragraph",
+    "id" : 552,
+    "page number" : 3,
+    "bounding box" : [ 162.085, 440.913, 211.04, 476.109 ],
+    "font" : "Helvetica",
+    "font size" : 9.898,
+    "text color" : "[0.039216, 0.039216, 0.023529]",
+    "content" : "second messenger synthesis"
+  }, {
+    "type" : "image",
+    "id" : 548,
+    "page number" : 3,
+    "bounding box" : [ 144.744, 396.204, 353.64, 468.276 ],
+    "source" : "2022_Lowey_images/imageFile11.png"
+  }, {
+    "type" : "image",
+    "id" : 549,
+    "page number" : 3,
+    "bounding box" : [ 353.124, 396.204, 422.92, 468.276 ],
+    "source" : "2022_Lowey_images/imageFile12.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 558,
+    "page number" : 3,
+    "bounding box" : [ 309.468, 408.037, 334.777, 431.356 ],
+    "font" : "Helvetica",
+    "font size" : 9.898,
+    "text color" : "[0.039216, 0.039216, 0.023529]",
+    "content" : "donor ATP"
+  }, {
+    "type" : "paragraph",
+    "id" : 556,
+    "page number" : 3,
+    "bounding box" : [ 428.693, 408.037, 454.003, 431.356 ],
+    "font" : "Helvetica",
+    "font size" : 9.898,
+    "text color" : "[0.039216, 0.039216, 0.023529]",
+    "content" : "donor ATP"
+  }, {
+    "type" : "paragraph",
+    "id" : 560,
+    "page number" : 3,
+    "bounding box" : [ 375.983, 385.577, 459.011, 392.513 ],
+    "font" : "Helvetica",
+    "font size" : 6.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Current Opinion in Immunology"
+  }, {
+    "type" : "paragraph",
+    "id" : 561,
+    "page number" : 3,
+    "bounding box" : [ 53.858, 361.564, 126.678, 369.028 ],
+    "font" : "AdvPA183",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Bacterial CD-NTases."
+  }, {
+    "type" : "list",
+    "id" : 562,
+    "level" : "4",
+    "page number" : 3,
+    "bounding box" : [ 53.858, 304.814, 547.228, 359.643 ],
+    "numbering style" : "english letters",
+    "number of list items" : 3,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 53.858, 342.628, 547.228, 359.643 ],
+      "font" : "AdvPA189",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "(a) Overview of CD-NTase function during viral infection. Bacterial CD-NTases sense viral infection and then initiate CBASS defense by producing a nucleotide second messenger. The activating cue sensed during infection is currently unknown.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 53.86, 323.75, 520.557, 341.463 ],
+      "font" : "AdvPA189",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "(b) Cartoon representation of the bacterial CD-NTase RmCdnE (top) that synthesizes 3030-c-UMP–AMP using a polymerase-like active site (bottom).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 53.861, 304.814, 546.435, 321.829 ],
+      "font" : "AdvPA189",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "(c) Cartoon representation of human cGAS (top) and the cGAS active site (bottom), highlighting the structural similarity between animal cGAS-like receptors (cGLRs) and bacterial CD-NTase enzymes.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 539,
+    "page number" : 3,
+    "bounding box" : [ 53.858, 166.79, 294.095, 247.392 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "including 203030-c-AMP–AMP–AMP and 3020-cGAMP [2 ,3,4 ,25] (Figure 3c). Thus far, 7 distinct CD-NTase products have been veriﬁed as functional signals in CBASS immunity [2 ,3,4 ,8 ,9,25], and analysis of CD-NTase speciﬁcity suggests up to 180 distinct nucleotide and phosphodiester-linkage combinations may exist in biology (Figure 3b,c) [2 ]."
+  }, {
+    "type" : "paragraph",
+    "id" : 540,
+    "page number" : 3,
+    "bounding box" : [ 53.859, 51.307, 294.119, 153.613 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In addition to CBASS, antiviral nucleotide second messenger signals also function in Pycsar immunity, type III CRISPR systems and in animal cGLR immune signaling. In Pycsar systems, PycC enzymes synthesize cyclic the mononucleotides cUMP and cCMP in response to phage infection (Figure 3e) [26 ]. In type III CRISPR, recognition of phage infection results in activation of the protein Cas10 that synthesizes larger cyclic oligoadenylate rings 3–6 nucleotides in size (Figure 3d) [27 ,28 ]."
+  }, {
+    "type" : "paragraph",
+    "id" : 541,
+    "page number" : 3,
+    "bounding box" : [ 311.131, 178.299, 551.324, 246.022 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Similar to activation of CBASS Cap effectors, these CRISPR and Pycsar nucleotide second messengers activate downstream effectors that inhibit phage replication (Figure 3b) [26 ,27 ,28 ,29,30]. Several effectors, including NucC and SAVED-containing effectors, can be found in both CBASS and CRISPR systems [7 ,9,31]."
+  }, {
+    "type" : "paragraph",
+    "id" : 542,
+    "page number" : 3,
+    "bounding box" : [ 311.131, 51.307, 551.338, 165.178 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In animals, the mammalian protein cGAS synthesizes 2030-cGAMP to activate the downstream receptor STING and type I interferon responses [13,22–24]. Recently, 3020cGAMP has been identiﬁed both as another metazoan immune nucleotide signal synthesized by the dsRNA sensor cGLR1 in Drosophila (Figure 3b,f) [16] and as second messenger in bacterial CBASS [25]. Oligoadenylate synthase 1 (OAS1), is an enzyme structurally related to bacterial CD-NTases and animal cGLRs that senses dsRNA and synthesizes a linear nucleotide second"
+  }, {
+    "type" : "footer",
+    "id" : 564,
+    "page number" : 3,
+    "bounding box" : [ 53.858, 30.251, 551.249, 37.797 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 458,
+      "page number" : 3,
+      "bounding box" : [ 53.858, 30.251, 551.249, 37.797 ],
+      "heading level" : 7,
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Current Opinion in Immunology 2022, 74:156–163 www.sciencedirect.com"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 565,
+    "page number" : 4,
+    "bounding box" : [ 60.945, 700.814, 558.471, 757.346 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 468,
+      "page number" : 4,
+      "bounding box" : [ 161.745, 749.296, 558.471, 757.346 ],
+      "font" : "AdvPA189",
+      "font size" : 7.97,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "CBASS phage defense and evolution of antiviral nucleotide signaling Duncan-Lowey and Kranzusch 159"
+    }, {
+      "type" : "paragraph",
+      "id" : 469,
+      "page number" : 4,
+      "bounding box" : [ 60.945, 700.814, 90.128, 708.361 ],
+      "font" : "AdvPA189",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Figure 3"
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 571,
+    "level" : "5",
+    "page number" : 4,
+    "bounding box" : [ 262.758, 410.358, 516.927, 683.624 ],
+    "number of rows" : 3,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 4,
+        "bounding box" : [ 263.275, 561.171, 516.681, 683.314 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "heading",
+          "id" : 13,
+          "level" : "Subtitle",
+          "page number" : 4,
+          "bounding box" : [ 266.237, 670.893, 297.171, 683.212 ],
+          "heading level" : 4,
+          "font" : "Arial-BoldMT",
+          "font size" : 8.837,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "CBASS"
+        }, {
+          "type" : "paragraph",
+          "id" : 14,
+          "page number" : 4,
+          "bounding box" : [ 383.606, 592.791, 385.439, 596.17 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 15,
+          "page number" : 4,
+          "bounding box" : [ 383.386, 600.71, 385.219, 604.089 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 17,
+          "page number" : 4,
+          "bounding box" : [ 390.924, 604.307, 392.757, 607.686 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 18,
+          "page number" : 4,
+          "bounding box" : [ 394.797, 598.006, 396.63, 601.385 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 20,
+          "page number" : 4,
+          "bounding box" : [ 390.564, 588.69, 395.289, 592.4 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "NH2"
+        }, {
+          "type" : "paragraph",
+          "id" : 22,
+          "page number" : 4,
+          "bounding box" : [ 384.532, 613.011, 397.204, 617.472 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "HO O"
+        }, {
+          "type" : "paragraph",
+          "id" : 25,
+          "page number" : 4,
+          "bounding box" : [ 389.782, 621.006, 391.757, 624.385 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "list",
+          "id" : 27,
+          "level" : "1",
+          "page number" : 4,
+          "bounding box" : [ 403.256, 619.506, 407.417, 626.498 ],
+          "numbering style" : "english letters",
+          "number of list items" : 2,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 403.256, 619.506, 405.231, 622.885 ],
+            "font" : "ArialMT",
+            "font size" : 2.539,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "O",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 405.724, 623.119, 407.417, 626.498 ],
+            "font" : "ArialMT",
+            "font size" : 2.539,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "P",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "id" : 29,
+          "page number" : 4,
+          "bounding box" : [ 399.792, 625.388, 403.6, 628.767 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "HO"
+        }, {
+          "type" : "paragraph",
+          "id" : 31,
+          "level" : "2",
+          "page number" : 4,
+          "bounding box" : [ 410.42, 621.286, 412.395, 624.665 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 33,
+          "page number" : 4,
+          "bounding box" : [ 362.475, 653.488, 364.308, 656.867 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 34,
+          "page number" : 4,
+          "bounding box" : [ 370.129, 651.452, 371.962, 654.831 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 36,
+          "page number" : 4,
+          "bounding box" : [ 364.298, 641.28, 373.272, 646.58 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N N"
+        }, {
+          "type" : "paragraph",
+          "id" : 38,
+          "page number" : 4,
+          "bounding box" : [ 353.992, 647.554, 358.717, 651.266 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "H2N"
+        }, {
+          "type" : "paragraph",
+          "id" : 40,
+          "level" : "3",
+          "page number" : 4,
+          "bounding box" : [ 379.856, 637.296, 381.831, 640.675 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 42,
+          "page number" : 4,
+          "bounding box" : [ 385.109, 645.206, 388.916, 648.585 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "OH"
+        }, {
+          "type" : "paragraph",
+          "id" : 44,
+          "level" : "4",
+          "page number" : 4,
+          "bounding box" : [ 388.833, 638.805, 390.808, 642.184 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "list",
+          "id" : 46,
+          "level" : "1",
+          "page number" : 4,
+          "bounding box" : [ 383.794, 623.648, 387.636, 631.348 ],
+          "numbering style" : "english letters",
+          "number of list items" : 2,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 383.794, 627.969, 385.769, 631.348 ],
+            "font" : "ArialMT",
+            "font size" : 2.539,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "O",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 385.943, 623.648, 387.636, 627.027 ],
+            "font" : "ArialMT",
+            "font size" : 2.539,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "P",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "id" : 48,
+          "level" : "3",
+          "page number" : 4,
+          "bounding box" : [ 389.034, 626.863, 392.841, 630.242 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "OH"
+        }, {
+          "type" : "paragraph",
+          "id" : 50,
+          "page number" : 4,
+          "bounding box" : [ 382.572, 620.401, 384.547, 623.78 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 52,
+          "level" : "4",
+          "page number" : 4,
+          "bounding box" : [ 428.064, 637.646, 435.664, 646.453 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N N"
+        }, {
+          "type" : "paragraph",
+          "id" : 54,
+          "page number" : 4,
+          "bounding box" : [ 420.364, 640.886, 422.197, 644.265 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 55,
+          "page number" : 4,
+          "bounding box" : [ 422.498, 647.966, 424.331, 651.345 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 57,
+          "level" : "5",
+          "page number" : 4,
+          "bounding box" : [ 432.022, 650.447, 436.747, 654.157 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "NH2"
+        }, {
+          "type" : "paragraph",
+          "id" : 59,
+          "page number" : 4,
+          "bounding box" : [ 411.172, 636.477, 413.147, 639.856 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 61,
+          "page number" : 4,
+          "bounding box" : [ 407.381, 627.546, 418.802, 631.787 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O OH"
+        }, {
+          "type" : "paragraph",
+          "id" : 64,
+          "page number" : 4,
+          "bounding box" : [ 394.735, 634.286, 403.405, 642.307 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "P O OH"
+        }, {
+          "type" : "paragraph",
+          "id" : 68,
+          "page number" : 4,
+          "bounding box" : [ 394.32, 643.441, 396.295, 646.82 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 70,
+          "page number" : 4,
+          "bounding box" : [ 338.756, 671.608, 342.422, 674.543 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "NH"
+        }, {
+          "type" : "list",
+          "id" : 71,
+          "level" : "1",
+          "page number" : 4,
+          "bounding box" : [ 334.73, 664.746, 336.705, 681.367 ],
+          "numbering style" : "english letters",
+          "number of list items" : 2,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 334.801, 664.746, 336.634, 667.681 ],
+            "font" : "Helvetica",
+            "font size" : 2.539,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "N",
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 9,
+              "page number" : 4,
+              "bounding box" : [ 326.494, 673.017, 328.327, 675.951 ],
+              "font" : "Helvetica",
+              "font size" : 2.539,
+              "text color" : "[0.0, 0.0, 0.0]",
+              "content" : "N"
+            } ]
+          }, {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 334.73, 678.433, 336.705, 681.367 ],
+            "font" : "Helvetica",
+            "font size" : 2.539,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "O",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "id" : 73,
+          "page number" : 4,
+          "bounding box" : [ 320.239, 660.021, 347.45, 668.56 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N NH2 O"
+        }, {
+          "type" : "paragraph",
+          "id" : 76,
+          "page number" : 4,
+          "bounding box" : [ 314.433, 652.028, 327.897, 655.487 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O OH"
+        }, {
+          "type" : "paragraph",
+          "id" : 79,
+          "page number" : 4,
+          "bounding box" : [ 311.254, 661.943, 313.229, 664.878 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 81,
+          "page number" : 4,
+          "bounding box" : [ 307.375, 665.353, 309.069, 668.288 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "P"
+        }, {
+          "type" : "paragraph",
+          "id" : 83,
+          "page number" : 4,
+          "bounding box" : [ 301.444, 667.614, 305.253, 670.548 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "HO"
+        }, {
+          "type" : "paragraph",
+          "id" : 85,
+          "level" : "4",
+          "page number" : 4,
+          "bounding box" : [ 309.52, 669.285, 311.495, 672.22 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 87,
+          "page number" : 4,
+          "bounding box" : [ 300.019, 652.958, 301.994, 655.893 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 89,
+          "page number" : 4,
+          "bounding box" : [ 296.404, 660.93, 306.038, 663.868 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "OH O"
+        }, {
+          "type" : "list",
+          "id" : 92,
+          "level" : "1",
+          "page number" : 4,
+          "bounding box" : [ 309.415, 648.711, 313.899, 655.44 ],
+          "numbering style" : "english letters",
+          "number of list items" : 2,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 309.415, 652.506, 311.39, 655.44 ],
+            "font" : "Helvetica",
+            "font size" : 2.539,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "O",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 312.205, 648.711, 313.899, 651.646 ],
+            "font" : "Helvetica",
+            "font size" : 2.539,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "P",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "id" : 94,
+          "page number" : 4,
+          "bounding box" : [ 281.882, 641.611, 319.104, 648.39 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O OH N"
+        }, {
+          "type" : "paragraph",
+          "id" : 96,
+          "page number" : 4,
+          "bounding box" : [ 285.84, 647.593, 295.977, 651.404 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N N"
+        }, {
+          "type" : "paragraph",
+          "id" : 98,
+          "page number" : 4,
+          "bounding box" : [ 285.839, 634.315, 295.977, 643.133 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N NH2"
+        }, {
+          "type" : "paragraph",
+          "id" : 101,
+          "page number" : 4,
+          "bounding box" : [ 335.932, 610.338, 339.599, 613.273 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "NH"
+        }, {
+          "type" : "list",
+          "id" : 102,
+          "level" : "1",
+          "page number" : 4,
+          "bounding box" : [ 331.905, 603.476, 333.88, 620.098 ],
+          "numbering style" : "english letters",
+          "number of list items" : 2,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 331.974, 603.476, 333.807, 606.411 ],
+            "font" : "Helvetica",
+            "font size" : 2.539,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "N",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 331.905, 617.163, 333.88, 620.098 ],
+            "font" : "Helvetica",
+            "font size" : 2.539,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "O",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "id" : 104,
+          "page number" : 4,
+          "bounding box" : [ 325.77, 598.75, 327.745, 601.684 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 106,
+          "page number" : 4,
+          "bounding box" : [ 319.965, 590.758, 333.428, 594.217 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O OH"
+        }, {
+          "type" : "paragraph",
+          "id" : 109,
+          "page number" : 4,
+          "bounding box" : [ 316.786, 600.673, 318.761, 603.608 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 112,
+          "page number" : 4,
+          "bounding box" : [ 306.976, 606.343, 310.785, 609.278 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "HO"
+        }, {
+          "type" : "paragraph",
+          "id" : 114,
+          "level" : "2",
+          "page number" : 4,
+          "bounding box" : [ 315.051, 608.016, 317.026, 610.95 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 116,
+          "page number" : 4,
+          "bounding box" : [ 305.549, 591.688, 307.524, 594.623 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 118,
+          "page number" : 4,
+          "bounding box" : [ 301.936, 599.66, 311.57, 602.599 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "OH O"
+        }, {
+          "type" : "list",
+          "id" : 121,
+          "level" : "1",
+          "page number" : 4,
+          "bounding box" : [ 314.947, 587.44, 319.43, 594.17 ],
+          "numbering style" : "english letters",
+          "number of list items" : 2,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 314.947, 591.235, 316.922, 594.17 ],
+            "font" : "Helvetica",
+            "font size" : 2.539,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "O",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 317.737, 587.44, 319.43, 590.375 ],
+            "font" : "Helvetica",
+            "font size" : 2.539,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "P",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "id" : 123,
+          "page number" : 4,
+          "bounding box" : [ 287.415, 580.34, 324.636, 587.12 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O OH N"
+        }, {
+          "type" : "paragraph",
+          "id" : 125,
+          "page number" : 4,
+          "bounding box" : [ 291.372, 586.323, 301.509, 590.134 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N N"
+        }, {
+          "type" : "paragraph",
+          "id" : 127,
+          "page number" : 4,
+          "bounding box" : [ 291.371, 573.045, 301.509, 581.863 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N NH2"
+        }, {
+          "type" : "paragraph",
+          "id" : 130,
+          "page number" : 4,
+          "bounding box" : [ 339.944, 603.413, 341.919, 606.348 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 132,
+          "page number" : 4,
+          "bounding box" : [ 291.482, 622.114, 338.01, 633.877 ],
+          "font" : "ArialMT",
+          "font size" : 8.837,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "3′3′-cGAMP"
+        }, {
+          "type" : "paragraph",
+          "id" : 133,
+          "page number" : 4,
+          "bounding box" : [ 484.257, 650.299, 486.126, 653.744 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 134,
+          "page number" : 4,
+          "bounding box" : [ 476.461, 638.78, 486.119, 645.668 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N N"
+        }, {
+          "type" : "list",
+          "id" : 136,
+          "level" : "1",
+          "page number" : 4,
+          "bounding box" : [ 471.672, 628.641, 482.687, 648.759 ],
+          "numbering style" : "english letters",
+          "number of list items" : 2,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 472.702, 645.314, 474.571, 648.759 ],
+            "font" : "ArialMT",
+            "font size" : 2.588,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "N",
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 3,
+              "page number" : 4,
+              "bounding box" : [ 474.33, 654.008, 479.147, 657.79 ],
+              "font" : "ArialMT",
+              "font size" : 2.588,
+              "text color" : "[0.0, 0.0, 0.0]",
+              "content" : "H2N"
+            } ]
+          }, {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 471.672, 628.641, 482.687, 633.45 ],
+            "font" : "ArialMT",
+            "font size" : 2.588,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "O O",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "id" : 139,
+          "page number" : 4,
+          "bounding box" : [ 476.989, 621.697, 480.871, 625.142 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "OH"
+        }, {
+          "type" : "list",
+          "id" : 141,
+          "level" : "1",
+          "page number" : 4,
+          "bounding box" : [ 460.968, 620.043, 465.315, 627.067 ],
+          "numbering style" : "english letters",
+          "number of list items" : 2,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 463.302, 623.622, 465.315, 627.067 ],
+            "font" : "ArialMT",
+            "font size" : 2.588,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "O",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 460.968, 620.043, 462.695, 623.487 ],
+            "font" : "ArialMT",
+            "font size" : 2.588,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "P",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "id" : 143,
+          "level" : "2",
+          "page number" : 4,
+          "bounding box" : [ 464.791, 617.581, 468.672, 621.025 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "OH"
+        }, {
+          "type" : "paragraph",
+          "id" : 145,
+          "page number" : 4,
+          "bounding box" : [ 455.95, 622.022, 457.963, 625.466 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 147,
+          "level" : "3",
+          "page number" : 4,
+          "bounding box" : [ 504.003, 587.822, 505.872, 591.267 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 148,
+          "page number" : 4,
+          "bounding box" : [ 496.261, 590.123, 498.13, 593.568 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 150,
+          "page number" : 4,
+          "bounding box" : [ 495.172, 598.569, 497.041, 602.013 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 151,
+          "page number" : 4,
+          "bounding box" : [ 502.505, 600.318, 504.374, 603.763 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 153,
+          "level" : "4",
+          "page number" : 4,
+          "bounding box" : [ 509.866, 593.026, 514.681, 596.81 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "NH2"
+        }, {
+          "type" : "paragraph",
+          "id" : 155,
+          "page number" : 4,
+          "bounding box" : [ 486.623, 604.804, 488.637, 608.249 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 157,
+          "page number" : 4,
+          "bounding box" : [ 479.169, 596.898, 483.052, 600.342 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "HO"
+        }, {
+          "type" : "paragraph",
+          "id" : 159,
+          "page number" : 4,
+          "bounding box" : [ 477.431, 603.532, 479.445, 606.977 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 161,
+          "page number" : 4,
+          "bounding box" : [ 485.163, 617.936, 487.177, 621.381 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 164,
+          "level" : "5",
+          "page number" : 4,
+          "bounding box" : [ 489.422, 620.876, 493.304, 624.32 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "OH"
+        }, {
+          "type" : "paragraph",
+          "id" : 166,
+          "page number" : 4,
+          "bounding box" : [ 488.602, 627.413, 490.616, 630.857 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 168,
+          "page number" : 4,
+          "bounding box" : [ 431.594, 600.537, 433.462, 603.982 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 169,
+          "page number" : 4,
+          "bounding box" : [ 437.632, 605.9, 439.5, 609.345 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 171,
+          "page number" : 4,
+          "bounding box" : [ 445.382, 602.371, 447.25, 605.816 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 172,
+          "page number" : 4,
+          "bounding box" : [ 430.261, 592.295, 444.867, 598.662 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N H2N"
+        }, {
+          "type" : "paragraph",
+          "id" : 175,
+          "level" : "6",
+          "page number" : 4,
+          "bounding box" : [ 454.736, 606.562, 456.749, 610.006 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 177,
+          "page number" : 4,
+          "bounding box" : [ 451.077, 614.898, 460.875, 618.997 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "OH O"
+        }, {
+          "type" : "paragraph",
+          "id" : 180,
+          "page number" : 4,
+          "bounding box" : [ 464.595, 603.618, 473.087, 607.336 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O P"
+        }, {
+          "type" : "paragraph",
+          "id" : 183,
+          "level" : "7",
+          "page number" : 4,
+          "bounding box" : [ 471.549, 608.31, 475.43, 611.755 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "OH"
+        }, {
+          "type" : "paragraph",
+          "id" : 185,
+          "page number" : 4,
+          "bounding box" : [ 471.703, 598.968, 473.717, 602.413 ],
+          "font" : "ArialMT",
+          "font size" : 2.588,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 187,
+          "page number" : 4,
+          "bounding box" : [ 298.267, 561.421, 492.003, 582.662 ],
+          "font" : "ArialMT",
+          "font size" : 8.837,
+          "text color" : "[0.13333, 0.12157, 0.12549]",
+          "content" : "3′3′3′-cAAA 2′3′3′-cAAA 3′3′-cUA"
+        }, {
+          "type" : "heading",
+          "id" : 188,
+          "level" : "Subtitle",
+          "page number" : 4,
+          "bounding box" : [ 504.757, 672.337, 514.533, 681.857 ],
+          "heading level" : 5,
+          "font" : "Helvetica-Bold",
+          "font size" : 8.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "(c)"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 4,
+        "bounding box" : [ 263.275, 452.072, 354.821, 561.171 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "heading",
+          "id" : 193,
+          "level" : "Subtitle",
+          "page number" : 4,
+          "bounding box" : [ 266.237, 547.608, 299.624, 559.927 ],
+          "heading level" : 4,
+          "font" : "Arial-BoldMT",
+          "font size" : 8.837,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "CRISPR"
+        }, {
+          "type" : "paragraph",
+          "id" : 194,
+          "page number" : 4,
+          "bounding box" : [ 321.587, 462.81, 323.42, 466.189 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 195,
+          "page number" : 4,
+          "bounding box" : [ 316.948, 469.23, 318.781, 472.609 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "list",
+          "id" : 197,
+          "level" : "1",
+          "page number" : 4,
+          "bounding box" : [ 319.796, 473.417, 329.736, 489.481 ],
+          "numbering style" : "english letters",
+          "number of list items" : 2,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 321.158, 473.417, 329.736, 479.827 ],
+            "font" : "ArialMT",
+            "font size" : 2.539,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "N N",
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 190,
+              "level" : "2",
+              "page number" : 4,
+              "bounding box" : [ 329.46, 463.277, 334.185, 466.988 ],
+              "font" : "ArialMT",
+              "font size" : 2.539,
+              "text color" : "[0.0, 0.0, 0.0]",
+              "content" : "NH2"
+            } ]
+          }, {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 319.796, 486.102, 321.771, 489.481 ],
+            "font" : "ArialMT",
+            "font size" : 2.539,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "O",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "id" : 199,
+          "page number" : 4,
+          "bounding box" : [ 310.027, 482.009, 313.836, 485.388 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "HO"
+        }, {
+          "type" : "paragraph",
+          "id" : 201,
+          "page number" : 4,
+          "bounding box" : [ 310.795, 489.647, 312.77, 493.026 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 203,
+          "page number" : 4,
+          "bounding box" : [ 322.702, 494.429, 324.677, 497.808 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 205,
+          "page number" : 4,
+          "bounding box" : [ 316.511, 498.797, 329.653, 502.372 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "HO P O"
+        }, {
+          "type" : "paragraph",
+          "id" : 209,
+          "page number" : 4,
+          "bounding box" : [ 267.885, 489.671, 269.717, 493.05 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 210,
+          "page number" : 4,
+          "bounding box" : [ 274.003, 494.701, 275.835, 498.08 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 212,
+          "page number" : 4,
+          "bounding box" : [ 281.468, 490.953, 283.301, 494.332 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 213,
+          "page number" : 4,
+          "bounding box" : [ 266.284, 481.53, 280.699, 487.412 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N H2N"
+        }, {
+          "type" : "paragraph",
+          "id" : 216,
+          "level" : "3",
+          "page number" : 4,
+          "bounding box" : [ 291.132, 494.398, 293.107, 497.777 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 218,
+          "page number" : 4,
+          "bounding box" : [ 287.769, 502.57, 297.118, 506.658 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "OH O"
+        }, {
+          "type" : "paragraph",
+          "id" : 221,
+          "page number" : 4,
+          "bounding box" : [ 300.807, 489.669, 307.295, 493.065 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O P"
+        }, {
+          "type" : "paragraph",
+          "id" : 224,
+          "level" : "4",
+          "page number" : 4,
+          "bounding box" : [ 305.461, 494.238, 309.269, 497.617 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "OH"
+        }, {
+          "type" : "paragraph",
+          "id" : 226,
+          "page number" : 4,
+          "bounding box" : [ 305.461, 485.1, 307.436, 488.479 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 228,
+          "level" : "5",
+          "page number" : 4,
+          "bounding box" : [ 343.8, 514.767, 351.538, 523.424 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N N"
+        }, {
+          "type" : "paragraph",
+          "id" : 230,
+          "page number" : 4,
+          "bounding box" : [ 336.186, 518.201, 338.019, 521.58 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 231,
+          "page number" : 4,
+          "bounding box" : [ 338.501, 525.226, 340.334, 528.605 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 233,
+          "level" : "6",
+          "page number" : 4,
+          "bounding box" : [ 348.094, 527.461, 352.819, 531.172 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "NH2"
+        }, {
+          "type" : "paragraph",
+          "id" : 235,
+          "page number" : 4,
+          "bounding box" : [ 326.883, 514.028, 328.858, 517.407 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 237,
+          "page number" : 4,
+          "bounding box" : [ 322.914, 504.266, 334.308, 509.241 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "OH O"
+        }, {
+          "type" : "paragraph",
+          "id" : 240,
+          "page number" : 4,
+          "bounding box" : [ 312.865, 514.4, 319.388, 522.364 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "P O OH"
+        }, {
+          "type" : "paragraph",
+          "id" : 243,
+          "page number" : 4,
+          "bounding box" : [ 312.865, 523.538, 314.84, 526.917 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 245,
+          "page number" : 4,
+          "bounding box" : [ 292.694, 546.001, 294.527, 549.38 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 246,
+          "page number" : 4,
+          "bounding box" : [ 297.903, 540.034, 299.736, 543.413 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 248,
+          "page number" : 4,
+          "bounding box" : [ 294.379, 532.461, 296.212, 535.84 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 249,
+          "page number" : 4,
+          "bounding box" : [ 287.383, 534.858, 289.216, 538.237 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 251,
+          "page number" : 4,
+          "bounding box" : [ 282.036, 544.48, 286.761, 547.859 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "H N"
+        }, {
+          "type" : "paragraph",
+          "id" : 253,
+          "level" : "7",
+          "page number" : 4,
+          "bounding box" : [ 298.359, 523.166, 300.334, 526.545 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 255,
+          "page number" : 4,
+          "bounding box" : [ 306.565, 526.687, 310.373, 530.066 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "OH"
+        }, {
+          "type" : "paragraph",
+          "id" : 257,
+          "level" : "8",
+          "page number" : 4,
+          "bounding box" : [ 295.306, 513.997, 310.291, 522.347 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O O"
+        }, {
+          "type" : "paragraph",
+          "id" : 261,
+          "page number" : 4,
+          "bounding box" : [ 290.631, 508.814, 303.578, 512.193 ],
+          "font" : "ArialMT",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O OH"
+        }, {
+          "type" : "paragraph",
+          "id" : 264,
+          "page number" : 4,
+          "bounding box" : [ 302.774, 453.954, 315.821, 466.402 ],
+          "font" : "ArialMT",
+          "font size" : 8.837,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "cA4"
+        }, {
+          "type" : "paragraph",
+          "id" : 265,
+          "page number" : 4,
+          "bounding box" : [ 344.341, 551.128, 354.557, 560.648 ],
+          "font" : "Helvetica-Bold",
+          "font size" : 8.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "(d)"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 4,
+        "bounding box" : [ 354.821, 410.604, 516.681, 561.171 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 2,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "heading",
+          "id" : 277,
+          "level" : "Subtitle",
+          "page number" : 4,
+          "bounding box" : [ 356.88, 547.608, 443.803, 559.927 ],
+          "heading level" : 4,
+          "font" : "Arial-BoldMT",
+          "font size" : 8.837,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Eukaryotic Immunity"
+        }, {
+          "type" : "paragraph",
+          "id" : 278,
+          "page number" : 4,
+          "bounding box" : [ 418.399, 470.384, 422.065, 473.319 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "NH"
+        }, {
+          "type" : "list",
+          "id" : 279,
+          "level" : "1",
+          "page number" : 4,
+          "bounding box" : [ 414.373, 463.522, 416.348, 480.144 ],
+          "numbering style" : "english letters",
+          "number of list items" : 2,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 414.443, 463.522, 416.275, 466.457 ],
+            "font" : "Helvetica",
+            "font size" : 2.539,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "N",
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 275,
+              "page number" : 4,
+              "bounding box" : [ 406.137, 471.793, 407.97, 474.728 ],
+              "font" : "Helvetica",
+              "font size" : 2.539,
+              "text color" : "[0.0, 0.0, 0.0]",
+              "content" : "N"
+            } ]
+          }, {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 414.373, 477.209, 416.348, 480.144 ],
+            "font" : "Helvetica",
+            "font size" : 2.539,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "O",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "id" : 281,
+          "page number" : 4,
+          "bounding box" : [ 399.882, 458.796, 427.092, 467.336 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N NH2 O"
+        }, {
+          "type" : "paragraph",
+          "id" : 284,
+          "page number" : 4,
+          "bounding box" : [ 394.076, 450.804, 407.538, 454.263 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O OH"
+        }, {
+          "type" : "paragraph",
+          "id" : 287,
+          "page number" : 4,
+          "bounding box" : [ 369.72, 463.963, 383.951, 466.993 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "HO P O"
+        }, {
+          "type" : "paragraph",
+          "id" : 291,
+          "level" : "2",
+          "page number" : 4,
+          "bounding box" : [ 376.053, 468.533, 378.028, 471.468 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 293,
+          "level" : "3",
+          "page number" : 4,
+          "bounding box" : [ 379.662, 451.734, 381.637, 454.669 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 295,
+          "page number" : 4,
+          "bounding box" : [ 376.048, 459.705, 387.514, 462.644 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O OH"
+        }, {
+          "type" : "list",
+          "id" : 298,
+          "level" : "1",
+          "page number" : 4,
+          "bounding box" : [ 389.058, 447.487, 393.541, 454.216 ],
+          "numbering style" : "english letters",
+          "number of list items" : 2,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 389.058, 451.281, 391.033, 454.216 ],
+            "font" : "Helvetica",
+            "font size" : 2.539,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "O",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 391.848, 447.487, 393.541, 450.422 ],
+            "font" : "Helvetica",
+            "font size" : 2.539,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "P",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "id" : 300,
+          "page number" : 4,
+          "bounding box" : [ 361.526, 440.386, 398.746, 447.166 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O OH N"
+        }, {
+          "type" : "paragraph",
+          "id" : 302,
+          "page number" : 4,
+          "bounding box" : [ 365.483, 446.368, 375.62, 450.18 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N N"
+        }, {
+          "type" : "paragraph",
+          "id" : 304,
+          "page number" : 4,
+          "bounding box" : [ 365.482, 433.091, 375.62, 441.908 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N NH2"
+        }, {
+          "type" : "paragraph",
+          "id" : 307,
+          "page number" : 4,
+          "bounding box" : [ 418.398, 539.491, 422.064, 542.425 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "NH"
+        }, {
+          "type" : "list",
+          "id" : 308,
+          "level" : "1",
+          "page number" : 4,
+          "bounding box" : [ 414.372, 532.63, 416.347, 549.251 ],
+          "numbering style" : "english letters",
+          "number of list items" : 2,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 414.44, 532.63, 416.272, 535.564 ],
+            "font" : "Helvetica",
+            "font size" : 2.539,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "N",
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 271,
+              "page number" : 4,
+              "bounding box" : [ 406.136, 540.901, 407.969, 543.835 ],
+              "font" : "Helvetica",
+              "font size" : 2.539,
+              "text color" : "[0.0, 0.0, 0.0]",
+              "content" : "N"
+            } ]
+          }, {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 414.372, 546.317, 416.347, 549.251 ],
+            "font" : "Helvetica",
+            "font size" : 2.539,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "O",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "list",
+          "id" : 310,
+          "level" : "2",
+          "page number" : 4,
+          "bounding box" : [ 403.73, 519.911, 427.091, 536.443 ],
+          "numbering style" : "english letters",
+          "number of list items" : 2,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 406.136, 532.189, 427.091, 536.443 ],
+            "font" : "Helvetica",
+            "font size" : 2.539,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "N NH2",
+            "kids" : [ {
+              "type" : "paragraph",
+              "id" : 268,
+              "page number" : 4,
+              "bounding box" : [ 399.879, 527.904, 401.854, 530.838 ],
+              "font" : "Helvetica",
+              "font size" : 2.539,
+              "text color" : "[0.0, 0.0, 0.0]",
+              "content" : "O"
+            } ]
+          }, {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 403.73, 519.911, 405.705, 522.845 ],
+            "font" : "Helvetica",
+            "font size" : 2.539,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "O",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "id" : 312,
+          "page number" : 4,
+          "bounding box" : [ 396.047, 518.433, 399.854, 521.367 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "OH"
+        }, {
+          "type" : "paragraph",
+          "id" : 314,
+          "page number" : 4,
+          "bounding box" : [ 380.327, 532.168, 391.931, 536.307 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "HO P O"
+        }, {
+          "type" : "paragraph",
+          "id" : 318,
+          "level" : "3",
+          "page number" : 4,
+          "bounding box" : [ 387.757, 536.603, 389.732, 539.537 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 320,
+          "page number" : 4,
+          "bounding box" : [ 379.66, 520.843, 381.635, 523.777 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 322,
+          "page number" : 4,
+          "bounding box" : [ 376.047, 528.814, 385.68, 531.752 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "OH O"
+        }, {
+          "type" : "paragraph",
+          "id" : 325,
+          "page number" : 4,
+          "bounding box" : [ 399.252, 515.936, 412.141, 518.965 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O P OH"
+        }, {
+          "type" : "paragraph",
+          "id" : 328,
+          "page number" : 4,
+          "bounding box" : [ 361.525, 509.494, 405.74, 514.37 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O N"
+        }, {
+          "type" : "paragraph",
+          "id" : 330,
+          "page number" : 4,
+          "bounding box" : [ 365.48, 515.477, 375.618, 519.287 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N N"
+        }, {
+          "type" : "paragraph",
+          "id" : 332,
+          "page number" : 4,
+          "bounding box" : [ 365.48, 502.639, 375.618, 511.015 ],
+          "font" : "Helvetica",
+          "font size" : 2.539,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N NH"
+        }, {
+          "type" : "list",
+          "id" : 335,
+          "level" : "4",
+          "page number" : 4,
+          "bounding box" : [ 375.028, 418.643, 421.556, 498.885 ],
+          "numbering style" : "arabic numbers",
+          "number of list items" : 2,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 375.028, 487.123, 421.556, 498.885 ],
+            "font" : "ArialMT",
+            "font size" : 8.837,
+            "text color" : "[0.13333, 0.12157, 0.12549]",
+            "content" : "2′3′-cGAMP",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 375.028, 418.643, 421.556, 430.405 ],
+            "font" : "ArialMT",
+            "font size" : 8.837,
+            "text color" : "[0.13333, 0.12157, 0.12549]",
+            "content" : "3′2′-cGAMP",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "id" : 336,
+          "page number" : 4,
+          "bounding box" : [ 466.935, 442.38, 500.705, 454.142 ],
+          "font" : "ArialMT",
+          "font size" : 8.837,
+          "text color" : "[0.13333, 0.12157, 0.12549]",
+          "content" : "2′–5′-OA"
+        }, {
+          "type" : "paragraph",
+          "id" : 337,
+          "page number" : 4,
+          "bounding box" : [ 450.841, 505.157, 454.8, 508.209 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "OH"
+        }, {
+          "type" : "paragraph",
+          "id" : 338,
+          "page number" : 4,
+          "bounding box" : [ 462.837, 490.716, 478.209, 498.475 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "HO P OH O"
+        }, {
+          "type" : "paragraph",
+          "id" : 342,
+          "page number" : 4,
+          "bounding box" : [ 465.785, 509.495, 467.838, 512.547 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 344,
+          "page number" : 4,
+          "bounding box" : [ 461.6, 501.197, 471.617, 504.266 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "OH O"
+        }, {
+          "type" : "paragraph",
+          "id" : 347,
+          "page number" : 4,
+          "bounding box" : [ 445.931, 509.909, 458.064, 512.992 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O P O"
+        }, {
+          "type" : "paragraph",
+          "id" : 350,
+          "page number" : 4,
+          "bounding box" : [ 450.84, 514.661, 452.894, 517.713 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 352,
+          "level" : "5",
+          "page number" : 4,
+          "bounding box" : [ 484.758, 521.401, 486.664, 524.453 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 353,
+          "page number" : 4,
+          "bounding box" : [ 472.026, 514.254, 482.567, 518.196 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N N"
+        }, {
+          "type" : "paragraph",
+          "id" : 355,
+          "page number" : 4,
+          "bounding box" : [ 472.003, 522.834, 473.91, 525.886 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 357,
+          "page number" : 4,
+          "bounding box" : [ 480.628, 528.516, 484.441, 531.568 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "NH"
+        }, {
+          "type" : "paragraph",
+          "id" : 359,
+          "page number" : 4,
+          "bounding box" : [ 440.502, 505.157, 444.461, 508.209 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "OH"
+        }, {
+          "type" : "paragraph",
+          "id" : 360,
+          "page number" : 4,
+          "bounding box" : [ 435.151, 509.911, 442.406, 512.987 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O P"
+        }, {
+          "type" : "paragraph",
+          "id" : 361,
+          "page number" : 4,
+          "bounding box" : [ 440.502, 514.663, 442.556, 517.715 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 363,
+          "page number" : 4,
+          "bounding box" : [ 429.797, 505.157, 433.756, 508.209 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "OH"
+        }, {
+          "type" : "paragraph",
+          "id" : 364,
+          "page number" : 4,
+          "bounding box" : [ 423.138, 509.911, 431.705, 512.987 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "HO P"
+        }, {
+          "type" : "paragraph",
+          "id" : 365,
+          "page number" : 4,
+          "bounding box" : [ 429.797, 514.663, 431.851, 517.715 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 367,
+          "level" : "6",
+          "page number" : 4,
+          "bounding box" : [ 477.578, 469.816, 492.949, 477.558 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "HO OH O"
+        }, {
+          "type" : "paragraph",
+          "id" : 371,
+          "page number" : 4,
+          "bounding box" : [ 480.523, 488.375, 482.577, 491.427 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 373,
+          "page number" : 4,
+          "bounding box" : [ 476.339, 480.077, 486.356, 483.146 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "OH O"
+        }, {
+          "type" : "paragraph",
+          "id" : 376,
+          "page number" : 4,
+          "bounding box" : [ 499.499, 500.281, 501.405, 503.333 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 377,
+          "page number" : 4,
+          "bounding box" : [ 486.765, 493.135, 497.307, 497.076 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N N"
+        }, {
+          "type" : "paragraph",
+          "id" : 379,
+          "page number" : 4,
+          "bounding box" : [ 486.745, 501.714, 488.651, 504.766 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 381,
+          "level" : "7",
+          "page number" : 4,
+          "bounding box" : [ 495.368, 506.938, 500.281, 510.448 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "NH2"
+        }, {
+          "type" : "paragraph",
+          "id" : 383,
+          "page number" : 4,
+          "bounding box" : [ 494.602, 467.986, 496.656, 471.038 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 385,
+          "page number" : 4,
+          "bounding box" : [ 490.418, 459.683, 502.342, 462.752 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "OH OH"
+        }, {
+          "type" : "paragraph",
+          "id" : 388,
+          "page number" : 4,
+          "bounding box" : [ 513.579, 479.886, 515.485, 482.938 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 389,
+          "page number" : 4,
+          "bounding box" : [ 500.845, 472.745, 511.387, 476.683 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N N"
+        }, {
+          "type" : "paragraph",
+          "id" : 391,
+          "page number" : 4,
+          "bounding box" : [ 500.824, 481.321, 502.731, 484.373 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 393,
+          "level" : "7",
+          "page number" : 4,
+          "bounding box" : [ 509.447, 486.548, 514.361, 490.059 ],
+          "font" : "Helvetica",
+          "font size" : 2.64,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "NH2"
+        }, {
+          "type" : "heading",
+          "id" : 395,
+          "level" : "Subtitle",
+          "page number" : 4,
+          "bounding box" : [ 507.427, 551.128, 515.419, 560.648 ],
+          "heading level" : 5,
+          "font" : "Helvetica-Bold",
+          "font size" : 8.0,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "(f)"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 4,
+        "bounding box" : [ 263.275, 410.604, 354.821, 452.072 ],
+        "row number" : 3,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 397,
+          "page number" : 4,
+          "bounding box" : [ 337.662, 438.538, 339.563, 441.581 ],
+          "font" : "Helvetica",
+          "font size" : 2.633,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N"
+        }, {
+          "type" : "paragraph",
+          "id" : 398,
+          "page number" : 4,
+          "bounding box" : [ 327.124, 426.522, 335.459, 434.466 ],
+          "font" : "Helvetica",
+          "font size" : 2.633,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "N O"
+        }, {
+          "type" : "paragraph",
+          "id" : 401,
+          "page number" : 4,
+          "bounding box" : [ 331.116, 418.233, 335.065, 421.276 ],
+          "font" : "Helvetica",
+          "font size" : 2.633,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "OH"
+        }, {
+          "type" : "list",
+          "id" : 403,
+          "level" : "1",
+          "page number" : 4,
+          "bounding box" : [ 315.616, 412.845, 319.638, 429.805 ],
+          "numbering style" : "english letters",
+          "number of list items" : 2,
+          "list items" : [ {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 315.616, 426.762, 317.664, 429.805 ],
+            "font" : "Helvetica",
+            "font size" : 2.633,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "O",
+            "kids" : [ ]
+          }, {
+            "type" : "list item",
+            "page number" : 4,
+            "bounding box" : [ 315.689, 412.845, 319.638, 420.63 ],
+            "font" : "Helvetica",
+            "font size" : 2.633,
+            "text color" : "[0.0, 0.0, 0.0]",
+            "content" : "P OH",
+            "kids" : [ ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "id" : 406,
+          "page number" : 4,
+          "bounding box" : [ 309.773, 417.569, 325.123, 420.701 ],
+          "font" : "Helvetica",
+          "font size" : 2.633,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O O"
+        }, {
+          "type" : "paragraph",
+          "id" : 409,
+          "page number" : 4,
+          "bounding box" : [ 341.823, 431.356, 343.871, 434.399 ],
+          "font" : "Helvetica",
+          "font size" : 2.633,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "O"
+        }, {
+          "type" : "paragraph",
+          "id" : 411,
+          "page number" : 4,
+          "bounding box" : [ 333.562, 445.036, 338.462, 448.885 ],
+          "font" : "ArialMT",
+          "font size" : 2.633,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "NH2"
+        }, {
+          "type" : "paragraph",
+          "id" : 413,
+          "page number" : 4,
+          "bounding box" : [ 269.03, 423.786, 311.626, 435.549 ],
+          "font" : "ArialMT",
+          "font size" : 8.837,
+          "text color" : "[0.13333, 0.12157, 0.12549]",
+          "content" : "3′,5′-cCMP"
+        }, {
+          "type" : "heading",
+          "id" : 414,
+          "level" : "Subtitle",
+          "page number" : 4,
+          "bounding box" : [ 266.237, 439.349, 354.116, 451.668 ],
+          "heading level" : 4,
+          "font" : "Arial-BoldMT",
+          "font size" : 8.837,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "Pycsar (e)"
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 607,
+    "page number" : 4,
+    "bounding box" : [ 103.729, 672.431, 113.505, 681.951 ],
+    "font" : "Helvetica-Bold",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "(a)"
+  }, {
+    "type" : "paragraph",
+    "id" : 573,
+    "page number" : 4,
+    "bounding box" : [ 122.247, 623.165, 239.134, 677.347 ],
+    "font" : "ArialMT",
+    "font size" : 8.837,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "amplify signal from CD-NTase resistant to exonucleases (circular, 2′–5′ linkages) distinct from other second messengers (e.g. c-di-GMP)"
+  }, {
+    "type" : "paragraph",
+    "id" : 606,
+    "page number" : 4,
+    "bounding box" : [ 103.729, 607.954, 113.945, 617.474 ],
+    "font" : "Helvetica-Bold",
+    "font size" : 8.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "(b)"
+  }, {
+    "type" : "paragraph",
+    "id" : 588,
+    "page number" : 4,
+    "bounding box" : [ 115.174, 594.466, 166.759, 616.834 ],
+    "font" : "ArialMT",
+    "font size" : 8.837,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "cyclic dinucleotides"
+  }, {
+    "type" : "paragraph",
+    "id" : 589,
+    "page number" : 4,
+    "bounding box" : [ 180.216, 594.466, 259.304, 616.834 ],
+    "font" : "ArialMT",
+    "font size" : 8.837,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "cyclic nucleotide second messengers"
+  }, {
+    "type" : "paragraph",
+    "id" : 595,
+    "page number" : 4,
+    "bounding box" : [ 219.841, 579.708, 259.157, 592.159 ],
+    "font" : "ArialMT",
+    "font size" : 8.837,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "N3N4N5N6"
+  }, {
+    "type" : "paragraph",
+    "id" : 591,
+    "page number" : 4,
+    "bounding box" : [ 169.259, 569.374, 218.884, 592.158 ],
+    "font" : "ArialMT",
+    "font size" : 8.837,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "N2 CBASS"
+  }, {
+    "type" : "paragraph",
+    "id" : 611,
+    "page number" : 4,
+    "bounding box" : [ 199.703, 579.549, 208.814, 591.999 ],
+    "font" : "ArialMT",
+    "font size" : 8.837,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "N1"
+  }, {
+    "type" : "paragraph",
+    "id" : 579,
+    "page number" : 4,
+    "bounding box" : [ 127.14, 579.413, 162.082, 591.176 ],
+    "font" : "ArialMT",
+    "font size" : 8.837,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "A G U C"
+  }, {
+    "type" : "paragraph",
+    "id" : 587,
+    "page number" : 4,
+    "bounding box" : [ 100.867, 479.816, 112.629, 584.76 ],
+    "font" : "ArialMT",
+    "font size" : 8.837,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "prokaryoteseukaryotes"
+  }, {
+    "type" : "paragraph",
+    "id" : 580,
+    "page number" : 4,
+    "bounding box" : [ 117.286, 540.202, 124.161, 581.128 ],
+    "font" : "ArialMT",
+    "font size" : 8.837,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "A G U C"
+  }, {
+    "type" : "paragraph",
+    "id" : 594,
+    "page number" : 4,
+    "bounding box" : [ 222.224, 569.059, 227.137, 580.821 ],
+    "font" : "ArialMT",
+    "font size" : 8.837,
+    "text color" : "[1.0, 1.0, 1.0]",
+    "content" : "3"
+  }, {
+    "type" : "paragraph",
+    "id" : 601,
+    "page number" : 4,
+    "bounding box" : [ 212.558, 569.058, 217.471, 580.82 ],
+    "font" : "ArialMT",
+    "font size" : 8.837,
+    "text color" : "[1.0, 1.0, 1.0]",
+    "content" : "8"
+  }, {
+    "type" : "paragraph",
+    "id" : 592,
+    "page number" : 4,
+    "bounding box" : [ 165.83, 559.325, 199.217, 571.087 ],
+    "font" : "ArialMT",
+    "font size" : 8.837,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "CRISPR"
+  }, {
+    "type" : "paragraph",
+    "id" : 615,
+    "page number" : 4,
+    "bounding box" : [ 127.698, 559.317, 132.611, 571.079 ],
+    "font" : "ArialMT",
+    "font size" : 8.837,
+    "text color" : "[1.0, 1.0, 1.0]",
+    "content" : "2"
+  }, {
+    "type" : "paragraph",
+    "id" : 613,
+    "page number" : 4,
+    "bounding box" : [ 176.992, 539.221, 217.466, 561.541 ],
+    "font" : "ArialMT",
+    "font size" : 8.837,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "2 Other 2 3"
+  }, {
+    "type" : "paragraph",
+    "id" : 609,
+    "page number" : 4,
+    "bounding box" : [ 172.085, 549.272, 199.092, 561.034 ],
+    "font" : "ArialMT",
+    "font size" : 8.837,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Pycsar"
+  }, {
+    "type" : "paragraph",
+    "id" : 584,
+    "page number" : 4,
+    "bounding box" : [ 127.436, 517.544, 162.38, 529.307 ],
+    "font" : "ArialMT",
+    "font size" : 8.837,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "A G U C"
+  }, {
+    "type" : "paragraph",
+    "id" : 585,
+    "page number" : 4,
+    "bounding box" : [ 117.584, 479.315, 124.459, 520.241 ],
+    "font" : "ArialMT",
+    "font size" : 8.837,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "A G U C"
+  }, {
+    "type" : "paragraph",
+    "id" : 612,
+    "page number" : 4,
+    "bounding box" : [ 199.703, 488.466, 208.814, 510.994 ],
+    "font" : "ArialMT",
+    "font size" : 8.837,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "N1 2"
+  }, {
+    "type" : "paragraph",
+    "id" : 598,
+    "page number" : 4,
+    "bounding box" : [ 209.771, 498.48, 259.157, 510.93 ],
+    "font" : "ArialMT",
+    "font size" : 8.837,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "N2N3N4N5N6"
+  }, {
+    "type" : "paragraph",
+    "id" : 605,
+    "page number" : 4,
+    "bounding box" : [ 127.699, 498.348, 132.612, 510.11 ],
+    "font" : "ArialMT",
+    "font size" : 8.837,
+    "text color" : "[1.0, 1.0, 1.0]",
+    "content" : "2"
+  }, {
+    "type" : "paragraph",
+    "id" : 603,
+    "page number" : 4,
+    "bounding box" : [ 212.558, 488.466, 217.471, 500.228 ],
+    "font" : "ArialMT",
+    "font size" : 8.837,
+    "text color" : "[1.0, 1.0, 1.0]",
+    "content" : "3"
+  }, {
+    "type" : "paragraph",
+    "id" : 575,
+    "page number" : 4,
+    "bounding box" : [ 138.399, 458.432, 245.49, 470.195 ],
+    "font" : "ArialMT",
+    "font size" : 8.837,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "existing second messenger"
+  }, {
+    "type" : "paragraph",
+    "id" : 577,
+    "level" : "6",
+    "page number" : 4,
+    "bounding box" : [ 138.399, 444.862, 233.204, 456.625 ],
+    "font" : "ArialMT",
+    "font size" : 8.837,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "validated immune signal"
+  }, {
+    "type" : "paragraph",
+    "id" : 582,
+    "page number" : 4,
+    "bounding box" : [ 129.027, 416.676, 241.07, 443.106 ],
+    "font" : "ArialMT",
+    "font size" : 8.837,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "other known signaling role # number of known variants"
+  }, {
+    "type" : "paragraph",
+    "id" : 616,
+    "page number" : 4,
+    "bounding box" : [ 432.871, 398.658, 515.899, 405.594 ],
+    "font" : "Helvetica",
+    "font size" : 6.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Current Opinion in Immunology"
+  }, {
+    "type" : "paragraph",
+    "id" : 617,
+    "page number" : 4,
+    "bounding box" : [ 60.945, 374.32, 169.362, 381.784 ],
+    "font" : "AdvPA183",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Nucleotide second messengers."
+  }, {
+    "type" : "list",
+    "id" : 618,
+    "level" : "3",
+    "page number" : 4,
+    "bounding box" : [ 60.945, 297.9, 557.958, 372.399 ],
+    "numbering style" : "english letters",
+    "number of list items" : 6,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 60.945, 364.852, 321.405, 372.399 ],
+      "font" : "AdvPA189",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "(a) Overview of shared features of nucleotide second messengers in CBASS.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 60.946, 355.384, 438.252, 362.931 ],
+      "font" : "AdvPA189",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "(b) Summary of known cyclic oligonucleotide second messengers in prokaryotes (top) and eukaryotes (bottom).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 60.947, 335.714, 541.245, 354.219 ],
+      "font" : "AdvPA189",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "(c) Example cyclic oligonucleotides synthesized by bacterial CD-NTases in CBASS operons: 3030-cGAMP (VcDncV product), 3030-c-UMP–AMP (RmCdnE product), 303030-c-AMP–AMP–AMP (EcCdnC product), 203030-c-AMP–AMP–AMP (AbCdnD product).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 60.947, 327.038, 348.885, 334.585 ],
+      "font" : "AdvPA189",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "(d) Example cyclic oligonucleotide synthesized by Cas10 in type III CRISPR systems.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 60.946, 317.57, 320.945, 325.117 ],
+      "font" : "AdvPA189",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "(e) Example cyclic mononucleotide synthesized by PycC in Pycsar immunity.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 60.946, 297.9, 557.958, 316.348 ],
+      "font" : "AdvPA189",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "(f) Nucleotide second messengers known to be involved in metazoan immune signaling: 2030-cGAMP (mammalian cGAS and common insect cGLR product), 3020-cGAMP (Drosophila cGLR1 product), 20–50-OA (mammalian OAS1 product).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 566,
+    "page number" : 4,
+    "bounding box" : [ 60.945, 166.79, 301.182, 247.392 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "messenger 20–50-linked oligoadenylate (20–50-OA) (Figure 3b,f) [32]. However, no linear nucleotide second messengers have been identiﬁed in bacterial antiphage defense. While nucleotide second messengers, like 2030cGAMP, seem to be restricted to immune signaling in animals, c-di-GMP is used to regulate cell differentiation in the eukaryote Dictyostelium [33]."
+  }, {
+    "type" : "paragraph",
+    "id" : 567,
+    "page number" : 4,
+    "bounding box" : [ 60.945, 51.307, 301.167, 153.613 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The role of CBASS in controlling cell death and antiphage defense necessitates that CD-NTase nucleotide second messenger products are distinct from signals used during normal bacterial growth. CBASS Cap effectors sensitively respond to 1–10nM levels of nucleotide second messenger [2 ,7 ,8 ], and cell death responses must therefore be insulated from nucleotide second messenger signals used in normal housekeeping functions including c-di-GMP and c-di-AMP (Figure 3a) [34,35]. For"
+  }, {
+    "type" : "paragraph",
+    "id" : 568,
+    "page number" : 4,
+    "bounding box" : [ 318.218, 132.151, 558.427, 246.022 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "example, c-di-GMP is a rare CD-NTase signaling product that has only been observed in bacteria that lack all other c-di-GMP signaling components [8 ]. It is likely that evolution of atypical nucleotide second messenger signals also facilitates horizontal transfer of CBASS operons between distantly related phyla [5 ]. Additionally, rapid divergence of nucleotide signals and evolution of noncanonical 20–50 phosphodiester linkages may enable CBASS immune systems to overcome viral nuclease enzymes that degrade second messenger signals [36,37 ]."
+  }, {
+    "type" : "paragraph",
+    "id" : 569,
+    "page number" : 4,
+    "bounding box" : [ 318.217, 97.557, 547.354, 120.191 ],
+    "font" : "AdvPA189",
+    "font size" : 10.959,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "CBASS Cap effectors as nucleotide second messenger receptors"
+  }, {
+    "type" : "paragraph",
+    "id" : 570,
+    "page number" : 4,
+    "bounding box" : [ 318.217, 51.307, 558.39, 95.899 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "CBASS nucleotide second messengers signal by directly binding to and activating a downstream Cap effector. Each Cap effector has two main functions: (1) speciﬁc recognition of the nucleotide second messenger produced"
+  }, {
+    "type" : "footer",
+    "id" : 620,
+    "page number" : 4,
+    "bounding box" : [ 60.945, 30.251, 558.393, 37.797 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 459,
+      "page number" : 4,
+      "bounding box" : [ 60.945, 30.251, 558.393, 37.797 ],
+      "heading level" : 7,
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "www.sciencedirect.com Current Opinion in Immunology 2022, 74:156–163"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 621,
+    "page number" : 5,
+    "bounding box" : [ 53.858, 700.814, 136.315, 757.346 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 470,
+      "page number" : 5,
+      "bounding box" : [ 53.858, 749.296, 136.315, 757.346 ],
+      "font" : "AdvPA189",
+      "font size" : 7.97,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "160 Innate immunity"
+    }, {
+      "type" : "paragraph",
+      "id" : 471,
+      "page number" : 5,
+      "bounding box" : [ 53.858, 700.814, 83.041, 708.361 ],
+      "font" : "AdvPA189",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Figure 4"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 625,
+    "page number" : 5,
+    "bounding box" : [ 56.352, 347.751, 548.85, 689.499 ],
+    "kids" : [ {
+      "type" : "table",
+      "id" : 439,
+      "level" : "1",
+      "page number" : 5,
+      "bounding box" : [ 62.561, 363.695, 542.812, 683.344 ],
+      "number of rows" : 2,
+      "number of columns" : 2,
+      "rows" : [ {
+        "type" : "table row",
+        "row number" : 1,
+        "cells" : [ {
+          "type" : "table cell",
+          "page number" : 5,
+          "bounding box" : [ 62.866, 593.955, 147.473, 683.09 ],
+          "row number" : 1,
+          "column number" : 1,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ {
+            "type" : "paragraph",
+            "id" : 415,
+            "page number" : 5,
+            "bounding box" : [ 75.085, 669.885, 135.839, 680.444 ],
+            "font" : "Helvetica",
+            "font size" : 9.134,
+            "text color" : "[0.039216, 0.039216, 0.023529]",
+            "content" : "effector protein"
+          }, {
+            "type" : "paragraph",
+            "id" : 416,
+            "page number" : 5,
+            "bounding box" : [ 84.817, 596.187, 123.915, 606.745 ],
+            "font" : "Helvetica",
+            "font size" : 9.134,
+            "text color" : "[0.039216, 0.039216, 0.023529]",
+            "content" : "cell death"
+          }, {
+            "type" : "paragraph",
+            "id" : 417,
+            "page number" : 5,
+            "bounding box" : [ 63.444, 672.433, 73.22, 681.953 ],
+            "font" : "Helvetica-Bold",
+            "font size" : 8.0,
+            "text color" : "[0.039216, 0.039216, 0.023529]",
+            "content" : "(a)"
+          }, {
+            "type" : "paragraph",
+            "id" : 418,
+            "page number" : 5,
+            "bounding box" : [ 73.644, 638.488, 135.07, 649.046 ],
+            "font" : "Helvetica",
+            "font size" : 9.134,
+            "text color" : "[0.039216, 0.039216, 0.023529]",
+            "content" : "oligomerization"
+          }, {
+            "type" : "paragraph",
+            "id" : 419,
+            "page number" : 5,
+            "bounding box" : [ 76.91, 660.355, 132.28, 666.489 ],
+            "font" : "Helvetica",
+            "font size" : 5.306,
+            "text color" : "[0.039216, 0.039216, 0.023529]",
+            "content" : "Effector Sensor"
+          } ]
+        }, {
+          "type" : "table cell",
+          "page number" : 5,
+          "bounding box" : [ 147.473, 593.955, 542.265, 683.09 ],
+          "row number" : 1,
+          "column number" : 2,
+          "row span" : 1,
+          "column span" : 1,
+          "kids" : [ {
+            "type" : "paragraph",
+            "id" : 420,
+            "page number" : 5,
+            "bounding box" : [ 494.607, 617.819, 517.452, 628.377 ],
+            "font" : "Helvetica",
+            "font size" : 9.134,
+            "text color" : "[0.039216, 0.039216, 0.023529]",
+            "content" : "CapV"
+          }, {
+            "type" : "paragraph",
+            "id" : 421,
+            "page number" : 5,
+            "bounding box" : [ 262.516, 663.267, 284.348, 673.826 ],
+            "font" : "Helvetica",
+            "font size" : 9.134,
+            "text color" : "[0.039216, 0.039216, 0.023529]",
+            "content" : "Cap5"
+          }, {
+            "type" : "paragraph",
+            "id" : 422,
+            "page number" : 5,
+            "bounding box" : [ 259.976, 617.819, 382.331, 628.377 ],
+            "font" : "Helvetica",
+            "font size" : 9.134,
+            "text color" : "[0.039216, 0.039216, 0.023529]",
+            "content" : "Cap16 4TM Effector"
+          }, {
+            "type" : "paragraph",
+            "id" : 423,
+            "page number" : 5,
+            "bounding box" : [ 163.353, 649.71, 528.842, 655.951 ],
+            "font" : "Helvetica",
+            "font size" : 5.306,
+            "text color" : "[1.0, 1.0, 1.0]",
+            "content" : "REase SAVED TIR STING TM TM STING TM TM SAVED"
+          }, {
+            "type" : "heading",
+            "id" : 424,
+            "level" : "Subtitle",
+            "page number" : 5,
+            "bounding box" : [ 179.098, 663.268, 519.488, 673.826 ],
+            "heading level" : 3,
+            "font" : "Helvetica",
+            "font size" : 9.134,
+            "text color" : "[0.039216, 0.039216, 0.023529]",
+            "content" : "Cap4 Cap12 Cap13 Cap14"
+          }, {
+            "type" : "paragraph",
+            "id" : 425,
+            "page number" : 5,
+            "bounding box" : [ 237.496, 649.711, 299.846, 655.845 ],
+            "font" : "Helvetica",
+            "font size" : 5.306,
+            "text color" : "[1.0, 1.0, 1.0]",
+            "content" : "HNH Nuclease SAVED"
+          }, {
+            "type" : "paragraph",
+            "id" : 426,
+            "page number" : 5,
+            "bounding box" : [ 160.205, 603.593, 523.225, 609.728 ],
+            "font" : "Helvetica",
+            "font size" : 5.306,
+            "text color" : "[1.0, 1.0, 1.0]",
+            "content" : "TM TM β-barrel TM TM NUDIX TM TM TM TM Phospholipase"
+          }, {
+            "type" : "heading",
+            "id" : 427,
+            "level" : "Subtitle",
+            "page number" : 5,
+            "bounding box" : [ 176.558, 617.82, 444.984, 628.378 ],
+            "heading level" : 3,
+            "font" : "Helvetica",
+            "font size" : 9.134,
+            "text color" : "[0.039216, 0.039216, 0.023529]",
+            "content" : "Cap15 NucC"
+          }, {
+            "type" : "paragraph",
+            "id" : 428,
+            "page number" : 5,
+            "bounding box" : [ 426.182, 603.593, 441.608, 609.727 ],
+            "font" : "Helvetica",
+            "font size" : 5.306,
+            "text color" : "[1.0, 1.0, 1.0]",
+            "content" : "REase"
+          }, {
+            "type" : "heading",
+            "id" : 429,
+            "level" : "Subtitle",
+            "page number" : 5,
+            "bounding box" : [ 149.225, 672.433, 159.441, 681.953 ],
+            "heading level" : 5,
+            "font" : "Helvetica-Bold",
+            "font size" : 8.0,
+            "text color" : "[0.039216, 0.039216, 0.023529]",
+            "content" : "(b)"
+          } ]
+        } ]
+      }, {
+        "type" : "table row",
+        "row number" : 2,
+        "cells" : [ {
+          "type" : "table cell",
+          "page number" : 5,
+          "bounding box" : [ 62.866, 363.948, 542.265, 593.955 ],
+          "row number" : 2,
+          "column number" : 1,
+          "row span" : 1,
+          "column span" : 2,
+          "kids" : [ {
+            "type" : "image",
+            "id" : 430,
+            "page number" : 5,
+            "bounding box" : [ 62.544, 367.344, 537.968, 683.256 ],
+            "source" : "2022_Lowey_images/imageFile13.png"
+          }, {
+            "type" : "paragraph",
+            "id" : 431,
+            "page number" : 5,
+            "bounding box" : [ 109.328, 577.422, 472.504, 587.98 ],
+            "font" : "Helvetica",
+            "font size" : 9.134,
+            "text color" : "[0.039216, 0.039216, 0.023529]",
+            "content" : "Cap4 NucC Cap15 STING"
+          }, {
+            "type" : "paragraph",
+            "id" : 432,
+            "page number" : 5,
+            "bounding box" : [ 77.691, 371.508, 107.978, 393.027 ],
+            "font" : "Helvetica",
+            "font size" : 9.134,
+            "text color" : "[0.039216, 0.039216, 0.023529]",
+            "content" : "Cap4 SAVED"
+          }, {
+            "type" : "paragraph",
+            "id" : 433,
+            "page number" : 5,
+            "bounding box" : [ 139.132, 371.508, 163.996, 393.027 ],
+            "font" : "Helvetica",
+            "font size" : 9.134,
+            "text color" : "[0.039216, 0.039216, 0.023529]",
+            "content" : "Csm6 CARF"
+          }, {
+            "type" : "paragraph",
+            "id" : 434,
+            "page number" : 5,
+            "bounding box" : [ 192.883, 371.509, 229.442, 393.027 ],
+            "font" : "Helvetica",
+            "font size" : 9.134,
+            "text color" : "[0.039216, 0.039216, 0.023529]",
+            "content" : "Cap4 nuclease"
+          }, {
+            "type" : "paragraph",
+            "id" : 435,
+            "page number" : 5,
+            "bounding box" : [ 304.368, 371.509, 340.926, 393.027 ],
+            "font" : "Helvetica",
+            "font size" : 9.134,
+            "text color" : "[0.039216, 0.039216, 0.023529]",
+            "content" : "NucC nuclease"
+          }, {
+            "type" : "paragraph",
+            "id" : 436,
+            "page number" : 5,
+            "bounding box" : [ 248.625, 369.974, 528.448, 393.027 ],
+            "font" : "Helvetica",
+            "font size" : 9.134,
+            "text color" : "[0.039216, 0.039216, 0.023529]",
+            "content" : "HindIII nuclease bacteria oyster vertebrates"
+          }, {
+            "type" : "paragraph",
+            "id" : 437,
+            "page number" : 5,
+            "bounding box" : [ 91.054, 461.022, 492.172, 471.58 ],
+            "font" : "Helvetica",
+            "font size" : 9.134,
+            "text color" : "[0.039216, 0.039216, 0.023529]",
+            "content" : "Type III CRISPR Restriction-Modification Systems Metazoan Immunity"
+          }, {
+            "type" : "paragraph",
+            "id" : 438,
+            "page number" : 5,
+            "bounding box" : [ 63.443, 584.337, 73.219, 593.857 ],
+            "font" : "Helvetica-Bold",
+            "font size" : 8.0,
+            "text color" : "[0.039216, 0.039216, 0.023529]",
+            "content" : "(c)"
+          } ]
+        } ]
+      } ]
+    }, {
+      "type" : "caption",
+      "id" : 440,
+      "page number" : 5,
+      "bounding box" : [ 458.66, 352.727, 541.688, 359.663 ],
+      "linked content id" : 439,
+      "font" : "Helvetica",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Current Opinion in Immunology"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 626,
+    "page number" : 5,
+    "bounding box" : [ 53.858, 328.342, 155.013, 335.806 ],
+    "font" : "AdvPA183",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "CBASS Cap effector proteins."
+  }, {
+    "type" : "list",
+    "id" : 627,
+    "level" : "4",
+    "page number" : 5,
+    "bounding box" : [ 53.858, 271.536, 543.644, 326.421 ],
+    "numbering style" : "english letters",
+    "number of list items" : 3,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 53.858, 309.406, 543.644, 326.421 ],
+      "font" : "AdvPA189",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "(a) Overview of CBASS Cap effector function in inducing cell death. Each effector specifically senses a CD-NTase nucleotide second messenger and is then activated typically through oligomerization.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 53.859, 290.471, 543.233, 307.485 ],
+      "font" : "AdvPA189",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "(b) Schematic representation of domain architecture of experimentally characterized CBASS effectors. Common nucleotide sensor domains (e.g. SAVED, STING) can be found fused to various effector domains (e.g. nucleases, TIR, TM).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 53.86, 271.536, 526.894, 288.55 ],
+      "font" : "AdvPA189",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "(c) Cartoon representation of known CBASS effector structures (top) and comparison to evolutionarily related components in other bacterial defense systems and in metazoan innate immunity (bottom).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 622,
+    "page number" : 5,
+    "bounding box" : [ 53.858, 97.512, 294.103, 211.383 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "by the cognate CD-NTase protein in response to phage infection and (2) induction of cell death to prevent phage propagation (Figure 4a). Many Cap effectors are twodomain proteins with a discrete ‘sensor’ domain dedicated to nucleotide recognition fused to an enzymatic or toxin-like ‘effector’ domain responsible for executing cell death. The modular architecture of Cap effectors enables diversiﬁcation of CBASS defense systems including alternative combinations of sensor and effector domain fusions to control cell death (Figure 4b) [2 ,7 ,8 ,9]."
+  }, {
+    "type" : "paragraph",
+    "id" : 623,
+    "page number" : 5,
+    "bounding box" : [ 53.86, 51.307, 294.095, 84.334 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Structures of CBASS Cap effectors explain the mechanism of nucleotide second messenger recognition and reveal homology with components of distantly related"
+  }, {
+    "type" : "paragraph",
+    "id" : 624,
+    "page number" : 5,
+    "bounding box" : [ 311.13, 51.307, 551.339, 211.383 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "bacterial and animal antiviral signaling systems. SAVED domains are a common sensor domain in Cap effectors, representing >1600 examples and 30% of all CBASS operons (Figure 4c) [2 ,38 ]. The structure of Cap4 (a restriction endonuclease-SAVED fusion) revealed that SAVED domains form a ﬂat surface with individual pockets to coordinate each base of the nucleotide second messenger signal [2 ]. The Cap4 structure additionally revealed that SAVED is a fusion of two CARF (CRISPRassociated Rossmann Fold) protein subunits which control recognition of cyclic oligonucleotides in type III CRISPR immunity, demonstrating a direct connection between CBASS and CRISPR immunity [2 ,39,40]. Fusion of CARF proteins into a single-chain SAVED"
+  }, {
+    "type" : "footer",
+    "id" : 629,
+    "page number" : 5,
+    "bounding box" : [ 53.858, 30.251, 551.249, 37.797 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 460,
+      "page number" : 5,
+      "bounding box" : [ 53.858, 30.251, 551.249, 37.797 ],
+      "heading level" : 7,
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Current Opinion in Immunology 2022, 74:156–163 www.sciencedirect.com"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 630,
+    "page number" : 6,
+    "bounding box" : [ 161.745, 749.296, 558.471, 757.346 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 472,
+      "page number" : 6,
+      "bounding box" : [ 161.745, 749.296, 558.471, 757.346 ],
+      "heading level" : 6,
+      "font" : "AdvPA189",
+      "font size" : 7.97,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "CBASS phage defense and evolution of antiviral nucleotide signaling Duncan-Lowey and Kranzusch 161"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 631,
+    "page number" : 6,
+    "bounding box" : [ 60.945, 513.184, 301.189, 707.842 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "receptor enables recognition of diverse CBASS ligands including cyclic trinucleotides and asymmetric CDNTase products. CBASS and type III CRISPR immune systems share additional effector proteins including an REase-type effector named NucC [7 ]. Structures of NucC also revealed that some CBASS effectors do not contain a dedicated nucleotide-binding domain and instead recognize the CD-NTase product through loops emerging from the enzymatic or toxin-like domain [7 ]. Although rarer in CBASS immunity ( 100 operons), Cap12 and Cap13 proteins are notable effectors as they contain a nucleotide sensor domain with direct homology to the animal innate immune protein STING [8 ]. In both CBASS and animal immunity, STING domains form a homodimeric V-shaped receptor that recognizes cyclic dinucleotide signals in a deep central pocket (Figure 4c) [8 ,24]."
+  }, {
+    "type" : "paragraph",
+    "id" : 632,
+    "page number" : 6,
+    "bounding box" : [ 60.945, 339.987, 301.189, 500.007 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Several Cap effectors include additional sensor domains that appear to be unique to CBASS immunity. Recently, structures of Cap15 revealed a minimal eight-stranded beta-barrel domain that is responsible for nucleotide second messenger recognition (Figure 4c) [9]. Likewise, bioinformatics analysis has identiﬁed an enormous diversity of Cap effectors with many uncharacterized putative nucleotide second messenger sensor domains [38 ]. Cap effectors like CapV and Cap16 respond to nucleotide second messengers but do not contain any known nucleotide binding domains [6 ,9], suggesting that analysis of CBASS components will continue to reveal new modules capable of selective nucleotide second messenger recognition."
+  }, {
+    "type" : "paragraph",
+    "id" : 633,
+    "page number" : 6,
+    "bounding box" : [ 60.945, 85.946, 301.189, 326.81 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "CBASS Cap effectors encode a large variety of toxin-like effector domains to execute cell death. The most common strategy to induce cell death in CBASS is host membrane disruption, either through activation of phospholipases that degrade the membrane [1 ,6 ] or activation of transmembrane-containing effectors that disrupt the bacterial inner membrane [9]. Many effectors contain a nuclease effector domain that indiscriminately degrades dsDNA upon activation. For example, Cap4 and NucC both contain endonuclease-like domains with homology to bacterial Restriction-Modiﬁcation system nucleases used to cleave foreign DNA (Figure 4c) [41]. The CBASS nucleases Cap4 and NucC, however, lack the structural features that deﬁne sequence speciﬁcity and instead degrade dsDNA in a sequence-independent manner [2 ,7 ]. Additionally, some Cap effectors contain TIR domains that catalyze rapid degradation of the essential metabolite NAD+ [8 ], and more rare effectors have been implicated in CBASS immunity including those with predicted protease and phosphatase effector domain function [2 ,5 ,38 ]."
+  }, {
+    "type" : "paragraph",
+    "id" : 634,
+    "page number" : 6,
+    "bounding box" : [ 60.946, 51.307, 301.153, 72.769 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In most cases, Cap effector activation occurs through sensor domain oligomerization where nucleotide second"
+  }, {
+    "type" : "paragraph",
+    "id" : 635,
+    "page number" : 6,
+    "bounding box" : [ 318.217, 582.463, 558.409, 707.842 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "messenger recognition drives higher-order complex assembly. Electron microscopy analysis demonstrates that Cap4 (REase-SAVED) and Cap12 (TIR-STING) form ﬁlaments in the presence of the activating nucleotide second messenger signal [2 ,8 ]. Likewise, nucleotide signal recognition induces oligomerization of the CBASS effector NucC and formation of a stable hexameric state capable of promiscuous DNA degradation [7 ]. Ligand-induced oligomerization therefore represents a common activation mechanism among structurally diverse CBASS effectors."
+  }, {
+    "type" : "paragraph",
+    "id" : 636,
+    "page number" : 6,
+    "bounding box" : [ 318.217, 554.558, 401.219, 565.627 ],
+    "font" : "AdvPA189",
+    "font size" : 10.959,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Open questions"
+  }, {
+    "type" : "paragraph",
+    "id" : 637,
+    "page number" : 6,
+    "bounding box" : [ 318.217, 208.063, 558.425, 552.901 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "While recent advances have uncovered many mechanistic details of CBASS immunity, several fundamental questions remain. First, the molecular mechanisms by which phage infection activates CD-NTases and initiates CBASS defense remain unknown. Individual CBASS operons provide defense to phylogenetically diverse phage, indicating that the activating cue sensed during phage replication is broadly conserved and unlikely to be related to a speciﬁc viral protein or nucleic acid sequence [1 ,2 ,3]. Similarly, CBASS operons frequently encode accessory Cap genes, but no mechanistic role is known for the most common accessory proteins including Cap2 (a predicted E1/E2-like ligase) and Cap3 (a predicted deubiquitinase-family peptidase) [5 ,38 ,42]. Accessory Cap2 and Cap3 proteins are required for efﬁcient defense against some, but not all, phage infections [1 ], suggesting a role in modifying the speciﬁcity of antiviral defense. Another accessory protein found in some operons, Cap7 (a HORMA-domain containing protein) was demonstrated to directly bind the CBASS operon CD-NTase and contain a potential binding interface for foreign peptide recognition [3], suggesting this family of accessory proteins may play a role in phage sensing. Finally, phage encode evasion proteins to circumvent many bacterial defense systems, including anti-CRISPR proteins and inhibitors of Restriction-Modiﬁcation systems [43,44]. Discovery of phage anti-CBASS proteins will provide important tools to explain individual steps of pathway activation and further deﬁne the host-pathogen interactions that mediate successful CBASS antiphage defense."
+  }, {
+    "type" : "paragraph",
+    "id" : 638,
+    "page number" : 6,
+    "bounding box" : [ 318.217, 180.215, 429.807, 191.284 ],
+    "font" : "AdvPA189",
+    "font size" : 10.959,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Authors’ contribution"
+  }, {
+    "type" : "paragraph",
+    "id" : 639,
+    "page number" : 6,
+    "bounding box" : [ 318.217, 156.982, 558.392, 178.501 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Review was written by BD-L and PJK, ﬁgures were prepared by BD-L."
+  }, {
+    "type" : "paragraph",
+    "id" : 640,
+    "page number" : 6,
+    "bounding box" : [ 318.217, 129.135, 473.178, 140.203 ],
+    "font" : "AdvPA189",
+    "font size" : 10.959,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Conﬂict of interest statement"
+  }, {
+    "type" : "paragraph",
+    "id" : 641,
+    "page number" : 6,
+    "bounding box" : [ 318.217, 117.468, 395.478, 127.42 ],
+    "font" : "AdvPA45B",
+    "font size" : 9.963,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Nothing declared."
+  }, {
+    "type" : "paragraph",
+    "id" : 642,
+    "page number" : 6,
+    "bounding box" : [ 318.217, 89.62, 421.699, 100.688 ],
+    "font" : "AdvPA189",
+    "font size" : 10.959,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Acknowledgements"
+  }, {
+    "type" : "paragraph",
+    "id" : 643,
+    "page number" : 6,
+    "bounding box" : [ 318.217, 51.902, 555.224, 84.765 ],
+    "font" : "AdvPA45B",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The authors are grateful to members of the Kranzusch lab for helpful comments and discussion. The authors acknowledge funding through the Pew Biomedical Scholars Program and the Parker Institute for Cancer Immunotherapy."
+  }, {
+    "type" : "footer",
+    "id" : 645,
+    "page number" : 6,
+    "bounding box" : [ 60.945, 30.251, 558.393, 37.797 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 461,
+      "page number" : 6,
+      "bounding box" : [ 60.945, 30.251, 558.393, 37.797 ],
+      "heading level" : 7,
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "www.sciencedirect.com Current Opinion in Immunology 2022, 74:156–163"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 646,
+    "page number" : 7,
+    "bounding box" : [ 53.858, 749.296, 136.315, 757.346 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 473,
+      "page number" : 7,
+      "bounding box" : [ 53.858, 749.296, 136.315, 757.346 ],
+      "heading level" : 6,
+      "font" : "AdvPA189",
+      "font size" : 7.97,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "162 Innate immunity"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 647,
+    "page number" : 7,
+    "bounding box" : [ 53.858, 697.991, 259.19, 709.06 ],
+    "font" : "AdvPA189",
+    "font size" : 10.959,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "References and recommended reading"
+  }, {
+    "type" : "paragraph",
+    "id" : 648,
+    "page number" : 7,
+    "bounding box" : [ 53.858, 681.879, 278.777, 697.337 ],
+    "font" : "AdvPA183",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Papers of particular interest, published within the period of review, have been highlighted as:"
+  }, {
+    "type" : "paragraph",
+    "id" : 649,
+    "page number" : 7,
+    "bounding box" : [ 70.413, 658.011, 146.047, 673.412 ],
+    "font" : "AdvPA183",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "of special interest of outstanding interest"
+  }, {
+    "type" : "list",
+    "id" : 650,
+    "level" : "1",
+    "page number" : 7,
+    "bounding box" : [ 53.858, 52.134, 288.131, 645.602 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 15,
+    "next list id" : 651,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 53.858, 630.061, 286.25, 645.602 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1. Cohen D et al.: Cyclic GMP-AMP signalling protects bacteria against viral infection. Nature 2019, 574:691-695",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 480,
+        "page number" : 7,
+        "bounding box" : [ 53.859, 598.2, 294.094, 629.589 ],
+        "font" : "AdvPA183",
+        "font size" : 7.472,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "This study is the ﬁrst to demonstrate that bacterial CBASS operons confer protection from phage infection. The authors report that CD-NTases are activated to synthesize second messengers during phage infection and that activation of CBASS induces cell death."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 53.859, 560.33, 288.131, 591.8 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "2. Lowey B et al.: CBASS immunity uses CARF-related effectors to sense 30-50 and 20-50-linked cyclic oligonucleotide signals and protect bacteria from phage infection. Cell 2020, 182:38-49 e17",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 481,
+        "page number" : 7,
+        "bounding box" : [ 53.859, 544.398, 294.078, 559.857 ],
+        "font" : "AdvPA183",
+        "font size" : 7.472,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "One of two papers [see Lau et al. [7 ]] reporting the structural and biochemical characterization of CBASS effector proteins."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 53.859, 514.521, 288.074, 537.999 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "3. Ye Q et al.: HORMA domain proteins and a Trip13-like ATPase regulate bacterial cGAS-like enzymes to mediate bacteriophage immunity. Mol Cell 2020, 77:709-722 e7.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 53.859, 492.581, 278.287, 508.065 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "4. Whiteley AT et al.: Bacterial cGAS-like enzymes synthesize diverse nucleotide signals. Nature 2019, 567:194-199",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 482,
+        "page number" : 7,
+        "bounding box" : [ 53.859, 459.928, 294.077, 492.052 ],
+        "font" : "AdvPA183",
+        "font size" : 7.472,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "This study reports the discovery of bacterial CD-NTase family of enzymes. The authors also demonstrate the diversity of nucleotide second messengers made by CD-NTase enzymes in bacteria, including 3030-c-UMP–AMP and the trinucleotide 303030-c-AMP–AMP–GMP."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 53.859, 430.786, 276.507, 454.263 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "5. Millman A et al.: Diversity and classiﬁcation of cyclicoligonucleotide-based anti-phage signalling systems. Nat Microbiol 2020, 5:1608-1615",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 483,
+        "page number" : 7,
+        "bounding box" : [ 53.859, 414.855, 294.055, 430.313 ],
+        "font" : "AdvPA183",
+        "font size" : 7.472,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "One of two papers [see Burroughs et al. [38 ]] using bioinformatics analysis to characterize components and distribution of CBASS operons."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 53.859, 384.978, 288.101, 408.455 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "6. Severin GB et al.: Direct activation of a phospholipase by cyclic GMP-AMP in El Tor Vibrio cholerae. Proc Natl Acad Sci U S A 2018, 115:E6048-E6055",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 484,
+        "page number" : 7,
+        "bounding box" : [ 53.859, 361.053, 294.068, 384.449 ],
+        "font" : "AdvPA183",
+        "font size" : 7.472,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "The ﬁrst paper describing activation of a CBASS effector protein upon binding to a nucleotide second messenger made by the neighboring CDNTase."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 53.859, 331.176, 275.208, 354.654 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "7. Lau RK et al.: Structure and mechanism of a cyclic trinucleotide-activated bacterial endonuclease mediating bacteriophage immunity. Mol Cell 2020, 77:723-733 e6",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 485,
+        "page number" : 7,
+        "bounding box" : [ 53.859, 299.259, 294.078, 330.648 ],
+        "font" : "AdvPA183",
+        "font size" : 7.472,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "One of two papers [see Lowey et al. [2 ]] reporting the structural and biochemical characterization of CBASS effector proteins. The authors also discover a connection between CBASS and CRISPR immune defense."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 53.859, 277.318, 267.108, 292.858 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "8. Morehouse BR et al.: STING cyclic dinucleotide sensing originated in bacteria. Nature 2020, 586:429-433",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 486,
+        "page number" : 7,
+        "bounding box" : [ 53.859, 253.45, 294.021, 276.846 ],
+        "font" : "AdvPA183",
+        "font size" : 7.472,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "This study reports the structure of bacterial CBASS effectors containing STING domains, revealing the conservation of a functional cGAS-STING pathway in prokaryotic phage defense."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 53.859, 223.517, 284.146, 247.051 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "9. Duncan-Lowey B et al.: Effector-mediated membrane disruption controls cell death in CBASS antiphage defense. Mol Cell 2021, 81:5039-5051 e5.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 53.859, 193.64, 288.071, 217.117 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "10. Kranzusch PJ et al.: Structure-guided reprogramming of human cGAS dinucleotide linkage speciﬁcity. Cell 2014, 158:10111021.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 53.859, 163.762, 288.066, 187.24 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "11. Davies BW et al.: Coordinated regulation of accessory genetic elements produces cyclic di-nucleotides for V. cholerae virulence. Cell 2012, 149:358-370.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 53.859, 133.828, 283.844, 157.306 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "12. Sun L et al.: Cyclic GMP-AMP synthase is a cytosolic DNA sensor that activates the type I interferon pathway. Science 2013, 339:786-791.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 53.859, 103.951, 288.061, 127.429 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "13. Gao P et al.: Cyclic [G(2’,5’)pA(3’,5’)p] is the metazoan second messenger produced by DNA-activated cyclic GMP-AMP synthase. Cell 2013, 153:1094-1107.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 53.859, 82.011, 288.102, 97.551 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "14. Civril F et al.: Structural mechanism of cytosolic DNA sensing by cGAS. Nature 2013, 498:332-337.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 53.859, 52.134, 285.678, 75.611 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "15. Zhou W et al.: Structure of the human cGAS-DNA complex reveals enhanced control of immune surveillance. Cell 2018, 174:300-311 e11.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 651,
+    "level" : "1",
+    "page number" : 7,
+    "bounding box" : [ 311.13, 52.757, 545.372, 709.835 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 21,
+    "previous list id" : 650,
+    "next list id" : 655,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 311.13, 693.616, 545.347, 709.835 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "16. Slavik KM et al.: cGAS-like receptors sense RNA and control 3020-cGAMP signaling in Drosophila. Nature 2021, 597:109-113.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 311.132, 671.447, 535.728, 686.931 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "17. Holleufer A et al.: Two cGAS-like receptors induce antiviral immunity in Drosophila. Nature 2021, 597:114-118.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 311.131, 640.549, 536.345, 664.027 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "18. Zhu D et al.: Structural biochemistry of a Vibrio cholerae dinucleotide cyclase reveals cyclase activity regulation by folates. Mol Cell 2014, 55:931-937.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 311.131, 609.652, 545.327, 633.129 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "19. Ko TP et al.: Crystal structure and functional implication of a bacterial cyclic AMP-AMP-GMP synthetase. Nucleic Acids Res 2021, 49:4725-4737.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 311.131, 578.755, 545.331, 602.288 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "20. Kranzusch PJ: cGAS and CD-NTase enzymes: structure, mechanism, and evolution. Curr Opin Struct Biol 2019, 59:178187.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 311.131, 547.913, 539.348, 571.391 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "21. Govande AA et al.: Molecular basis of CD-NTase nucleotide selection in CBASS anti-phage defense. Cell Rep 2021, 35:109206.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 311.132, 517.016, 545.341, 541.249 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "22. Ablasser A et al.: cGAS produces a 20-50-linked cyclic dinucleotide second messenger that activates STING. Nature 2013, 498:380-384.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 311.131, 486.118, 545.314, 509.595 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "23. Diner EJ et al.: The innate immune DNA sensor cGAS produces a noncanonical cyclic dinucleotide that activates human STING. Cell Rep 2013, 3:1355-1361.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 311.132, 455.221, 545.324, 478.698 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "24. Zhang X et al.: Cyclic GMP-AMP containing mixed phosphodiester linkages is an endogenous high-afﬁnity ligand for STING. Mol Cell 2013, 51:226-235.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 311.132, 424.323, 533.038, 447.857 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "25. Fatma S et al.: Molecular mechanisms of the CdnG-Cap5 antiphage defense system employing 30,20-cGAMP as the second messenger. Nat Commun 2021, 12:6381.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 311.132, 401.419, 534.296, 416.959 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "26. Tal N et al.: Cyclic CMP and cyclic UMP mediate bacterial immunity against phages. Cell 2021, 184:5728-5739 e16",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 477,
+        "page number" : 7,
+        "bounding box" : [ 311.132, 385.488, 551.296, 400.946 ],
+        "font" : "AdvPA183",
+        "font size" : 7.472,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "This study reports the discovery of Pycsar immunity and the role of cCMP and cUMP nucleotide second messengers in antiphage defense."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 311.132, 354.591, 537.643, 378.125 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "27. Niewoehner O et al.: Type III CRISPR-Cas systems produce cyclic oligoadenylate second messengers. Nature 2017, 548:543-548",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 478,
+        "page number" : 7,
+        "bounding box" : [ 311.131, 330.723, 551.327, 354.118 ],
+        "font" : "AdvPA183",
+        "font size" : 7.472,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "One of two papers [see Kazlauskiene et al. [28 ]] reporting the discovery and biochemical basis of cyclic oligonucleotide signaling in type III CRISPR immunity."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 311.131, 299.825, 525.999, 323.303 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "28. Kazlauskiene M et al.: A cyclic oligonucleotide signaling pathway in type III CRISPR-Cas systems. Science 2017, 357:605-609",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 479,
+        "page number" : 7,
+        "bounding box" : [ 311.132, 275.901, 551.327, 299.296 ],
+        "font" : "AdvPA183",
+        "font size" : 7.472,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "One of two papers [see Niewoehner et al. [27 ]] reporting the discovery and biochemical basis of cyclic oligonucleotide signaling in type III CRISPR immunity."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 311.131, 245.003, 533.257, 268.48 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "29. McMahon SA et al.: Structure and mechanism of a type III CRISPR defence DNA nuclease activated by cyclic oligoadenylate. Nat Commun 2020, 11:500.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 311.132, 222.099, 544.828, 237.64 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "30. Rostol JT et al.: The Card1 nuclease provides defence during type III CRISPR immunity. Nature 2021, 590:624-629.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 311.131, 191.202, 545.34, 214.736 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "31. Rouillon C et al.: SAVED by a toxin: structure and function of the CRISPR lon protease. bioRxiv 2021 http://dx.doi.org/10.1101/ 2021.12.06.471393.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 311.131, 160.36, 542.752, 183.838 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "32. Kristiansen H et al.: The oligoadenylate synthetase family: an ancient protein family with multiple antiviral activities. J Interferon Cytokine Res 2011, 31:41-47.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 311.131, 129.463, 545.331, 152.94 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "33. Chen ZH, Schaap P: The prokaryote messenger c-di-GMP triggers stalk cell differentiation in Dictyostelium. Nature 2012, 488:680-683.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 311.132, 106.559, 545.372, 122.043 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "34. Jenal U, Reinders A, Lori C: Cyclic di-GMP: second messenger extraordinaire. Nat Rev Microbiol 2017, 15:271-284.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 311.132, 83.599, 545.347, 99.139 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "35. Corrigan RM, Grundling A: Cyclic di-AMP: another second messenger enters the fray. Nat Rev Microbiol 2013, 11:513-524.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 311.132, 52.757, 545.341, 76.235 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "36. Eaglesham JB et al.: Viral and metazoan poxins are cGAMPspeciﬁc nucleases that restrict cGAS-STING signalling. Nature 2019, 566:259-263.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 653,
+    "page number" : 7,
+    "bounding box" : [ 53.858, 30.251, 551.249, 37.797 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 462,
+      "page number" : 7,
+      "bounding box" : [ 53.858, 30.251, 551.249, 37.797 ],
+      "heading level" : 7,
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Current Opinion in Immunology 2022, 74:156–163 www.sciencedirect.com"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 654,
+    "page number" : 8,
+    "bounding box" : [ 161.745, 749.296, 558.471, 757.346 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 474,
+      "page number" : 8,
+      "bounding box" : [ 161.745, 749.296, 558.471, 757.346 ],
+      "heading level" : 6,
+      "font" : "AdvPA189",
+      "font size" : 7.97,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "CBASS phage defense and evolution of antiviral nucleotide signaling Duncan-Lowey and Kranzusch 163"
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 655,
+    "level" : "1",
+    "page number" : 8,
+    "bounding box" : [ 60.945, 584.764, 295.198, 709.835 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 3,
+    "previous list id" : 651,
+    "next list id" : 656,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 60.945, 694.351, 293.912, 709.835 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "37. Athukoralage JS et al.: An anti-CRISPR viral ring nuclease subverts type III CRISPR immunity. Nature 2020, 577:572-575",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 475,
+        "page number" : 8,
+        "bounding box" : [ 60.946, 670.427, 301.181, 693.822 ],
+        "font" : "AdvPA183",
+        "font size" : 7.472,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "This paper reports the structural and biochemical characterization of the ﬁrst phage protein known to degrade nucleotide second messengers to evade host immunity."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 60.945, 631.592, 295.198, 663.006 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "38. Burroughs AM et al.: Comparative genomic analyses reveal a vast, novel network of nucleotide-centric systems in biological conﬂicts, immunity and signaling. Nucleic Acids Res 2015, 43:10633-10654",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 476,
+        "page number" : 8,
+        "bounding box" : [ 60.945, 615.661, 301.181, 631.063 ],
+        "font" : "AdvPA183",
+        "font size" : 7.472,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "One of two papers [see Millman et al. [5 ]] using bioinformatics analysis to characterize components and distribution of CBASS operons."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 60.946, 584.764, 295.139, 608.241 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "39. Niewoehner O, Jinek M: Structural basis for the endoribonuclease activity of the type III-A CRISPR-associated protein Csm6. RNA 2016, 22:318-329.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 656,
+    "level" : "1",
+    "page number" : 8,
+    "bounding box" : [ 318.216, 574.786, 552.417, 709.835 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 5,
+    "previous list id" : 655,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 318.216, 678.42, 548.222, 709.835 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "40. Jia N et al.: CRISPR-Cas III-A Csm6 CARF domain is a ring nuclease triggering stepwise cA4 cleavage with ApA>p formation terminating RNase activity. Mol Cell 2019, 75:944956 e6.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 318.218, 648.486, 552.417, 672.021 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "41. Watanabe N et al.: Structures of restriction endonuclease HindIII in complex with its cognate DNA and divalent cations. Acta Crystallogr D Biol Crystallogr 2009, 65:1326-1333.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 318.219, 626.603, 545.22, 642.087 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "42. Lowey B, Kranzusch PJ: CD-NTases and nucleotide second messenger signaling. Curr Biol 2020, 30:R1106-R1108.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 318.218, 604.663, 551.758, 620.203 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "43. Samson JE et al.: Revenge of the phages: defeating bacterial defences. Nat Rev Microbiol 2013, 11:675-687.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 318.218, 574.786, 551.734, 598.263 ],
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "44. Jia N, Patel DJ: Structure-based functional mechanisms and biotechnology applications of anti-CRISPR proteins. Nat Rev Mol Cell Biol 2021, 22:563-579.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 658,
+    "page number" : 8,
+    "bounding box" : [ 60.945, 30.251, 558.393, 37.797 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 463,
+      "page number" : 8,
+      "bounding box" : [ 60.945, 30.251, 558.393, 37.797 ],
+      "heading level" : 7,
+      "font" : "AdvPA183",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "www.sciencedirect.com Current Opinion in Immunology 2022, 74:156–163"
+    } ]
+  } ]
+}

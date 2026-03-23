@@ -1,0 +1,4508 @@
+{
+  "file name" : "2020_Bernheim.pdf",
+  "number of pages" : 7,
+  "author" : "Aude Bernheim",
+  "title" : "The pan-immune system of bacteria: antiviral defence as a community resource",
+  "creation date" : "D:20200114130841+05'30'",
+  "modification date" : "D:20241208143209-05'00'",
+  "kids" : [ {
+    "type" : "heading",
+    "id" : 59,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 312.39, 690.304, 555.91, 735.104 ],
+    "heading level" : 1,
+    "font" : "DiverdaSansCom-Light",
+    "font size" : 40.0,
+    "text color" : "[0.5389944314956665, 0.11400014907121658, 0.30699625611305237]",
+    "content" : "PERSPECTIVES"
+  }, {
+    "type" : "heading",
+    "id" : 53,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 42.52, 570.747, 371.481, 644.014 ],
+    "heading level" : 2,
+    "font" : "ITCSymbolStd-Medium",
+    "font size" : 20.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The pan-immune system of bacteria: antiviral defence as a community resource"
+  }, {
+    "type" : "paragraph",
+    "id" : 54,
+    "page number" : 1,
+    "bounding box" : [ 42.52, 546.368, 192.691, 557.834 ],
+    "font" : "ITCSymbolStd-MediumItalic",
+    "font size" : 9.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Aude Bernheim and Rotem Sorek"
+  }, {
+    "type" : "paragraph",
+    "id" : 57,
+    "page number" : 1,
+    "bounding box" : [ 42.52, 332.139, 379.107, 539.629 ],
+    "font" : "DiverdaSansCom-Light",
+    "font size" : 10.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Abstract | Viruses and their hosts are engaged in a constant arms race leading to the evolution of antiviral defence mechanisms. Recent studies have revealed that the immune arsenal of bacteria against bacteriophages is much more diverse than previously envisioned. These discoveries have led to seemingly contradictory observations: on one hand, individual microorganisms often encode multiple distinct defence systems, some of which are acquired by horizontal gene transfer, alluding to their fitness benefit. On the other hand, defence systems are frequently lost from prokaryotic genomes on short evolutionary time scales, suggesting that they impose a fitness cost. In this Perspective article, we present the ‘pan-immune system’ model in which we suggest that, although a single strain cannot carry all possible defence systems owing to their burden on fitness, it can employ horizontal gene transfer to access immune defence mechanisms encoded by closely related strains. Thus, the ‘effective’ immune system is not the one encoded by the genome of a single microorganism but rather by its pan-genome, comprising the sum of all immune systems available for a microorganism to horizontally acquire and use."
+  }, {
+    "type" : "paragraph",
+    "id" : 44,
+    "page number" : 1,
+    "bounding box" : [ 42.515, 201.438, 205.019, 323.855 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Bacteriophages (phages) are the most abundant viruses on the planet. The majority of free-living bacterial species are thought to be infected by phages, as evidenced by the widespread presence of prophages (dormant phages) in bacterial genomes1,2. It was estimated that phages evolved shortly after the emergence of bacteria billions of years ago3, and hence the arms race between bacteria and phages is considered almost as old as bacteria themselves."
+  }, {
+    "type" : "paragraph",
+    "id" : 45,
+    "page number" : 1,
+    "bounding box" : [ 42.515, 47.441, 196.78, 202.845 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Facing the abundance and diversity of phages, bacteria have developed multiple lines of defence that can collectively be referred to as the ‘prokaryotic immune system’. Early research on bacterial defence systems mainly focused on restrictionmodification (R-M) and abortive infection (Abi) systems, whereas in the past decade the focus shifted to CRISPR–Cas systems. In recent years, it has been recognized that prokaryotic immunity is much more complex than previously perceived, with evidence for chemical defence4 and intracellular signalling regulating defence"
+  }, {
+    "type" : "paragraph",
+    "id" : 51,
+    "page number" : 1,
+    "bounding box" : [ 216.376, 289.437, 375.941, 323.855 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "outcome5,6, as well as the discovery of a large number of new defence systems whose mechanisms are still unknown7."
+  }, {
+    "type" : "paragraph",
+    "id" : 52,
+    "page number" : 1,
+    "bounding box" : [ 216.374, 47.412, 378.92, 290.851 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Individual bacterial species can encode multiple different defence systems, and it was shown that such systems can be horizontally acquired and lost on short evolutionary time scales8,9. In this Perspective article, we discuss the prokaryotic immune system from evolutionary and ecological points of view. We begin by reviewing the major types of known antiviral systems as well as evasion strategies employed by phages (topics that will be covered only briefly as they were recently reviewed elsewhere9 14). We then discuss the necessity for encoding several lines of defence, on one hand, and the burdens of antiviral defence systems, on the other, leading to rapid gain and loss of such systems in microbial genomes. We present the ‘pan-immune system’ model to explain why closely related species encode different sets of defence systems, and conclude by discussing the implications on the evolution of anti-defence strategies in phages. We note"
+  }, {
+    "type" : "paragraph",
+    "id" : 46,
+    "page number" : 1,
+    "bounding box" : [ 390.235, 608.429, 550.357, 653.85 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "that the models discussed in this Perspective article are expected to be relevant also for archaeal defence systems that protect from archaeal viruses."
+  }, {
+    "type" : "heading",
+    "id" : 47,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 390.236, 587.538, 507.304, 598.63 ],
+    "heading level" : 4,
+    "font" : "DiverdaSansCom-Black",
+    "font size" : 9.4,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Diversity of defence systems"
+  }, {
+    "type" : "paragraph",
+    "id" : 48,
+    "page number" : 1,
+    "bounding box" : [ 390.236, 465.434, 547.326, 587.855 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Anti-phage defence systems can roughly be divided into those that target viral nucleic acids (for example, R-M and CRISPR–Cas), Abi systems that lead the host to commit suicide once infected and other types of systems (Fig. 1). Of these, the most abundant and elaborate systems are those that target nucleic acids8,15,16, presumably because nucleic acid is usually the first viral component to penetrate the cell upon infection (Fig. 1a,b)."
+  }, {
+    "type" : "paragraph",
+    "id" : 49,
+    "page number" : 1,
+    "bounding box" : [ 390.232, 135.428, 548.473, 466.851 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "R-M collectively refers to systems that cleave or degrade DNA through recognition of specific sequence motifs on the viral genome. These sequence motifs are modified in the host self-DNA, usually by methylation, to prevent the host genome from being targeted (with the exception of type IV R-M systems, which target modified phage DNA while the host genome remains unaltered). R-M systems are classified into four types17 and are present in more than 74% of prokaryotic genomes15. On average, a bacterial genome encodes two R-M systems15. DNA modification as a strategy to discriminate between self-DNA and non-self-DNA is not limited to methylation. For example, the dnd defence system modifies the host DNA backbone to include a sulfur group18, and the dpd system utilizes a multi-enzyme pathway to modify guanine residues into 7-deazaguanine derivatives in the host DNA19. The BREX (bacteriophage exclusion)20 system and DISARM (defence islands system associated with R-M)21 also function through methylation of host DNA, although the mechanisms of phage DNA targeting in these systems are still unknown. All of these defence systems constitute part of the innate immunity of bacteria."
+  }, {
+    "type" : "paragraph",
+    "id" : 50,
+    "page number" : 1,
+    "bounding box" : [ 390.232, 47.425, 546.72, 136.836 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "A large fraction of bacteria and archaea encode CRISPR–Cas16, a family of adaptive immune systems that also function through recognition and degradation of viral nucleic acids. The CRISPR–Cas immune memory is formed through acquisition of short viral-derived DNA sequences that are incorporated as CRISPR ‘spacers’ within the"
+  }, {
+    "type" : "paragraph",
+    "id" : 60,
+    "page number" : 1,
+    "bounding box" : [ 42.52, 19.611, 167.144, 28.338 ],
+    "font" : "DiverdaSansCom-Regular",
+    "font size" : 7.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "NaTure revIewS | MiCrobiology"
+  }, {
+    "type" : "paragraph",
+    "id" : 58,
+    "page number" : 1,
+    "bounding box" : [ 434.59, 19.569, 552.52, 28.191 ],
+    "font" : "DiverdaSansCom-Regular",
+    "font size" : 7.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "volume 18 | February 2020 | 113"
+  }, {
+    "type" : "header",
+    "id" : 61,
+    "page number" : 2,
+    "bounding box" : [ 42.52, 756.336, 171.24, 774.64 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 25,
+      "page number" : 2,
+      "bounding box" : [ 42.52, 756.336, 171.24, 774.64 ],
+      "heading level" : 3,
+      "font" : "DiverdaSansCom-Medium",
+      "font size" : 16.0,
+      "text color" : "[0.5389944314956665, 0.11400014907121658, 0.30699625611305237]",
+      "content" : "PersPectives"
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 68,
+    "level" : "2",
+    "page number" : 2,
+    "bounding box" : [ 287.616, 704.425, 292.153, 720.059 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 287.754, 718.218, 289.892, 719.934 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 289.892, 718.218, 292.015, 719.934 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 287.754, 704.554, 292.015, 718.218 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 76,
+    "page number" : 2,
+    "bounding box" : [ 113.199, 686.577, 469.166, 697.496 ],
+    "font" : "DiverdaSansCom-Bold2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "a Innate: R-M, BREX, DND, DISARM, etc. b Adaptive: CRISPR–Cas c Chemical defence"
+  }, {
+    "type" : "paragraph",
+    "id" : 79,
+    "page number" : 2,
+    "bounding box" : [ 66.581, 655.11, 116.353, 682.729 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Phage DNA Restriction site"
+  }, {
+    "type" : "paragraph",
+    "id" : 125,
+    "page number" : 2,
+    "bounding box" : [ 340.149, 661.092, 376.669, 669.828 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Adaptation"
+  }, {
+    "type" : "paragraph",
+    "id" : 100,
+    "page number" : 2,
+    "bounding box" : [ 445.401, 651.087, 502.443, 667.825 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Inhibition of phage replication"
+  }, {
+    "type" : "paragraph",
+    "id" : 98,
+    "page number" : 2,
+    "bounding box" : [ 170.602, 648.873, 219.618, 665.612 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Degradation of phage DNA"
+  }, {
+    "type" : "paragraph",
+    "id" : 94,
+    "page number" : 2,
+    "bounding box" : [ 62.59, 624.922, 112.073, 641.661 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Recognition of restriction sites"
+  }, {
+    "type" : "paragraph",
+    "id" : 129,
+    "page number" : 2,
+    "bounding box" : [ 287.589, 632.444, 327.658, 641.18 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Interference"
+  }, {
+    "type" : "paragraph",
+    "id" : 112,
+    "page number" : 2,
+    "bounding box" : [ 445.031, 609.062, 500.474, 633.803 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "DNA intercalants Doxorubicin Daunorubicin"
+  }, {
+    "type" : "paragraph",
+    "id" : 96,
+    "page number" : 2,
+    "bounding box" : [ 201.633, 618.612, 259.868, 627.348 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "DNA modiﬁcation"
+  }, {
+    "type" : "paragraph",
+    "id" : 84,
+    "page number" : 2,
+    "bounding box" : [ 152.625, 612.723, 192.171, 621.459 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "No cleavage"
+  }, {
+    "type" : "paragraph",
+    "id" : 95,
+    "page number" : 2,
+    "bounding box" : [ 201.758, 607.66, 254.376, 616.396 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Recognition site"
+  }, {
+    "type" : "paragraph",
+    "id" : 80,
+    "page number" : 2,
+    "bounding box" : [ 74.857, 598.263, 108.202, 615.002 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Nuclease Methylase"
+  }, {
+    "type" : "paragraph",
+    "id" : 126,
+    "page number" : 2,
+    "bounding box" : [ 300.065, 592.203, 371.778, 612.834 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Cas9 Cas1 crRNA"
+  }, {
+    "type" : "paragraph",
+    "id" : 127,
+    "page number" : 2,
+    "bounding box" : [ 372.309, 599.878, 388.299, 608.614 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Cas2"
+  }, {
+    "type" : "paragraph",
+    "id" : 113,
+    "page number" : 2,
+    "bounding box" : [ 463.611, 583.212, 497.167, 599.951 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Enzymatic pathway"
+  }, {
+    "type" : "paragraph",
+    "id" : 81,
+    "page number" : 2,
+    "bounding box" : [ 119.699, 577.476, 206.819, 587.418 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Methylation Methylated"
+  }, {
+    "type" : "paragraph",
+    "id" : 82,
+    "page number" : 2,
+    "bounding box" : [ 170.931, 572.021, 215.601, 580.421 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "restriction site"
+  }, {
+    "type" : "paragraph",
+    "id" : 114,
+    "page number" : 2,
+    "bounding box" : [ 462.815, 571.614, 504.023, 580.35 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Gene cluster"
+  }, {
+    "type" : "paragraph",
+    "id" : 93,
+    "page number" : 2,
+    "bounding box" : [ 53.597, 569.799, 100.131, 578.535 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Genomic DNA"
+  }, {
+    "type" : "paragraph",
+    "id" : 124,
+    "page number" : 2,
+    "bounding box" : [ 140.703, 560.425, 239.568, 569.161 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "BREX DISARM DND"
+  }, {
+    "type" : "paragraph",
+    "id" : 78,
+    "page number" : 2,
+    "bounding box" : [ 49.683, 534.597, 347.638, 545.857 ],
+    "font" : "DiverdaSansCom-Bold2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "d Abortive infection e Signalling systems"
+  }, {
+    "type" : "paragraph",
+    "id" : 116,
+    "page number" : 2,
+    "bounding box" : [ 350.651, 523.667, 373.318, 532.403 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "CBASS"
+  }, {
+    "type" : "paragraph",
+    "id" : 122,
+    "page number" : 2,
+    "bounding box" : [ 72.004, 517.404, 198.59, 529.463 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "AbiZ Lit RexAB RexA"
+  }, {
+    "type" : "table",
+    "id" : 67,
+    "level" : "1",
+    "page number" : 2,
+    "bounding box" : [ 345.862, 517.518, 379.009, 522.723 ],
+    "number of rows" : 2,
+    "number of columns" : 3,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 346.287, 520.09, 350.518, 522.536 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 350.518, 520.09, 366.659, 522.536 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 366.659, 520.09, 378.584, 522.536 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 346.287, 517.706, 350.518, 520.09 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 350.518, 517.706, 366.659, 520.09 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 366.659, 517.706, 378.584, 520.09 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 103,
+    "page number" : 2,
+    "bounding box" : [ 279.914, 493.237, 331.269, 517.978 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Cyclic oligonucleotide synthase"
+  }, {
+    "type" : "paragraph",
+    "id" : 102,
+    "page number" : 2,
+    "bounding box" : [ 204.261, 476.615, 257.372, 501.357 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Recognition of phage DNA– protein complex"
+  }, {
+    "type" : "paragraph",
+    "id" : 115,
+    "page number" : 2,
+    "bounding box" : [ 180.658, 488.762, 196.96, 497.498 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "RexB"
+  }, {
+    "type" : "paragraph",
+    "id" : 119,
+    "page number" : 2,
+    "bounding box" : [ 80.303, 460.027, 115.068, 484.769 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "EF-Tu translation factor"
+  }, {
+    "type" : "paragraph",
+    "id" : 118,
+    "page number" : 2,
+    "bounding box" : [ 127.915, 465.705, 167.328, 482.444 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Inhibition of translation"
+  }, {
+    "type" : "paragraph",
+    "id" : 105,
+    "page number" : 2,
+    "bounding box" : [ 301.973, 454.667, 353.329, 479.409 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Cyclic oligonucleotide production"
+  }, {
+    "type" : "paragraph",
+    "id" : 120,
+    "page number" : 2,
+    "bounding box" : [ 73.861, 432.251, 107.518, 448.99 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Premature lysis"
+  }, {
+    "type" : "paragraph",
+    "id" : 107,
+    "page number" : 2,
+    "bounding box" : [ 359.89, 430.691, 392.003, 447.43 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Effector activation"
+  }, {
+    "type" : "paragraph",
+    "id" : 117,
+    "page number" : 2,
+    "bounding box" : [ 150.542, 436.869, 162.032, 445.605 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Gol"
+  }, {
+    "type" : "paragraph",
+    "id" : 110,
+    "page number" : 2,
+    "bounding box" : [ 284.936, 428.094, 309.358, 444.833 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Phage sensing"
+  }, {
+    "type" : "paragraph",
+    "id" : 121,
+    "page number" : 2,
+    "bounding box" : [ 101.145, 401.784, 139.287, 418.523 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Phage holin or lysins"
+  }, {
+    "type" : "paragraph",
+    "id" : 111,
+    "page number" : 2,
+    "bounding box" : [ 200.907, 400.295, 248.058, 417.033 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Membrane depolarization"
+  }, {
+    "type" : "paragraph",
+    "id" : 108,
+    "page number" : 2,
+    "bounding box" : [ 349.743, 399.928, 368.65, 416.666 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Cell death"
+  }, {
+    "type" : "table",
+    "id" : 71,
+    "level" : "3",
+    "page number" : 2,
+    "bounding box" : [ 159.764, 377.45, 164.333, 393.088 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "previous table id" : 70,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 159.918, 379.287, 164.179, 392.954 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 159.918, 377.575, 162.06, 379.287 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 162.06, 377.575, 164.179, 379.287 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 72,
+    "level" : "4",
+    "page number" : 2,
+    "bounding box" : [ 251.398, 374.554, 271.066, 384.807 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 9.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "+ + +"
+  }, {
+    "type" : "table",
+    "id" : 70,
+    "level" : "3",
+    "page number" : 2,
+    "bounding box" : [ 294.71, 377.003, 299.247, 392.635 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "previous table id" : 69,
+    "next table id" : 71,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 294.848, 378.842, 299.11, 392.506 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 294.848, 377.128, 296.973, 378.842 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 296.973, 377.128, 299.11, 378.842 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 123,
+    "page number" : 2,
+    "bounding box" : [ 401.344, 534.402, 484.824, 545.022 ],
+    "font" : "DiverdaSansCom-Bold2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "f Unknown mechanisms"
+  }, {
+    "type" : "paragraph",
+    "id" : 89,
+    "page number" : 2,
+    "bounding box" : [ 430.539, 513.702, 500.006, 522.438 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "? ? ?"
+  }, {
+    "type" : "paragraph",
+    "id" : 90,
+    "page number" : 2,
+    "bounding box" : [ 426.327, 473.672, 447.458, 482.408 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Gabija"
+  }, {
+    "type" : "paragraph",
+    "id" : 92,
+    "page number" : 2,
+    "bounding box" : [ 455.32, 473.5, 476.013, 482.236 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Shedu"
+  }, {
+    "type" : "paragraph",
+    "id" : 85,
+    "page number" : 2,
+    "bounding box" : [ 491.84, 473.5, 510.349, 482.236 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Zorya"
+  }, {
+    "type" : "paragraph",
+    "id" : 88,
+    "page number" : 2,
+    "bounding box" : [ 423.886, 452.955, 427.513, 461.691 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "?"
+  }, {
+    "type" : "paragraph",
+    "id" : 86,
+    "page number" : 2,
+    "bounding box" : [ 440.625, 452.511, 464.196, 461.247 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Thoeris"
+  }, {
+    "type" : "paragraph",
+    "id" : 91,
+    "page number" : 2,
+    "bounding box" : [ 414.37, 425.874, 471.326, 442.612 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Hachiman, Septu, Lamassu, etc."
+  }, {
+    "type" : "paragraph",
+    "id" : 87,
+    "page number" : 2,
+    "bounding box" : [ 483.525, 418.261, 487.152, 426.997 ],
+    "font" : "DiverdaSansCom-Light2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "?"
+  }, {
+    "type" : "table",
+    "id" : 69,
+    "level" : "3",
+    "page number" : 2,
+    "bounding box" : [ 441.468, 377.003, 446.004, 392.635 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "next table id" : 70,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 441.606, 378.842, 445.867, 392.506 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 441.606, 377.128, 443.73, 378.842 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 443.73, 377.128, 445.867, 378.842 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 131,
+    "level" : "5",
+    "page number" : 2,
+    "bounding box" : [ 42.511, 240.95, 291.802, 361.174 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 236,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 42.511, 240.95, 291.802, 361.174 ],
+      "font" : "DiverdaSansCom-Light",
+      "font size" : 8.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Fig. 1|Antiviral defence systems in bacteria. Defence systems that target nucleic acids encompass both innate and adaptive immunity. a| Restriction-modification (R-M) and other related systems modify specific sequence motifs in the host genome and cleave or degrade unmodified foreign DNA.b| CRISPR–Cas systems work in two main phases: adaptation, where a complex of Cas proteins guides the acquisition of new bacteriophage (phage)-derived spacers; and interference, where Cas proteins in a complex with a spacer-derived CRISPR RNA (crRNA) target and degrade phage nucleic acids. c | Chemical defence has been described in Streptomyces spp., in which bacteria produce a small anti-phage molecule that intercalates into phage DNA and inhibits its replication. d | Abortive infection mechanisms are diverse. In concert with phage-encoded holins",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 133,
+    "page number" : 2,
+    "bounding box" : [ 303.638, 240.95, 552.969, 360.426 ],
+    "font" : "DiverdaSansCom-Light",
+    "font size" : 8.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "and lysins of phage Phi31, AbiZ from Lactococcus lactis accelerates lysis before phage assembly is completed. Upon expression of the T4 phage protein Gol, theEscherichia coli Lit protein inhibits translation through cleavage of the EF-Tu elongation factor. TheE. coli protein RexA recognizes a specific DNA–protein complex formed by the λ phage, and activates RexB, an ion channel that depolarizes the membrane, leading to cell death. e | CBASS (cyclic oligonucleotide-based anti-phage signalling system) senses the presence of phage and generates a cyclic oligonucleotide small-molecule signal that activates an effector leading to cell death. f | Multiple systems have recently been demonstrated to have anti-phage roles, but their mechanisms remain unknown. Abi, abortive infection; BREX, bacteriophage exclusion; DISARM, defence islands system associated with R-M."
+  }, {
+    "type" : "paragraph",
+    "id" : 63,
+    "page number" : 2,
+    "bounding box" : [ 42.518, 47.415, 205.031, 224.855 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "host genome22. These sequences are then transcribed and processed into CRISPR RNAs that guide the CRISPR–Cas machinery, through sequence complementarity, to target the viral nucleic acids16. CRISPR–Cas systems are diverse, comprising two classes, six types and more than 20 subtypes23,24 that differ in the composition of the interference machinery, their mechanisms of targeting and the nucleic acid targeted (that is, DNA or RNA). In most cases, both spacer acquisition and interference necessitate the occurrence of a short sequence motif named PAM (protospacer adjacent motif) next to the sequence matched by the spacer in the targeted molecule25."
+  }, {
+    "type" : "paragraph",
+    "id" : 64,
+    "page number" : 2,
+    "bounding box" : [ 216.374, 102.437, 367.102, 224.857 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Operons that include prokaryotic argonautes have also been hypothesized to provide defence. Present in 9% and 32% of bacterial and archaeal genomes, respectively26, their frequent localization in defence islands (regions in microbial genomes in which defence systems are concentrated; see Box 1) as well as their protective activity against plasmids27 suggest that they are involved in antiviral defence."
+  }, {
+    "type" : "paragraph",
+    "id" : 65,
+    "page number" : 2,
+    "bounding box" : [ 216.378, 47.422, 368.574, 103.845 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Another common strategy of defence against phages is Abi. Abi systems allow the bacterial cell, once infected, to kill itself or to arrest its metabolism before the phage reproductive cycle is completed,"
+  }, {
+    "type" : "paragraph",
+    "id" : 66,
+    "page number" : 2,
+    "bounding box" : [ 390.235, 47.406, 552.753, 224.834 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "thus preventing the phage from spreading and killing the surrounding bacterial community. Abi systems have been detected in a wide variety of microorganisms8 but, given their high diversity, it is challenging to assess their abundance in nature. These systems are usually triggered by a specific component that could be a phage protein, a nucleic acid or a cellular state caused by phage infection. For example, the Escherichia coli Lit Abi is activated upon sensing a unique substrate formed by the Gol peptide of phage T4 when bound to the ribosomal elongation factor EF-Tu. Once active, the Lit protein cleaves EF-Tu, thus inhibiting translation and ultimately killing the cell28."
+  }, {
+    "type" : "footer",
+    "id" : 134,
+    "page number" : 2,
+    "bounding box" : [ 42.52, 19.569, 552.76, 28.191 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 19,
+      "page number" : 2,
+      "bounding box" : [ 42.52, 19.569, 552.76, 28.191 ],
+      "heading level" : 5,
+      "font" : "DiverdaSansCom-Regular",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "114 | February 2020 | volume 18 www.nature.com/nrmicro"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 135,
+    "page number" : 3,
+    "bounding box" : [ 424.058, 756.336, 552.778, 774.64 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 26,
+      "page number" : 3,
+      "bounding box" : [ 424.058, 756.336, 552.778, 774.64 ],
+      "heading level" : 3,
+      "font" : "DiverdaSansCom-Medium",
+      "font size" : 16.0,
+      "text color" : "[0.5389944314956665, 0.11400014907121658, 0.30699625611305237]",
+      "content" : "PersPectives"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 137,
+    "page number" : 3,
+    "bounding box" : [ 42.519, 509.425, 204.878, 730.974 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Another example is PrrC in E. coli, which cleaves bacterial tRNALys molecules when it senses that the phage has suppressed bacterial R-M systems29. In Lactococcus spp., many Abi genes (around 20) have been described: for example, AbiZ accelerates lysis before phage assembly30 whereas AbiB leads to non-specific degradation of mRNAs31. In Staphylococcus spp.32, the serine threonine kinase STK2 protein is activated when exposed to the phage protein PacK, leading to phosphorylation of proteins involved in multiple cellular pathways and eventual cell death32. Toxin–antitoxin systems, representing a large family of two-gene modules each comprising a toxin and an immunity component, were also shown to execute Abi in some cases, although their general role in defence against phages is still disputed10,33."
+  }, {
+    "type" : "paragraph",
+    "id" : 138,
+    "page number" : 3,
+    "bounding box" : [ 42.522, 465.431, 202.666, 510.852 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "A newly discovered system called CBASS (cyclic oligonucleotide-based anti-phage signalling system) employs a specific form of Abi34. This system, appearing in more"
+  }, {
+    "type" : "paragraph",
+    "id" : 139,
+    "page number" : 3,
+    "bounding box" : [ 216.376, 608.412, 376.557, 730.855 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "than 10% of sequenced bacterial genomes, relies on cyclic oligonucleotide signalling to provide defence against phages. Sensing of phage infection leads to the production of a cyclic oligonucleotide, for example cyclic GMP–AMP, which activates a downstream effector that causes cell death. The CBASS system is considered the prokaryotic ancestor of the cGAS–STING antiviral pathway in animals, which similarly relies on cyclic GMP–AMP signalling34."
+  }, {
+    "type" : "paragraph",
+    "id" : 140,
+    "page number" : 3,
+    "bounding box" : [ 216.377, 465.425, 378.918, 609.852 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Recent studies have revealed the existence of many additional families of antiviral defence systems in bacteria and archaea. An effort to map microbial defence islands (Box 1) has resulted in the discovery of nine new defence systems that are widespread in bacterial and archaeal genomes7. These systems were named after protective deities from world mythologies including Hachiman, Thoeris, Zorya, Gabija and Shedu, and their molecular mechanisms of action are yet to be deciphered. Finally, species of Streptomyces produce small"
+  }, {
+    "type" : "paragraph",
+    "id" : 141,
+    "page number" : 3,
+    "bounding box" : [ 390.242, 674.412, 545.886, 730.836 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "molecules called doxorubicin and daunorubicin that act as DNA intercalants, and were recently shown to specifically block phage DNA replication but not the replication of bacterial DNA4."
+  }, {
+    "type" : "heading",
+    "id" : 142,
+    "level" : "Subtitle",
+    "page number" : 3,
+    "bounding box" : [ 390.236, 653.538, 508.15, 664.63 ],
+    "heading level" : 4,
+    "font" : "DiverdaSansCom-Black",
+    "font size" : 9.4,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "A need for multiple defences"
+  }, {
+    "type" : "paragraph",
+    "id" : 143,
+    "page number" : 3,
+    "bounding box" : [ 390.234, 465.434, 552.754, 653.855 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Analysis of sequenced prokaryotic genomes demonstrates that they can concomitantly harbour multiple different defence systems. As shown in Fig. 2, a single strain can encode diverse defence strategies including Abi, R-M and CRISPR–Cas. Many bacteria and archaea encode multiple defence systems of the same kind: for example, Helicobacter pylori F30 encodes three type I R-M systems, 11 type II R-M systems, one type III R-M system and one type IV R-M system15. In total, it was estimated that up to 10% of some prokaryotic genomes is dedicated to defence systems8. These observations raise a basic question — what is the benefit for a single microorganism to encode so many different lines of defence?"
+  }, {
+    "type" : "paragraph",
+    "id" : 145,
+    "page number" : 3,
+    "bounding box" : [ 47.339, 437.133, 213.639, 447.729 ],
+    "font" : "DiverdaSansCom-Bold",
+    "font size" : 8.7,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Box 1 | Defence islands in microbial genomes"
+  }, {
+    "type" : "paragraph",
+    "id" : 146,
+    "page number" : 3,
+    "bounding box" : [ 47.337, 341.656, 294.729, 430.926 ],
+    "font" : "DiverdaSansCom-Regular",
+    "font size" : 8.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "antiviral defence systems tend to cluster on bacterial and archaeal chromosomes in regions denoted as defence islands48. Defence islands typically comprise diverse defence systems. See the figure for examples of defence islands within selected bacterial and archaeal genomes (different colours represent different defence systems). beige represents genes of non-defence functions or of unknown function. Defence systems are also enriched with genes typical of mobile genetic elements such as transposases, recombinases and conjugation genes44,48. Some defence islands were predicted to encode more than 100 defence genes8."
+  }, {
+    "type" : "paragraph",
+    "id" : 147,
+    "page number" : 3,
+    "bounding box" : [ 47.344, 281.636, 296.878, 340.922 ],
+    "font" : "DiverdaSansCom-Regular",
+    "font size" : 8.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The origin and the mechanism of formation of defence islands are currently unknown but could reflect different effects. First, co-localization of defence genes with mobile genes could facilitate horizontal transfer of multiple defence systems from one bacterium to another in a single transfer event. alternatively, such islands can be hotspots for integration of horizontally acquired genes77, with defence systems clustering in defence"
+  }, {
+    "type" : "paragraph",
+    "id" : 148,
+    "page number" : 3,
+    "bounding box" : [ 303.046, 381.66, 525.561, 430.926 ],
+    "font" : "DiverdaSansCom-Regular",
+    "font size" : 8.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "islands through the ‘garbage and pile effect’8, in which high rates of acquisition and loss are not strongly deleterious. In addition, such co-localization of defence genes could reflect functional links between the defence systems, including possible co-regulation or positive epistasis."
+  }, {
+    "type" : "paragraph",
+    "id" : 149,
+    "page number" : 3,
+    "bounding box" : [ 303.046, 281.656, 543.261, 380.922 ],
+    "font" : "DiverdaSansCom-Regular",
+    "font size" : 8.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The phenomenon of defence islands in bacterial genomes allows the prediction of novel defence systems through a ‘guilt by association’ approach. In this approach, protein families with unknown functions that are enriched in defence islands can be predicted to constitute new defence systems. This methodology has led to the discovery of individual defence systems such as breX (bacteriophage exclusion) or DISarm (defence islands system associated with r-m)20,21, and its application in a systematic manner recently revealed nine new antiviral systems that are widespread in bacteria and archaea7. For r-m and CrISPr–Cas systems, the type is indicated in parentheses."
+  }, {
+    "type" : "paragraph",
+    "id" : 150,
+    "page number" : 3,
+    "bounding box" : [ 144.547, 267.262, 188.079, 275.998 ],
+    "font" : "DiverdaSansCom-Light3",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Recombinase"
+  }, {
+    "type" : "table",
+    "id" : 174,
+    "level" : "7",
+    "page number" : 3,
+    "bounding box" : [ 161.488, 260.712, 172.386, 266.035 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "next table id" : 175,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 161.675, 262.898, 166.739, 265.91 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 166.739, 262.898, 172.198, 265.91 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 161.675, 260.884, 172.198, 262.898 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 151,
+    "page number" : 3,
+    "bounding box" : [ 60.977, 247.669, 145.186, 256.389 ],
+    "font" : "DiverdaSansCom-LightItalic2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Desulfovibrio vietnamensis"
+  }, {
+    "type" : "paragraph",
+    "id" : 152,
+    "page number" : 3,
+    "bounding box" : [ 92.684, 231.663, 145.186, 248.402 ],
+    "font" : "DiverdaSansCom-Light3",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "DSM 10520 SAMN02691715"
+  }, {
+    "type" : "paragraph",
+    "id" : 157,
+    "page number" : 3,
+    "bounding box" : [ 237.943, 267.239, 549.959, 275.975 ],
+    "font" : "DiverdaSansCom-Light3",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "CRISPR–Cas (III) Integrases"
+  }, {
+    "type" : "paragraph",
+    "id" : 160,
+    "page number" : 3,
+    "bounding box" : [ 335.195, 267.239, 343.439, 275.975 ],
+    "font" : "DiverdaSansCom-Light3",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "TA"
+  }, {
+    "type" : "paragraph",
+    "id" : 168,
+    "page number" : 3,
+    "bounding box" : [ 381.425, 267.239, 484.72, 275.975 ],
+    "font" : "DiverdaSansCom-Light3",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Zorya R-M (I)"
+  }, {
+    "type" : "table",
+    "id" : 191,
+    "level" : "23",
+    "page number" : 3,
+    "bounding box" : [ 209.272, 260.712, 318.449, 266.035 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 209.459, 262.898, 264.028, 265.91 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 264.028, 262.898, 318.261, 265.91 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 209.459, 260.884, 318.261, 262.898 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 189,
+    "level" : "21",
+    "page number" : 3,
+    "bounding box" : [ 332.217, 260.712, 347.377, 266.035 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 332.404, 262.898, 339.521, 265.91 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 339.521, 262.898, 347.189, 265.91 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 332.404, 260.884, 347.189, 262.898 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 192,
+    "level" : "24",
+    "page number" : 3,
+    "bounding box" : [ 357.013, 260.712, 426.157, 266.035 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 357.2, 262.898, 391.692, 265.91 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 391.692, 262.898, 425.969, 265.91 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 357.2, 260.884, 425.969, 262.898 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 193,
+    "level" : "25",
+    "page number" : 3,
+    "bounding box" : [ 431.788, 260.712, 515.782, 266.035 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 431.975, 262.898, 473.915, 265.91 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 473.915, 262.898, 515.594, 265.91 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 431.975, 260.884, 515.594, 262.898 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 190,
+    "level" : "22",
+    "page number" : 3,
+    "bounding box" : [ 531.618, 260.712, 544.583, 266.035 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 531.805, 262.898, 537.863, 265.91 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 537.863, 262.898, 544.395, 265.91 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 531.805, 260.884, 544.395, 262.898 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 172,
+    "level" : "6",
+    "page number" : 3,
+    "bounding box" : [ 279.983, 249.046, 288.24, 258.148 ],
+    "number of rows" : 2,
+    "number of columns" : 3,
+    "next table id" : 173,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 280.17, 253.597, 282.777, 258.023 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 282.777, 253.597, 285.446, 258.023 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 285.446, 253.597, 288.052, 258.023 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 280.17, 249.171, 282.777, 253.597 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 282.777, 249.171, 285.446, 253.597 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 285.446, 249.171, 288.052, 253.597 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 161,
+    "page number" : 3,
+    "bounding box" : [ 227.204, 231.39, 238.756, 240.126 ],
+    "font" : "DiverdaSansCom-Light3",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "10k"
+  }, {
+    "type" : "paragraph",
+    "id" : 167,
+    "page number" : 3,
+    "bounding box" : [ 330.21, 231.39, 537.09, 240.126 ],
+    "font" : "DiverdaSansCom-Light3",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "20k 30k 40k"
+  }, {
+    "type" : "paragraph",
+    "id" : 153,
+    "page number" : 3,
+    "bounding box" : [ 92.684, 175.16, 145.194, 199.886 ],
+    "font" : "DiverdaSansCom-Light3",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Bacillus cereus CMCC P001 SAMN03457174"
+  }, {
+    "type" : "paragraph",
+    "id" : 170,
+    "page number" : 3,
+    "bounding box" : [ 268.769, 209.027, 314.017, 225.766 ],
+    "font" : "DiverdaSansCom-Light3",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Restriction endonuclease"
+  }, {
+    "type" : "paragraph",
+    "id" : 169,
+    "page number" : 3,
+    "bounding box" : [ 165.622, 208.981, 438.224, 217.717 ],
+    "font" : "DiverdaSansCom-Light3",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Transposase Gabija Hachiman Wadjet Abi Septu"
+  }, {
+    "type" : "table",
+    "id" : 175,
+    "level" : "7",
+    "page number" : 3,
+    "bounding box" : [ 181.337, 202.801, 192.235, 208.124 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "previous table id" : 174,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 181.524, 204.987, 186.588, 207.999 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 186.588, 204.987, 192.047, 207.999 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 181.524, 202.973, 192.047, 204.987 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 176,
+    "level" : "8",
+    "page number" : 3,
+    "bounding box" : [ 198.901, 202.801, 230.979, 208.124 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 199.088, 204.987, 214.347, 207.999 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 214.347, 204.987, 230.791, 207.999 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 199.088, 202.973, 230.791, 204.987 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 177,
+    "level" : "9",
+    "page number" : 3,
+    "bounding box" : [ 240.916, 202.801, 273.339, 208.124 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 241.103, 204.987, 256.528, 207.999 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 256.528, 204.987, 273.151, 207.999 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 241.103, 202.973, 273.151, 204.987 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 178,
+    "level" : "10",
+    "page number" : 3,
+    "bounding box" : [ 278.454, 202.801, 305.453, 208.124 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 278.641, 204.987, 291.455, 207.999 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 291.455, 204.987, 305.265, 207.999 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 278.641, 202.973, 305.265, 204.987 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 181,
+    "level" : "13",
+    "page number" : 3,
+    "bounding box" : [ 310.396, 202.801, 391.635, 208.124 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 310.583, 204.987, 349.508, 207.999 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 349.508, 204.987, 391.447, 207.999 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 310.583, 202.973, 391.447, 204.987 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 179,
+    "level" : "11",
+    "page number" : 3,
+    "bounding box" : [ 395.029, 202.801, 410.06, 208.124 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 395.216, 204.987, 402.27, 207.999 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 402.27, 204.987, 409.872, 207.999 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 395.216, 202.973, 409.872, 204.987 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 180,
+    "level" : "12",
+    "page number" : 3,
+    "bounding box" : [ 415.434, 202.801, 442.174, 208.124 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 415.621, 204.987, 428.312, 207.999 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 428.312, 204.987, 441.986, 207.999 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 415.621, 202.973, 441.986, 204.987 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 162,
+    "page number" : 3,
+    "bounding box" : [ 187.884, 174.333, 203.429, 183.069 ],
+    "font" : "DiverdaSansCom-Light3",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "171k"
+  }, {
+    "type" : "paragraph",
+    "id" : 166,
+    "page number" : 3,
+    "bounding box" : [ 282.888, 174.333, 491.187, 183.07 ],
+    "font" : "DiverdaSansCom-Light3",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "181k 191k 201k"
+  }, {
+    "type" : "paragraph",
+    "id" : 154,
+    "page number" : 3,
+    "bounding box" : [ 85.04, 137.158, 145.202, 145.879 ],
+    "font" : "DiverdaSansCom-LightItalic2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Vibrio crassostreae"
+  }, {
+    "type" : "paragraph",
+    "id" : 155,
+    "page number" : 3,
+    "bounding box" : [ 92.926, 121.153, 145.186, 137.891 ],
+    "font" : "DiverdaSansCom-Light3",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "J5-19 SAMEA2591294"
+  }, {
+    "type" : "paragraph",
+    "id" : 163,
+    "page number" : 3,
+    "bounding box" : [ 178.22, 120.334, 193.765, 129.07 ],
+    "font" : "DiverdaSansCom-Light3",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "458k"
+  }, {
+    "type" : "paragraph",
+    "id" : 159,
+    "page number" : 3,
+    "bounding box" : [ 279.744, 154.077, 487.708, 162.813 ],
+    "font" : "DiverdaSansCom-Light3",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "R-M (I) R-M (IV) Zorya"
+  }, {
+    "type" : "table",
+    "id" : 182,
+    "level" : "14",
+    "page number" : 3,
+    "bounding box" : [ 260.46, 148.581, 322.016, 153.904 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 260.647, 150.767, 290.096, 153.779 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 290.096, 150.767, 321.828, 153.779 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 260.647, 148.753, 321.828, 150.767 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 187,
+    "level" : "19",
+    "page number" : 3,
+    "bounding box" : [ 399.765, 148.581, 439.28, 153.904 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 399.952, 150.767, 418.791, 153.779 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 418.791, 150.767, 439.092, 153.779 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 399.952, 148.753, 439.092, 150.767 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 188,
+    "level" : "20",
+    "page number" : 3,
+    "bounding box" : [ 441.78, 148.581, 518.488, 153.904 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 441.967, 150.767, 478.71, 153.779 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 478.71, 150.767, 518.3, 153.779 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 441.967, 148.753, 518.3, 150.767 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 165,
+    "page number" : 3,
+    "bounding box" : [ 280.548, 120.334, 491.764, 129.07 ],
+    "font" : "DiverdaSansCom-Light3",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "468k 478k 488k"
+  }, {
+    "type" : "paragraph",
+    "id" : 171,
+    "page number" : 3,
+    "bounding box" : [ 154.437, 97.394, 405.62, 114.133 ],
+    "font" : "DiverdaSansCom-Light3",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Restriction endonuclease BREX R-M (II)"
+  }, {
+    "type" : "paragraph",
+    "id" : 158,
+    "page number" : 3,
+    "bounding box" : [ 465.174, 97.277, 516.911, 106.013 ],
+    "font" : "DiverdaSansCom-Light3",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "CRISPR–Cas (III)"
+  }, {
+    "type" : "table",
+    "id" : 183,
+    "level" : "15",
+    "page number" : 3,
+    "bounding box" : [ 159.21, 91.456, 196.718, 96.78 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 159.397, 93.643, 177.27, 96.655 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 177.27, 93.643, 196.53, 96.655 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 159.397, 91.628, 196.53, 93.643 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 186,
+    "level" : "18",
+    "page number" : 3,
+    "bounding box" : [ 197.954, 91.456, 347.302, 96.78 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 198.141, 93.643, 269.851, 96.655 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 269.851, 93.643, 347.114, 96.655 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 198.141, 91.628, 347.114, 93.643 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 184,
+    "level" : "16",
+    "page number" : 3,
+    "bounding box" : [ 356.888, 91.456, 434.629, 96.78 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 357.075, 93.643, 394.317, 96.655 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 394.317, 93.643, 434.441, 96.655 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 357.075, 91.628, 434.441, 93.643 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 185,
+    "level" : "17",
+    "page number" : 3,
+    "bounding box" : [ 445.912, 91.456, 538.29, 96.78 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 446.099, 93.643, 490.386, 96.655 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 490.386, 93.643, 538.102, 96.655 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 446.099, 91.628, 538.102, 93.643 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 173,
+    "level" : "6",
+    "page number" : 3,
+    "bounding box" : [ 446.269, 78.992, 454.525, 88.094 ],
+    "number of rows" : 2,
+    "number of columns" : 3,
+    "previous table id" : 172,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 446.456, 83.544, 449.062, 87.969 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 449.062, 83.544, 451.732, 87.969 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 451.732, 83.544, 454.337, 87.969 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 446.456, 79.117, 449.062, 83.544 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 449.062, 79.117, 451.732, 83.544 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 3,
+        "bounding box" : [ 451.732, 79.117, 454.337, 83.544 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 156,
+    "page number" : 3,
+    "bounding box" : [ 49.551, 61.147, 145.186, 85.874 ],
+    "font" : "DiverdaSansCom-LightItalic2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Methanohalophilus euhalobius WG-1MB SAMN06295989"
+  }, {
+    "type" : "paragraph",
+    "id" : 164,
+    "page number" : 3,
+    "bounding box" : [ 155.881, 60.999, 462.046, 69.735 ],
+    "font" : "DiverdaSansCom-Light3",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "25k 35k 45k 55k"
+  }, {
+    "type" : "paragraph",
+    "id" : 194,
+    "page number" : 3,
+    "bounding box" : [ 47.339, 49.505, 274.54, 57.98 ],
+    "font" : "DiverdaSansCom-Regular",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "abi, abortive infection; r-m, restriction-modification; Ta, toxin–antitoxin."
+  }, {
+    "type" : "footer",
+    "id" : 195,
+    "page number" : 3,
+    "bounding box" : [ 42.52, 19.569, 552.52, 28.338 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 20,
+      "page number" : 3,
+      "bounding box" : [ 42.52, 19.569, 552.52, 28.338 ],
+      "heading level" : 5,
+      "font" : "DiverdaSansCom-Regular",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "NaTure revIewS | MiCrobiology volume 18 | February 2020 | 115"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 196,
+    "page number" : 4,
+    "bounding box" : [ 42.52, 756.336, 171.24, 774.64 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 27,
+      "page number" : 4,
+      "bounding box" : [ 42.52, 756.336, 171.24, 774.64 ],
+      "heading level" : 3,
+      "font" : "DiverdaSansCom-Medium",
+      "font size" : 16.0,
+      "text color" : "[0.5389944314956665, 0.11400014907121658, 0.30699625611305237]",
+      "content" : "PersPectives"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 227,
+    "page number" : 4,
+    "bounding box" : [ 194.968, 685.386, 256.133, 730.45 ],
+    "font" : "DiverdaSansCom-Light4",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "CRISPR–Cas (I-E)CRISPR–Cas (I-F)"
+  }, {
+    "type" : "paragraph",
+    "id" : 230,
+    "page number" : 4,
+    "bounding box" : [ 261.368, 686.096, 290.545, 715.735 ],
+    "font" : "DiverdaSansCom-Light4",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Hachiman Ki"
+  }, {
+    "type" : "paragraph",
+    "id" : 229,
+    "page number" : 4,
+    "bounding box" : [ 233.735, 685.385, 265.927, 712.339 ],
+    "font" : "DiverdaSansCom-Light4",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "uantia Gabija"
+  }, {
+    "type" : "paragraph",
+    "id" : 233,
+    "page number" : 4,
+    "bounding box" : [ 297.029, 685.718, 381.649, 711.783 ],
+    "font" : "DiverdaSansCom-Light4",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "amassu SheduThoeris ZoryaCBASS"
+  }, {
+    "type" : "paragraph",
+    "id" : 226,
+    "page number" : 4,
+    "bounding box" : [ 178.727, 686.097, 203.996, 711.767 ],
+    "font" : "DiverdaSansCom-Light4",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "DISARM"
+  }, {
+    "type" : "paragraph",
+    "id" : 211,
+    "level" : "26",
+    "page number" : 4,
+    "bounding box" : [ 148.629, 686.097, 181.46, 710.261 ],
+    "font" : "DiverdaSansCom-Light4",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "-M (IV) BREX"
+  }, {
+    "type" : "list",
+    "id" : 213,
+    "level" : "27",
+    "page number" : 4,
+    "bounding box" : [ 42.749, 566.527, 120.591, 709.712 ],
+    "numbering style" : "english letters",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 42.749, 699.092, 47.474, 709.712 ],
+      "font" : "DiverdaSansCom-Black2",
+      "font size" : 9.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "a",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 42.749, 566.527, 120.591, 586.727 ],
+      "font" : "DiverdaSansCom-Black2",
+      "font size" : 9.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "b Pseudomonas aeruginosa",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 210,
+    "level" : "26",
+    "page number" : 4,
+    "bounding box" : [ 131.666, 686.097, 155.315, 709.649 ],
+    "font" : "DiverdaSansCom-Light4",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "-M (III) R"
+  }, {
+    "type" : "paragraph",
+    "id" : 209,
+    "level" : "27",
+    "page number" : 4,
+    "bounding box" : [ 115.097, 686.097, 138.352, 708.232 ],
+    "font" : "DiverdaSansCom-Light4",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "-M (II) R"
+  }, {
+    "type" : "paragraph",
+    "id" : 208,
+    "level" : "26",
+    "page number" : 4,
+    "bounding box" : [ 98.648, 686.097, 121.783, 706.815 ],
+    "font" : "DiverdaSansCom-Light4",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "-M (I) R"
+  }, {
+    "type" : "paragraph",
+    "id" : 231,
+    "page number" : 4,
+    "bounding box" : [ 283.004, 690.566, 295.486, 703.245 ],
+    "font" : "DiverdaSansCom-Light4",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "wa"
+  }, {
+    "type" : "paragraph",
+    "id" : 228,
+    "page number" : 4,
+    "bounding box" : [ 228.428, 686.096, 240.269, 698.125 ],
+    "font" : "DiverdaSansCom-Light4",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Dr"
+  }, {
+    "type" : "paragraph",
+    "id" : 212,
+    "page number" : 4,
+    "bounding box" : [ 43.856, 661.53, 92.896, 695.747 ],
+    "font" : "DiverdaSansCom-LightItalic2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Escherichia coli C4 C5 C8"
+  }, {
+    "type" : "paragraph",
+    "id" : 207,
+    "page number" : 4,
+    "bounding box" : [ 96.022, 686.097, 105.335, 695.558 ],
+    "font" : "DiverdaSansCom-Light4",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "R"
+  }, {
+    "type" : "paragraph",
+    "id" : 232,
+    "page number" : 4,
+    "bounding box" : [ 294.627, 686.096, 303.36, 694.968 ],
+    "font" : "DiverdaSansCom-Light4",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "L"
+  }, {
+    "type" : "paragraph",
+    "id" : 214,
+    "page number" : 4,
+    "bounding box" : [ 57.804, 653.566, 92.896, 662.302 ],
+    "font" : "DiverdaSansCom-Light4",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "FORC_031"
+  }, {
+    "type" : "list",
+    "id" : 216,
+    "level" : "28",
+    "page number" : 4,
+    "bounding box" : [ 75.518, 637.632, 92.896, 654.332 ],
+    "numbering style" : "english letters",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 75.518, 645.596, 92.896, 654.332 ],
+      "font" : "DiverdaSansCom-Light4",
+      "font size" : 7.8,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "G749",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 83.677, 637.632, 92.896, 646.368 ],
+      "font" : "DiverdaSansCom-Light4",
+      "font size" : 7.8,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "H7",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 215,
+    "page number" : 4,
+    "bounding box" : [ 41.648, 506.015, 50.384, 647.687 ],
+    "font" : "DiverdaSansCom-Light4",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "StrainsStrains"
+  }, {
+    "type" : "paragraph",
+    "id" : 217,
+    "page number" : 4,
+    "bounding box" : [ 74.457, 629.669, 92.896, 638.405 ],
+    "font" : "DiverdaSansCom-Light4",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "NGF1"
+  }, {
+    "type" : "paragraph",
+    "id" : 218,
+    "page number" : 4,
+    "bounding box" : [ 61.782, 605.777, 92.896, 630.441 ],
+    "font" : "DiverdaSansCom-Light4",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "0177:H21 S30 S43"
+  }, {
+    "type" : "paragraph",
+    "id" : 219,
+    "page number" : 4,
+    "bounding box" : [ 75.534, 589.85, 92.896, 606.549 ],
+    "font" : "DiverdaSansCom-Light4",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "SS52 VR50"
+  }, {
+    "type" : "paragraph",
+    "id" : 220,
+    "page number" : 4,
+    "bounding box" : [ 69.099, 539.04, 92.896, 563.704 ],
+    "font" : "DiverdaSansCom-Light4",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "B10W F23197 F30658"
+  }, {
+    "type" : "paragraph",
+    "id" : 221,
+    "page number" : 4,
+    "bounding box" : [ 67.702, 523.113, 92.896, 539.813 ],
+    "font" : "DiverdaSansCom-Light4",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "FRD1 H27930"
+  }, {
+    "type" : "paragraph",
+    "id" : 222,
+    "page number" : 4,
+    "bounding box" : [ 56.127, 507.185, 92.896, 523.885 ],
+    "font" : "DiverdaSansCom-Light4",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "H5708 IOMTU 133"
+  }, {
+    "type" : "paragraph",
+    "id" : 223,
+    "page number" : 4,
+    "bounding box" : [ 66.618, 499.221, 92.896, 507.957 ],
+    "font" : "DiverdaSansCom-Light4",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "M37351"
+  }, {
+    "type" : "paragraph",
+    "id" : 224,
+    "page number" : 4,
+    "bounding box" : [ 65.877, 483.294, 92.896, 499.994 ],
+    "font" : "DiverdaSansCom-Light4",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "S86968 W36662"
+  }, {
+    "type" : "paragraph",
+    "id" : 225,
+    "page number" : 4,
+    "bounding box" : [ 68.279, 475.304, 92.896, 484.04 ],
+    "font" : "DiverdaSansCom-Light4",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "X78812"
+  }, {
+    "type" : "list",
+    "id" : 236,
+    "level" : "5",
+    "page number" : 4,
+    "bounding box" : [ 42.516, 375.555, 379.079, 465.819 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 131,
+    "next list id" : 274,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 42.516, 375.555, 379.079, 465.819 ],
+      "font" : "DiverdaSansCom-Light",
+      "font size" : 8.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Fig. 2 | Closely related bacterial strains encode diverse defence systems. Each line represents a different strain of either Escherichia coli (part a) or Pseudomonas aeruginosa (part b). Each column corresponds to a different defence system (colour indicates the presence of a defence system). CRISPR–Cas systems were detected using CRISPRCasFinder78, restriction-modification (R-M) systems using HHsearch with HMM profiles fromreF.79, BREX (bacteriophage exclusion) by the presence of the pglZ gene, DISARM (defence islands system associated with R-M) as described inreF.21 and CBASS (cyclic oligonucleotide-based anti-phage signalling system) as inreF.34. Other defence systems were detected as described inreF.7. For R-M and CRISPR–Cas systems, the type or subtype is indicated in parentheses. R-M, restriction-modification.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 198,
+    "page number" : 4,
+    "bounding box" : [ 42.517, 190.431, 204.151, 356.855 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "One obvious answer is that some defence systems can protect only from a specific type of virus. For example, the GmrSD type IV R-M system only targets phages such as T4, whose genomes are modified to include glucosylated hydroxymethylcytosine35. Cas9, on the other hand, cannot cleave the DNA of phage T4 owing to its heavily modified cytosine residues36. The Thoeris defence system seems to protect only against phages from the Myoviridae family7. Therefore, for a microorganism to be protected against a wide variety of viruses, it should encode a broad defence arsenal that can overcome the multiple types of viruses that can infect it."
+  }, {
+    "type" : "paragraph",
+    "id" : 199,
+    "page number" : 4,
+    "bounding box" : [ 42.515, 47.437, 201.667, 191.839 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "There are benefits for a microorganism to encode multiple defence systems, even if these systems overlap in the range of viruses that they target. This is because phages can develop resistance to defence (reviewed in reFs12 14,17). First, phage genomes can evolve to eliminate specific sequences such as motifs targeted by restriction enzymes17 or PAM sequences that are essential for CRISPR–Cas defence37. Second, phages often encode anti-defence proteins12, including anti-CRISPR and anti-restriction proteins. These proteins are either injected"
+  }, {
+    "type" : "paragraph",
+    "id" : 200,
+    "page number" : 4,
+    "bounding box" : [ 216.377, 113.428, 378.3, 356.852 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "into the cell together with the viral DNA17 or expressed early upon infection, and inhibit the defence systems. Anti-CRISPRs are typically short proteins that bind the CRISPR–Cas complex and prevent it from working properly13,38. Recent discoveries report on anti-CRISPRs working as enzymes that can cleave the CRISPR RNA or add an acetyl group to a PAM-sensing residue in the Cas effector39,40. Similarly, anti-restriction proteins inhibit restriction enzymes: for example, the T4 IPI (internal protein I) inhibits type IV R-M systems41, whereas the DarA and DarB proteins of phage P1 bind the restriction sites on the phage genome and mask them from cleavage by the type I R-M system of E. coli42. Faced by viruses that encode counter-defence mechanisms, bacteria and archaea cannot rely on a single defence system and thus need to present several lines of defence as a bet-hedging strategy of survival."
+  }, {
+    "type" : "heading",
+    "id" : 201,
+    "level" : "Subtitle",
+    "page number" : 4,
+    "bounding box" : [ 216.378, 92.537, 350.262, 103.629 ],
+    "heading level" : 4,
+    "font" : "DiverdaSansCom-Black",
+    "font size" : 9.4,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Gain and loss of defence systems"
+  }, {
+    "type" : "paragraph",
+    "id" : 202,
+    "page number" : 4,
+    "bounding box" : [ 216.378, 47.434, 375.768, 92.855 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Owing to the selective advantage that defence systems provide, they are frequently gained by bacteria and archaea through horizontal gene transfer (HGT)8,9. Multiple"
+  }, {
+    "type" : "paragraph",
+    "id" : 203,
+    "page number" : 4,
+    "bounding box" : [ 390.229, 476.425, 550.334, 730.857 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "studies based on phylogenetic analyses and comparative genomics have confirmed the high rate of transfer of defence systems8,15,23,43,44. For example, only ∼4% of R-M systems are found in the core genomes of prokaryotic species, suggesting recent transfer events15. In another example, an analysis of phylogenetic trees of Cas proteins and CRISPR repeats showed weak consistency with the species tree, demonstrating the dominance of horizontal transfer for the spread of CRISPR–Cas loci23. Both CRISPR–Cas and R-M systems have been detected on mobile genetic elements, such as plasmids, transposons and phages, partially explaining their mode of HGT15,45 47. In addition, genomic analyses have shown that defence systems tend to be concentrated in ‘defence islands’ — regions of the host chromosome that are also enriched with mobile elements presumably responsible for the genetic mobilization of the islands48 (Box 1)."
+  }, {
+    "type" : "paragraph",
+    "id" : 204,
+    "page number" : 4,
+    "bounding box" : [ 390.232, 124.428, 552.331, 477.851 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Given their selective advantage in the arms race against viruses, one might expect that defence systems, once acquired (either through direct evolution or via HGT), would accumulate in prokaryotic genomes and be selected for. Surprisingly, this is not the case as defence systems are known to be frequently lost from microbial genomes over short evolutionary time scales, suggesting that they can impose selective disadvantages in the absence of infection pressure8,9. A major drawback of defence systems is autoimmunity: CRISPR–Cas, for example, can make mistakes in the process of spacer acquisition and acquire spacers from the chromosome instead of from the invading element49,50. This directs the CRISPR–Cas interference machinery to attack the chromosome, resulting in cell death49,51,52 or in survival through pseudogenization and eventual deletion of the CRISPR–Cas locus49,50,52. Similarly, R-M systems can also rarely target the chromosome, cleaving self-DNA at a low but measurable rate and inflicting a fitness cost53. Unwanted activity of Abi systems can also lead to dormancy or cell death54. In addition to autoimmunity, defence systems can impose an energy burden on the cell: some R-M systems require the hydrolysis of one ATP molecule per base pair for translocation of the restriction enzyme along the DNA9,55."
+  }, {
+    "type" : "paragraph",
+    "id" : 205,
+    "page number" : 4,
+    "bounding box" : [ 390.237, 47.422, 550.243, 125.851 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "As a result of these fitness costs, there is a selective pressure for bacteria to get rid of defence systems under conditions when there is no selection pressure exerted by phages. Indeed, competition studies between strains encoding defence systems, such as CRISPR–Cas or Lit Abi, and cognate"
+  }, {
+    "type" : "footer",
+    "id" : 237,
+    "page number" : 4,
+    "bounding box" : [ 42.52, 19.569, 552.76, 28.191 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 21,
+      "page number" : 4,
+      "bounding box" : [ 42.52, 19.569, 552.76, 28.191 ],
+      "heading level" : 5,
+      "font" : "DiverdaSansCom-Regular",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "116 | February 2020 | volume 18 www.nature.com/nrmicro"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 238,
+    "page number" : 5,
+    "bounding box" : [ 424.058, 756.336, 552.778, 774.64 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 28,
+      "page number" : 5,
+      "bounding box" : [ 424.058, 756.336, 552.778, 774.64 ],
+      "heading level" : 3,
+      "font" : "DiverdaSansCom-Medium",
+      "font size" : 16.0,
+      "text color" : "[0.5389944314956665, 0.11400014907121658, 0.30699625611305237]",
+      "content" : "PersPectives"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 240,
+    "page number" : 5,
+    "bounding box" : [ 42.518, 619.434, 199.378, 730.855 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "defence-lacking strains have demonstrated the existence of a fitness cost in the absence of phage infection54,56. An experimental study in Staphylococcus epidermidis showed that the loss of CRISPR–Cas systems by large deletions has little or no fitness cost57. Another study demonstrated that inactivation of CRISPR–Cas systems in Streptococcus pneumoniae is even advantageous under specific conditions58."
+  }, {
+    "type" : "paragraph",
+    "id" : 241,
+    "page number" : 5,
+    "bounding box" : [ 42.516, 487.431, 205.05, 620.852 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The frequent gain and loss of defence systems over short time scales leads to a highly variable pattern of presence and absence of systems in microbial genomes. Even in closely related strains with otherwise similar genomes, the composition of defence systems can drastically vary, as demonstrated in Fig. 2. Defence systems appear to be in a state of constant genetic flux, constituting the second most dynamic class of genes after mobile genetic elements in terms of rates of gain and loss in microbial genomes59,60."
+  }, {
+    "type" : "heading",
+    "id" : 242,
+    "level" : "Subtitle",
+    "page number" : 5,
+    "bounding box" : [ 42.52, 466.537, 183.998, 477.629 ],
+    "heading level" : 4,
+    "font" : "DiverdaSansCom-Black",
+    "font size" : 9.4,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Pan-immunity as a shared resource"
+  }, {
+    "type" : "paragraph",
+    "id" : 243,
+    "page number" : 5,
+    "bounding box" : [ 42.52, 377.421, 205.04, 466.855 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Given the fitness costs inflicted by antiviral systems, it is probable that no single bacterial or archaeal strain can encode, in the long term, all possible defence systems without suffering serious competitive disadvantages. On the other hand, the access to a diverse set of defence mechanisms is essential in order to combat the enormous genetic and functional"
+  }, {
+    "type" : "paragraph",
+    "id" : 244,
+    "page number" : 5,
+    "bounding box" : [ 216.381, 663.403, 375.898, 730.83 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "diversity of viruses. We propose that these seemingly contradictory requirements can be reconciled when considering the available arsenal of immune systems as a resource shared by a population of bacteria or archaea rather than by individual cells."
+  }, {
+    "type" : "paragraph",
+    "id" : 245,
+    "page number" : 5,
+    "bounding box" : [ 216.378, 432.437, 377.286, 664.855 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In the example shown in Fig. 2, none of the strains encode all defence systems. However, if these strains are mixed as part of a population, the pan-genome of this population would encode an ‘immune potential’ that encompasses all of the depicted systems. As these systems can be readily available by HGT, given the high rate of HGT of defence systems, the population in effect harbours an accessible reservoir of immune systems that can be acquired by population members. When the population is subjected to infection, this diversity ensures that at least some population members would encode the appropriate defence system, and these members would survive and form the basis for the perpetuation of the population (Fig. 3). We thus hypothesize that some of the selection for defence systems occurs at the group level."
+  }, {
+    "type" : "paragraph",
+    "id" : 246,
+    "page number" : 5,
+    "bounding box" : [ 216.382, 377.421, 378.907, 433.845 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In a sense, this pan-immune system model aligns well with previous observations and mathematical models of distributed immunity that specifically focused on CRISPR–Cas systems. Studies on CRISPR–Cas have shown"
+  }, {
+    "type" : "paragraph",
+    "id" : 247,
+    "page number" : 5,
+    "bounding box" : [ 390.234, 377.425, 551.833, 730.83 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "that spacer diversity in the population is essential to overcome phage infections61 63. In co-evolution experiments between Pseudomonas aeruginosa and Streptococcus thermophilus and their respective phages, bacterial populations in which different strains encoded different sets of spacers overcame phage infection and resulted in phage extinction, whereas populations comprising homogeneous sets of spacers allowed phage propagation63. Protection of spacer-diverse populations occurred because no single phage could accumulate enough mutations to overcome the diversity of spacers encoded by the population as a whole63. In the context of CRISPR–Cas, mathematical models that explored the parameters leading to the emergence of a distributed immunity predicted two key parameters61: the cost of generating a new allele (in this case, a new spacer) should be small; and fitness constraints of evolving escape mutations for phages is enhanced by the fact that an escape mutant will be resistant only to one allele (one spacer in the case of the CRISPR model)61. Beyond the specific case of CRISPR–Cas, the same conditions also fit the broader context of the microbial pan-immune system model, which can be viewed as satisfying the two parameters mentioned above: given the high rate of HGT of defence systems (which can be considered"
+  }, {
+    "type" : "paragraph",
+    "id" : 255,
+    "page number" : 5,
+    "bounding box" : [ 47.933, 346.445, 493.448, 357.093 ],
+    "font" : "DiverdaSansCom-Bold2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "a Maintenance of diversity b Gain and loss in the pan-immune system"
+  }, {
+    "type" : "paragraph",
+    "id" : 273,
+    "page number" : 5,
+    "bounding box" : [ 76.601, 334.278, 80.805, 343.333 ],
+    "font" : "DiverdaSansCom-Bold2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "3"
+  }, {
+    "type" : "text block",
+    "id" : 258,
+    "page number" : 5,
+    "bounding box" : [ 46.517, 313.465, 113.721, 332.402 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 5,
+      "bounding box" : [ 48.645, 314.784, 111.623, 331.523 ],
+      "font" : "DiverdaSansCom-Light5",
+      "font size" : 7.8,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Partial loss of costly defence systems"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 266,
+    "page number" : 5,
+    "bounding box" : [ 210.062, 308.831, 497.939, 318.514 ],
+    "font" : "DiverdaSansCom-Bold2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "1 1"
+  }, {
+    "type" : "table",
+    "id" : 254,
+    "level" : "18",
+    "page number" : 5,
+    "bounding box" : [ 448.081, 303.584, 451.004, 311.327 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "previous table id" : 253,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 448.206, 310.126, 449.555, 311.202 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 449.555, 310.126, 450.879, 311.202 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 448.206, 303.709, 450.879, 310.126 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 252,
+    "level" : "18",
+    "page number" : 5,
+    "bounding box" : [ 458.516, 302.309, 461.437, 310.052 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "previous table id" : 251,
+    "next table id" : 253,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 458.641, 308.851, 459.989, 309.927 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 459.989, 308.851, 461.312, 309.927 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 458.641, 302.434, 461.312, 308.851 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 261,
+    "page number" : 5,
+    "bounding box" : [ 470.017, 295.751, 525.615, 306.999 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 1,
+      "page number" : 5,
+      "bounding box" : [ 472.145, 297.391, 523.024, 306.127 ],
+      "font" : "DiverdaSansCom-Light5",
+      "font size" : 7.8,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Phage infection"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 263,
+    "page number" : 5,
+    "bounding box" : [ 185.579, 295.431, 241.177, 306.679 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 5,
+      "page number" : 5,
+      "bounding box" : [ 187.707, 296.929, 238.586, 305.665 ],
+      "font" : "DiverdaSansCom-Light5",
+      "font size" : 7.8,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Phage infection"
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 253,
+    "level" : "18",
+    "page number" : 5,
+    "bounding box" : [ 453.129, 297.068, 456.051, 304.812 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "previous table id" : 252,
+    "next table id" : 254,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 453.254, 303.611, 454.603, 304.687 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 454.603, 303.611, 455.926, 304.687 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 453.254, 297.193, 455.926, 303.611 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 256,
+    "page number" : 5,
+    "bounding box" : [ 258.075, 284.801, 326.474, 293.856 ],
+    "font" : "DiverdaSansCom-Bold2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Pan-immune system"
+  }, {
+    "type" : "table",
+    "id" : 251,
+    "level" : "18",
+    "page number" : 5,
+    "bounding box" : [ 197.077, 279.515, 199.998, 287.258 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "previous table id" : 250,
+    "next table id" : 252,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 197.202, 286.057, 198.55, 287.133 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 198.55, 286.057, 199.873, 287.133 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 197.202, 279.64, 199.873, 286.057 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 249,
+    "level" : "18",
+    "page number" : 5,
+    "bounding box" : [ 207.511, 278.24, 210.433, 285.984 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "next table id" : 250,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 207.636, 284.782, 208.985, 285.859 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 208.985, 284.782, 210.308, 285.859 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 207.636, 278.365, 210.308, 284.782 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 248,
+    "level" : "17",
+    "page number" : 5,
+    "bounding box" : [ 249.005, 231.703, 336.287, 282.389 ],
+    "number of rows" : 2,
+    "number of columns" : 3,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 249.505, 256.931, 264.686, 282.264 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 264.686, 231.828, 320.93, 282.264 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 2,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 320.93, 256.931, 335.787, 282.264 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 249.505, 231.828, 264.686, 256.931 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 320.93, 231.828, 335.787, 256.931 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 250,
+    "level" : "18",
+    "page number" : 5,
+    "bounding box" : [ 202.125, 272.999, 205.046, 280.742 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "previous table id" : 249,
+    "next table id" : 251,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 202.25, 279.541, 203.598, 280.617 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 203.598, 279.541, 204.921, 280.617 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 5,
+        "bounding box" : [ 202.25, 273.124, 204.921, 279.541 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 269,
+    "page number" : 5,
+    "bounding box" : [ 100.11, 215.166, 104.314, 224.222 ],
+    "font" : "DiverdaSansCom-Bold2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "2"
+  }, {
+    "type" : "paragraph",
+    "id" : 262,
+    "page number" : 5,
+    "bounding box" : [ 529.974, 215.452, 543.593, 224.188 ],
+    "font" : "DiverdaSansCom-Light5",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Lost"
+  }, {
+    "type" : "text block",
+    "id" : 259,
+    "page number" : 5,
+    "bounding box" : [ 61.567, 185.969, 145.473, 212.894 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 3,
+      "page number" : 5,
+      "bounding box" : [ 63.694, 187.28, 142.763, 212.022 ],
+      "font" : "DiverdaSansCom-Light5",
+      "font size" : 7.8,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Horizontal gene transfer (between members of the population)"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 264,
+    "page number" : 5,
+    "bounding box" : [ 155.037, 199.43, 235.117, 210.678 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 5,
+      "bounding box" : [ 157.166, 200.929, 232.888, 209.665 ],
+      "font" : "DiverdaSansCom-Light5",
+      "font size" : 7.8,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "The red system survives"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 271,
+    "page number" : 5,
+    "bounding box" : [ 485.343, 195.418, 489.547, 204.474 ],
+    "font" : "DiverdaSansCom-Bold2",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "2"
+  }, {
+    "type" : "text block",
+    "id" : 260,
+    "page number" : 5,
+    "bounding box" : [ 407.72, 163.454, 545.616, 191.181 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 4,
+      "page number" : 5,
+      "bounding box" : [ 411.463, 165.568, 544.585, 190.31 ],
+      "font" : "DiverdaSansCom-Light5",
+      "font size" : 7.8,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Inﬂux of new systems (migration of a new member, exaptation, horizontal gene transfer from other community members)"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 257,
+    "page number" : 5,
+    "bounding box" : [ 250.439, 161.74, 337.674, 178.479 ],
+    "font" : "DiverdaSansCom-Light5",
+    "font size" : 7.8,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Closely related strains with diﬀerent defence content"
+  }, {
+    "type" : "list",
+    "id" : 274,
+    "level" : "5",
+    "page number" : 5,
+    "bounding box" : [ 42.899, 49.254, 292.184, 149.588 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 236,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 42.899, 49.254, 292.184, 149.588 ],
+      "font" : "DiverdaSansCom-Light",
+      "font size" : 8.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Fig. 3 | The pan-immune system model. Closely related strains of microorganisms within a population encode a diverse set of antiviral systems constituting the pan-immune system defence.a| Maintenance of diversity of the pan-immune system. Bacteriophage (phage) infection results in bacterial selection for those encoding a specific defence system (red) that can overcome that phage (part a, stage 1). In the absence of phage pressure over a period of time, members of the population can acquire a diverse set of defence systems, through horizontal gene transfer (HGT) (part a, stage 2), whereas some cells lose defence systems owing to their selective cost (parta, stage 3). The cycle continues, resulting in a population defence",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 275,
+    "page number" : 5,
+    "bounding box" : [ 304.019, 49.39, 553.288, 148.874 ],
+    "font" : "DiverdaSansCom-Light",
+    "font size" : 8.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "that together constitutes the immune potential of the population. b| Dynamic changes to the pan-immune system composition. Phage infection results in selection for members encoding a specific defence system (yellow) that can overcome that phage (part b, stage 1). In some cases, this can result in the loss of immune system defence (green). Conversely, new systems can be introduced into the population through HGT from a more distantly related strain, migration of a new member in the population or emergence of a new system through mutation or exaptation (part b, stage 2). Red, green, yellow and blue genes represent different types of defence systems."
+  }, {
+    "type" : "footer",
+    "id" : 276,
+    "page number" : 5,
+    "bounding box" : [ 42.52, 19.569, 552.52, 28.338 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 22,
+      "page number" : 5,
+      "bounding box" : [ 42.52, 19.569, 552.52, 28.338 ],
+      "heading level" : 5,
+      "font" : "DiverdaSansCom-Regular",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "NaTure revIewS | MiCrobiology volume 18 | February 2020 | 117"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 277,
+    "page number" : 6,
+    "bounding box" : [ 42.52, 756.336, 171.24, 774.64 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 29,
+      "page number" : 6,
+      "bounding box" : [ 42.52, 756.336, 171.24, 774.64 ],
+      "heading level" : 3,
+      "font" : "DiverdaSansCom-Medium",
+      "font size" : 16.0,
+      "text color" : "[0.5389944314956665, 0.11400014907121658, 0.30699625611305237]",
+      "content" : "PersPectives"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 279,
+    "page number" : 6,
+    "bounding box" : [ 42.52, 586.406, 203.886, 730.855 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "the acquisition of alleles of defence), the cost of acquiring a new allele via HGT is expected to be relatively small; and due to the diversity of molecular mechanisms among different defence systems, the emergence of one phage mutation that allows escape from a specific defence system is not expected to abolish defence by other systems. As group selection occurs within closely related kin, we expect the pan-immune system model to be mainly relevant among populations of similar, related strains that differ in their defence content, thus allowing for selection at the group level."
+  }, {
+    "type" : "heading",
+    "id" : 280,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 42.52, 565.538, 176.573, 576.63 ],
+    "heading level" : 4,
+    "font" : "DiverdaSansCom-Black",
+    "font size" : 9.4,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Implications for counter-defence"
+  }, {
+    "type" : "paragraph",
+    "id" : 281,
+    "page number" : 6,
+    "bounding box" : [ 42.516, 399.418, 202.991, 565.855 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "It is well documented that individual phages have well-defined host ranges, such that they can infect some, but rarely all, strains of the same species64. This is often attributed to the diversity of surface molecules among the infected microbial strains, as these are used by phages as specific receptors65. However, given the diversity of defence systems observed in different strains of the same species, it is clear that the host range of any given phage would depend on its ability to overcome multiple defence systems. This predicts that phages need to encode many different counter-defence mechanisms in order to have a broad host range."
+  }, {
+    "type" : "paragraph",
+    "id" : 282,
+    "page number" : 6,
+    "bounding box" : [ 42.521, 201.415, 202.401, 400.826 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This prediction may help reconcile the puzzle of dispensable genes in phage genomes. As phage genomes are under strong selection, one might expect that most of their genes are essential. However, serial mutational analyses showed that as much as 79% of genes in phage T4 and 63% of genes in phage T7 are not essential for successful infection of the E. coli laboratory strain66,67. We predict that many of these genes will turn out to encode anti-defence proteins that target defence systems not present in the E. coli strain used in these studies. We would therefore expect that the set of anti-defence genes cumulatively encoded by strains of a phage species should mirror the set of defence systems encoded by its host pan-genome."
+  }, {
+    "type" : "heading",
+    "id" : 283,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 42.52, 180.538, 142.771, 191.63 ],
+    "heading level" : 4,
+    "font" : "DiverdaSansCom-Black",
+    "font size" : 9.4,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Conclusions and outlook"
+  }, {
+    "type" : "paragraph",
+    "id" : 284,
+    "page number" : 6,
+    "bounding box" : [ 42.52, 47.437, 202.452, 180.855 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Apart from exploring the existence of numerous anti-defence genes in viruses, the pan-immune system model raises several interesting research avenues. Are there limitations to the co-occurrence of defence systems within a single genome? Both positive and negative epistasis (dependency and incompatibility) has been demonstrated to occur between DNA repair pathways and CRISPR–Cas systems68,69, underlying the potential requirements of a specific genetic background to allow compatibility of a"
+  }, {
+    "type" : "paragraph",
+    "id" : 285,
+    "page number" : 6,
+    "bounding box" : [ 216.352, 630.418, 372.051, 730.855 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "CRISPR–Cas subtype in a given species70. Beyond CRISPR–Cas defence, it would be interesting to understand the influence of the core genome of a species on the composition of its pan-immune system. Similarly, is this composition influenced by environmental conditions, past infections, or other events in the life history of the microorganism?"
+  }, {
+    "type" : "paragraph",
+    "id" : 286,
+    "page number" : 6,
+    "bounding box" : [ 216.352, 388.428, 378.902, 631.826 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "If the immune potential of a species encompasses many diverse defence systems, does epistasis exist between these systems? It has been shown that CRISPR–Cas and R-M systems can work synergistically71,72. Is this true for other defence systems? Within CRISPR–Cas systems, other forms of epistasis have been observed. One example of such epistasis is functional redundancy through using the same spacers with different interference modules to limit emergence of phage escape mutants73. Another example is the coupling of ‘nucleic acid targeting’ strategies and ‘dormancy or death’ in type III CRISPR–Cas systems, in which a non-specific nuclease is activated upon failure to fully restrict phage DNA5,6,74. Given the newly revealed diversity of defence systems, the study of interactions between defence systems promises to unravel a novel understanding of the complexity of prokaryotic immune defence."
+  }, {
+    "type" : "paragraph",
+    "id" : 287,
+    "page number" : 6,
+    "bounding box" : [ 216.353, 201.418, 378.891, 389.835 ],
+    "font" : "MinionPro-Regular",
+    "font size" : 9.2,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Beyond addressing fundamental questions in microbiology, understanding the pan-immune system could have implications in the treatment of bacterial infections by phages. Given the rise of antibiotic resistance, phage therapy (the use of phages to kill pathogenic bacteria) has re-emerged as a promising therapeutic possibility75,76. The main strategy consists of using a cocktail of phages to limit the emergence of bacterial resistance to phages. Such cocktails of phages should be studied in light of the pan-immune system of target species to ensure that the chosen phages will be equipped to overcome the set of defence systems potentially encoded by the population."
+  }, {
+    "type" : "paragraph",
+    "id" : 288,
+    "page number" : 6,
+    "bounding box" : [ 216.354, 167.539, 377.421, 196.223 ],
+    "font" : "ITCSymbolStd-MediumItalic",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Aude Bernheim 1 and Rotem Sorek 1* Department of Molecular Genetics, Weizmann Institute of Science, Rehovot, Israel."
+  }, {
+    "type" : "paragraph",
+    "id" : 291,
+    "level" : "12",
+    "page number" : 6,
+    "bounding box" : [ 216.357, 143.84, 346.552, 163.548 ],
+    "font" : "ITCSymbolStd-Book",
+    "font size" : 6.5,
+    "text color" : "[0.22999924421310425, 0.4130006730556488, 0.6189974546432495]",
+    "content" : "*e-mail: rotem.sorek@weizmann.ac.il https://doi.org/10.1038/s41579-019-0278-2"
+  }, {
+    "type" : "paragraph",
+    "id" : 292,
+    "page number" : 6,
+    "bounding box" : [ 216.354, 130.654, 341.553, 142.48 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Published online 6 November 2019"
+  }, {
+    "type" : "paragraph",
+    "id" : 293,
+    "level" : "13",
+    "page number" : 6,
+    "bounding box" : [ 220.104, 93.923, 377.382, 123.509 ],
+    "font" : "ITCSymbolStd-Medium",
+    "font size" : 6.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : ". Roux, S., Hallam, S. J., Woyke, T. & Sullivan, M. B. Viral dark matter and virus–host interactions resolved from publicly available microbial genomes. eLife 4, e08490 (2015)."
+  }, {
+    "type" : "list",
+    "id" : 294,
+    "level" : "14",
+    "page number" : 6,
+    "bounding box" : [ 216.354, 56.933, 378.576, 93.917 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 216.354, 71.729, 378.576, 93.917 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "2. Touchon, M., Bernheim, A. & Rocha, E. P. Genetic and life-history traits associated with the distribution of prophages in bacteria. ISME J. 10, 2744–2754 (2016).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 216.36, 56.933, 378.438, 71.723 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "3. Koonin, E. V., Senkevich, T. G. & Dolja, V. V. The ancient virus world and evolution of cells. Biol. Direct 1, 29",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 295,
+    "level" : "15",
+    "page number" : 6,
+    "bounding box" : [ 231.102, 49.535, 251.658, 56.927 ],
+    "font" : "ITCSymbolStd-Medium",
+    "font size" : 6.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "(2006)."
+  }, {
+    "type" : "list",
+    "id" : 296,
+    "level" : "14",
+    "page number" : 6,
+    "bounding box" : [ 390.246, 49.343, 552.629, 729.953 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 30,
+    "next list id" : 300,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.246, 715.163, 548.222, 729.953 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "4. Kronheim, S. et al. A chemical defence against phage infection. Nature 564, 283–286 (2018).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.246, 692.969, 552.006, 715.157 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "5. Niewoehner, O. et al. Type III CRISPR–Cas systems generate cyclic oligoadenylate second messengers to activate Csm6 RNases. Nature 548, 543–548 (2017).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.246, 663.377, 541.128, 692.963 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "6. Kazlauskiene, M., Kostiuk, G., Venclovas, C., Tamulaitis, G. & Siksnys, V. A cyclic oligonucleotide signaling pathway in type III CRISPR–Cas systems. Science 357, 605–609 (2017).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.246, 641.183, 549.816, 663.371 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "7. Doron, S. et al. Systematic discovery of antiphage defense systems in the microbial pangenome. Science 359, eaar4120 (2018).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.246, 618.989, 548.154, 641.177 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "8. Koonin, E. V., Makarova, K. S. & Wolf, Y. I. Evolutionary genomics of defense systems in archaea and bacteria. Annu. Rev. Microbiol. 71, 233–261",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 40,
+        "level" : "15",
+        "page number" : 6,
+        "bounding box" : [ 404.988, 611.591, 425.352, 618.983 ],
+        "font" : "ITCSymbolStd-Medium",
+        "font size" : 6.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "(2017)."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.246, 589.397, 551.484, 611.585 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "9. van Houte, S., Buckling, A. & Westra, E. R. Evolutionary ecology of prokaryotic immune mechanisms. Microbiol. Mol. Biol. Rev. 80, 745–763 (2016).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.246, 567.203, 546.996, 589.391 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "10. Rostøl, J. T. & Marraffini, L. (Ph)ighting phages: how bacteria resist their parasites. Cell Host Microbe 25, 184–194 (2019).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.246, 545.009, 551.521, 567.197 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "11. Dy, R. L., Richter, C., Salmond, G. P. C. & Fineran, P. C. Remarkable mechanisms in microbes to resist phage infections. Annu. Rev. Virol. 1, 307–331 (2014).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.246, 522.815, 552.629, 545.003 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "12. Labrie, S. J., Samson, J. E. & Moineau, S. Bacteriophage resistance mechanisms. Nat. Rev. Microbiol. 8, 317–327 (2010).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.246, 500.621, 546.581, 522.809 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "13. Borges, A. L., Davidson, A. R. & Bondy-denomy, J. The discovery, mechanisms, and evolutionary impact of anti-CRISPRs. Annu. Rev. Virol. 4, 37–59 (2017).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.252, 478.427, 552.228, 500.615 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "14. Samson, J. E., Magadán, A. H., Sabri, M. & Moineau, S. Revenge of the phages: defeating bacterial defences. Nat. Rev. Microbiol. 11, 675–687 (2013).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.252, 448.835, 546.895, 478.421 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "15. Oliveira, P. H., Touchon, M. & Rocha, E. P. C. The interplay of restriction-modification systems with mobile genetic elements and their prokaryotic hosts. Nucleic Acids Res. 42, 10618–10631 (2014).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.252, 434.039, 544.778, 448.829 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "16. Hille, F. et al. The biology of CRISPR–Cas: backward and forward. Cell 172, 1239–1259 (2018).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.252, 411.845, 552.619, 434.033 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "17. Tock, M. R. & Dryden, D. T. F. The biology of restriction and anti-restriction. Curr. Opin. Microbiol. 8, 466–472 (2005).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.252, 397.049, 550.85, 411.839 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "18. Wang, L. et al. Phosphorothioation of DNA in bacteria by dnd genes. Nat. Chem. Biol. 3, 709–710 (2007).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.252, 374.855, 539.612, 397.043 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "19. Thiaville, J. J. et al. Novel genomic island modifies DNA with 7-deazaguanine derivatives. Proc. Natl Acad. Sci. USA 113, E1452–E1459 (2016).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.252, 352.661, 542.94, 374.849 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "20. Goldfarb, T. et al. BREX is a novel phage resistance system widespread in microbial genomes. EMBO J. 34, 169–183 (2015).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.252, 330.467, 534.654, 352.655 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "21. Ofir, G. et al. DISARM is a widespread bacterial defence system with broad anti-phage activities. Nat. Microbiol. 3, 90–98 (2018).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.258, 308.273, 547.404, 330.461 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "22. Amitai, G. & Sorek, R. CRISPR–Cas adaptation: new insights into the mechanism of action. Nat. Rev. Microbiol. 14, 67–76 (2016).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.258, 286.079, 533.256, 308.267 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "23. Makarova, K. S. et al. An updated evolutionary classification of CRISPR–Cas systems. Nat. Rev. Microbiol. 13, 722–736 (2015).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.258, 263.885, 541.572, 286.073 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "24. Makarova, K. S., Wolf, Y. I. & Koonin, E. V. Classification and nomenclature of CRISPR–Cas systems: where from here? CRISPR J. 1, 325–336",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 41,
+        "level" : "15",
+        "page number" : 6,
+        "bounding box" : [ 405.0, 256.487, 425.364, 263.879 ],
+        "font" : "ITCSymbolStd-Medium",
+        "font size" : 6.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "(2018)."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.258, 234.293, 539.417, 256.481 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "25. Malina, A. et al. PAM multiplicity marks genomic target sites as inhibitory to CRISPR–Cas9 editing. Nat. Commun. 6, 10124 (2015).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.264, 212.099, 550.71, 234.287 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "26. Hegge, J. W., Swarts, D. C. & Van Der Oost, J. Prokaryotic argonaute proteins: novel genome-editing tools? Nat. Rev. Microbiol. 16, 5–11 (2018).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.264, 197.303, 543.294, 212.093 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "27. Swarts, D. C. et al. DNA-guided DNA interference by a prokaryotic argonaute. Nature 507, 258–261",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 42,
+        "level" : "15",
+        "page number" : 6,
+        "bounding box" : [ 405.006, 189.905, 425.37, 197.297 ],
+        "font" : "ITCSymbolStd-Medium",
+        "font size" : 6.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "(2014)."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.264, 160.313, 549.462, 189.899 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "28. Bingham, R., Ekunwe, S. I. N., Falk, S., Snyder, L. & Kleanthous, C. The major head protein of bacteriophage T4 binds specifically to elongation factor Tu. J. Biol. Chem. 275, 23219–23226 (2000).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.27, 145.517, 546.438, 160.307 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "29. Kaufmann, G. Anticodon nucleases. Trends Biochem. Sci. 25, 70–74 (2000).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.27, 115.925, 547.032, 145.511 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "30. Durmaz, E. & Klaenhammer, T. R. Abortive phage resistance mechanism AbiZ speeds the lysis clock to cause premature lysis of phage-infected Lactococcus lactis. J. Bacteriol. 189, 1417–1425 (2007).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.27, 93.731, 550.05, 115.919 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "31. Chopin, M. C., Chopin, A. & Bidnenko, E. Phage abortive infection in lactococci: variations on a theme. Curr. Opin. Microbiol. 8, 473–479 (2005).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.27, 71.537, 548.372, 93.725 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "32. Depardieu, F. et al. A eukaryotic-like serine/threonine kinase protects staphylococci against phages. Cell Host Microbe 20, 471–481 (2016).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 390.276, 49.343, 551.418, 71.531 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "33. Harms, A., Brodersen, D. E., Mitarai, N. & Gerdes, K. Toxins, targets, and triggers: an overview of toxin-antitoxin biology. Mol. Cell 70, 768–784 (2018).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 297,
+    "page number" : 6,
+    "bounding box" : [ 42.52, 19.569, 552.76, 28.191 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 23,
+      "page number" : 6,
+      "bounding box" : [ 42.52, 19.569, 552.76, 28.191 ],
+      "heading level" : 5,
+      "font" : "DiverdaSansCom-Regular",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "118 | February 2020 | volume 18 www.nature.com/nrmicro"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 298,
+    "page number" : 7,
+    "bounding box" : [ 424.058, 756.336, 552.778, 774.64 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 30,
+      "page number" : 7,
+      "bounding box" : [ 424.058, 756.336, 552.778, 774.64 ],
+      "heading level" : 3,
+      "font" : "DiverdaSansCom-Medium",
+      "font size" : 16.0,
+      "text color" : "[0.5389944314956665, 0.11400014907121658, 0.30699625611305237]",
+      "content" : "PersPectives"
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 300,
+    "level" : "14",
+    "page number" : 7,
+    "bounding box" : [ 42.514, 249.106, 205.03, 729.97 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 18,
+    "previous list id" : 296,
+    "next list id" : 301,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 42.52, 707.782, 199.698, 729.97 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "34. Cohen, D. et al. Cyclic GMP–AMP signalling protects bacteria against viral infection. Nature https://doi. org/10.1038/s41586-019-1605-5 (2019).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 42.52, 678.19, 200.368, 707.776 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "35. Bair, C. L. & Black, L. W. A type IV modification dependent restriction nuclease that targets glucosylated hydroxymethyl cytosine modified DNAs. J. Mol. Biol. 366, 768–778 (2007).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 42.52, 663.394, 204.792, 678.184 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "36. Bryson, A. et al. Covalent modification of bacteriophage T4 DNA inhibits CRISPR–Cas9. mBio 6, e00648",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 36,
+        "level" : "15",
+        "page number" : 7,
+        "bounding box" : [ 57.262, 655.996, 77.266, 663.388 ],
+        "font" : "ITCSymbolStd-Medium",
+        "font size" : 6.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "(2015)."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 42.52, 633.802, 204.154, 655.99 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "37. Deveau, H. et al. Phage response to CRISPR-encoded resistance in Streptococcus thermophilus. J. Bacteriol. 190, 1390–1400 (2008).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 42.514, 611.608, 190.126, 633.796 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "38. Pawluk, A., Davidson, A. R. & Maxwell, K. L. Anti-CRISPR: discovery, mechanism and function. Nat. Rev. Microbiol. 16, 12–17 (2017).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 42.514, 596.812, 205.03, 611.602 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "39. Knott, G. J. et al. Broad-spectrum enzymatic inhibition of CRISPR-Cas12a. Nat. Struct. Mol. Biol. 26, 315–321",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 37,
+        "level" : "15",
+        "page number" : 7,
+        "bounding box" : [ 57.256, 589.414, 77.152, 596.806 ],
+        "font" : "ITCSymbolStd-Medium",
+        "font size" : 6.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "(2019)."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 42.514, 567.22, 202.356, 589.408 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "40. Dong, L. et al. An anti-CRISPR protein disables type V Cas12a by acetylation. Nat. Struct. Mol. Biol. 26, 308–314 (2019).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 42.514, 537.628, 193.594, 567.214 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "41. Bair, C. L., Rifat, D. & Black, L. W. Exclusion of glucosyl-hydroxymethylcytosine DNA containing bacteriophages is overcome by the injected protein inhibitor IPI*. J. Mol. Biol. 366, 779–789",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 38,
+        "level" : "15",
+        "page number" : 7,
+        "bounding box" : [ 57.256, 530.23, 77.62, 537.622 ],
+        "font" : "ITCSymbolStd-Medium",
+        "font size" : 6.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "(2007)."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 42.514, 500.638, 203.38, 530.224 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "42. Iida, S., Streiff, M. B., Bickle, T. A. & Arber, W. Two DNA antirestriction systems of bacteriophage P1, darA, and darB: characterization of darA-phages. Virology 157, 156–166 (1987).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 42.514, 471.046, 200.002, 500.632 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "43. Godde, J. S. & Bickerton, A. The repetitive DNA elements called CRISPRs and their associated genes: evidence of horizontal transfer among prokaryotes. J. Mol. Evol. 62, 718–729 (2006).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 42.514, 448.852, 201.01, 471.04 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "44. Makarova, K. S., Wolf, Y. I. & Koonin, E. V. Comparative genomics of defense systems in archaea and bacteria. Nucleic Acids Res. 41, 4360–4377",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 39,
+        "level" : "15",
+        "page number" : 7,
+        "bounding box" : [ 57.256, 441.454, 77.62, 448.846 ],
+        "font" : "ITCSymbolStd-Medium",
+        "font size" : 6.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "(2013)."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 42.514, 411.862, 201.862, 441.448 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "45. Peters, J. E., Makarova, K. S., Shmakov, S. & Koonin, E. V. Recruitment of CRISPR–Cas systems by Tn7-like transposons. Proc. Natl Acad. Sci. USA. 114, E7358–E7366 (2017).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 42.514, 382.27, 202.875, 411.856 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "46. Seed, K. D., Lazinski, D. W., Calderwood, S. B. & Camilli, A. A bacteriophage encodes its own CRISPR/ Cas adaptive response to evade host innate immunity. Nature 494, 489–491 (2013).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 42.514, 360.076, 190.168, 382.264 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "47. Faure, G. et al. CRISPR–Cas in mobile genetic elements: counter-defence and beyond. Nat. Rev. Microbiol. 17, 513–525 (2019).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 42.514, 330.484, 200.362, 360.07 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "48. Makarova, K. S., Wolf, Y. I., Snir, S. & Koonin, E. V. Defense islands in bacterial and archaeal genomes and prediction of novel defense systems. J. Bacteriol. 193, 6039–6056 (2011).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 42.514, 308.29, 204.604, 330.478 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "49. Stern, A., Keren, L., Wurtzel, O., Amitai, G. & Sorek, R. Self-targeting by CRISPR: gene regulation or autoimmunity? Trends Genet. 26, 335–340 (2010).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 42.514, 278.698, 204.226, 308.284 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "50. Heussler, G. E. & O’Toole, G. A. Friendly fire: biological functions and consequences of chromosomal-targeting by CRISPR–Cas systems. J. Bacteriol. 198, 1481–1486 (2016).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 42.514, 249.106, 201.214, 278.692 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "51. Vercoe, R. B. et al. Cytotoxic chromosomal targeting by CRISPR/Cas systems can reshape bacterial genomes and expel or remodel pathogenicity islands. PLOS Genet. 9, e1003454 (2013).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 301,
+    "level" : "14",
+    "page number" : 7,
+    "bounding box" : [ 216.376, 248.98, 378.808, 729.844 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 19,
+    "previous list id" : 300,
+    "next list id" : 303,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 216.376, 707.656, 376.69, 729.844 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "52. Cui, L. & Bikard, D. Consequences of Cas9 cleavage in the chromosome of Escherichia coli. Nucleic Acids Res. 44, 4243–4251 (2016).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 216.376, 685.462, 363.42, 707.65 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "53. Pleška, M. et al. Bacterial autoimmunity due to a restriction-modification system. Curr. Biol. 26, 404–409 (2016).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 216.376, 655.87, 372.676, 685.456 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "54. Berngruber, T. W., Lion, S. & Gandon, S. Evolution of suicide as a defence strategy against pathogens in a spatially structured environment. Ecol. Lett. 16, 446–453 (2013).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 216.376, 626.278, 378.376, 655.864 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "55. Seidel, R., Bloom, J. G. P., Dekker, C. & Szczelkun, M. D. Motor step size and ATP coupling efficiency of the dsDNA translocase EcoR124I. EMBO J. 27, 1388–1398 (2008).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 216.376, 604.084, 373.288, 626.272 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "56. Vale, P. F. et al. Costs of CRISPR–Cas-mediated resistance in Streptococcus thermophilus. Proc. Biol. Sci. 282, 20151270 (2015).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 216.376, 581.89, 358.696, 604.078 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "57. Jiang, W. et al. Dealing with the evolutionary downside of CRISPR immunity: bacteria and beneficial plasmids. PLOS Genet. 9, e1003844",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 34,
+        "level" : "15",
+        "page number" : 7,
+        "bounding box" : [ 231.118, 574.492, 251.482, 581.884 ],
+        "font" : "ITCSymbolStd-Medium",
+        "font size" : 6.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "(2013)."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 216.376, 537.502, 369.366, 574.486 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "58. Bikard, D., Hatoum-Aslan, A., Mucida, D. & Marraffini, L. A. CRISPR interference can prevent natural transformation and virulence acquisition during in vivo bacterial infection. Cell Host Microbe 12, 177–186 (2012).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 216.376, 507.91, 363.028, 537.496 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "59. Puigbò, P., Lobkovsky, A. E., Kristensen, D. M., Wolf, Y. I. & Koonin, E. V. Genomes in turmoil: quantification of genome dynamics in prokaryote supergenomes. BMC Biol. 12, 66 (2014).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 216.376, 485.716, 377.841, 507.904 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "60. Puigbò, P., Makarova, K. S., Kristensen, D. M., Wolf, Y. I. & Koonin, E. V. Reconstruction of the evolution of microbial defense systems. BMC Evol. Biol. 17, 94",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 35,
+        "level" : "15",
+        "page number" : 7,
+        "bounding box" : [ 231.118, 478.318, 250.906, 485.71 ],
+        "font" : "ITCSymbolStd-Medium",
+        "font size" : 6.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "(2017)."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 216.376, 448.726, 376.528, 478.312 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "61. Childs, L. M., England, W. E., Young, M. J., Weitz, J. S. & Whitaker, R. J. CRISPR-induced distributed immunity in microbial populations. PLOS ONE 9, e101710 (2014).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 216.376, 419.134, 378.514, 448.72 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "62. Levin, B. R., Moineau, S., Bushman, M. & Barrangou, R. The population and evolutionary dynamics of phage and bacteria with CRISPR-mediated immunity. PLOS Genet. 9, e1003312 (2013).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 216.382, 396.94, 372.342, 419.128 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "63. Houte, S. van et al. The diversity-generating benefits of a prokaryotic adaptive immune system. Nature 532, 385–388 (2016).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 216.382, 374.746, 373.528, 396.934 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "64. Hyman, P. & Abedon, S. T. Bacteriophage host range and bacterial resistance. Adv. Appl. Microbiol. 70, 217–248 (2010).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 216.382, 345.154, 376.78, 374.74 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "65. de Jonge, P. A., Nobrega, F. L., Brouns, S. J. J. & Dutilh, B. E. Molecular and evolutionary determinants of bacteriophage host range. Trends Microbiol. 27, 51–63 (2019).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 216.382, 330.358, 357.688, 345.148 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "66. Miller, E. S. et al. Bacteriophage T4 genome. Microbiol. Mol. Biol. Rev. 67, 86–156 (2003).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 216.382, 315.562, 368.5, 330.352 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "67. Molineux, I. in The Bacteriophages Vol. 2 Ch. 20 (ed. Calender, R.) (Oxford University Press, 2005).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 216.382, 293.368, 363.886, 315.556 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "68. Levy, A. et al. CRISPR adaptation biases explain preference for acquisition of foreign DNA. Nature 520, 505–510 (2015).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 216.382, 271.174, 362.608, 293.362 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "69. Bernheim, A. et al. Inhibition of NHEJ repair by type II-A CRISPR–Cas systems. Nat. Commun. 8, 170647 (2017).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 216.382, 248.98, 378.808, 271.168 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "70. Bernheim, A., Bikard, D., Touchon, M. & Rocha, E. P. C. A matter of background: DNA repair pathways as a possible cause for the sparse distribution of CRISPR–Cas",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 303,
+    "level" : "14",
+    "page number" : 7,
+    "bounding box" : [ 390.233, 485.874, 552.196, 729.718 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 10,
+    "previous list id" : 301,
+    "list items" : [ {
+      "type" : "list item",
+      "id" : 302,
+      "page number" : 7,
+      "bounding box" : [ 404.98, 714.928, 540.172, 729.718 ],
+      "font" : "ITCSymbolStd-Medium",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "systems in bacteria. Philos. Trans. R. Soc. B Biol. Sci. 374, 20180088 (2019).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 390.238, 685.336, 552.196, 714.922 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "71. Dupuis, M.-È., Villion, M., Magadán, A. H. & Moineau, S. CRISPR–Cas and restriction-modification systems are compatible and increase phage resistance. Nat. Commun. 4, 2087 (2013).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 390.244, 663.142, 546.214, 685.33 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "72. Hynes, A. P., Villion, M. & Moineau, S. Adaptation in bacterial CRISPR–Cas immunity can be driven by defective phages. Nat. Commun. 5, 4399 (2014).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 390.244, 640.948, 543.952, 663.136 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "73. Silas, S. et al. Type III CRISPR–Cas systems can provide redundancy to counteract viral escape from type I systems. eLife 6, e27601 (2017).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 390.244, 626.152, 530.692, 640.942 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "74. Amitai, G. & Sorek, R. Intracellular signaling in CRISPR–Cas defense. Science 357, 550–551",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 31,
+        "level" : "15",
+        "page number" : 7,
+        "bounding box" : [ 404.986, 618.754, 425.35, 626.146 ],
+        "font" : "ITCSymbolStd-Medium",
+        "font size" : 6.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "(2017)."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 390.244, 603.958, 552.101, 618.748 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "75. Rehman, S., Ali, Z., Khan, M., Bostan, N. & Naseem, S. The dawn of phage therapy. Rev. Med. Virol. 29, e2041",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 32,
+        "level" : "15",
+        "page number" : 7,
+        "bounding box" : [ 404.975, 596.844, 424.979, 604.236 ],
+        "font" : "ITCSymbolStd-Medium",
+        "font size" : 6.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "(2019)."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 390.233, 574.65, 540.251, 596.838 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "76. Abedon, S. T., García, P., Mullany, P. & Aminov, R. Editorial: phage therapy: past, present and future. Front. Microbiol. 8, 981 (2017).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 390.239, 552.456, 548.08, 574.644 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "77. Oliveira, P. H., Touchon, M., Cury, J. & Rocha, E. P. C. The chromosomal organization of horizontal gene transfer in bacteria. Nat. Commun. 8, 841",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 33,
+        "level" : "15",
+        "page number" : 7,
+        "bounding box" : [ 404.981, 545.058, 425.345, 552.45 ],
+        "font" : "ITCSymbolStd-Medium",
+        "font size" : 6.0,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "(2017)."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 390.239, 515.466, 545.255, 545.052 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "78. Couvin, D. et al. CRISPRCasFinder, an update of CRISRFinder, includes a portable version, enhanced performance and integrates search for Cas proteins. Nucleic Acids Res. 46, W246–W251 (2018).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 390.239, 485.874, 549.563, 515.46 ],
+      "font" : "ITCSymbolStd-Book",
+      "font size" : 6.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "79. Oliveira, P. H., Touchon, M. & Rocha, E. P. C. Regulation of genetic flux between bacteria by restriction modification systems. Proc. Natl Acad. Sci. USA. 113, 5658–5663 (2016).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 304,
+    "level" : "Subtitle",
+    "page number" : 7,
+    "bounding box" : [ 390.236, 471.141, 449.939, 479.11 ],
+    "heading level" : 6,
+    "font" : "ITCSymbolStd-Bold",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Acknowledgements"
+  }, {
+    "type" : "paragraph",
+    "id" : 305,
+    "page number" : 7,
+    "bounding box" : [ 390.236, 374.943, 552.845, 471.111 ],
+    "font" : "ITCSymbolStd-Medium",
+    "font size" : 6.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The authors thank S. Doron and A. Millman for their help in the analysis presented in Box 1 and Figure 2, M. Voichek and N. Tal for their helpful comments on the figures in this study, and J. Cury and the Sorek laboratory members for comments on earlier versions of this manuscript. A.B. is the recipient of a European Molecular Biology Organization (EMBO) Long Term Fellowship (EMBO ALTF 186-2018). R.S. was supported, in part, by the Israel Science Foundation (personal grant 1360/16), the European Research Council (grant ERC-CoG 681203), the German Research Council (DFG) priority programme SPP 2002 (grant SO 1611/1-1), the Ernest and Bonnie Beutler Research Program of Excellence in Genomic Medicine and the Knell Family Center for Microbiology."
+  }, {
+    "type" : "heading",
+    "id" : 306,
+    "level" : "Subtitle",
+    "page number" : 7,
+    "bounding box" : [ 390.236, 360.201, 455.018, 368.17 ],
+    "heading level" : 6,
+    "font" : "ITCSymbolStd-Bold",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Author contributions"
+  }, {
+    "type" : "paragraph",
+    "id" : 307,
+    "page number" : 7,
+    "bounding box" : [ 390.236, 352.779, 550.736, 360.171 ],
+    "font" : "ITCSymbolStd-Medium",
+    "font size" : 6.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The authors contributed equally to all aspects of the article."
+  }, {
+    "type" : "heading",
+    "id" : 308,
+    "level" : "Subtitle",
+    "page number" : 7,
+    "bounding box" : [ 390.236, 338.013, 452.879, 345.982 ],
+    "heading level" : 6,
+    "font" : "ITCSymbolStd-Bold",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Competing interests"
+  }, {
+    "type" : "paragraph",
+    "id" : 309,
+    "page number" : 7,
+    "bounding box" : [ 390.236, 315.795, 552.822, 337.983 ],
+    "font" : "ITCSymbolStd-Medium",
+    "font size" : 6.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "R.S. is a scientific cofounder and consultant of BiomX Ltd, Pantheon Ltd and EcoPhage Ltd. All other authors declare no competing interests."
+  }, {
+    "type" : "heading",
+    "id" : 310,
+    "level" : "Subtitle",
+    "page number" : 7,
+    "bounding box" : [ 390.236, 301.034, 464.088, 309.003 ],
+    "heading level" : 6,
+    "font" : "ITCSymbolStd-Bold",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Peer review information"
+  }, {
+    "type" : "paragraph",
+    "id" : 311,
+    "page number" : 7,
+    "bounding box" : [ 390.236, 278.816, 552.788, 301.004 ],
+    "font" : "ITCSymbolStd-Medium",
+    "font size" : 6.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Nature Reviews Microbiology thanks E. Koonin and the other, anonymous, reviewer(s) for their contribution to the peer review of this work."
+  }, {
+    "type" : "heading",
+    "id" : 312,
+    "level" : "Subtitle",
+    "page number" : 7,
+    "bounding box" : [ 390.236, 264.054, 440.107, 272.023 ],
+    "heading level" : 6,
+    "font" : "ITCSymbolStd-Bold",
+    "font size" : 6.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Publisher’s note"
+  }, {
+    "type" : "paragraph",
+    "id" : 313,
+    "page number" : 7,
+    "bounding box" : [ 390.236, 249.234, 552.835, 264.024 ],
+    "font" : "ITCSymbolStd-Medium",
+    "font size" : 6.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations."
+  }, {
+    "type" : "footer",
+    "id" : 314,
+    "page number" : 7,
+    "bounding box" : [ 42.52, 19.569, 552.52, 28.338 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 24,
+      "page number" : 7,
+      "bounding box" : [ 42.52, 19.569, 552.52, 28.338 ],
+      "heading level" : 5,
+      "font" : "DiverdaSansCom-Regular",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "NaTure revIewS | MiCrobiology volume 18 | February 2020 | 119"
+    } ]
+  } ]
+}

@@ -1,0 +1,332 @@
+{
+  "file name" : "2022_Liu.pdf",
+  "number of pages" : 2,
+  "author" : "Yingying Liu",
+  "title" : "Prokaryotic gasdermins: ancestors of eukaryotic counterparts direct the pyroptosis and cell fates",
+  "creation date" : "D:20220506074104+05'30'",
+  "modification date" : "D:20241212160432-05'00'",
+  "kids" : [ {
+    "type" : "heading",
+    "id" : 17,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 36.171, 747.814, 549.795, 763.323 ],
+    "heading level" : 2,
+    "font" : "MyriadPro-Regular",
+    "font size" : 12.902,
+    "text color" : "[0.0, 0.0, 0.0, 1.0]",
+    "content" : "Signal Transduction and Targeted Therapy www.nature.com/sigtrans"
+  }, {
+    "type" : "image",
+    "id" : 2,
+    "page number" : 1,
+    "bounding box" : [ 527.082, 711.012, 550.12, 730.608 ],
+    "source" : "2022_Liu_images/imageFile1.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 1,
+    "page number" : 1,
+    "bounding box" : [ 35.887, 693.787, 218.258, 708.201 ],
+    "font" : "AdvTT5afe5d37.B",
+    "font size" : 11.955,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "RESEARCH HIGHLIGHT OPEN"
+  }, {
+    "type" : "heading",
+    "id" : 4,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 35.887, 647.268, 545.081, 693.38 ],
+    "heading level" : 1,
+    "font" : "AdvOTa20b42a7",
+    "font size" : 19.427,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Prokaryotic gasdermins: ancestors of eukaryotic counterparts direct the pyroptosis and cell fates"
+  }, {
+    "type" : "paragraph",
+    "id" : 5,
+    "page number" : 1,
+    "bounding box" : [ 35.886, 612.309, 471.141, 641.751 ],
+    "font" : "AdvOT46dcae81",
+    "font size" : 8.966,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Yingying Liu1, Chen Zhang2,3✉ and Min Wu 1✉ Signal Transduction and Targeted Therapy (2022) 7:152 ; https://doi.org/10.1038/s41392-022-01005-y"
+  }, {
+    "type" : "paragraph",
+    "id" : 7,
+    "page number" : 1,
+    "bounding box" : [ 35.887, 506.067, 283.94, 575.964 ],
+    "font" : "AdvOT46dcae81",
+    "font size" : 8.966,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Recently, the role of bacterial gasdermin (bGSDM) has been biochemically characterized and published in Science by Johnson et al., which bridges the gap in functional understanding of GSDM between prokaryotes and eukaryotes, and also suggests the evolutionary conservation of GSDM-mediated pyroptosis, leading to cell death.1 In addition, the identiﬁed bGSDM adds unprecedented insights into understanding of the bacterial immunity."
+  }, {
+    "type" : "paragraph",
+    "id" : 8,
+    "page number" : 1,
+    "bounding box" : [ 35.886, 217.161, 283.964, 506.233 ],
+    "font" : "AdvOT46dcae81",
+    "font size" : 8.966,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Gasdermin D (GSDMD), as one of the six gasdermin proteins (from GSDMA to GSDME, pejvakin) encoded by human genomes, remained unknown before 2015. In 2015, two research teams independently discovered that the human gasdermin D (GSDMD) switched to active from autoinhibition via the cleavage of its C-terminal domain (CTD) by inﬂammatory caspases and the other regulatory factors, cleaved N-terminal domain (NTD), was reorganized into oligomers spanning across the membrane to form gasdermin pores, which resulted in the secretion of mature IL-1β and lead to cell death.2 4 Sequence analyses revealed that there existed a clade of 50 bGSDM homologs distinctive to the eukaryotic counterparts. On the structural basis of bGSDM from Bradyrhizobium tropiciagri and Vitiosangium sp., the overall architecture, particularly the NTD, exhibited strong homology consists of twisted central antiparallel β sheet, linking helices and strands.1 Although the structural study of bGSDM revealed the absence of large alpha-helical CTD that is required to maintain the autoinhibition of mammalian gasdermins, the bGSDM recruited a molecule with the same conﬁguration to achieve the inactivation of gasdermins.1 The atomic model of bGSDM deciphered that the protrusion from cysteine C3 side-chain in bGSDM from Bradyrhizobium occupied a hydrophobic tunnel, which can be capped by a residue, F25 at the C-terminal domain and this feature was veriﬁed as palmitoylation.1 The cysteine is a conserved site in most bacterial and some fungal gasdermins, and is critical to the palmitoylation of bGSDM, which was assumed to stabilize the inactive state of bGSDM. The residues alongside the hydrophobic tunnel could be substantially reorganized during bGSDM activation inferred from modeling as Johnson simulated.1"
+  }, {
+    "type" : "paragraph",
+    "id" : 9,
+    "page number" : 1,
+    "bounding box" : [ 35.885, 147.429, 284.026, 217.269 ],
+    "font" : "AdvOT46dcae81",
+    "font size" : 8.966,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "GSDM activation speciﬁcally depends on the cleavage by caspases in eukaryotic cells.4,5 In most bacterial cases, the caspaselike protease was clustered together with bGSDM shown in Fig. 1. Furthermore, the bGSDM-caspase system was found widely distributed in bacteria and archaea. Intriguingly, the bGSDMs in some cases were accompanied by well-identiﬁed bacterial immune systems, such as CRISPR-cas and abortive infection systems."
+  }, {
+    "type" : "paragraph",
+    "id" : 10,
+    "page number" : 1,
+    "bounding box" : [ 301.89, 516.049, 550.053, 575.968 ],
+    "font" : "AdvOT46dcae81",
+    "font size" : 8.966,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Accordingly, Johnson et al., assumed the bGSDM-caspase could have the potential for bacterial host defense against phage infection. A four-gene operon containing the bGSDM gene, from Lysobacter enzymogenes, was heterologously expressed, in which the presence of bGSDM can substantially protect the host Escherichia coli from infection by coliphages T4, T5, and T6.1"
+  }, {
+    "type" : "paragraph",
+    "id" : 11,
+    "page number" : 1,
+    "bounding box" : [ 301.888, 217.161, 549.959, 516.154 ],
+    "font" : "AdvOT46dcae81",
+    "font size" : 8.966,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "A series of mechanistic studies were carried out to investigate the molecular details. The mutation of S293A of the second trypsin-like protease in bGSDM system from Lysobacter disrupted the antiphage defense of the recipient.1 In addition, the expression of bGSDM system from Runella, which required palmitoylation, introduced escalated cellular toxicity without phage infection (Fig. 1). Additional propidium iodide (PI) staining analysis presented a clear image of destroyed membrane and stopped cell division of the host. In Supplementary studies, more site-directed mutagenesis of caspase-like protease in Runella abolished all cellular toxicity generation, indicating the activation of bGSDM system enabled by proteolytic cleavage. In vitro experiments veriﬁed that Runella bGSDM species were produced after the incubation of protease and bGSDM, in which the targeting cleavage site of bGSDM occurred in a loop after P1 residue L247. Further, C-terminal truncation of bGSDMs in Runella, Bradyrhizobium, or Vitiosangium resulted in the cell death, unveiling an essential role of C-terminal in bGSDM autoinhibition. In addition to P1 L247 mutation, sites-mutagenesis, including P1’ glycine, P2, P3, P4 and P3’, prohibited proteolysis. Meanwhile, disruption of P1 and P1’ positions abolished in vivo toxicity.1 Similar to the release of mature IL-1β by mammalian GSDMD,4 the abridged bGSDM from Runella permeabilized liposomes and released cytoplastic molecules to outside the membrane.4 In general, the neighboring caspase-like protease is indispensable for bGSDM activation, but mutations involved in bGSDM palmitoylation cannot avoid liposome leakage and puncta formation. More of interests, the pore architectures of bGSDM are diverse and different from mammalian counterparts in size, which might be shaped by the release of speciﬁc internal contents."
+  }, {
+    "type" : "paragraph",
+    "id" : 12,
+    "page number" : 1,
+    "bounding box" : [ 301.89, 147.43, 549.952, 217.271 ],
+    "font" : "AdvOT46dcae81",
+    "font size" : 8.966,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Revelation of functional conservativeness of gasdermins across the lifeforms from prokaryotes to eukaryotes represents a signiﬁcant advance to reassess and broaden the understanding of bacterial immunity. The concomitant responses of the host alongside bGSDM activation, such as increased cytotoxic activity, were observed but the underlying mechanisms remain elusive in diverse living environments and other activation states. In"
+  }, {
+    "type" : "paragraph",
+    "id" : 16,
+    "page number" : 1,
+    "bounding box" : [ 35.886, 80.292, 549.908, 125.05 ],
+    "font" : "AdvOT46dcae81",
+    "font size" : 6.974,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "1Department of Biomedical Sciences, School of Medicine and Health Sciences, University of North Dakota, Grand Forks, ND, USA; 2Laboratory of Microbiology, Wageningen University & Research, Stippeneng 4, 6708 WE Wageningen, The Netherlands and 3Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, Beijing 100081, People’s Republic of China Correspondence: Chen Zhang (chen03.zhang@gmail.com) or Min Wu (min.wu@und.edu) These authors contributed equally: Yingying Liu, Chen Zhang."
+  }, {
+    "type" : "caption",
+    "id" : 13,
+    "page number" : 1,
+    "bounding box" : [ 35.887, 65.044, 297.341, 74.74 ],
+    "linked content id" : 14,
+    "font" : "AdvOTa20b42a7",
+    "font size" : 8.468,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Received: 1 March 2022 Revised: 5 April 2022 Accepted: 10 April 2022"
+  }, {
+    "type" : "image",
+    "id" : 14,
+    "page number" : 1,
+    "bounding box" : [ 35.887, 54.794, 167.886, 65.594 ],
+    "source" : "2022_Liu_images/imageFile2.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 18,
+    "page number" : 1,
+    "bounding box" : [ 35.887, 30.209, 102.215, 39.175 ],
+    "font" : "AdvMyriad_R",
+    "font size" : 7.97,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "© The Author(s) 2022"
+  }, {
+    "type" : "paragraph",
+    "id" : 35,
+    "page number" : 2,
+    "bounding box" : [ 45.581, 748.508, 293.201, 767.452 ],
+    "font" : "AdvOT46dcae81",
+    "font size" : 7.97,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Prokaryotic gasdermins: ancestors of eukaryotic counterparts direct the... Liu et al."
+  }, {
+    "type" : "paragraph",
+    "id" : 36,
+    "page number" : 2,
+    "bounding box" : [ 23.471, 734.689, 28.42, 744.767 ],
+    "font" : "AdvOT7d2ebc01",
+    "font size" : 8.966,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "2"
+  }, {
+    "type" : "image",
+    "id" : 32,
+    "page number" : 2,
+    "bounding box" : [ 140.372, 512.334, 464.372, 731.565 ],
+    "source" : "2022_Liu_images/imageFile3.png"
+  }, {
+    "type" : "caption",
+    "id" : 33,
+    "page number" : 2,
+    "bounding box" : [ 45.354, 443.488, 559.407, 506.817 ],
+    "linked content id" : 32,
+    "font" : "AdvTT6780a46b",
+    "font size" : 8.468,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Fig. 1 Mechanism of bGSDM-mediated cell death. On recognition of external stimuli, such as phage and environmental matters, the caspase-like proteases are activated. Co-expression of bGSDM and their cognate proteases leads to bacterial growth arrest and membrane permeabilization. bGSDM palmitoylation (C3 in red line) is essential for particularly strong toxicity in Runella system. Mutations of the catalytical residues (H796 and C840 in yellow lines) in caspase-like protease abolished cellular toxicity and blocked cell death. The autoinhibited bGSDM was cleaved by caspase-like protease into N- and C-terminal domains. The active N-terminal domains are oligomerized to form bGSDM pore spanning the membrane that can permeabilize liposomes and thereby releasing inﬂammatory factors, and consequently leads to cell lysis"
+  }, {
+    "type" : "paragraph",
+    "id" : 20,
+    "page number" : 2,
+    "bounding box" : [ 45.354, 349.313, 293.411, 429.187 ],
+    "font" : "AdvOT46dcae81",
+    "font size" : 8.966,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "particular, several important questions are unclear: considering the diversity and challenge of inhabiting environments of prokaryotes, how do bGSDMs coordinate with their neighboring immune systems to adapt or reject foreign invaders, such as phage infection, is still unknown. Furthermore, bGSDMs are cleaved by caspase-like proteases under normal conditions, but would this cleavage activity have any biological signiﬁcance under phage infections or abiotic stresses is largely undisclosed."
+  }, {
+    "type" : "paragraph",
+    "id" : 21,
+    "page number" : 2,
+    "bounding box" : [ 45.354, 169.996, 293.463, 349.479 ],
+    "font" : "AdvOT46dcae81",
+    "font size" : 8.966,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Taken together, this pioneering work of Johnson et al., demonstrates the evolutionary continuity of gasdermins from prokaryotes to eukaryotes. Undoubtedly, the discovery of bacterial GSDMs inspires researchers to explore the presence and roles of bacterial inﬂammasomes, predict homology to mammalian, such as nucleotide-binding domain and leucine-rich repeat receptors (NLRs), the absent in melanoma 2-like receptors (ALRs), pyrin, and so on. Moreover, functional assessment of inﬂammasomes from invertebrates, fungi and bacteria will be a great contribution to the ﬁeld of comparative immunology. Importantly, these ﬁndings may instigate ideas on studying gasdermin-mediated pyroptosis and pharmaceutical development targeting pyroptosis-related diseases. Meanwhile, multiomics’ data analyses become necessary to decode the genetic information of culture-independent bacteria and archaea. Built on the recent discovery of the cGAS-like pathway in bacteria, this intriguing work by Johnson et al., further expands the boundary of the bacterial immunity systems and adds evidence of ancestral origins of the mammalian immune systems from prokaryotes."
+  }, {
+    "type" : "paragraph",
+    "id" : 22,
+    "page number" : 2,
+    "bounding box" : [ 45.354, 138.418, 136.73, 148.684 ],
+    "font" : "AdvOT3b30f6db.B",
+    "font size" : 8.966,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "ACKNOWLEDGEMENTS"
+  }, {
+    "type" : "paragraph",
+    "id" : 23,
+    "page number" : 2,
+    "bounding box" : [ 45.354, 120.997, 293.38, 137.8 ],
+    "font" : "AdvOT46dcae81",
+    "font size" : 6.974,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This work is supported by National Institutes of Health Grants R01 AI109317 and R01 AI138203."
+  }, {
+    "type" : "paragraph",
+    "id" : 24,
+    "page number" : 2,
+    "bounding box" : [ 311.357, 419.1, 423.354, 429.366 ],
+    "font" : "AdvOT3b30f6db.B",
+    "font size" : 8.966,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "ADDITIONAL INFORMATION"
+  }, {
+    "type" : "paragraph",
+    "id" : 25,
+    "page number" : 2,
+    "bounding box" : [ 311.357, 390.684, 559.429, 416.585 ],
+    "font" : "AdvOT46dcae81",
+    "font size" : 6.974,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Competing interests: Min Wu is an editorial board member of Signal Transduction and Targeted Therapy, but he has not been involved in the process of the manuscript handling. The remaining authors declare no competing interests."
+  }, {
+    "type" : "paragraph",
+    "id" : 26,
+    "page number" : 2,
+    "bounding box" : [ 311.357, 362.294, 361.757, 372.56 ],
+    "font" : "AdvOT3b30f6db.B",
+    "font size" : 8.966,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "REFERENCES"
+  }, {
+    "type" : "list",
+    "id" : 27,
+    "level" : "1",
+    "page number" : 2,
+    "bounding box" : [ 311.357, 271.119, 559.386, 359.696 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 5,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 311.357, 342.836, 559.386, 359.696 ],
+      "font" : "AdvOT46dcae81",
+      "font size" : 6.974,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1. Johnson, A. G. et al. Bacterial gasdermins reveal an ancient mechanism of cell death. Science 375, 221–225 (2022).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 311.357, 324.92, 559.374, 341.723 ],
+      "font" : "AdvOT46dcae81",
+      "font size" : 6.974,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "2. Xia, S. et al. Gasdermin D pore structure reveals preferential release of mature interleukin-1. Nature 593, 607–611 (2021).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 311.357, 307.005, 559.349, 323.808 ],
+      "font" : "AdvOT46dcae81",
+      "font size" : 6.974,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "3. Ding, J. et al. Pore-forming activity and structural autoinhibition of the gasdermin family. Nature 535, 111–116 (2016).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 311.357, 289.091, 559.33, 305.894 ],
+      "font" : "AdvOT46dcae81",
+      "font size" : 6.974,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "4. Shi, J. et al. Cleavage of GSDMD by inﬂammatory caspases determines pyroptotic cell death. Nature 526, 660–665 (2015).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 311.357, 271.119, 559.385, 287.922 ],
+      "font" : "AdvOT46dcae81",
+      "font size" : 6.974,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "5. Kayagaki, N. et al. Caspase-11 cleaves gasdermin D for non-canonical inﬂammasome signalling. Nature 526, 666–671 (2015).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 29,
+    "level" : "2",
+    "page number" : 2,
+    "bounding box" : [ 359.546, 227.296, 559.348, 244.238 ],
+    "font" : "AdvOT46dcae81",
+    "font size" : 6.974,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing,"
+  }, {
+    "type" : "paragraph",
+    "id" : 30,
+    "page number" : 2,
+    "bounding box" : [ 311.357, 146.62, 559.425, 226.184 ],
+    "font" : "AdvOT46dcae81",
+    "font size" : 6.974,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons. org/licenses/by/4.0/."
+  }, {
+    "type" : "paragraph",
+    "id" : 31,
+    "page number" : 2,
+    "bounding box" : [ 311.357, 120.712, 374.793, 128.558 ],
+    "font" : "AdvOT46dcae81",
+    "font size" : 6.974,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "© The Author(s) 2022"
+  }, {
+    "type" : "paragraph",
+    "id" : 38,
+    "level" : "3",
+    "page number" : 2,
+    "bounding box" : [ 321.449, 30.297, 506.659, 38.179 ],
+    "font" : "AdvMyriad_R",
+    "font size" : 7.97,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Signal Transduction and Targeted Therapy (2022) 7:152"
+  } ]
+}

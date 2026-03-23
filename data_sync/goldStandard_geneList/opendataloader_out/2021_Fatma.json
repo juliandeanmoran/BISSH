@@ -1,0 +1,4011 @@
+{
+  "file name" : "2021_Fatma.pdf",
+  "number of pages" : 9,
+  "author" : "Shirin Fatma",
+  "title" : "Molecular mechanisms of the CdnG-Cap5 antiphage defense system employing 3â€²,2â€²-cGAMP as the second messenger",
+  "creation date" : "D:20211029181736+05'30'",
+  "modification date" : "D:20241210135010-05'00'",
+  "kids" : [ {
+    "type" : "paragraph",
+    "id" : 97,
+    "page number" : 1,
+    "bounding box" : [ 43.597, 640.32, 94.98, 655.704 ],
+    "font" : "AdvOTea1a7398",
+    "font size" : 13.948,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "ARTICLE"
+  }, {
+    "type" : "paragraph",
+    "id" : 104,
+    "page number" : 1,
+    "bounding box" : [ 46.602, 620.653, 264.122, 635.068 ],
+    "font" : "AdvOTcb88df00",
+    "font size" : 7.97,
+    "text color" : "[1.0, 1.0, 1.0]",
+    "content" : "https://doi.org/10.1038/s41467-021-26738-2 OPEN"
+  }, {
+    "type" : "heading",
+    "id" : 99,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 43.597, 538.748, 551.679, 616.881 ],
+    "heading level" : 2,
+    "font" : "AdvOTea1a7398",
+    "font size" : 23.91,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Molecular mechanisms of the CdnG-Cap5 antiphage defense system employing 3′,2′-cGAMP as the second messenger"
+  }, {
+    "type" : "paragraph",
+    "id" : 100,
+    "page number" : 1,
+    "bounding box" : [ 43.597, 514.257, 399.957, 529.56 ],
+    "font" : "AdvOTea1a7398",
+    "font size" : 10.959,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Shirin Fatma1,2, Arpita Chakravarti1,2, Xuankun Zeng1 & Raven H. Huang 1✉"
+  }, {
+    "type" : "paragraph",
+    "id" : 102,
+    "page number" : 1,
+    "bounding box" : [ 43.592, 309.157, 408.223, 473.003 ],
+    "font" : "AdvOTea1a7398",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Cyclic-oligonucleotide-based antiphage signaling systems (CBASS) are diverse and abundant in bacteria. Here, we present the biochemical and structural characterization of two CBASS systems, composed of CdnG and Cap5, from Asticcacaulis sp. and Lactococcus lactis. We show that CdnG from Asticcacaulis sp. synthesizes 3′,2′-cGAMP in vitro, and 3′,2′-cGAMP is the biological signaling molecule that activates Cap5 for DNA degradation. Crystal structures of Cap5, together with the SAVED domain in complex with 3′,2′-cGAMP, provide insight into the architecture of Cap5 as well as molecular recognition of 3′,2′-cGAMP by the SAVED domain of Cap5. Amino acid conservation of the SAVED domain of Cap5, together with mutational studies, led us to propose a mechanism of Back-to-Front stacking of two SAVED domains, mediated by 3′,2′-cGAMP, to activate HNH nuclease domain for DNA degradation. This study of the most abundant CBASS system provides insights into the mechanisms employed by bacteria in their conﬂicts against phage."
+  }, {
+    "type" : "list",
+    "id" : 106,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 43.596, 43.557, 551.692, 63.837 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 1,
+      "bounding box" : [ 43.596, 43.557, 551.692, 63.837 ],
+      "font" : "AdvOTf23bb480",
+      "font size" : 7.97,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1Department of Biochemistry, University of Illinois at Urbana-Champaign, Urbana, IL 61801, USA. 2These authors contributed equally: Shirin Fatma and Arpita Chakravarti. ✉email: huang@illinois.edu",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 108,
+    "page number" : 1,
+    "bounding box" : [ 43.597, 23.654, 551.694, 31.924 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 33,
+      "page number" : 1,
+      "bounding box" : [ 43.597, 23.654, 551.694, 31.924 ],
+      "heading level" : 6,
+      "font" : "AdvOTea1a7398",
+      "font size" : 6.725,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "NATURE COMMUNICATIONS| (2021) 12:6381 |https://doi.org/10.1038/s41467-021-26738-2|www.nature.com/naturecommunications 1"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 109,
+    "page number" : 2,
+    "bounding box" : [ 43.597, 752.742, 551.728, 768.126 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 42,
+      "page number" : 2,
+      "bounding box" : [ 43.597, 752.742, 551.728, 768.126 ],
+      "heading level" : 3,
+      "font" : "AdvOTea1a7398",
+      "font size" : 7.97,
+      "text color" : "[0.9803921568627451, 0.3803921568627451, 0.0]",
+      "content" : "ARTICLE NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-021-26738-2"
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 110,
+    "level" : "Doctitle",
+    "page number" : 2,
+    "bounding box" : [ 43.597, 696.136, 65.286, 741.189 ],
+    "heading level" : 1,
+    "font" : "AdvOT125c650c",
+    "font size" : 40.846,
+    "text color" : "[0.9803921568627451, 0.3803921568627451, 0.0]",
+    "content" : "2"
+  }, {
+    "type" : "paragraph",
+    "id" : 111,
+    "page number" : 2,
+    "bounding box" : [ 65.31, 701.816, 291.679, 734.756 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "′,3′-cGAMP, synthesized by cyclic GMP-AMP synthase (cGAS)1, represents the ﬁrst cyclic di-nucleotide to be involved in a self-defense system. As a nucleotidyl-"
+  }, {
+    "type" : "paragraph",
+    "id" : 112,
+    "page number" : 2,
+    "bounding box" : [ 43.596, 618.081, 291.672, 701.777 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "transferase (NTase) of Polβ superfamily, cGAS is inactive when alone. Upon binding a double-stranded DNA (dsDNA) from viral or bacterial infection, cGAS becomes active and synthesizes 2′,3′cGAMP second messenger using GTP and ATP as its substrates1–3. The signaling molecule cGAMP binds to STING (stimulator of interferon genes) receptor, triggering several STING-dependent signaling pathways that result in inhibition of viral or bacterial infection4–7."
+  }, {
+    "type" : "paragraph",
+    "id" : 113,
+    "page number" : 2,
+    "bounding box" : [ 53.064, 607.649, 291.63, 618.098 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In bacteria, DncV was the ﬁrst NTase to show synthesis of"
+  }, {
+    "type" : "heading",
+    "id" : 114,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 43.597, 503.051, 291.659, 608.885 ],
+    "heading level" : 5,
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "3′,3′-cGAMP8, which activates CapV to promote cell death9.Therefore, DncV-CapV represents the ﬁrst characterized anti-phage defense system that shares a similar mechanism to theeukaryotic cGAS-STING system. In fact, a recent study of thebacterial STING-like proteins indicates that the eukaryotic cGAS-STING system might have its evolutionary origin from bacteria10.Recent studies by Sorek and colleagues indicate that the antiphagesystems similar to DncV-CapV are abundant in bacteria, andthese systems are collectively named cyclic-oligonucleotide-basedantiphage signaling systems (CBASS)11,12."
+  }, {
+    "type" : "paragraph",
+    "id" : 115,
+    "page number" : 2,
+    "bounding box" : [ 43.596, 356.613, 291.675, 503.011 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Despite diverse conﬁgurations of CBASS systems, two components are constant: enzymes that generate cyclic oligonucleotides, and effectors that are activated by cyclic oligonucleotides to exert their antiphage activities. Among various effectors of CBASS systems, the ones employing SAVED domain as the sensor of cyclic oligonucleotides constitute the biggest group12, and within the SAVED domain-containing effectors, approximately 50% employ HNH nuclease domain for their antiphage activities13. Since the initial discovery of NTase-based antiphage systems via bioinformatic analysis14, several CBASS systems have been recently characterized10,11,13,15–17. Perhaps the most relevant to our work described here is a recent study by Kranzusch and colleagues13, as it represents the ﬁrst characterization of SAVED domain-containing effectors."
+  }, {
+    "type" : "paragraph",
+    "id" : 116,
+    "page number" : 2,
+    "bounding box" : [ 43.597, 272.875, 291.661, 356.573 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In this work, we report biochemical and structural characterization of two Cap5 effectors composed of SAVED and HNH domains as well as their cognate CdnG proteins that synthesize the signaling molecule. We show that CdnG synthesizes 3′,2′cGAMP, which speciﬁcally activates Cap5 for DNA degradation. Crystal structures of Cap5, as well as SAVED domain in complex with 3′,2′-cGAMP provide molecular insight into activation of Cap5 by 3′,2′-cGAMP."
+  }, {
+    "type" : "paragraph",
+    "id" : 117,
+    "page number" : 2,
+    "bounding box" : [ 43.597, 242.025, 73.647, 252.464 ],
+    "font" : "AdvOTcb88df00",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Results"
+  }, {
+    "type" : "paragraph",
+    "id" : 118,
+    "page number" : 2,
+    "bounding box" : [ 43.597, 42.762, 291.677, 241.484 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Bioinformatic analysis of effectors employing SAVED domains as sensors. We have been interested in studying the effectors that contain SAVED domains. To provide guidance for the target selection of the study, we constructed a Sequence Similarity Network (SSN) of Pfam PF19145, which is the protein family of SAVED domain. SSN revealed many clusters of SAVED domaincontaining effectors (Supplementary Fig. 1). Because Cap5 constitutes the biggest cluster, we, therefore, selected two Cap5 and their associated CdnG for our study (Fig. 1a, colored red and blue). In addition to genes encoding CdnG and Cap5, we found the operons might encode a third conserved protein of unknown function (Fig. 1a, colored green). Based on the recent classiﬁcation of CBASS systems12, the system under our study belongs to CBASS Type II (short). Because Sorek and colleagues employed short E2-like proteins (PF14457) for their classiﬁcation of CBASS Type II (short)12, the three-gene operons depicted in Fig. 1a appear to represent a new family of Type II (short) system because both proteins encoded by the third genes belong to a new protein family without a Pfam number. Functional"
+  }, {
+    "type" : "paragraph",
+    "id" : 119,
+    "page number" : 2,
+    "bounding box" : [ 303.59, 701.817, 551.679, 733.186 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "characterization of the third gene products is beyond the scope of this study. Instead, we focus our in vitro biochemical and structural studies on CdnG and Cap5."
+  }, {
+    "type" : "paragraph",
+    "id" : 120,
+    "page number" : 2,
+    "bounding box" : [ 303.588, 393.18, 551.707, 686.566 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "AsCdnG synthesizes 3′,2′-cGAMP in vitro. With the exception of a few constitutively active CD-NTases such as DncV, most CD-NTases require activation, and the mechanisms of their in vivo activation are poorly understood12. Here we explore the potentially “leaky” activity of CdnG by employing different divalent ions as cofactors to investigate their possible products. Therefore, we cloned, expressed, and puriﬁed recombinant AsCdnG and LlCdnG, followed by performing in vitro reconstitution of their enzymatic activities. To simplify interpretation of the results, we added alkaline phosphatase to the reaction mixtures to remove 5′-terminal phosphate groups of all nucleotides before UPLC analysis (Fig. 1b, c). When Mg2 ion was employed as the cofactor, two compounds were synthesized by AsCdnG after 8 h of the reaction at 25 °C, but the yields were low (Fig. 1b, upper panel). The production of these two compounds was signiﬁcantly improved by replacing Mg2+ with Mn2+ as the cofactor (Fig. 1b, lower panel). High-resolution LC-MS analysis identiﬁed these two compounds as cGAMP and ApG/GpA, respectively (Supplementary Fig. 2a, b). ApG/GpA is presumably the dephosphorylated product of pppApG/pppGpA, a potential reaction intermediate. We also carried out the same reactions with LlCdnG (Fig. 1c), which shares 30% sequence identity with AsCdnG. Compared to AsCdnG, LlCdnG is signiﬁcantly less “leaky”. Using Mg2+ ion as the cofactor, only a tiny amount of ApG/GpA was observed (Fig. 1c, upper panel). The amount of ApG/GpA increased slightly when Mn2+ ion was employed as the cofactor, which also allowed detection of a trace amount of cGAMP (Fig. 1c, lower panel)."
+  }, {
+    "type" : "paragraph",
+    "id" : 121,
+    "page number" : 2,
+    "bounding box" : [ 303.588, 183.979, 551.693, 393.197 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "To provide mechanistic insight into the enzymatic reaction carried out by AsCdnG, we performed further UPLC analysis (Supplementary Fig. 2c−e). We ﬁrst compared cGAMP synthesized by AsCdnG to four commercially purchased cGAMP, revealing that AsCdnG-synthesized cGAMP is 3′,2′-cGAMP (Supplementary Fig. 2c). We next analyzed enzymatic digests of ApG/GpA by P1 and SVPD nucleases, respectively, identifying the 2′−5′ phosphate linkage in ApG/GpA (Supplementary Fig. 2d). Because the SVPD-digested products are GMP and A (Supplementary Fig. 2d, bottom panel), the identity of the second compound is ApG. Finally, we carried out the time course of the AsCdnG-catalyzed reaction (Supplementary Fig. 2e), which provided further support that pppApG is the reaction intermediate. Therefore, the sequential events of the AsCdnGcatalyzed reaction are shown in Fig. 1d. First, the 2′-OH of ATP carries out nucleophilic attack at α-phosphate of GTP, resulting in the formation of pppApG intermediate (Fig. 1d, Step 1). This is followed by nucleophilic attack of 3′-OH of the GMP moiety at α-phosphate of the ATP moiety, producing 3′,2′cGAMP as the ﬁnal product (Fig. 1d, Step 2)."
+  }, {
+    "type" : "paragraph",
+    "id" : 122,
+    "page number" : 2,
+    "bounding box" : [ 303.588, 42.762, 551.697, 168.784 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "3′,2′-cGAMP is the biological signaling molecule that activates AsCap5 and LlCap5 for DNA degradation. To investigate whether 3′,2′-cGAMP is the second messenger of the CdnG-Cap5 antiphage defense system, we obtained recombinant AsCap5 and LlCap5 and performed in vitro DNA degradation assays (Fig. 2a, b). Linearized DNA plasmid (25 nM) was employed as the substrate, and 50 nM of Cap5 was used for the assays. In the absence of 3′,2′-cGAMP, both AsCap5 and LlCap5 are inactive (Fig. 2a, b, lane 1). Signiﬁcant DNA degradation was observed in the presence of 3′,2′-cGAMP at a concentration as low as 10 nM (Fig. 2a, b, lane 3), and DNA degradation was complete when 100 nM of 3′,2′-cGAMP was employed (Fig. 2a, b, lane 4)."
+  }, {
+    "type" : "footer",
+    "id" : 124,
+    "page number" : 2,
+    "bounding box" : [ 43.597, 23.654, 494.161, 31.924 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 34,
+      "page number" : 2,
+      "bounding box" : [ 43.597, 23.654, 494.161, 31.924 ],
+      "heading level" : 6,
+      "font" : "AdvOTea1a7398",
+      "font size" : 6.725,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "2 NATURE COMMUNICATIONS| (2021) 12:6381 |https://doi.org/10.1038/s41467-021-26738-2|www.nature.com/naturecommunications"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 125,
+    "page number" : 3,
+    "bounding box" : [ 43.597, 752.742, 551.663, 768.126 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 43,
+      "page number" : 3,
+      "bounding box" : [ 43.597, 752.742, 551.663, 768.126 ],
+      "heading level" : 3,
+      "font" : "AdvOTea1a7398",
+      "font size" : 7.97,
+      "text color" : "[0.9803921568627451, 0.3803921568627451, 0.0]",
+      "content" : "NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-021-26738-2 ARTICLE"
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 128,
+    "level" : "2",
+    "page number" : 3,
+    "bounding box" : [ 117.634, 658.246, 125.072, 732.806 ],
+    "numbering style" : "english letters",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 117.719, 718.32, 124.487, 732.806 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 12.173,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "a",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 117.634, 658.246, 125.072, 672.732 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 12.173,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "b",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 143,
+    "page number" : 3,
+    "bounding box" : [ 138.633, 713.37, 206.113, 723.924 ],
+    "font" : "Helvetica-Oblique",
+    "font size" : 9.13,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Asticcacaulis sp."
+  }, {
+    "type" : "paragraph",
+    "id" : 127,
+    "page number" : 3,
+    "bounding box" : [ 309.651, 709.624, 358.528, 717.833 ],
+    "font" : "Helvetica",
+    "font size" : 7.101,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Cap5 CdnG"
+  }, {
+    "type" : "paragraph",
+    "id" : 144,
+    "page number" : 3,
+    "bounding box" : [ 129.493, 686.902, 203.573, 697.457 ],
+    "font" : "Helvetica-Oblique",
+    "font size" : 9.13,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Lactococcus lactis"
+  }, {
+    "type" : "paragraph",
+    "id" : 156,
+    "page number" : 3,
+    "bounding box" : [ 309.727, 683.829, 358.092, 692.038 ],
+    "font" : "Helvetica",
+    "font size" : 7.101,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Cap5 CdnG"
+  }, {
+    "type" : "paragraph",
+    "id" : 155,
+    "page number" : 3,
+    "bounding box" : [ 300.379, 658.244, 307.147, 672.73 ],
+    "font" : "Helvetica-Bold",
+    "font size" : 12.173,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "c"
+  }, {
+    "type" : "paragraph",
+    "id" : 240,
+    "page number" : 3,
+    "bounding box" : [ 196.352, 660.982, 409.059, 670.364 ],
+    "font" : "Helvetica",
+    "font size" : 8.116,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "AsCdnG LlCdnG"
+  }, {
+    "type" : "paragraph",
+    "id" : 130,
+    "page number" : 3,
+    "bounding box" : [ 213.299, 648.81, 240.979, 659.462 ],
+    "font" : "Helvetica",
+    "font size" : 7.101,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "G A"
+  }, {
+    "type" : "paragraph",
+    "id" : 136,
+    "page number" : 3,
+    "bounding box" : [ 396.309, 647.973, 424.699, 658.447 ],
+    "font" : "Helvetica",
+    "font size" : 7.101,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "G A"
+  }, {
+    "type" : "paragraph",
+    "id" : 233,
+    "page number" : 3,
+    "bounding box" : [ 121.153, 620.896, 130.535, 632.168 ],
+    "font" : "Helvetica",
+    "font size" : 8.116,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "UV"
+  }, {
+    "type" : "paragraph",
+    "id" : 234,
+    "page number" : 3,
+    "bounding box" : [ 304.588, 620.895, 313.97, 632.167 ],
+    "font" : "Helvetica",
+    "font size" : 8.116,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "UV"
+  }, {
+    "type" : "paragraph",
+    "id" : 236,
+    "page number" : 3,
+    "bounding box" : [ 258.367, 621.164, 275.035, 630.545 ],
+    "font" : "Helvetica",
+    "font size" : 8.116,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Mg2+"
+  }, {
+    "type" : "paragraph",
+    "id" : 238,
+    "page number" : 3,
+    "bounding box" : [ 443.599, 621.164, 460.266, 630.545 ],
+    "font" : "Helvetica",
+    "font size" : 8.116,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Mg2+"
+  }, {
+    "type" : "paragraph",
+    "id" : 141,
+    "page number" : 3,
+    "bounding box" : [ 204.701, 615.712, 206.675, 623.92 ],
+    "font" : "Helvetica",
+    "font size" : 7.101,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "I"
+  }, {
+    "type" : "paragraph",
+    "id" : 132,
+    "page number" : 3,
+    "bounding box" : [ 217.716, 614.477, 231.925, 622.686 ],
+    "font" : "Helvetica",
+    "font size" : 7.101,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "ApG"
+  }, {
+    "type" : "paragraph",
+    "id" : 131,
+    "page number" : 3,
+    "bounding box" : [ 181.927, 600.601, 206.39, 608.81 ],
+    "font" : "Helvetica",
+    "font size" : 7.101,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "cGAMP"
+  }, {
+    "type" : "paragraph",
+    "id" : 135,
+    "page number" : 3,
+    "bounding box" : [ 401.557, 599.088, 415.766, 607.297 ],
+    "font" : "Helvetica",
+    "font size" : 7.101,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "ApG"
+  }, {
+    "type" : "paragraph",
+    "id" : 137,
+    "page number" : 3,
+    "bounding box" : [ 181.423, 583.501, 424.699, 592.222 ],
+    "font" : "Helvetica",
+    "font size" : 7.101,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "cGAMP G A"
+  }, {
+    "type" : "paragraph",
+    "id" : 149,
+    "page number" : 3,
+    "bounding box" : [ 120.259, 560.792, 129.64, 572.065 ],
+    "font" : "Helvetica",
+    "font size" : 8.116,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "UV"
+  }, {
+    "type" : "paragraph",
+    "id" : 154,
+    "page number" : 3,
+    "bounding box" : [ 303.693, 560.792, 313.075, 572.065 ],
+    "font" : "Helvetica",
+    "font size" : 8.116,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "UV"
+  }, {
+    "type" : "paragraph",
+    "id" : 140,
+    "page number" : 3,
+    "bounding box" : [ 217.725, 562.717, 231.934, 570.926 ],
+    "font" : "Helvetica",
+    "font size" : 7.101,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "ApG"
+  }, {
+    "type" : "paragraph",
+    "id" : 237,
+    "page number" : 3,
+    "bounding box" : [ 258.367, 560.227, 275.035, 569.609 ],
+    "font" : "Helvetica",
+    "font size" : 8.116,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Mn2+"
+  }, {
+    "type" : "paragraph",
+    "id" : 239,
+    "page number" : 3,
+    "bounding box" : [ 443.599, 560.227, 460.266, 569.609 ],
+    "font" : "Helvetica",
+    "font size" : 8.116,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Mn2+"
+  }, {
+    "type" : "paragraph",
+    "id" : 142,
+    "page number" : 3,
+    "bounding box" : [ 204.701, 545.596, 206.675, 553.805 ],
+    "font" : "Helvetica",
+    "font size" : 7.101,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "I"
+  }, {
+    "type" : "paragraph",
+    "id" : 139,
+    "page number" : 3,
+    "bounding box" : [ 212.796, 545.587, 218.321, 553.796 ],
+    "font" : "Helvetica",
+    "font size" : 7.101,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "G"
+  }, {
+    "type" : "paragraph",
+    "id" : 138,
+    "page number" : 3,
+    "bounding box" : [ 236.5, 538.089, 241.236, 546.298 ],
+    "font" : "Helvetica",
+    "font size" : 7.101,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "A"
+  }, {
+    "type" : "paragraph",
+    "id" : 134,
+    "page number" : 3,
+    "bounding box" : [ 402.062, 535.718, 416.271, 543.927 ],
+    "font" : "Helvetica",
+    "font size" : 7.101,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "ApG"
+  }, {
+    "type" : "paragraph",
+    "id" : 133,
+    "page number" : 3,
+    "bounding box" : [ 366.122, 531.025, 390.585, 539.233 ],
+    "font" : "Helvetica",
+    "font size" : 7.101,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "cGAMP"
+  }, {
+    "type" : "paragraph",
+    "id" : 145,
+    "page number" : 3,
+    "bounding box" : [ 130.454, 519.331, 294.198, 527.539 ],
+    "font" : "Helvetica",
+    "font size" : 7.101,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "8 9 10 11 12 13 14 15"
+  }, {
+    "type" : "paragraph",
+    "id" : 150,
+    "page number" : 3,
+    "bounding box" : [ 313.889, 519.331, 477.633, 527.539 ],
+    "font" : "Helvetica",
+    "font size" : 7.101,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "8 9 10 11 12 13 14 15"
+  }, {
+    "type" : "paragraph",
+    "id" : 147,
+    "page number" : 3,
+    "bounding box" : [ 174.765, 509.84, 247.821, 519.222 ],
+    "font" : "Helvetica",
+    "font size" : 8.116,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Retention time (min)"
+  }, {
+    "type" : "paragraph",
+    "id" : 152,
+    "page number" : 3,
+    "bounding box" : [ 359.215, 509.84, 432.27, 519.222 ],
+    "font" : "Helvetica",
+    "font size" : 8.116,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Retention time (min)"
+  }, {
+    "type" : "paragraph",
+    "id" : 129,
+    "page number" : 3,
+    "bounding box" : [ 117.634, 493.59, 125.072, 508.076 ],
+    "font" : "Helvetica-Bold",
+    "font size" : 12.173,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "d"
+  }, {
+    "type" : "paragraph",
+    "id" : 163,
+    "page number" : 3,
+    "bounding box" : [ 193.005, 497.226, 200.557, 503.295 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "NH2"
+  }, {
+    "type" : "paragraph",
+    "id" : 189,
+    "page number" : 3,
+    "bounding box" : [ 286.046, 496.997, 293.6, 503.066 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "H2N"
+  }, {
+    "type" : "paragraph",
+    "id" : 214,
+    "page number" : 3,
+    "bounding box" : [ 458.099, 496.004, 461.256, 501.543 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "O"
+  }, {
+    "type" : "paragraph",
+    "id" : 186,
+    "level" : "3",
+    "page number" : 3,
+    "bounding box" : [ 300.613, 494.862, 303.543, 500.401 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "N"
+  }, {
+    "type" : "paragraph",
+    "id" : 162,
+    "page number" : 3,
+    "bounding box" : [ 182.199, 490.68, 185.129, 496.219 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "N"
+  }, {
+    "type" : "paragraph",
+    "id" : 213,
+    "page number" : 3,
+    "bounding box" : [ 447.403, 488.951, 450.333, 494.49 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "N"
+  }, {
+    "type" : "paragraph",
+    "id" : 161,
+    "page number" : 3,
+    "bounding box" : [ 182.199, 479.914, 201.081, 494.38 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "N N N"
+  }, {
+    "type" : "paragraph",
+    "id" : 212,
+    "page number" : 3,
+    "bounding box" : [ 447.403, 478.187, 469.214, 492.652 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "NH N N"
+  }, {
+    "type" : "paragraph",
+    "id" : 229,
+    "level" : "3",
+    "page number" : 3,
+    "bounding box" : [ 405.314, 487.315, 408.471, 492.006 ],
+    "font" : "Helvetica",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "O"
+  }, {
+    "type" : "paragraph",
+    "id" : 187,
+    "page number" : 3,
+    "bounding box" : [ 294.835, 478.074, 306.217, 490.446 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "N N"
+  }, {
+    "type" : "paragraph",
+    "id" : 188,
+    "page number" : 3,
+    "bounding box" : [ 288.034, 484.875, 290.964, 490.414 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "N"
+  }, {
+    "type" : "paragraph",
+    "id" : 201,
+    "page number" : 3,
+    "bounding box" : [ 351.451, 482.875, 354.608, 488.414 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "O"
+  }, {
+    "type" : "paragraph",
+    "id" : 169,
+    "page number" : 3,
+    "bounding box" : [ 121.383, 475.365, 145.303, 486.849 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "O HO"
+  }, {
+    "type" : "paragraph",
+    "id" : 171,
+    "page number" : 3,
+    "bounding box" : [ 130.257, 481.31, 133.414, 486.849 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "O"
+  }, {
+    "type" : "paragraph",
+    "id" : 167,
+    "page number" : 3,
+    "bounding box" : [ 130.48, 475.365, 157.201, 486.816 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "O P O P"
+  }, {
+    "type" : "paragraph",
+    "id" : 226,
+    "page number" : 3,
+    "bounding box" : [ 395.544, 480.416, 408.245, 485.147 ],
+    "font" : "Helvetica",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "HO P"
+  }, {
+    "type" : "paragraph",
+    "id" : 231,
+    "level" : "4",
+    "page number" : 3,
+    "bounding box" : [ 411.855, 480.416, 415.012, 485.107 ],
+    "font" : "Helvetica",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "O"
+  }, {
+    "type" : "heading",
+    "id" : 218,
+    "level" : "Subtitle",
+    "page number" : 3,
+    "bounding box" : [ 468.954, 477.634, 476.508, 483.029 ],
+    "heading level" : 8,
+    "font" : "Helvetica",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "NH2"
+  }, {
+    "type" : "paragraph",
+    "id" : 200,
+    "page number" : 3,
+    "bounding box" : [ 340.755, 475.822, 343.685, 481.361 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "N"
+  }, {
+    "type" : "paragraph",
+    "id" : 166,
+    "page number" : 3,
+    "bounding box" : [ 148.087, 469.408, 163.154, 480.925 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "O P O OH"
+  }, {
+    "type" : "paragraph",
+    "id" : 199,
+    "page number" : 3,
+    "bounding box" : [ 340.755, 465.057, 362.567, 479.524 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "NH N N"
+  }, {
+    "type" : "list",
+    "id" : 222,
+    "level" : "2",
+    "page number" : 3,
+    "bounding box" : [ 402.39, 442.32, 421.4, 478.712 ],
+    "numbering style" : "english letters",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 402.39, 442.32, 405.319, 447.859 ],
+      "font" : "ArialMT",
+      "font size" : 4.058,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "N",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 92,
+        "page number" : 3,
+        "bounding box" : [ 391.584, 434.713, 399.137, 440.778 ],
+        "font" : "ArialMT",
+        "font size" : 4.058,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "NH2"
+      }, {
+        "type" : "paragraph",
+        "id" : 93,
+        "page number" : 3,
+        "bounding box" : [ 410.051, 460.549, 413.208, 466.088 ],
+        "font" : "ArialMT",
+        "font size" : 4.058,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "O"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 405.315, 473.173, 421.4, 478.712 ],
+      "font" : "ArialMT",
+      "font size" : 4.058,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "O OH",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 164,
+    "page number" : 3,
+    "bounding box" : [ 174.312, 472.399, 177.469, 477.938 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "O"
+  }, {
+    "type" : "paragraph",
+    "id" : 158,
+    "page number" : 3,
+    "bounding box" : [ 244.537, 467.999, 378.534, 477.38 ],
+    "font" : "Helvetica",
+    "font size" : 8.116,
+    "text color" : "[1.0, 0.0, 0.0]",
+    "content" : "1 2"
+  }, {
+    "type" : "paragraph",
+    "id" : 175,
+    "page number" : 3,
+    "bounding box" : [ 222.806, 470.917, 225.963, 476.456 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "O"
+  }, {
+    "type" : "paragraph",
+    "id" : 215,
+    "page number" : 3,
+    "bounding box" : [ 439.519, 470.67, 442.676, 476.209 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "O"
+  }, {
+    "type" : "paragraph",
+    "id" : 168,
+    "page number" : 3,
+    "bounding box" : [ 142.146, 469.421, 148.232, 474.96 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "OH"
+  }, {
+    "type" : "paragraph",
+    "id" : 170,
+    "page number" : 3,
+    "bounding box" : [ 130.257, 469.421, 136.343, 474.96 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "OH"
+  }, {
+    "type" : "paragraph",
+    "id" : 190,
+    "page number" : 3,
+    "bounding box" : [ 295.332, 466.452, 298.489, 471.991 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "O"
+  }, {
+    "type" : "paragraph",
+    "id" : 209,
+    "page number" : 3,
+    "bounding box" : [ 307.673, 460.82, 369.861, 469.899 ],
+    "font" : "Helvetica",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "NH2 O"
+  }, {
+    "type" : "paragraph",
+    "id" : 174,
+    "page number" : 3,
+    "bounding box" : [ 212.11, 463.864, 215.04, 469.403 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "N"
+  }, {
+    "type" : "paragraph",
+    "id" : 173,
+    "page number" : 3,
+    "bounding box" : [ 212.11, 453.1, 233.921, 467.566 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "NH N N"
+  }, {
+    "type" : "paragraph",
+    "id" : 204,
+    "page number" : 3,
+    "bounding box" : [ 318.556, 460.503, 321.713, 466.042 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "O"
+  }, {
+    "type" : "paragraph",
+    "id" : 165,
+    "page number" : 3,
+    "bounding box" : [ 169.05, 459.776, 185.134, 465.315 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "OH OH"
+  }, {
+    "type" : "list",
+    "id" : 192,
+    "level" : "2",
+    "page number" : 3,
+    "bounding box" : [ 279.13, 454.242, 286.271, 463.965 ],
+    "numbering style" : "english letters",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 283.114, 458.426, 286.271, 463.965 ],
+      "font" : "ArialMT",
+      "font size" : 4.058,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "O",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 279.13, 454.242, 281.836, 459.781 ],
+      "font" : "ArialMT",
+      "font size" : 4.058,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "P",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 193,
+    "level" : "2",
+    "page number" : 3,
+    "bounding box" : [ 270.714, 441.598, 280.777, 463.937 ],
+    "numbering style" : "english letters",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 274.723, 458.398, 277.88, 463.937 ],
+      "font" : "ArialMT",
+      "font size" : 4.058,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "O",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 270.714, 441.598, 280.777, 451.365 ],
+      "font" : "ArialMT",
+      "font size" : 4.058,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "P OH",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 216,
+    "page number" : 3,
+    "bounding box" : [ 434.256, 458.047, 450.34, 463.586 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "O OH"
+  }, {
+    "type" : "paragraph",
+    "id" : 223,
+    "page number" : 3,
+    "bounding box" : [ 424.366, 457.587, 427.523, 463.126 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "O"
+  }, {
+    "type" : "paragraph",
+    "id" : 202,
+    "page number" : 3,
+    "bounding box" : [ 332.871, 457.541, 336.028, 463.08 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "O"
+  }, {
+    "type" : "paragraph",
+    "id" : 208,
+    "page number" : 3,
+    "bounding box" : [ 313.579, 455.897, 316.285, 461.436 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "P"
+  }, {
+    "type" : "paragraph",
+    "id" : 181,
+    "page number" : 3,
+    "bounding box" : [ 151.297, 448.549, 175.217, 460.033 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "O HO"
+  }, {
+    "type" : "paragraph",
+    "id" : 183,
+    "page number" : 3,
+    "bounding box" : [ 160.171, 452.546, 241.215, 460.033 ],
+    "font" : "Helvetica",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "O NH2"
+  }, {
+    "type" : "paragraph",
+    "id" : 179,
+    "page number" : 3,
+    "bounding box" : [ 160.394, 448.549, 187.115, 460.0 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "O P O P"
+  }, {
+    "type" : "paragraph",
+    "id" : 191,
+    "page number" : 3,
+    "bounding box" : [ 274.695, 450.005, 306.624, 459.343 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "OH O OH"
+  }, {
+    "type" : "paragraph",
+    "id" : 221,
+    "page number" : 3,
+    "bounding box" : [ 391.584, 451.942, 405.319, 458.624 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "N N"
+  }, {
+    "type" : "paragraph",
+    "id" : 224,
+    "page number" : 3,
+    "bounding box" : [ 424.484, 447.653, 439.538, 457.977 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "P O OH"
+  }, {
+    "type" : "paragraph",
+    "id" : 206,
+    "page number" : 3,
+    "bounding box" : [ 308.409, 450.891, 324.418, 456.43 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "O OH"
+  }, {
+    "type" : "paragraph",
+    "id" : 195,
+    "page number" : 3,
+    "bounding box" : [ 266.282, 450.006, 269.439, 455.545 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "O"
+  }, {
+    "type" : "paragraph",
+    "id" : 178,
+    "page number" : 3,
+    "bounding box" : [ 178.001, 442.592, 193.068, 454.108 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "O P O OH"
+  }, {
+    "type" : "paragraph",
+    "id" : 176,
+    "page number" : 3,
+    "bounding box" : [ 204.226, 445.583, 207.383, 451.122 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "O"
+  }, {
+    "type" : "paragraph",
+    "id" : 203,
+    "page number" : 3,
+    "bounding box" : [ 327.609, 444.917, 343.693, 450.456 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "OH OH"
+  }, {
+    "type" : "paragraph",
+    "id" : 220,
+    "page number" : 3,
+    "bounding box" : [ 387.452, 444.158, 390.382, 449.697 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "N"
+  }, {
+    "type" : "paragraph",
+    "id" : 180,
+    "page number" : 3,
+    "bounding box" : [ 172.06, 442.605, 178.146, 448.144 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "OH"
+  }, {
+    "type" : "paragraph",
+    "id" : 182,
+    "page number" : 3,
+    "bounding box" : [ 160.171, 442.605, 166.256, 448.144 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "OH"
+  }, {
+    "type" : "paragraph",
+    "id" : 197,
+    "page number" : 3,
+    "bounding box" : [ 257.875, 441.598, 261.032, 447.137 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "O"
+  }, {
+    "type" : "list",
+    "id" : 194,
+    "level" : "2",
+    "page number" : 3,
+    "bounding box" : [ 262.306, 437.418, 269.443, 447.137 ],
+    "numbering style" : "english letters",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 266.286, 441.598, 269.443, 447.137 ],
+      "font" : "ArialMT",
+      "font size" : 4.058,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "O",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 262.306, 437.418, 265.012, 442.957 ],
+      "font" : "ArialMT",
+      "font size" : 4.058,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "P",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 196,
+    "page number" : 3,
+    "bounding box" : [ 254.946, 433.191, 272.368, 438.73 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "HO OH"
+  }, {
+    "type" : "paragraph",
+    "id" : 177,
+    "page number" : 3,
+    "bounding box" : [ 198.963, 432.959, 215.047, 438.498 ],
+    "font" : "ArialMT",
+    "font size" : 4.058,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "OH OH"
+  }, {
+    "type" : "paragraph",
+    "id" : 235,
+    "page number" : 3,
+    "bounding box" : [ 168.193, 425.281, 446.925, 433.49 ],
+    "font" : "Helvetica",
+    "font size" : 7.101,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "ATP + GTP pppApG 3’,2’-cGAMP"
+  }, {
+    "type" : "list",
+    "id" : 242,
+    "level" : "5",
+    "page number" : 3,
+    "bounding box" : [ 43.597, 67.652, 551.774, 418.074 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "next list id" : 290,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 43.597, 355.873, 551.709, 418.074 ],
+      "font" : "AdvOTcb88df00",
+      "font size" : 7.97,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Fig. 1 In vitro reconstitution of the enzymatic activity of CdnG. a Schematic view of two operons encoding CdnG-Cap5 antiphage defense system. In addition to the genes encoding Cap5 and CdnG, a third gene encoding a conserved protein of unknown function might also be part of the operon (colored green). b UPLC analysis of the reaction mixtures carried out by AsCdnG. ApG is presumably the dephosphorylated product of the reaction intermediate pppApG. I, Inosine, which is presumably the dephosphorylated product of ITP resulting from deamination of ATP. Results are representative of three independent experiments. c UPLC analysis of the reaction mixtures carried out by LlCdnG. Results are representative of three independent experiments. d Proposed chemical steps of AsCdnG-catalyzed reaction to produce 3′,2′-cGAMP as the ﬁnal product.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 59,
+        "page number" : 3,
+        "bounding box" : [ 135.634, 307.817, 280.831, 326.991 ],
+        "font" : "Helvetica",
+        "font size" : 8.413,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "cGAMP(nM) L 1 2 3 4 5 6 7"
+      }, {
+        "type" : "paragraph",
+        "id" : 60,
+        "level" : "6",
+        "page number" : 3,
+        "bounding box" : [ 187.935, 317.265, 285.165, 327.05 ],
+        "font" : "Helvetica",
+        "font size" : 8.413,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "– 1 10 102 103 104 105"
+      }, {
+        "type" : "paragraph",
+        "id" : 61,
+        "page number" : 3,
+        "bounding box" : [ 140.686, 214.824, 158.918, 224.55 ],
+        "font" : "Helvetica",
+        "font size" : 8.413,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "3’,3’-"
+      }, {
+        "type" : "list",
+        "id" : 62,
+        "level" : "7",
+        "page number" : 3,
+        "bounding box" : [ 140.686, 146.71, 158.918, 289.837 ],
+        "numbering style" : "arabic numbers",
+        "number of list items" : 2,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 140.686, 146.71, 158.918, 156.435 ],
+          "font" : "Helvetica",
+          "font size" : 8.413,
+          "text color" : "[0.0, 0.0, 0.0, 1.0]",
+          "content" : "2’,3’-",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 140.686, 280.111, 158.918, 289.837 ],
+          "font" : "Helvetica",
+          "font size" : 8.413,
+          "text color" : "[0.0, 0.0, 0.0, 1.0]",
+          "content" : "3’,2’-",
+          "kids" : [ ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "id" : 63,
+        "page number" : 3,
+        "bounding box" : [ 310.315, 307.817, 454.671, 326.991 ],
+        "font" : "Helvetica",
+        "font size" : 8.413,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "cGAMP(nM) L 1 2 3 4 5 6 7"
+      }, {
+        "type" : "paragraph",
+        "id" : 64,
+        "level" : "6",
+        "page number" : 3,
+        "bounding box" : [ 361.774, 317.265, 459.003, 327.05 ],
+        "font" : "Helvetica",
+        "font size" : 8.413,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "– 1 10 102 103 104 105"
+      }, {
+        "type" : "list",
+        "id" : 65,
+        "level" : "7",
+        "page number" : 3,
+        "bounding box" : [ 314.524, 214.824, 332.756, 289.837 ],
+        "numbering style" : "arabic numbers",
+        "number of list items" : 2,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 314.524, 280.111, 332.756, 289.837 ],
+          "font" : "Helvetica",
+          "font size" : 8.413,
+          "text color" : "[0.0, 0.0, 0.0, 1.0]",
+          "content" : "3’,2’-",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 314.524, 214.824, 332.756, 224.55 ],
+          "font" : "Helvetica",
+          "font size" : 8.413,
+          "text color" : "[0.0, 0.0, 0.0, 1.0]",
+          "content" : "3’,3’-",
+          "kids" : [ ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "id" : 66,
+        "page number" : 3,
+        "bounding box" : [ 314.524, 146.71, 332.756, 156.436 ],
+        "font" : "Helvetica",
+        "font size" : 8.413,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "2’,3’-"
+      }, {
+        "type" : "paragraph",
+        "id" : 67,
+        "page number" : 3,
+        "bounding box" : [ 216.032, 330.029, 422.755, 341.7 ],
+        "font" : "Helvetica",
+        "font size" : 10.096,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "AsCap5 LlCap5"
+      }, {
+        "type" : "paragraph",
+        "id" : 68,
+        "page number" : 3,
+        "bounding box" : [ 135.634, 295.519, 318.53, 311.538 ],
+        "font" : "Helvetica-Bold",
+        "font size" : 13.461,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "a b"
+      }, {
+        "type" : "paragraph",
+        "id" : 69,
+        "page number" : 3,
+        "bounding box" : [ 135.634, 229.424, 318.545, 245.443 ],
+        "font" : "Helvetica-Bold",
+        "font size" : 13.461,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "c d"
+      }, {
+        "type" : "paragraph",
+        "id" : 70,
+        "page number" : 3,
+        "bounding box" : [ 135.634, 163.168, 314.802, 179.187 ],
+        "font" : "Helvetica-Bold",
+        "font size" : 13.461,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "e f"
+      }, {
+        "type" : "text block",
+        "id" : 72,
+        "page number" : 3,
+        "bounding box" : [ 344.297, 247.219, 459.468, 307.357 ],
+        "kids" : [ {
+          "type" : "image",
+          "id" : 2,
+          "page number" : 3,
+          "bounding box" : [ 344.322, 247.677, 459.44, 306.873 ],
+          "source" : "2021_Fatma_images/imageFile1.png"
+        } ]
+      }, {
+        "type" : "text block",
+        "id" : 73,
+        "page number" : 3,
+        "bounding box" : [ 344.297, 115.077, 459.468, 175.214 ],
+        "kids" : [ {
+          "type" : "image",
+          "id" : 1,
+          "page number" : 3,
+          "bounding box" : [ 344.112, 115.437, 459.882, 174.843 ],
+          "source" : "2021_Fatma_images/imageFile2.png"
+        } ]
+      }, {
+        "type" : "text block",
+        "id" : 74,
+        "page number" : 3,
+        "bounding box" : [ 169.56, 115.077, 284.733, 175.214 ],
+        "kids" : [ {
+          "type" : "image",
+          "id" : 5,
+          "page number" : 3,
+          "bounding box" : [ 170.382, 115.437, 284.005, 174.843 ],
+          "source" : "2021_Fatma_images/imageFile3.png"
+        } ]
+      }, {
+        "type" : "text block",
+        "id" : 75,
+        "page number" : 3,
+        "bounding box" : [ 169.56, 247.219, 284.733, 307.357 ],
+        "kids" : [ {
+          "type" : "image",
+          "id" : 3,
+          "page number" : 3,
+          "bounding box" : [ 169.872, 247.497, 284.464, 307.083 ],
+          "source" : "2021_Fatma_images/imageFile4.png"
+        } ]
+      }, {
+        "type" : "text block",
+        "id" : 76,
+        "page number" : 3,
+        "bounding box" : [ 169.56, 181.512, 284.733, 241.649 ],
+        "kids" : [ {
+          "type" : "image",
+          "id" : 6,
+          "page number" : 3,
+          "bounding box" : [ 169.572, 181.977, 284.877, 241.173 ],
+          "source" : "2021_Fatma_images/imageFile5.png"
+        } ]
+      }, {
+        "type" : "text block",
+        "id" : 77,
+        "page number" : 3,
+        "bounding box" : [ 344.297, 181.512, 459.468, 241.649 ],
+        "kids" : [ {
+          "type" : "image",
+          "id" : 4,
+          "page number" : 3,
+          "bounding box" : [ 344.322, 182.067, 459.44, 241.083 ],
+          "source" : "2021_Fatma_images/imageFile6.png"
+        } ]
+      }, {
+        "type" : "paragraph",
+        "id" : 79,
+        "page number" : 3,
+        "bounding box" : [ 159.053, 268.148, 168.408, 275.929 ],
+        "font" : "Helvetica",
+        "font size" : 6.731,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "0.5"
+      }, {
+        "type" : "paragraph",
+        "id" : 80,
+        "page number" : 3,
+        "bounding box" : [ 159.053, 204.201, 168.408, 211.981 ],
+        "font" : "Helvetica",
+        "font size" : 6.731,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "0.5"
+      }, {
+        "type" : "paragraph",
+        "id" : 81,
+        "page number" : 3,
+        "bounding box" : [ 159.053, 136.06, 168.408, 143.841 ],
+        "font" : "Helvetica",
+        "font size" : 6.731,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "0.5"
+      }, {
+        "type" : "paragraph",
+        "id" : 82,
+        "page number" : 3,
+        "bounding box" : [ 333.625, 268.747, 342.98, 276.528 ],
+        "font" : "Helvetica",
+        "font size" : 6.731,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "0.5"
+      }, {
+        "type" : "paragraph",
+        "id" : 83,
+        "page number" : 3,
+        "bounding box" : [ 333.625, 134.68, 342.98, 142.461 ],
+        "font" : "Helvetica",
+        "font size" : 6.731,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "0.5"
+      }, {
+        "type" : "paragraph",
+        "id" : 84,
+        "page number" : 3,
+        "bounding box" : [ 333.625, 204.079, 342.98, 211.859 ],
+        "font" : "Helvetica",
+        "font size" : 6.731,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "0.5"
+      }, {
+        "type" : "paragraph",
+        "id" : 85,
+        "page number" : 3,
+        "bounding box" : [ 333.625, 228.411, 342.98, 236.191 ],
+        "font" : "Helvetica",
+        "font size" : 6.731,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "3.0"
+      }, {
+        "type" : "paragraph",
+        "id" : 86,
+        "page number" : 3,
+        "bounding box" : [ 333.625, 294.72, 342.98, 302.5 ],
+        "font" : "Helvetica",
+        "font size" : 6.731,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "3.0"
+      }, {
+        "type" : "paragraph",
+        "id" : 87,
+        "page number" : 3,
+        "bounding box" : [ 333.625, 161.656, 342.98, 169.436 ],
+        "font" : "Helvetica",
+        "font size" : 6.731,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "3.0"
+      }, {
+        "type" : "paragraph",
+        "id" : 88,
+        "page number" : 3,
+        "bounding box" : [ 159.053, 294.262, 168.408, 302.043 ],
+        "font" : "Helvetica",
+        "font size" : 6.731,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "3.0"
+      }, {
+        "type" : "paragraph",
+        "id" : 89,
+        "page number" : 3,
+        "bounding box" : [ 159.053, 228.578, 168.408, 236.359 ],
+        "font" : "Helvetica",
+        "font size" : 6.731,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "3.0"
+      }, {
+        "type" : "paragraph",
+        "id" : 90,
+        "page number" : 3,
+        "bounding box" : [ 159.053, 161.656, 168.408, 169.436 ],
+        "font" : "Helvetica",
+        "font size" : 6.731,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "3.0"
+      }, {
+        "type" : "paragraph",
+        "id" : 91,
+        "page number" : 3,
+        "bounding box" : [ 156.589, 308.32, 344.534, 318.045 ],
+        "font" : "Helvetica",
+        "font size" : 8.413,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "(kb) (kb)"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 43.597, 67.652, 551.774, 107.851 ],
+      "font" : "AdvOTcb88df00",
+      "font size" : 7.97,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Fig. 2 In vitro reconstitution of the enzymatic activity of Cap5. DNA degradations were carried out by AsCap5 and LlCap5 in the presence of increasing concentrations of second messengers (10-fold increase with each step). Three different cGAMP were tested to activate Cap5 for DNA degradation. They are 3′,2′-cGAMP (a, b), 3′,3′-cGAMP (c, d), and 2′,3′-cGAMP (e, f). L, DNA ladder marked with the molecular weight in kilo-base pair (kb). Results are representative of three independent experiments. Source data are provided as a Source Data ﬁle.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 244,
+    "page number" : 3,
+    "bounding box" : [ 43.597, 23.654, 551.694, 31.924 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 35,
+      "page number" : 3,
+      "bounding box" : [ 43.597, 23.654, 551.694, 31.924 ],
+      "heading level" : 6,
+      "font" : "AdvOTea1a7398",
+      "font size" : 6.725,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "NATURE COMMUNICATIONS| (2021) 12:6381 |https://doi.org/10.1038/s41467-021-26738-2|www.nature.com/naturecommunications 3"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 245,
+    "page number" : 4,
+    "bounding box" : [ 43.597, 752.742, 551.728, 768.126 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 44,
+      "page number" : 4,
+      "bounding box" : [ 43.597, 752.742, 551.728, 768.126 ],
+      "heading level" : 3,
+      "font" : "AdvOTea1a7398",
+      "font size" : 7.97,
+      "text color" : "[0.9803921568627451, 0.3803921568627451, 0.0]",
+      "content" : "ARTICLE NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-021-26738-2"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 246,
+    "page number" : 4,
+    "bounding box" : [ 43.597, 712.248, 291.633, 733.185 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "To assess ligand speciﬁcity of AsCap5 and LlCap5, we also carried out the same assays employing both 3′,3′-cGAMP and"
+  }, {
+    "type" : "list",
+    "id" : 247,
+    "level" : "1",
+    "page number" : 4,
+    "bounding box" : [ 43.593, 534.4, 291.679, 713.146 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 43.594, 586.728, 291.679, 713.146 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 9.465,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "2′,3′-cGAMP as potential activators (Fig. 2c−f). 3′,3′-cGAMP has been shown to be synthesized by bacterial enzymes8. On the other hand, 2′,3′-cGAMP is the product of cGAS1, and has not yet been observed in bacteria. Compared to 3′,2′-cGAMP, both 3′,3′cGAMP, and 2′,3′-cGAMP are signiﬁcantly less effective. For example, it requires 100 μM of 3′,3′-cGAMP and 2′,3′-cGAMP to achieve the same degree of DNA degradation accomplished by 10 nM of 3′,2′-cGAMP (Fig. 2c−f, lane 7). Therefore, the ligand speciﬁcity of AsCap5 and LlCap5 for 3′,2′-cGAMP over 3′,3′cGAMP and 2′,3′-cGAMP is approximately 10,000-fold. We also tested the possible activation of AsCap5 and LlCap5 by 3′,3′-c-diGMP and 3′,3′-c-di-AMP, and both are even less effective than",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 43.593, 534.4, 291.657, 587.18 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 9.465,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "3′,3′-cGAMP (Supplementary Fig. 3). The high selectivity of Cap5 for 3′,2′-cGAMP, together with the fact that it is synthesized by its cognate CdnG, strongly indicates that 3′,2′-cGAMP is the biological signaling molecule that activates AsCap5 and LlCap5 for DNA degradation in vivo.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 248,
+    "page number" : 4,
+    "bounding box" : [ 43.593, 396.295, 291.68, 521.927 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Structures of inactive AsCap5 and LlCap5. To provide structural insight of Cap5, we solved the crystal structures of both LlCap5 and AsCap5 (Fig. 3a, b). The structures revealed that both Cap5 form homodimers, resulting from the side-by-side packing of two HNH domains. Each monomer of Cap5 is composed of the N-terminal HNH domain, the C-terminal SAVED domain, and a short ﬂexible linker connecting these two domains. As described in later sections, the SAVED domain of Cap5 is likely to employ the interaction of two opposite sides to activate Cap5 for DNA degradation. Therefore, to facilitate structural description, we assigned the side where the ligand binds as Front, and the opposite side as Back (Fig. 3a, b)."
+  }, {
+    "type" : "paragraph",
+    "id" : 249,
+    "page number" : 4,
+    "bounding box" : [ 303.589, 555.317, 551.689, 733.182 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The overall structures of LlCap5 and AsCap5 are very different (Fig. 3a, b). The different locations of two SAVED domains are responsible for the difference, as the overall structures of the HNH homodimers are similar (Supplementary Fig. 4b). In the structure of LlCap5 homodimer, two SAVED domains do not make any contact, and they are far away from each other (Fig. 3a). Therefore, the structure of LlCap5 can be described as in open conﬁguration. On the other hand, two SAVED domains in the structure of AsCap5 are close and make contact with one another. But the two contacting surfaces are not completely closed and a gap between them can be seen (Fig. 3b). Therefore, the structure of AsCap5 can be best described as in ajar conﬁguration. Importantly, unlike the two-fold symmetry applicable for the entire LlCap5 structure, the Front of the ﬁrst SAVED domain of AsCap5 faces the Back of the second SAVED domain (Fig. 3b). Therefore, the two-fold symmetry is only applicable to the HNH homodimer."
+  }, {
+    "type" : "paragraph",
+    "id" : 250,
+    "page number" : 4,
+    "bounding box" : [ 303.588, 419.37, 551.706, 555.334 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The detailed structural analysis of the SAVED domains will be carried out below. Here, we focus our analysis on the structure of the HNH domains. Although the overall HNH homodimers of these two structures are similar (Supplementary Fig. 4b), there are signiﬁcant differences locally. The HNH domain of AsCap5 (AsCap5-HNH) is signiﬁcantly more structured near the active site than the one of LlCap5 (Supplementary Fig. 4c, d). Speciﬁcally, a well-coordinated Mg2 ion is only observed with AsCap5-HNH (Supplementary Fig. 4c), and nine residues of LlCap5-HNH near the active site are disordered (Supplementary Fig. 4d). Therefore, it is reasonable to conclude that the conﬁguration of LlCap5 shown in Fig. 3a is enzymatically inactive."
+  }, {
+    "type" : "paragraph",
+    "id" : 251,
+    "page number" : 4,
+    "bounding box" : [ 303.59, 398.45, 551.679, 419.33 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "To provide functional insight into the HNH domain of AsCap5, we performed Dali structural search18 based on the"
+  }, {
+    "type" : "heading",
+    "id" : 253,
+    "level" : "Subtitle",
+    "page number" : 4,
+    "bounding box" : [ 117.634, 371.406, 330.045, 385.443 ],
+    "heading level" : 4,
+    "font" : "Helvetica-Bold",
+    "font size" : 11.796,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "a b"
+  }, {
+    "type" : "paragraph",
+    "id" : 285,
+    "page number" : 4,
+    "bounding box" : [ 385.394, 376.621, 405.92, 383.439 ],
+    "font" : "Helvetica",
+    "font size" : 5.898,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "112 118"
+  }, {
+    "type" : "caption",
+    "id" : 287,
+    "page number" : 4,
+    "bounding box" : [ 172.643, 376.62, 290.727, 383.438 ],
+    "linked content id" : 286,
+    "font" : "Helvetica",
+    "font size" : 5.898,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "1 385"
+  }, {
+    "type" : "paragraph",
+    "id" : 289,
+    "page number" : 4,
+    "bounding box" : [ 202.913, 376.62, 223.379, 383.438 ],
+    "font" : "Helvetica",
+    "font size" : 5.898,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "116 122"
+  }, {
+    "type" : "caption",
+    "id" : 283,
+    "page number" : 4,
+    "bounding box" : [ 359.547, 376.62, 477.631, 383.438 ],
+    "linked content id" : 281,
+    "font" : "Helvetica",
+    "font size" : 5.898,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "1 384"
+  }, {
+    "type" : "paragraph",
+    "id" : 288,
+    "page number" : 4,
+    "bounding box" : [ 146.768, 368.33, 171.682, 377.421 ],
+    "font" : "Helvetica",
+    "font size" : 7.864,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "LlCap5"
+  }, {
+    "type" : "paragraph",
+    "id" : 284,
+    "page number" : 4,
+    "bounding box" : [ 330.724, 368.33, 358.697, 377.421 ],
+    "font" : "Helvetica",
+    "font size" : 7.864,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "AsCap5"
+  }, {
+    "type" : "table",
+    "id" : 286,
+    "level" : "6",
+    "page number" : 4,
+    "bounding box" : [ 173.796, 368.276, 286.157, 376.861 ],
+    "number of rows" : 1,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 4,
+        "bounding box" : [ 176.439, 368.644, 213.548, 374.346 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 9,
+          "page number" : 4,
+          "bounding box" : [ 187.354, 368.492, 202.259, 376.446 ],
+          "font" : "Helvetica",
+          "font size" : 6.881,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "HNH"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 4,
+        "bounding box" : [ 213.548, 368.644, 285.272, 374.346 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 10,
+          "page number" : 4,
+          "bounding box" : [ 235.466, 368.492, 258.29, 376.446 ],
+          "font" : "Helvetica",
+          "font size" : 6.881,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "SAVED"
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 281,
+    "level" : "5",
+    "page number" : 4,
+    "bounding box" : [ 360.7, 368.276, 473.062, 376.861 ],
+    "number of rows" : 1,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 4,
+        "bounding box" : [ 361.623, 368.644, 396.03, 374.346 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 7,
+          "page number" : 4,
+          "bounding box" : [ 370.327, 368.492, 385.23, 376.446 ],
+          "font" : "Helvetica",
+          "font size" : 6.881,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "HNH"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 4,
+        "bounding box" : [ 396.03, 368.644, 470.702, 374.346 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 8,
+          "page number" : 4,
+          "bounding box" : [ 420.4, 368.492, 443.224, 376.446 ],
+          "font" : "Helvetica",
+          "font size" : 6.881,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "SAVED"
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 265,
+    "page number" : 4,
+    "bounding box" : [ 341.534, 358.286, 356.437, 366.24 ],
+    "font" : "Helvetica",
+    "font size" : 6.881,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "HNH"
+  }, {
+    "type" : "paragraph",
+    "id" : 258,
+    "page number" : 4,
+    "bounding box" : [ 405.322, 357.898, 420.225, 365.853 ],
+    "font" : "Helvetica",
+    "font size" : 6.881,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "HNH"
+  }, {
+    "type" : "image",
+    "id" : 252,
+    "page number" : 4,
+    "bounding box" : [ 120.432, 135.447, 476.148, 359.883 ],
+    "source" : "2021_Fatma_images/imageFile7.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 264,
+    "page number" : 4,
+    "bounding box" : [ 184.383, 348.466, 199.288, 356.421 ],
+    "font" : "Helvetica",
+    "font size" : 6.881,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "HNH"
+  }, {
+    "type" : "paragraph",
+    "id" : 257,
+    "page number" : 4,
+    "bounding box" : [ 243.952, 347.969, 258.857, 355.923 ],
+    "font" : "Helvetica",
+    "font size" : 6.881,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "HNH"
+  }, {
+    "type" : "paragraph",
+    "id" : 280,
+    "page number" : 4,
+    "bounding box" : [ 444.112, 322.391, 462.85, 330.346 ],
+    "font" : "Helvetica",
+    "font size" : 6.881,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Linker"
+  }, {
+    "type" : "paragraph",
+    "id" : 279,
+    "page number" : 4,
+    "bounding box" : [ 341.384, 302.105, 360.122, 310.06 ],
+    "font" : "Helvetica",
+    "font size" : 6.881,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Linker"
+  }, {
+    "type" : "paragraph",
+    "id" : 278,
+    "page number" : 4,
+    "bounding box" : [ 198.54, 295.892, 246.047, 304.83 ],
+    "font" : "Helvetica",
+    "font size" : 6.881,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Linker Linker"
+  }, {
+    "type" : "paragraph",
+    "id" : 260,
+    "page number" : 4,
+    "bounding box" : [ 186.556, 271.435, 476.856, 288.115 ],
+    "font" : "Helvetica",
+    "font size" : 5.898,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Front Back Back"
+  }, {
+    "type" : "paragraph",
+    "id" : 259,
+    "page number" : 4,
+    "bounding box" : [ 118.636, 273.399, 318.766, 280.706 ],
+    "font" : "Helvetica",
+    "font size" : 5.898,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Front Front"
+  }, {
+    "type" : "paragraph",
+    "id" : 261,
+    "page number" : 4,
+    "bounding box" : [ 339.587, 258.937, 352.698, 265.755 ],
+    "font" : "Helvetica",
+    "font size" : 5.898,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Back"
+  }, {
+    "type" : "paragraph",
+    "id" : 254,
+    "page number" : 4,
+    "bounding box" : [ 143.812, 231.019, 292.788, 240.046 ],
+    "font" : "Helvetica",
+    "font size" : 6.881,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "SAVED SAVED"
+  }, {
+    "type" : "paragraph",
+    "id" : 256,
+    "page number" : 4,
+    "bounding box" : [ 443.485, 227.475, 466.31, 235.429 ],
+    "font" : "Helvetica",
+    "font size" : 6.881,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "SAVED"
+  }, {
+    "type" : "paragraph",
+    "id" : 262,
+    "page number" : 4,
+    "bounding box" : [ 401.455, 223.03, 424.465, 235.291 ],
+    "font" : "Helvetica",
+    "font size" : 5.898,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Back Front"
+  }, {
+    "type" : "paragraph",
+    "id" : 272,
+    "page number" : 4,
+    "bounding box" : [ 117.634, 210.217, 321.867, 226.923 ],
+    "font" : "Helvetica",
+    "font size" : 6.881,
+    "text color" : "[0.0, 0.70196002, 0.0]",
+    "content" : "e DNA"
+  }, {
+    "type" : "heading",
+    "id" : 266,
+    "level" : "Subtitle",
+    "page number" : 4,
+    "bounding box" : [ 229.895, 212.885, 237.103, 226.922 ],
+    "heading level" : 4,
+    "font" : "Helvetica-Bold",
+    "font size" : 11.796,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "d"
+  }, {
+    "type" : "paragraph",
+    "id" : 270,
+    "page number" : 4,
+    "bounding box" : [ 198.112, 210.217, 212.638, 218.172 ],
+    "font" : "Helvetica",
+    "font size" : 6.881,
+    "text color" : "[0.0, 0.70196002, 0.0]",
+    "content" : "DNA"
+  }, {
+    "type" : "paragraph",
+    "id" : 267,
+    "page number" : 4,
+    "bounding box" : [ 157.516, 211.024, 168.333, 217.842 ],
+    "font" : "Helvetica",
+    "font size" : 5.898,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "D84"
+  }, {
+    "type" : "paragraph",
+    "id" : 255,
+    "page number" : 4,
+    "bounding box" : [ 376.496, 206.797, 399.321, 214.751 ],
+    "font" : "Helvetica",
+    "font size" : 6.881,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "SAVED"
+  }, {
+    "type" : "paragraph",
+    "id" : 268,
+    "page number" : 4,
+    "bounding box" : [ 248.977, 200.142, 280.943, 211.638 ],
+    "font" : "Helvetica",
+    "font size" : 5.898,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "N611 D587"
+  }, {
+    "type" : "paragraph",
+    "id" : 269,
+    "page number" : 4,
+    "bounding box" : [ 137.245, 204.648, 148.062, 211.466 ],
+    "font" : "Helvetica",
+    "font size" : 5.898,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "H80"
+  }, {
+    "type" : "heading",
+    "id" : 274,
+    "level" : "Subtitle",
+    "page number" : 4,
+    "bounding box" : [ 339.989, 193.397, 346.548, 207.435 ],
+    "heading level" : 4,
+    "font" : "Helvetica-Bold",
+    "font size" : 11.796,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "c"
+  }, {
+    "type" : "paragraph",
+    "id" : 276,
+    "page number" : 4,
+    "bounding box" : [ 138.562, 141.746, 172.203, 149.701 ],
+    "font" : "Helvetica",
+    "font size" : 6.881,
+    "text color" : "[0.69804, 0.12941, 0.12941]",
+    "content" : "Cap5-HNH"
+  }, {
+    "type" : "paragraph",
+    "id" : 263,
+    "page number" : 4,
+    "bounding box" : [ 368.796, 132.944, 452.174, 149.157 ],
+    "font" : "Helvetica",
+    "font size" : 6.881,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Z score = 6.4; rmsd = 2.7 Å 14% sequence identity"
+  }, {
+    "type" : "paragraph",
+    "id" : 275,
+    "page number" : 4,
+    "bounding box" : [ 248.783, 138.065, 282.039, 146.02 ],
+    "font" : "Helvetica",
+    "font size" : 6.881,
+    "text color" : "[0.25097998, 0.25097998, 0.65098]",
+    "content" : "Cas9-HNH"
+  }, {
+    "type" : "paragraph",
+    "id" : 271,
+    "page number" : 4,
+    "bounding box" : [ 178.446, 135.536, 302.484, 143.49 ],
+    "font" : "Helvetica",
+    "font size" : 6.881,
+    "text color" : "[0.22353, 0.74510002, 0.74510002]",
+    "content" : "RNA RNA"
+  }, {
+    "type" : "list",
+    "id" : 290,
+    "level" : "5",
+    "page number" : 4,
+    "bounding box" : [ 43.595, 43.728, 551.74, 125.709 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 242,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 43.595, 43.728, 551.74, 125.709 ],
+      "font" : "AdvOTcb88df00",
+      "font size" : 7.97,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Fig. 3 Crystal structures of unliganded Cap5. a Cartoon and surface depiction of the structure of LlCap5. Cap5 forms a homodimer, and two monomers are colored red and blue, respectively. Zn2+ ions are in the sphere and colored black. b Structure of AsCap5. Additional Mg2+ ions in the active sites of HNH domains are in sphere and colored magenta. c Stereoview of structural superposition of HNH domain from AsCap5 (red) to the one from Cas9 (blue). The structures are depicted in ribbon, and Mg2+ ions are in sphere. d Structure of Cas9-HNH domain in complex with DNA•RNA hybrid. Two residues coordinating a Mg2+ ion are in stick and colored individually, with carbon in yellow, oxygen in red, and nitrogen in blue. e Structure of AsCap5-HNH domain with the modeled DNA•RNA hybrid from d. In addition to coordination of a Mg2 ion, a zinc ﬁnger, which is absent in Cas9-HNH domain, is also depicted in the stick, with the Zn2 ion in black and the sulfur atom in orange. The peptide having a steric clash with the DNA strand of the modeled DNA•RNA hybrid is colored black and depicted in the stick.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 292,
+    "page number" : 4,
+    "bounding box" : [ 43.597, 23.654, 494.161, 31.924 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 36,
+      "page number" : 4,
+      "bounding box" : [ 43.597, 23.654, 494.161, 31.924 ],
+      "heading level" : 6,
+      "font" : "AdvOTea1a7398",
+      "font size" : 6.725,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "4 NATURE COMMUNICATIONS| (2021) 12:6381 |https://doi.org/10.1038/s41467-021-26738-2|www.nature.com/naturecommunications"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 293,
+    "page number" : 5,
+    "bounding box" : [ 43.597, 752.742, 551.663, 768.126 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 45,
+      "page number" : 5,
+      "bounding box" : [ 43.597, 752.742, 551.663, 768.126 ],
+      "heading level" : 3,
+      "font" : "AdvOTea1a7398",
+      "font size" : 7.97,
+      "text color" : "[0.9803921568627451, 0.3803921568627451, 0.0]",
+      "content" : "NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-021-26738-2 ARTICLE"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 294,
+    "page number" : 5,
+    "bounding box" : [ 43.596, 503.05, 291.68, 733.185 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "structure of AsCap5-HNH. Among top 30 hits, approximately half are the structures of the HNH domain of Cas9 (Cas9-HNH). Among those 30 structures, only one (PDB accession code 6JDV) shows the presence of nucleic acids in the active site of the HNH domain19. Therefore, we employed this Cas9-HNH for our structural analysis of AsCap5-HNH. Structural superposition indicates the front portion of the HNH domains align well, including the coordinated Mg2 ions (Fig. 3c). They differ on the back portion, with a helix-turn-helix motif for Cas9-HNH (Fig. 3d) and a long helix for AsCap5-HNH (Fig. 3e). The structural divergence on the back probably reﬂects different mechanisms of HNH activation by Cap5 and Cas9. We created a model of AsCap5-HNH in complex with DNA•RNA hybrid, which revealed that part of a loop in AsCap5-HNH has a steric clash with the DNA strand of the modeled DNA•RNA hybrid (Fig. 3e, colored black). Based on this analysis, we conclude that the conﬁguration of AsCap5 shown in Fig. 3b is also likely to be inactive. We acknowledge that the modeled DNA•RNA hybrid is structurally different from the double-stranded DNA, which is the substrate of Cap5. However, the structural difference of A and B-forms DNAs is small, and a similar steric clash would likely be observed with a modeled double-stranded DNA."
+  }, {
+    "type" : "paragraph",
+    "id" : 295,
+    "page number" : 5,
+    "bounding box" : [ 43.596, 367.04, 291.671, 482.583 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Molecular recognition of 3′,2′-cGAMP by the SAVED domain of Cap5. To provide molecular insight into the ligand speciﬁcity of the SAVED domain of Cap5, we solved the crystal structure of the SAVED domain of LlCap5 (LlCap5-SAVED) in complex with 3′,2′-cGAMP (Fig. 4a and Supplementary Figs. 5, 6). The structures of the SAVED domains of LlCap5-SAVED and the fulllength LlCap5 are essentially the same (rmsd = 0.4 Å). In addition, despite of a modest sequence identity (23%) between the SAVED domains of LlCap5 and AsCap5, the structure of LlCap5SAVED is highly homologous to the structure of the SAVED domain of AsCap5 (rmsd = 1.9 Å, Supplementary Fig. 5b)."
+  }, {
+    "type" : "paragraph",
+    "id" : 296,
+    "page number" : 5,
+    "bounding box" : [ 43.596, 251.958, 291.668, 367.0 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Kranzusch and colleagues solved the ﬁrst structure of SAVED domain, and it was depicted as a fusion of two CARF-like motifs13. The evolutionary connection between SAVED and CARF domains was further conﬁrmed by a recent comprehensive bioinformatic analysis of proteins containing these two domains20. In our structure, 3′,2′-cGAMP is found at the center of LlCap5-SAVED (Fig. 4a). Employing a similar evolutionary approach to describe the structure of LlCap5-SAVED, 3′,2′cGAMP is bound at the interface of these two CARF-like motifs (Supplementary Fig. 6). The critical R234 (see below) is in the loop that connects these two CARF-like motifs."
+  }, {
+    "type" : "paragraph",
+    "id" : 297,
+    "page number" : 5,
+    "bounding box" : [ 43.595, 42.758, 291.679, 251.975 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The high-resolution structure of the complex unambiguously conﬁrms the chemical structure of cGAMP synthesized by AsCdnG as 3′,2′-cGAMP (Fig. 4b). Several conserved residues of LlCap5-SAVED are involved in the recognition of 3′,2′cGAMP (Fig. 4c). Speciﬁcally, the adenine base is stacked between the side chains of I208 and R234, which is further stacked by the side chain of F304. The side chain of R234 also forms a hydrogen bond with the 2′−5′ phosphate linkage. The involvement of the side chain of R234 for both base-stacking and phosphatehydrogen bonding appears to be only feasible with the 2′−5′ phosphate linkage, indicating R234 is the discriminating residue to distinguish 3′,2′-cGAMP from 3′,3′-cGAMP. In addition to R234, the side chain of S274 also hydrogen bonds with the 2′ 5′ phosphate linkage, and the free 3′-OH group of the AMP moiety hydrogen bonds with the main-chain carbonyl group of T344 (Fig. 4c). On the other hand, a single residue, R281, is responsible for the recognition of the guanine base (Fig. 4c). Interestingly, both N6 and the 3′−5′ phosphate linkage do not make any speciﬁc contacts with the residues of the SAVED domain, presenting the possibility that these two functional groups might"
+  }, {
+    "type" : "list",
+    "id" : 307,
+    "level" : "2",
+    "page number" : 5,
+    "bounding box" : [ 307.675, 545.183, 505.319, 732.763 ],
+    "numbering style" : "english letters",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 308.051, 718.786, 505.319, 732.763 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 11.745,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "a Front Side",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 307.675, 545.183, 380.095, 559.16 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 11.745,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "b c",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 300,
+    "page number" : 5,
+    "bounding box" : [ 312.162, 465.687, 547.638, 722.283 ],
+    "source" : "2021_Fatma_images/imageFile8.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 303,
+    "page number" : 5,
+    "bounding box" : [ 448.882, 534.196, 462.265, 540.985 ],
+    "font" : "Helvetica",
+    "font size" : 5.872,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "F304"
+  }, {
+    "type" : "paragraph",
+    "id" : 305,
+    "page number" : 5,
+    "bounding box" : [ 443.257, 518.875, 456.969, 525.663 ],
+    "font" : "Helvetica",
+    "font size" : 5.872,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "S274"
+  }, {
+    "type" : "paragraph",
+    "id" : 302,
+    "page number" : 5,
+    "bounding box" : [ 408.32, 518.569, 422.355, 525.358 ],
+    "font" : "Helvetica",
+    "font size" : 5.872,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "R234"
+  }, {
+    "type" : "heading",
+    "id" : 308,
+    "level" : "Subtitle",
+    "page number" : 5,
+    "bounding box" : [ 405.666, 500.781, 482.9, 511.126 ],
+    "heading level" : 7,
+    "font" : "Helvetica",
+    "font size" : 6.851,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "A G"
+  }, {
+    "type" : "paragraph",
+    "id" : 306,
+    "page number" : 5,
+    "bounding box" : [ 520.333, 495.326, 534.368, 502.114 ],
+    "font" : "Helvetica",
+    "font size" : 5.872,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "R281"
+  }, {
+    "type" : "paragraph",
+    "id" : 301,
+    "page number" : 5,
+    "bounding box" : [ 403.534, 480.064, 414.961, 486.852 ],
+    "font" : "Helvetica",
+    "font size" : 5.872,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "I208"
+  }, {
+    "type" : "paragraph",
+    "id" : 304,
+    "page number" : 5,
+    "bounding box" : [ 449.058, 473.205, 472.661, 481.125 ],
+    "font" : "Helvetica",
+    "font size" : 6.851,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "cGAMP"
+  }, {
+    "type" : "paragraph",
+    "id" : 309,
+    "page number" : 5,
+    "bounding box" : [ 303.59, 345.108, 551.714, 459.66 ],
+    "font" : "AdvOTea1a7398",
+    "font size" : 7.97,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Fig. 4 Molecular recognition of 3′,2′-cGAMP by Cap5-SAVED. a Crystal structure of LlCap5-SAVED in complex with 3′,2′-cGAMP. LlCap5-SAVED is in cartoon and surface, and 3′,2′-cGAMP is in the sphere and colored individually, with carbon in green, oxygen in red, nitrogen in blue, and phosphate in orange. b Simulated-annealing Fo−Fc omit map (contoured at 2σ) of the ligand density, demonstrating unambiguous assignment of the second messenger as 3′,2′-cGAMP. c Detailed interactions between 3′,2′cGAMP and residues from LlCap5-SAVED. The side chains of LlCap5SAVED are in stick and colored individually, with carbon in yellow, oxygen in red, and nitrogen in blue. Hydrogen bonds between 3′,2′-cGAMP and LlCap5-SAVED are highlighted in black dashed lines."
+  }, {
+    "type" : "paragraph",
+    "id" : 298,
+    "page number" : 5,
+    "bounding box" : [ 303.588, 312.786, 551.668, 333.667 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "be involved in interacting with the second SAVED domain to activate Cap5, as discussed below."
+  }, {
+    "type" : "paragraph",
+    "id" : 299,
+    "page number" : 5,
+    "bounding box" : [ 303.588, 42.76, 551.704, 294.303 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Proposed mechanism of 3′,2′-cGAMP activating Cap5 for DNA degradation. Despite our extensive effort, we were not able to obtain a crystal structure of the full-length Cap5 in complex with 3′,2′-cGAMP. Here, we employ a combination of amino acid conservation of Cap5 and mutagenesis of AsCap5 to probe the possible mechanism of 3′,2′-cGAMP activating Cap5 for DNA degradation. We ﬁrst carried out structural analysis of AsCap5 via ConSurf21. Speciﬁcally, the amino acid sequence of AsCap5 was ﬁrst aligned with the sequences of 200 additional Cap5 that share 35−95% sequence identities with AsCap5. This was followed by coloring each residue of AsCap5 according to the degree of conservation (Fig. 5a−e). This analysis revealed that two additional sides of SAVED domains other than the Front and Back are not conserved (Fig. 5a). On the other hand, the central regions of both the Front and Back are highly conserved (Fig. 5b, c), indicating that these two regions are functionally important. The rationale for the conservation on the Front is obvious, as it is where 3′,2′-cGAMP binds (Fig. 5d). On the other hand, the purpose of conservation on the Back is unclear. Because these two conserved regions face each other based on the structure of AsCap5 (Fig. 5a−c), we hypothesize that these two regions interact with each other, mediated by 3′,2′-cGAMP, and the structural change resulted from the interaction activates Cap5 for DNA degradation."
+  }, {
+    "type" : "footer",
+    "id" : 311,
+    "page number" : 5,
+    "bounding box" : [ 43.597, 23.654, 551.694, 31.924 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 37,
+      "page number" : 5,
+      "bounding box" : [ 43.597, 23.654, 551.694, 31.924 ],
+      "heading level" : 6,
+      "font" : "AdvOTea1a7398",
+      "font size" : 6.725,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "NATURE COMMUNICATIONS| (2021) 12:6381 |https://doi.org/10.1038/s41467-021-26738-2|www.nature.com/naturecommunications 5"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 312,
+    "page number" : 6,
+    "bounding box" : [ 43.597, 752.742, 551.728, 768.126 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 46,
+      "page number" : 6,
+      "bounding box" : [ 43.597, 752.742, 551.728, 768.126 ],
+      "heading level" : 3,
+      "font" : "AdvOTea1a7398",
+      "font size" : 7.97,
+      "text color" : "[0.9803921568627451, 0.3803921568627451, 0.0]",
+      "content" : "ARTICLE NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-021-26738-2"
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 322,
+    "level" : "2",
+    "page number" : 6,
+    "bounding box" : [ 117.649, 583.378, 232.55, 733.059 ],
+    "numbering style" : "english letters",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 117.649, 715.654, 125.781, 733.059 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 14.626,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "a",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 117.649, 583.378, 232.55, 600.783 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 14.626,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "b c",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 324,
+    "page number" : 6,
+    "bounding box" : [ 322.836, 715.654, 327.706, 733.059 ],
+    "font" : "Helvetica-Bold",
+    "font size" : 14.626,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "f"
+  }, {
+    "type" : "image",
+    "id" : 315,
+    "page number" : 6,
+    "bounding box" : [ 120.102, 375.717, 454.218, 729.753 ],
+    "source" : "2021_Fatma_images/imageFile9.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 317,
+    "level" : "4",
+    "page number" : 6,
+    "bounding box" : [ 373.605, 715.007, 453.338, 723.107 ],
+    "font" : "Helvetica",
+    "font size" : 6.965,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "– 5 10 20 40 80 160"
+  }, {
+    "type" : "paragraph",
+    "id" : 316,
+    "page number" : 6,
+    "bounding box" : [ 328.23, 707.186, 449.82, 723.058 ],
+    "font" : "Helvetica",
+    "font size" : 6.965,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "AsCap5 (nM) L 1 2 3 4 5 6 7"
+  }, {
+    "type" : "paragraph",
+    "id" : 378,
+    "page number" : 6,
+    "bounding box" : [ 347.365, 707.149, 359.359, 715.2 ],
+    "font" : "Helvetica",
+    "font size" : 6.965,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "(kb)"
+  }, {
+    "type" : "paragraph",
+    "id" : 340,
+    "page number" : 6,
+    "bounding box" : [ 455.951, 706.965, 477.63, 715.016 ],
+    "font" : "Helvetica",
+    "font size" : 6.965,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "EA (%)"
+  }, {
+    "type" : "table",
+    "id" : 339,
+    "level" : "10",
+    "page number" : 6,
+    "bounding box" : [ 358.315, 668.459, 453.656, 706.401 ],
+    "number of rows" : 1,
+    "number of columns" : 1,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 6,
+        "bounding box" : [ 358.663, 668.807, 453.308, 706.053 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 363,
+    "page number" : 6,
+    "bounding box" : [ 349.248, 695.946, 356.993, 702.387 ],
+    "font" : "Helvetica",
+    "font size" : 5.572,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "3.0"
+  }, {
+    "type" : "paragraph",
+    "id" : 338,
+    "level" : "9",
+    "page number" : 6,
+    "bounding box" : [ 334.918, 683.848, 466.874, 692.336 ],
+    "font" : "Helvetica",
+    "font size" : 6.965,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "1. WT 100"
+  }, {
+    "type" : "paragraph",
+    "id" : 362,
+    "page number" : 6,
+    "bounding box" : [ 349.248, 675.737, 356.993, 682.178 ],
+    "font" : "Helvetica",
+    "font size" : 5.572,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "0.5"
+  }, {
+    "type" : "table",
+    "id" : 337,
+    "level" : "10",
+    "page number" : 6,
+    "bounding box" : [ 358.315, 626.904, 453.656, 664.847 ],
+    "number of rows" : 1,
+    "number of columns" : 1,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 6,
+        "bounding box" : [ 358.663, 627.252, 453.308, 664.499 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 371,
+    "page number" : 6,
+    "bounding box" : [ 349.248, 654.431, 356.993, 660.872 ],
+    "font" : "Helvetica",
+    "font size" : 5.572,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "3.0"
+  }, {
+    "type" : "paragraph",
+    "id" : 336,
+    "level" : "9",
+    "page number" : 6,
+    "bounding box" : [ 324.438, 642.731, 466.873, 651.041 ],
+    "font" : "Helvetica",
+    "font size" : 6.965,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "2. D220A 15"
+  }, {
+    "type" : "paragraph",
+    "id" : 364,
+    "page number" : 6,
+    "bounding box" : [ 349.248, 633.274, 356.993, 639.715 ],
+    "font" : "Helvetica",
+    "font size" : 5.572,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "0.5"
+  }, {
+    "type" : "table",
+    "id" : 335,
+    "level" : "10",
+    "page number" : 6,
+    "bounding box" : [ 358.315, 585.35, 453.656, 623.293 ],
+    "number of rows" : 1,
+    "number of columns" : 1,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 6,
+        "bounding box" : [ 358.663, 585.698, 453.308, 622.945 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 372,
+    "page number" : 6,
+    "bounding box" : [ 349.248, 612.759, 356.993, 619.2 ],
+    "font" : "Helvetica",
+    "font size" : 5.572,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "3.0"
+  }, {
+    "type" : "paragraph",
+    "id" : 327,
+    "page number" : 6,
+    "bounding box" : [ 184.754, 601.346, 196.304, 610.784 ],
+    "font" : "Helvetica",
+    "font size" : 6.965,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "90°"
+  }, {
+    "type" : "paragraph",
+    "id" : 328,
+    "page number" : 6,
+    "bounding box" : [ 237.065, 601.017, 248.612, 610.456 ],
+    "font" : "Helvetica",
+    "font size" : 6.965,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "90°"
+  }, {
+    "type" : "paragraph",
+    "id" : 334,
+    "level" : "9",
+    "page number" : 6,
+    "bounding box" : [ 324.823, 601.175, 466.875, 609.485 ],
+    "font" : "Helvetica",
+    "font size" : 6.965,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "3. K347A 2"
+  }, {
+    "type" : "paragraph",
+    "id" : 365,
+    "page number" : 6,
+    "bounding box" : [ 349.248, 591.541, 356.993, 597.982 ],
+    "font" : "Helvetica",
+    "font size" : 5.572,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "0.5"
+  }, {
+    "type" : "table",
+    "id" : 333,
+    "level" : "10",
+    "page number" : 6,
+    "bounding box" : [ 358.315, 543.795, 453.656, 581.738 ],
+    "number of rows" : 1,
+    "number of columns" : 1,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 6,
+        "bounding box" : [ 358.663, 544.143, 453.308, 581.39 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 373,
+    "page number" : 6,
+    "bounding box" : [ 349.248, 571.784, 356.993, 578.225 ],
+    "font" : "Helvetica",
+    "font size" : 5.572,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "3.0"
+  }, {
+    "type" : "paragraph",
+    "id" : 332,
+    "level" : "9",
+    "page number" : 6,
+    "bounding box" : [ 324.353, 559.621, 466.874, 567.932 ],
+    "font" : "Helvetica",
+    "font size" : 6.965,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "4. K347R 10"
+  }, {
+    "type" : "paragraph",
+    "id" : 366,
+    "page number" : 6,
+    "bounding box" : [ 349.248, 551.051, 356.993, 557.492 ],
+    "font" : "Helvetica",
+    "font size" : 5.572,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "0.5"
+  }, {
+    "type" : "paragraph",
+    "id" : 374,
+    "page number" : 6,
+    "bounding box" : [ 349.248, 530.073, 356.993, 536.514 ],
+    "font" : "Helvetica",
+    "font size" : 5.572,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "3.0"
+  }, {
+    "type" : "list",
+    "id" : 330,
+    "level" : "4",
+    "page number" : 6,
+    "bounding box" : [ 323.582, 393.403, 466.875, 526.195 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 323.967, 517.886, 466.874, 526.195 ],
+      "font" : "Helvetica",
+      "font size" : 6.965,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "5. K347Q <1",
+      "kids" : [ {
+        "type" : "table",
+        "id" : 56,
+        "level" : "5",
+        "page number" : 6,
+        "bounding box" : [ 358.315, 502.06, 453.656, 540.003 ],
+        "number of rows" : 1,
+        "number of columns" : 1,
+        "rows" : [ {
+          "type" : "table row",
+          "row number" : 1,
+          "cells" : [ {
+            "type" : "table cell",
+            "page number" : 6,
+            "bounding box" : [ 358.663, 502.408, 453.308, 539.655 ],
+            "row number" : 1,
+            "column number" : 1,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          } ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 324.438, 476.512, 466.481, 484.822 ],
+      "font" : "Helvetica",
+      "font size" : 6.965,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "6. D349A 15",
+      "kids" : [ {
+        "type" : "table",
+        "id" : 57,
+        "level" : "6",
+        "page number" : 6,
+        "bounding box" : [ 358.315, 460.685, 453.656, 498.629 ],
+        "number of rows" : 1,
+        "number of columns" : 1,
+        "rows" : [ {
+          "type" : "table row",
+          "row number" : 1,
+          "cells" : [ {
+            "type" : "table cell",
+            "page number" : 6,
+            "bounding box" : [ 358.663, 461.033, 453.308, 498.281 ],
+            "row number" : 1,
+            "column number" : 1,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          } ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 324.314, 434.959, 466.875, 443.267 ],
+      "font" : "Helvetica",
+      "font size" : 6.965,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "7. R310K 15",
+      "kids" : [ {
+        "type" : "table",
+        "id" : 58,
+        "level" : "7",
+        "page number" : 6,
+        "bounding box" : [ 358.315, 419.131, 453.656, 457.074 ],
+        "number of rows" : 1,
+        "number of columns" : 1,
+        "rows" : [ {
+          "type" : "table row",
+          "row number" : 1,
+          "cells" : [ {
+            "type" : "table cell",
+            "page number" : 6,
+            "bounding box" : [ 358.663, 419.479, 453.308, 456.726 ],
+            "row number" : 1,
+            "column number" : 1,
+            "row span" : 1,
+            "column span" : 1,
+            "kids" : [ ]
+          } ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 323.582, 393.403, 466.871, 401.713 ],
+      "font" : "Helvetica",
+      "font size" : 6.965,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "8. R310Q 25",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 367,
+    "page number" : 6,
+    "bounding box" : [ 349.248, 509.045, 356.993, 515.486 ],
+    "font" : "Helvetica",
+    "font size" : 5.572,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "0.5"
+  }, {
+    "type" : "paragraph",
+    "id" : 375,
+    "page number" : 6,
+    "bounding box" : [ 349.248, 488.736, 356.993, 495.177 ],
+    "font" : "Helvetica",
+    "font size" : 5.572,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "3.0"
+  }, {
+    "type" : "paragraph",
+    "id" : 323,
+    "page number" : 6,
+    "bounding box" : [ 121.262, 471.504, 225.325, 488.982 ],
+    "font" : "Helvetica-Bold",
+    "font size" : 14.626,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "d e"
+  }, {
+    "type" : "text block",
+    "id" : 321,
+    "page number" : 6,
+    "bounding box" : [ 226.805, 403.506, 306.689, 480.362 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 11,
+      "page number" : 6,
+      "bounding box" : [ 279.58, 412.373, 294.561, 419.832 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.268,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "K347"
+    }, {
+      "type" : "paragraph",
+      "id" : 12,
+      "page number" : 6,
+      "bounding box" : [ 257.76, 465.929, 272.741, 473.389 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.268,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "D220"
+    }, {
+      "type" : "paragraph",
+      "id" : 13,
+      "page number" : 6,
+      "bounding box" : [ 260.499, 406.612, 275.48, 414.072 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.268,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "D349"
+    }, {
+      "type" : "paragraph",
+      "id" : 14,
+      "page number" : 6,
+      "bounding box" : [ 231.44, 433.179, 246.421, 440.638 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.268,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "R310"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 319,
+    "page number" : 6,
+    "bounding box" : [ 132.339, 403.356, 212.224, 480.212 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 15,
+      "level" : "1",
+      "page number" : 6,
+      "bounding box" : [ 195.126, 457.378, 201.628, 476.701 ],
+      "font" : "Helvetica",
+      "font size" : 16.715,
+      "text color" : "[1.0, 1.0, 1.0]",
+      "content" : "*"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 368,
+    "page number" : 6,
+    "bounding box" : [ 349.248, 467.992, 356.993, 474.433 ],
+    "font" : "Helvetica",
+    "font size" : 5.572,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "0.5"
+  }, {
+    "type" : "paragraph",
+    "id" : 376,
+    "page number" : 6,
+    "bounding box" : [ 349.248, 447.204, 356.993, 453.645 ],
+    "font" : "Helvetica",
+    "font size" : 5.572,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "3.0"
+  }, {
+    "type" : "paragraph",
+    "id" : 369,
+    "page number" : 6,
+    "bounding box" : [ 349.248, 426.343, 356.993, 432.784 ],
+    "font" : "Helvetica",
+    "font size" : 5.572,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "0.5"
+  }, {
+    "type" : "table",
+    "id" : 331,
+    "level" : "8",
+    "page number" : 6,
+    "bounding box" : [ 358.315, 377.576, 453.656, 415.519 ],
+    "number of rows" : 1,
+    "number of columns" : 1,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 6,
+        "bounding box" : [ 358.663, 377.924, 453.308, 415.171 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 377,
+    "page number" : 6,
+    "bounding box" : [ 349.248, 405.26, 356.993, 411.701 ],
+    "font" : "Helvetica",
+    "font size" : 5.572,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "3.0"
+  }, {
+    "type" : "paragraph",
+    "id" : 370,
+    "page number" : 6,
+    "bounding box" : [ 349.248, 384.253, 356.993, 390.694 ],
+    "font" : "Helvetica",
+    "font size" : 5.572,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "0.5"
+  }, {
+    "type" : "paragraph",
+    "id" : 325,
+    "page number" : 6,
+    "bounding box" : [ 117.635, 350.533, 126.571, 367.938 ],
+    "font" : "Helvetica-Bold",
+    "font size" : 14.626,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "g"
+  }, {
+    "type" : "paragraph",
+    "id" : 346,
+    "page number" : 6,
+    "bounding box" : [ 234.904, 355.166, 441.578, 366.433 ],
+    "font" : "Helvetica",
+    "font size" : 8.601,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Inactive Active"
+  }, {
+    "type" : "paragraph",
+    "id" : 344,
+    "level" : "11",
+    "page number" : 6,
+    "bounding box" : [ 366.59, 318.693, 372.773, 330.93 ],
+    "font" : "Helvetica",
+    "font size" : 10.586,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "+"
+  }, {
+    "type" : "paragraph",
+    "id" : 350,
+    "level" : "12",
+    "page number" : 6,
+    "bounding box" : [ 224.521, 308.165, 242.016, 326.505 ],
+    "font" : "Helvetica",
+    "font size" : 7.278,
+    "text color" : "[0.90196001, 0.90587997, 0.9098]",
+    "content" : "Front"
+  }, {
+    "type" : "paragraph",
+    "id" : 353,
+    "page number" : 6,
+    "bounding box" : [ 137.894, 307.909, 155.389, 326.25 ],
+    "font" : "Helvetica",
+    "font size" : 7.278,
+    "text color" : "[0.90196001, 0.90587997, 0.9098]",
+    "content" : "Front"
+  }, {
+    "type" : "paragraph",
+    "id" : 356,
+    "page number" : 6,
+    "bounding box" : [ 333.583, 301.532, 350.525, 320.162 ],
+    "font" : "Helvetica",
+    "font size" : 7.278,
+    "text color" : "[0.90196001, 0.90587997, 0.9098]",
+    "content" : "Front"
+  }, {
+    "type" : "paragraph",
+    "id" : 352,
+    "page number" : 6,
+    "bounding box" : [ 154.219, 296.349, 169.928, 314.528 ],
+    "font" : "Helvetica",
+    "font size" : 7.278,
+    "text color" : "[0.90196001, 0.90587997, 0.9098]",
+    "content" : "Back"
+  }, {
+    "type" : "paragraph",
+    "id" : 361,
+    "page number" : 6,
+    "bounding box" : [ 451.254, 295.297, 464.505, 314.053 ],
+    "font" : "Helvetica",
+    "font size" : 7.278,
+    "text color" : "[0.90196001, 0.90587997, 0.9098]",
+    "content" : "Front"
+  }, {
+    "type" : "paragraph",
+    "id" : 351,
+    "page number" : 6,
+    "bounding box" : [ 210.327, 295.885, 226.5, 313.964 ],
+    "font" : "Helvetica",
+    "font size" : 7.278,
+    "text color" : "[0.90196001, 0.90587997, 0.9098]",
+    "content" : "Back"
+  }, {
+    "type" : "paragraph",
+    "id" : 358,
+    "page number" : 6,
+    "bounding box" : [ 400.204, 294.926, 411.045, 312.222 ],
+    "font" : "Helvetica",
+    "font size" : 7.278,
+    "text color" : "[0.90196001, 0.90587997, 0.9098]",
+    "content" : "Back"
+  }, {
+    "type" : "paragraph",
+    "id" : 359,
+    "page number" : 6,
+    "bounding box" : [ 419.43, 294.23, 428.431, 311.5 ],
+    "font" : "Helvetica",
+    "font size" : 7.278,
+    "text color" : "[0.90196001, 0.90587997, 0.9098]",
+    "content" : "Front"
+  }, {
+    "type" : "paragraph",
+    "id" : 360,
+    "page number" : 6,
+    "bounding box" : [ 434.986, 294.184, 443.959, 310.647 ],
+    "font" : "Helvetica",
+    "font size" : 7.278,
+    "text color" : "[0.90196001, 0.90587997, 0.9098]",
+    "content" : "Back"
+  }, {
+    "type" : "paragraph",
+    "id" : 357,
+    "page number" : 6,
+    "bounding box" : [ 318.376, 292.279, 332.443, 310.46 ],
+    "font" : "Helvetica",
+    "font size" : 7.278,
+    "text color" : "[0.90196001, 0.90587997, 0.9098]",
+    "content" : "Back"
+  }, {
+    "type" : "paragraph",
+    "id" : 354,
+    "page number" : 6,
+    "bounding box" : [ 303.449, 290.267, 312.741, 307.671 ],
+    "font" : "Helvetica",
+    "font size" : 7.278,
+    "text color" : "[0.90196001, 0.90587997, 0.9098]",
+    "content" : "Front"
+  }, {
+    "type" : "paragraph",
+    "id" : 355,
+    "page number" : 6,
+    "bounding box" : [ 284.042, 290.179, 294.365, 307.264 ],
+    "font" : "Helvetica",
+    "font size" : 7.278,
+    "text color" : "[0.90196001, 0.90587997, 0.9098]",
+    "content" : "Back"
+  }, {
+    "type" : "paragraph",
+    "id" : 348,
+    "page number" : 6,
+    "bounding box" : [ 140.8, 271.694, 157.738, 287.813 ],
+    "font" : "Helvetica",
+    "font size" : 7.278,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "180°"
+  }, {
+    "type" : "paragraph",
+    "id" : 342,
+    "page number" : 6,
+    "bounding box" : [ 179.399, 269.269, 445.74, 279.212 ],
+    "font" : "Helvetica",
+    "font size" : 8.601,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Open Ajar Closed"
+  }, {
+    "type" : "paragraph",
+    "id" : 379,
+    "page number" : 6,
+    "bounding box" : [ 43.597, 190.506, 551.711, 262.056 ],
+    "font" : "AdvOTea1a7398",
+    "font size" : 7.97,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Fig. 5 Amino acid conservation of Cap5-SAVED and mutational studies. a Surface depiction of the structure of AsCap5-SAVED homodimer viewed from side. Two SAVED domains are colored based on the degree of amino acid conservation. b, c Conservation on the Front and Back of AsCap5-SAVED, respectively. d Closeup view of the ligand-binding pocket on the Front together with the docked 3′,2′-cGAMP. 3′,2′-cGAMP is in the sphere, with AMP and GMP moieties colored yellow and green, respectively. The side chain of R231 is marked with a white asterisk. e Cartoon depiction of the closeup view of the conserved residues on the Back. f DNA degradation assays by AsCap5 mutants. L, DNA ladder marked with the molecular weight in kilo-base pair; EA, estimated activity. Results are representative of three independent experiments. Source data are provided as a Source Data ﬁle. g Proposed mechanism of Cap5 activation via cGAMP-induced Back-to-Front stacking of two SAVED domains."
+  }, {
+    "type" : "paragraph",
+    "id" : 313,
+    "page number" : 6,
+    "bounding box" : [ 43.595, 42.76, 291.669, 178.728 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "To test this hypothesis, we selected four highly conserved residues for mutational studies (Fig. 5e). D220 and K347 are located at the tip of two protruding loops, which might make direct contact to 3′,2′-cGAMP (Supplementary Fig. 7). The side chains of R310 and D349 form two hydrogen bonds (Fig. 5e), and their role might assist potential interaction between K347 and 3′,2′-cGAMP. D220A mutation retains ~15% activity of AsCap5 (Fig. 5f, panel 2). On the other hand, the effect of K347A mutation is signiﬁcantly more pronounced, resulting in ~98% reduction of activity (Fig. 5f, panel 3). A conservative K347R mutation recovered some of the lost activity of the K347A mutant, but it is still approximately 10-fold less active compared to the wild-type enzyme (Fig. 5f, panel 4). A second conservative"
+  }, {
+    "type" : "paragraph",
+    "id" : 314,
+    "page number" : 6,
+    "bounding box" : [ 303.587, 42.759, 551.678, 178.727 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "K347Q mutation unexpectedly resulted in signiﬁcantly less soluble protein. We managed to obtain a small amount of recombinant K347Q mutant, and DNA degradation assays showed that it was even less active than K347A mutant (Fig. 5f, compare panel 5 to panel 3). D349A mutation showed a similar degree of reduced activity as D220A mutation (Fig. 5f, panel 6). On the other hand, the R310A mutant was completely insoluble. Nevertheless, we were able to obtain recombinant proteins of more conservative R310K and R310Q mutants, and both also showed signiﬁcantly reduced activities (Fig. 5f, panels 7 and 8). In summary, mutation of each of these four residues has a detrimental effect on AsCap5 activity, with the most negative effect from K347 mutants."
+  }, {
+    "type" : "footer",
+    "id" : 381,
+    "page number" : 6,
+    "bounding box" : [ 43.597, 23.654, 494.161, 31.924 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 38,
+      "page number" : 6,
+      "bounding box" : [ 43.597, 23.654, 494.161, 31.924 ],
+      "heading level" : 6,
+      "font" : "AdvOTea1a7398",
+      "font size" : 6.725,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "6 NATURE COMMUNICATIONS| (2021) 12:6381 |https://doi.org/10.1038/s41467-021-26738-2|www.nature.com/naturecommunications"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 382,
+    "page number" : 7,
+    "bounding box" : [ 43.597, 752.742, 551.663, 768.126 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 47,
+      "page number" : 7,
+      "bounding box" : [ 43.597, 752.742, 551.663, 768.126 ],
+      "heading level" : 3,
+      "font" : "AdvOTea1a7398",
+      "font size" : 7.97,
+      "text color" : "[0.9803921568627451, 0.3803921568627451, 0.0]",
+      "content" : "NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-021-26738-2 ARTICLE"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 383,
+    "page number" : 7,
+    "bounding box" : [ 43.597, 503.051, 291.732, 733.185 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Based on the collective biochemical and structural data we have presented, we propose a mechanism of Cap5 activation for DNA degradation as schematically depicted in Fig. 5g. In the absence of 3′,2′-cGAMP, Cap5 homodimer is inactive and structurally heterogenous in solution. This is mainly caused by two mobile SAVED domains. Two structures of Cap5 shown in Fig. 3a, b probably capture the two ends of the spectrum of Cap5 conformers: an Open conﬁguration represented by the structure of LlCap5, and an Ajar conﬁguration represented by the structure of AsCap5 (Fig. 5g, left). 3′,2′-cGAMP might act as a glue, bringing two SAVED domains closer to seal the gap shown in the structure of AsCap5 (Fig. 5g, right). The movement of the SAVED domains somehow propagates the reorganization of the structure near the active site of one or both HNH domains, activating HNH domain(s) for DNA degradation. We recognize that such a Back-to-Front stacking of SAVED domains has the potential for SAVED domaincontaining effectors to form oligomers. This is probably what happened with Cap413. In our case, however, the Back-to-Front stacking of SAVED domains appears only for dimerization, consistent with the chromatographic analysis of Cap5 in the presence of 3′,2′-cGAMP (Supplementary Fig. 8)."
+  }, {
+    "type" : "paragraph",
+    "id" : 384,
+    "page number" : 7,
+    "bounding box" : [ 43.597, 472.144, 87.324, 482.584 ],
+    "font" : "AdvOTcb88df00",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Discussion"
+  }, {
+    "type" : "paragraph",
+    "id" : 385,
+    "page number" : 7,
+    "bounding box" : [ 43.594, 283.362, 291.678, 471.659 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In this study, we have reported the biochemical characterization of a member of the G clade of CD-NTases, and evidence for the enzymatic synthesis of 3′,2′-cGAMP in bacteria. We have demonstrated that AsCdnG synthesizes 3′,2′-cGAMP in vitro, and 3′,2′-cGAMP is the biological signaling molecule that activates both AsCap5 and LlCap5 for DNA degradation. While this manuscript was in review, two publications revealed enzymatic synthesis of 3′,2′-cGAMP by cGAS-like receptors from Drosophila22,23. In addition, we have also carried out structural and mutational studies of Cap5, which provide structural insight into Cap5, as well as the mode of action of the SAVED domain activating Cap5 for DNA degradation. Here, we discuss our ﬁndings in a broader context of proteins of the SAVED family in general, including the comparison of SAVED domains from different subfamilies, ligand speciﬁcities of the SAVED domains of Cap5, and comparing the mode of action of SAVED domain to other sensors that also employ cyclic oligonucleotides as signaling molecules."
+  }, {
+    "type" : "paragraph",
+    "id" : 386,
+    "page number" : 7,
+    "bounding box" : [ 43.596, 189.198, 291.727, 283.323 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "We ﬁrst compare the structure of the SAVED domain of Cap5 to the one of Cap4. Dali structural search based on LlCap5-SAVED revealed the top scores are the structures of the SAVED domains of Cap4 (Cap4-SAVED), recently reported by Kranzusch and colleagues13. Because AbCap4-SAVED (PDB ID 6VM6) is in complex with 2′,3′,3′-cAAA, it was selected for our structural comparison. LlCap5-SAVED and AbCap4-SAVED only share 13% sequence identity, and rmsd of these two structures is 3.2 Å. Therefore, the SAVED domains of Cap5 and"
+  }, {
+    "type" : "list",
+    "id" : 387,
+    "level" : "13",
+    "page number" : 7,
+    "bounding box" : [ 43.597, 42.761, 291.712, 189.215 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 43.597, 147.359, 291.707, 189.215 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 9.465,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Cap4 are signiﬁcantly different. This is consistent with our observation that LlCap5 and AbCap4 belong to different clusters of SSN (Supplementary Fig. 1). This is also consistent with a recent bioinformatic analysis by Makarova et al., classifying",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 43.597, 42.761, 291.712, 147.376 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 9.465,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Cap5 and Cap4 to SAVED-1 and SAVED-3 subfamilies, respectively20. Structural superposition of LlCap5-SAVED and AbCap4-SAVED revealed that, although the conformations of bases differ, the central rings composed of ribose and phosphate linkages of both ligands are at approximately the same location (Supplementary Fig. 9). However, the details of how these two ligands are recognized by their respective SAVED domains differ. In particular, the 2′−5′ phosphate linkages of these two ligands are located at the opposite sides of the ring structures (Supplementary Fig. 9, highlighted in spheres), indicating",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 388,
+    "page number" : 7,
+    "bounding box" : [ 303.592, 649.488, 551.753, 733.184 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "possibly different mechanisms of discriminating the ligand possessing 2′-5′ phosphate linkage from the one of 3′-5′ phosphate linkage. Furthermore, a longer loop between β7 and α6 in LlCap5-SAVED (Supplementary Fig. 5) presents the steric clash with the third nucleotide of 2′,3′,3′-cAAA (Supplementary Fig. 9, colored black), suggesting that this loop might be responsible for discriminating cyclic di-nucleotides from cyclic tri-nucleotides."
+  }, {
+    "type" : "paragraph",
+    "id" : 389,
+    "page number" : 7,
+    "bounding box" : [ 303.586, 471.642, 551.698, 649.449 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In addition to comprehensive characterization of Cap4, Kranzusch and colleagues also carried out in vitro (one Cap5) and in vivo (nine Cap5) functional assays of Cap5 in response to 3′,3′cGAMP13. Unlike two Cap5 reported here, Cap5 from Burkholderia pseudomallei was able to degrade DNA in vitro in the presence of 3′,3′-cGAMP. Furthermore, among nine Cap5 tested in vivo, ﬁve of them were shown to be active in response to 3′,3′cGAMP generated in vivo by the co-expressed DncV. Therefore, it is likely that different Cap5 might employ either 3′,2′-cGAMP or 3′,3′-cGAMP as their biological signaling molecules for their antiphage activities. We also cannot rule out the possibility that cyclic oligonucleotides other than 3′,2′-cGAMP and 3′,3′-cGAMP might also be the signaling molecules of Cap5. Given that Cap5 is the most abundant effectors of CBASS systems, it is worth carrying out the additional characterization of Cap5 similar to the ones reported here to provide a clearer picture of the ligand speciﬁcity of Cap5."
+  }, {
+    "type" : "paragraph",
+    "id" : 390,
+    "page number" : 7,
+    "bounding box" : [ 303.589, 210.117, 551.701, 472.879 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "To date, cGAS1, bacterial CD-NTases8,10,13,15,16, and CRISPRassociated cyclases24,25 have been shown to synthesize cyclic oligonucleotides. Structures of effectors in complex with some of these signaling molecules are available. They include eukaryotic and bacterial STING10,26, bacterial endonuclease17, and CRISPRassociated RNA and DNA nucleases27–31. All of them employ one surface where the ligand-binding pocket locates to recognize the signaling molecules. Therefore, the ligand-induced Back-to-Front stacking of SAVED domains appears to be unique. For Cap5 homodimer, only 50% of the capacity of this Back-to-Front stacking has been utilized (Fig. 5g). Therefore, the ligand-induced oligomerization, in particular the one that form a circle, would be more efﬁciently fulﬁlling the potential of this Back-to-Front stacking. In addition to nucleases, such as HNH in Cap5 and REase in Cap4, as effector domains, a signiﬁcant number of SAVED domain-containing effectors employ two transmembrane helices (2TM)20, which is predicted to form pore on the membrane of bacteria to promote cell death. Therefore, we predict that the pore formation of 2TM effectors is achieved by circular oligomerization of effectors via the ligand-induced Back-to-Front stacking of SAVED domains proposed here. In our view, the mechanism of ligand-induced Back-to-Front stacking of SAVED domains is likely to be universal for activating all SAVED domain-containing effectors, but signiﬁcantly more studies are required to validate this hypothesis."
+  }, {
+    "type" : "paragraph",
+    "id" : 391,
+    "page number" : 7,
+    "bounding box" : [ 303.589, 185.617, 339.451, 196.057 ],
+    "font" : "AdvOTcb88df00",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Methods"
+  }, {
+    "type" : "paragraph",
+    "id" : 392,
+    "page number" : 7,
+    "bounding box" : [ 303.591, 92.189, 551.684, 185.522 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "General materials and methods. Synthetic cyclic dinucleotides used for biochemical assays: 3′,3′-cGAMP, 3′,3′-c-di-GMP, and 3′,3′c-di-AMP were purchased from Sigma-Aldrich, 2′,3′-cGAMP, 3′,2′-cGAMP, and 2′,2′-cGAMP were purchased from Axxora. All synthetic cyclic dinucleotides were further HPLC puriﬁed. Calf Intestinal Phosphatase (CIP), P1 nuclease, restriction digestion enzymes, and BSA were purchased from New England Biolabs (NEB). Snake venom phosphodiesterase (SVPD) was purchased from Sigma-Aldrich. CAPSO (Stock Options pH Buffer Kit) and 48-well hanging drop trays were purchased from Hampton Research. Pfu turbo DNA polymerase was purchased from Agilent. All the codonoptimized genes and oligonucleotides were purchased from Integrated DNA Technologies (IDT)."
+  }, {
+    "type" : "paragraph",
+    "id" : 393,
+    "page number" : 7,
+    "bounding box" : [ 303.592, 51.71, 551.605, 77.526 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Generation of sequence similarity network of SAVED domain-containing proteins. Bioinformatic analyses were performed on the database of UniProt 2020_04 and InterPro 81. Calculations were carried out at the EFI website (https://"
+  }, {
+    "type" : "paragraph",
+    "id" : 394,
+    "page number" : 7,
+    "bounding box" : [ 303.592, 43.26, 543.09, 52.5 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "eﬁ.igb.illinois.edu/)32. PF18145 (Pfam of SAVED) was submitted for the initial"
+  }, {
+    "type" : "footer",
+    "id" : 396,
+    "page number" : 7,
+    "bounding box" : [ 43.597, 23.654, 551.694, 31.924 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 39,
+      "page number" : 7,
+      "bounding box" : [ 43.597, 23.654, 551.694, 31.924 ],
+      "heading level" : 6,
+      "font" : "AdvOTea1a7398",
+      "font size" : 6.725,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "NATURE COMMUNICATIONS| (2021) 12:6381 |https://doi.org/10.1038/s41467-021-26738-2|www.nature.com/naturecommunications 7"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 397,
+    "page number" : 8,
+    "bounding box" : [ 43.597, 752.742, 551.728, 768.126 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 48,
+      "page number" : 8,
+      "bounding box" : [ 43.597, 752.742, 551.728, 768.126 ],
+      "heading level" : 3,
+      "font" : "AdvOTea1a7398",
+      "font size" : 7.97,
+      "text color" : "[0.9803921568627451, 0.3803921568627451, 0.0]",
+      "content" : "ARTICLE NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-021-26738-2"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 398,
+    "page number" : 8,
+    "bounding box" : [ 43.597, 689.333, 291.605, 731.483 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "calculation for the Sequence Similarity Network (SSN) of the SAVED domaincontaining proteins. SSN ﬁle was processed and displayed with Cytoscape, and yFiles Organic Layout was used for the layout of nodes and edges. Minor adjustments of the positions of a few clusters and single nodes were made to make nodes ﬁt better within the space of the ﬁgure."
+  }, {
+    "type" : "paragraph",
+    "id" : 399,
+    "page number" : 8,
+    "bounding box" : [ 43.595, 463.583, 291.687, 675.463 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Cloning, overexpression, and puriﬁcation of recombinant proteins. CdnG and Cap5 genes from Asticcacaulis sp. (As) and Lactococcus lactis (Ll) (codon-optimized for Escherichia.coli) were ordered from IDT. For structural studies of SAVED domain of LlCap5, Δ123LlCap5 construct was created by deleting the ﬁrst 123 amino acids from the N-terminus. The synthetic genes were cloned into pRSF-1 vector, which carries an N-terminal 6XHis tag followed by a SUMO tag. E. coli BL21 (DE3) transformed with expression plasmids were grown at 37 °C until A600 reached 0.4 0.6. After cooling to 18 °C, expression was induced with 0.5 mM isopropyl-β-D-thiogalactopyranoside (IPTG), and cells were grown at 18 °C overnight. The cultures were harvested and the cell pellets were resuspended in lysis buffer (20 mM Tris-HCl, pH 8.0, 500 mM NaCl, 5% glycerol). Cells were lysed using French Press, followed by centrifugation at 14,000 rpm for 50 min at 4 °C to remove cell debris. After ﬁltration using 0.45 µm ﬁlter, the supernatant was loaded into HisTrap-FF column (GE Healthcare). The proteins were eluted using elution buffer (20 mM Tris-HCl, pH 8.0, 500 mM NaCl, 500 mM imidazole, 5% glycerol) and fractions containing SUMO tagged proteins were combined and cleaved with Ulp1 protease for 1 h. The salt concentration of the digested protein was increased to 1.9 M (NH4)2SO4 and loaded onto a HiTrap-Phenyl-HP column (GE Healthcare) with buffer A [20 mM Tris-HCl pH 8.0, 1.25 M (NH4)2SO4] and buffer B (20 mM Tris-HCl pH 8.0). The eluted proteins were then concentrated and further puriﬁed on a Superdex 200 size exclusion chromatography (GE Healthcare) column with storage buffer (20 mM HEPES pH 7.0, 200 mM NaCl, 2% glycerol). All AsCap5 mutants were puriﬁed using the above-mentioned protocol. Protein purity was assessed by SDS-PAGE with Coomassie staining and samples were ﬂash-frozen in liquid nitrogen and stored at 80 °C."
+  }, {
+    "type" : "paragraph",
+    "id" : 400,
+    "page number" : 8,
+    "bounding box" : [ 43.596, 398.728, 291.665, 450.804 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Size exclusion chromatography of Cap5 with 3′,2′-cGAMP. Puriﬁed AsCap5 and LlCap5 were diluted in 20 mM HEPES, pH 7.0, 200 mM NaCl, 2% glycerol to a ﬁnal concentration of 60 μM and 80 μM respectively. Samples were incubated on ice without or with 3′,2′-cGAMP (4X the concentration of protein) for 30 min followed by brief centrifugation (12,303 × g, 1 min, 4 °C) to remove precipitated protein before injection into Superdex 200 size exclusion column (GE Healthcare)."
+  }, {
+    "type" : "paragraph",
+    "id" : 401,
+    "page number" : 8,
+    "bounding box" : [ 43.596, 274.57, 291.627, 384.858 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In vitro reconstitution of enzymatic activity of CdnG. For in vitro reconstitution assays, 150 μl reactions with 20 µM of recombinant enzyme and 200 µM each of ATP and GTP in 1X CdnG-Reaction buffer (50 mM CAPSO, pH 7.4, 50 mM KCl, 5 mM MgCl2 or MnCl2, 1 mM DTT) were carried out. Following 8 hours of incubation at room temperature, reactions were terminated using 10 U of Calf Intestinal Phosphatase and incubated at 37 °C for 1 h. The reaction mixture was then ﬁltered using 10 kDa cut-off ﬁlters to remove the protein and the ﬂowthrough was analyzed using UPLC and LC-MS. For the time course, the reaction conditions were the same as described above except the reaction volume was increased to 1.5 ml and the reaction was stopped at various time points by adding 10 U of Calf Intestinal Phosphatase, followed by UPLC analysis and quantiﬁcation of peaks corresponding to 3′,2′-cGAMP, the reaction intermediate ApG, A, G and I."
+  }, {
+    "type" : "paragraph",
+    "id" : 402,
+    "page number" : 8,
+    "bounding box" : [ 43.597, 189.925, 291.668, 274.76 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "To identify the CdnG product, commercially available 2′,3′-cGAMP, 2′,2′cGAMP, 3′,3′-cGAMP, and 3′,2′-cGAMP were made to solutions of 25 µM with 1X CdnG-Reaction buffer and injected into UPLC as control. This was followed by coinjection of 25 µM CdnG product with these synthetic controls. To identify the phosphate linkage of the CdnG product, puriﬁed reaction intermediate ApG was diluted to 100 µM in 150 µl reactions and supplemented with 1X P1 buffer (30 mM NaOAc, pH 5.3, 5 mM ZnSO4, 50 mM NaCl) or 1X SVPD buffer (50 mM Tris pH 9.0, 10 mM MgCl2, 50 mM NaCl). SVPD (5 mU) or P1 (100 mU) was added followed by incubation at 37 °C for 30 min or 1 h respectively. Reactions were then ﬁltered using 10 kDa cut-off ﬁlters and ﬂow-through was analyzed by UPLC."
+  }, {
+    "type" : "paragraph",
+    "id" : 403,
+    "page number" : 8,
+    "bounding box" : [ 43.597, 139.13, 291.679, 189.67 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "UPLC analyses were carried out on a Waters Acquity Arc system with a reversed phase Luna Omega C18 column (150 × 2.1 mm; Phenomenex) with a ﬂow rate of 0.2 ml/min. The column was equilibrated with 100% solvent A (5 mM ammonium acetate, pH 5.0), and the following gradient was applied with solvent B (100% acetonitrile): 0 min, 0% B; 1 min, 0% B; 15 min, 30% B; 18 min, 40% B; 20 min, 0% B."
+  }, {
+    "type" : "paragraph",
+    "id" : 404,
+    "page number" : 8,
+    "bounding box" : [ 43.595, 57.041, 291.677, 125.204 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Puriﬁcation of the product and reaction intermediate of the AsCdnGcatalyzed reaction. CdnG catalyzed reactions were scaled up using 50 µM enzyme and 1 mM each of ATP and GTP in 1X CdnG-Reaction buffer. Following overnight incubation at room temperature, the reaction was stopped using 50 U Calf Intestinal Phosphatase at 37 °C for 1 h. After ﬁltration using 10 kDa cut-off ﬁlters, the ﬂow-through was used to purify 3′,2′-cGAMP and ApG. Large scale CdnG product and intermediate were puriﬁed using a Waters 1525 HPLC system with a reversed phase Luna C18(2) column (250 × 2 mm; Phenomenex) with a ﬂow rate of"
+  }, {
+    "type" : "list",
+    "id" : 405,
+    "level" : "1",
+    "page number" : 8,
+    "bounding box" : [ 43.595, 48.594, 288.115, 56.843 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 420,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 43.595, 48.594, 288.115, 56.843 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "0.3 ml/min. Mobile phase equilibration with 100% solvent A (5 mM ammonium",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 406,
+    "page number" : 8,
+    "bounding box" : [ 303.587, 672.384, 551.669, 731.485 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "acetate, pH 5) was followed by the following gradient with solvent B (40% acetonitrile): 0 min, 0% B; 0.5 min, 0% B; 3 min, 15% B; 20 min, 20% B; 35 min, 60% B; 40 min, 60% B; 45 min, 0% B; 50 min, 0% B. Samples were dried by speed-vac concentrator for approximately 4 h and resuspended in nuclease-free water. Concentrations were measured by UV-visible spectroscopy on a Nanodrop 2000 spectrophotometer. All synthetic cyclic dinucleotides were also puriﬁed using the above-mentioned protocol."
+  }, {
+    "type" : "paragraph",
+    "id" : 407,
+    "page number" : 8,
+    "bounding box" : [ 303.587, 533.203, 551.696, 660.385 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "DNA degradation assays by Cap5. For all DNA degradation assays, EcoRIlinearized ZIKA minigenome pUC19 plasmid (3,276 bp) was used. Assays were performed by incubating 50 nM AsCap5 and LlCap5 with different concentrations of cyclic dinucleotides (3′,2′-cGAMP, 3′,3′-cGAMP, 2′,3′-cGAMP, 3′,3′-c-di-GMP, and 3′,3′-c-di-AMP) on ice for 10 min in a Cap5-Reaction buffer (50 mM Tris-HCl, pH 7.4, 1 mM MgCl2, 0.5 mM MnCl2, and 50 μg/mL BSA) in a ﬁnal reaction volume of 10 μl. The degradation reaction was initiated by the addition of 25 nM plasmid substrate, followed by incubation at 37 °C for 15 min. Reactions were stopped by addition of 6X Loading buffer (15% Ficoll-400, 60 mM EDTA, 19.8 mM Tris-HCl pH 8.0, 0.48% SDS, 0.12% Dye1, and 0.006% Dye2), and then 10 μL was separated on a 1% TBE (Tris-Borate-EDTA) agarose gel. Gels were run at 120 V for 20 min, then stained with ethidium bromide and imaged by UV illumination. For mutational assays, same protocol was followed with different concentrations of puriﬁed mutants and 10 nM of 3′,2′-cGAMP. Data are representative of three independent experiments."
+  }, {
+    "type" : "paragraph",
+    "id" : 408,
+    "page number" : 8,
+    "bounding box" : [ 303.591, 478.608, 550.105, 521.147 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Site-directed mutagenesis of AsCap5. Individual point mutations were introduced into AsCap5 plasmid by Quick-change mutagenesis according to the direction provided by Agilent. Oligonucleotides employed for creating mutants were ordered from IDT (Supplementary Table 2). All mutations were veriﬁed by DNA sequencing of the entire gene prior to use."
+  }, {
+    "type" : "paragraph",
+    "id" : 409,
+    "page number" : 8,
+    "bounding box" : [ 303.591, 347.879, 551.666, 466.61 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Crystallization, data collection, and structural determination. AsCap5 and LlCap5 in apo form and Δ123LlCap5 in complex with 3′,2′-cGAMP were crystallized at 18 °C using the hanging drop vapor diffusion method. Concentrated protein stocks were diluted in Dilution buffer (20 mM HEPES, pH 7.0, 200 mM NaCl, 2% glycerol) to ﬁnal concentrations. In all cases, optimized crystals were obtained using 48-well hanging drop tray in 2 μl drops mixed 1:1 over a 200 ul reservoir solution. Final optimized crystal growth conditions were as follows: (1) Crystals of native or selenomethionine substituted apoAsCap5 grew at 6 mg/ml in 15−17% PEG6000, 100 mM Tris-HCl, pH 8.5, 100 mM NaCl; 2) Crystals of native apoLlCap5 grew at 5 mg/ml in 12−15% PEG6000, 100 mM sodium citrate, pH 5.5, 100 mM NaCl; (3) Native Δ123LlCap5 (5 mg/ml) was pre-incubated with 0.8 mM of 3′,2′-cGAMP and crystals grew in 10−12.5% PEG6000, 100 mM Tris-HCl, pH 8.5. Crystals appeared after 2−40 days and were cryoprotected using reservoir solution supplemented with 25% glycerol."
+  }, {
+    "type" : "paragraph",
+    "id" : 410,
+    "page number" : 8,
+    "bounding box" : [ 303.591, 212.378, 551.65, 347.681 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.472,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Native and single-wavelength anomalous dispersion (SAD) data were collected at the 21-ID beamlines at the Advanced Proton Source (APS). Data were processed using the HKL2000 program33. To solve the structure of AsCap5, the phase was determined based on selenomethionine single-wavelength anomalous diffraction data using the Phenix program34. A partial model was automatically built using Phenix. The remaining model was manually built using the Coot program35. Reﬁnement was done using Phenix. The initial phasing of the structure of LlCap5SAVED in complex with 3′,2′-cGAMP was obtained using the Molecular Replacement method in Phenix, using the structure of the SAVED domain of AsCap5 as the search model. The initial phase of LlCap5 was also determined using the Molecular Replacement method in Phenix, using the structure of LlCap5SAVED as the search model. Model building and reﬁnement of the structure of LlCap5-SAVED–3′,2′-cGAMP and LlCap5 were carried out similarly for the structure of AsCap5. Figures were prepared using PyMOL, GraphicConverter version 11, and Adobe Illustrator 2021. Representative electron density maps are provided in the Source Data ﬁle."
+  }, {
+    "type" : "paragraph",
+    "id" : 411,
+    "page number" : 8,
+    "bounding box" : [ 303.591, 183.132, 551.672, 199.868 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 6.974,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Reporting summary. Further information on research design is available in the Nature Research Reporting Summary linked to this article."
+  }, {
+    "type" : "paragraph",
+    "id" : 412,
+    "page number" : 8,
+    "bounding box" : [ 303.591, 160.561, 370.395, 171.0 ],
+    "font" : "AdvOTcb88df00",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Data availability"
+  }, {
+    "type" : "paragraph",
+    "id" : 413,
+    "page number" : 8,
+    "bounding box" : [ 303.59, 90.951, 551.695, 159.65 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 6.974,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Coordinates and structural factors have been deposited in the Protein Data Bank (PDB) under accession codes of 7RWK for AsCap5, 7RWM for LlCap5, and 7RWS for LlCap5SAVED in complex with 3′,2′-cGAMP. The coordinates of the structure of Cas9 in complex with a DNA•RNA hybrid, employed for our comparison to the structure of AsCap5, are available in the PDB under accession code 6JDV. The previously published structure of AbCap4-SAVED in complex with 2′,3′,3′-cAAA is available in the PDB under accession code 6VM6. All relevant data are available from the authors. Source data are provided with this paper."
+  }, {
+    "type" : "caption",
+    "id" : 414,
+    "page number" : 8,
+    "bounding box" : [ 303.591, 68.058, 493.826, 77.956 ],
+    "linked content id" : 415,
+    "font" : "AdvOT1ef757c0",
+    "font size" : 8.966,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Received: 21 June 2021; Accepted: 20 October 2021;"
+  }, {
+    "type" : "image",
+    "id" : 415,
+    "page number" : 8,
+    "bounding box" : [ 303.59, 56.665, 435.589, 67.465 ],
+    "source" : "2021_Fatma_images/imageFile10.png"
+  }, {
+    "type" : "footer",
+    "id" : 417,
+    "page number" : 8,
+    "bounding box" : [ 43.597, 23.654, 494.161, 31.924 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 40,
+      "page number" : 8,
+      "bounding box" : [ 43.597, 23.654, 494.161, 31.924 ],
+      "heading level" : 6,
+      "font" : "AdvOTea1a7398",
+      "font size" : 6.725,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "8 NATURE COMMUNICATIONS| (2021) 12:6381 |https://doi.org/10.1038/s41467-021-26738-2|www.nature.com/naturecommunications"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 418,
+    "page number" : 9,
+    "bounding box" : [ 43.597, 752.742, 551.663, 768.126 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 49,
+      "page number" : 9,
+      "bounding box" : [ 43.597, 752.742, 551.663, 768.126 ],
+      "heading level" : 3,
+      "font" : "AdvOTea1a7398",
+      "font size" : 7.97,
+      "text color" : "[0.9803921568627451, 0.3803921568627451, 0.0]",
+      "content" : "NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-021-26738-2 ARTICLE"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 419,
+    "page number" : 9,
+    "bounding box" : [ 43.597, 723.238, 88.629, 733.677 ],
+    "font" : "AdvOTcb88df00",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "References"
+  }, {
+    "type" : "list",
+    "id" : 420,
+    "level" : "1",
+    "page number" : 9,
+    "bounding box" : [ 43.595, 121.722, 291.668, 722.752 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 27,
+    "previous list id" : 405,
+    "next list id" : 421,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.597, 697.042, 291.668, 722.752 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "1. Sun, L., Wu, J., Du, F., Chen, X. & Chen, Z. J. Cyclic GMP-AMP synthase is a cytosolic DNA sensor that activates the type I interferon pathway. Science 339, 786–791 (2013).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.597, 679.637, 281.206, 696.56 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "2. Civril, F. et al. Structural mechanism of cytosolic DNA sensing by cGAS. Nature 498, 332 337 (2013).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.596, 662.176, 285.458, 679.155 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "3. Gao, P. et al. Structure-function analysis of STING activation by c[G(2’,5’) pA(3’,5’)p] and targeting by antiviral DMXAA. Cell 154, 748 762 (2013).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.596, 644.771, 291.64, 661.694 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "4. Ishikawa, H. & Barber, G. N. STING is an endoplasmic reticulum adaptor that facilitates innate immune signalling. Nature 455, 674–678 (2008).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.596, 627.309, 284.505, 644.289 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "5. Ablasser, A. et al. cGAS produces a 2’-5’-linked cyclic dinucleotide second messenger that activates STING. Nature 498, 380–384 (2013).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.595, 609.904, 291.615, 626.827 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "6. Zhang, X. et al. Cyclic GMP-AMP containing mixed phosphodiester linkages is an endogenous high-afﬁnity ligand for STING. Mol. Cell 51, 226–235",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 51,
+        "level" : "5",
+        "page number" : 9,
+        "bounding box" : [ 57.939, 601.174, 79.009, 609.422 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.472,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "(2013)."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.596, 583.712, 281.893, 600.692 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "7. Cai, X., Chiu, Y.-H. & Chen, Z. J. The cGAS-cGAMP-STING pathway of cytosolic DNA sensing and signaling. Mol. Cell 54, 289 296 (2014).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.597, 557.576, 291.664, 583.287 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "8. Davies, B. W., Bogard, R. W., Young, T. S. & Mekalanos, J. J. Coordinated regulation of accessory genetic elements produces cyclic di-nucleotides for V. cholerae virulence. Cell 149, 358–370 (2012).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.597, 540.115, 291.625, 557.094 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "9. Severin, G. B. et al. Direct activation of a phospholipase by cyclic GMP-AMP in El Tor Vibrio cholerae. Proc. Natl Acad. Sci. USA 115, E6048–E6055",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 52,
+        "level" : "5",
+        "page number" : 9,
+        "bounding box" : [ 57.94, 531.441, 79.01, 539.69 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.472,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "(2018)."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.597, 513.979, 276.074, 530.959 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "10. Morehouse, B. R. et al. STING cyclic dinucleotide sensing originated in bacteria. Nature 586, 429–433 (2020).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.597, 496.574, 286.991, 513.497 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "11. Cohen, D. et al. Cyclic GMP-AMP signalling protects bacteria against viral infection. Nature 574, 691–695 (2019).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.597, 470.382, 291.667, 496.092 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "12. Millman, A., Melamed, S., Amitai, G. & Sorek, R. Diversity and classiﬁcation of cyclic-oligonucleotide-based anti-phage signalling systems. Nat. Microbiol. 5, 1608–1615 (2020).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.597, 444.248, 291.646, 469.959 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "13. Lowey, B. et al. CBASS immunity uses CARF-related effectors to sense 3’-5’ and 2’-5’-linked cyclic oligonucleotide signals and protect bacteria from phage infection. Cell 182, 38–49.e17 (2020).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.595, 409.382, 291.64, 443.766 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "14. Burroughs, A. M., Zhang, D., Schäffer, D. E., Iyer, L. M. & Aravind, L. Comparative genomic analyses reveal a vast, novel network of nucleotidecentric systems in biological conﬂicts, immunity, and signaling. Nucleic Acids Res. 43, 10633–10654 (2015).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.596, 391.92, 267.637, 408.9 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "15. Whiteley, A. T. et al. Bacterial cGAS-like enzymes synthesize diverse nucleotide signals. Nature 567, 194–199 (2019).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.596, 365.785, 286.776, 391.495 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "16. Ye, Q. et al. HORMA domain proteins and a Trip13-like ATPase regulate bacterial cGAS-like enzymes to mediate bacteriophage immunity. Mol. Cell https://doi.org/10.1016/j.molcel.2019.12.009 (2019).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.596, 339.649, 290.234, 365.303 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "17. Lau, R. K. et al. Structure and mechanism of a cyclic trinucleotide-activated bacterial endonuclease mediating bacteriophage immunity. Mol. Cell https:// doi.org/10.1016/j.molcel.2019.12.010 (2020).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.596, 330.918, 291.648, 339.167 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "18. Holm, L. DALI and the persistence of protein shape. Protein Sci. 29, 128–140",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 53,
+        "level" : "5",
+        "page number" : 9,
+        "bounding box" : [ 58.222, 322.187, 79.293, 330.436 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.472,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "(2020)."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.595, 304.783, 288.871, 321.762 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "19. Sun, W. et al. Structures of neisseria meningitidis Cas9 complexes in catalytically poised and anti-CRISPR-inhibited states. Mol. Cell 76, 938–952",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 54,
+        "level" : "5",
+        "page number" : 9,
+        "bounding box" : [ 58.223, 296.052, 90.124, 304.301 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.472,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "(2019). e5."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.596, 269.916, 291.596, 295.57 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "20. Makarova, K. S. et al. Evolutionary and functional classiﬁcation of the CARF domain superfamily, key sensors in prokaryotic antivirus defense. Nucleic Acids Res. 48, 8828–8847 (2020).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.596, 252.455, 285.862, 269.434 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "21. Glaser, F. et al. ConSurf: identiﬁcation of functional regions in proteins by surface-mapping of phylogenetic information. Bioinformatics 19, 163–164",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 55,
+        "level" : "5",
+        "page number" : 9,
+        "bounding box" : [ 58.224, 243.724, 79.294, 251.973 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.472,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "(2003)."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.597, 226.319, 291.176, 243.687 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "22. Slavik, K. M. et al. cGAS-like receptors sense RNA and control 3′2′-cGAMP signalling in Drosophila. Nature 597, 109–113 (2021).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.597, 208.857, 283.5, 225.837 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "23. Holleufer, A. et al. Two cGAS-like receptors induce antiviral immunity in Drosophila. Nature 597, 114–118 (2021).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.597, 182.724, 291.377, 208.434 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "24. Kazlauskiene, M., Kostiuk, G., Venclovas, Č., Tamulaitis, G. & Siksnys, V. A cyclic oligonucleotide signaling pathway in type III CRISPR-Cas systems. Science 357, eaao0100 eaao0609 (2017).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.597, 165.319, 262.382, 182.242 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "25. Niewoehner, O. et al. Type III CRISPR-Cas systems produce cyclic oligoadenylate second messengers. Nature 548, 543–548 (2017).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.597, 139.127, 291.648, 164.837 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "26. Shang, G., Zhang, C., Chen, Z. J., Bai, X. & Zhang, X. Cryo-EM structures of STING reveal its mechanism of activation by cyclic GMP–AMP. Nature https://doi.org/10.1038/s41586-019-0998-5 (2019).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 43.598, 121.722, 288.338, 138.702 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "27. Molina, R. et al. Structure of Csx1-cOA4 complex reveals the basis of RNA decay in Type III-B CRISPR-Cas. Nat. Commun. 10, 4302 (2019).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 421,
+    "level" : "1",
+    "page number" : 9,
+    "bounding box" : [ 303.591, 548.841, 551.661, 731.479 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 8,
+    "previous list id" : 420,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 303.591, 705.769, 549.755, 731.479 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "28. Garcia-Doval, C. et al. Activation and self-inactivation mechanisms of the cyclic oligoadenylate-dependent CRISPR ribonuclease Csm6. Nat. Commun. 11, 1596 (2020).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 303.592, 688.307, 551.653, 705.287 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "29. McMahon, S. A. et al. Structure and mechanism of a Type III CRISPR defence DNA nuclease activated by cyclic oligoadenylate. Nat. Commun. 11, 500",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 50,
+        "level" : "4",
+        "page number" : 9,
+        "bounding box" : [ 318.219, 679.633, 339.362, 687.882 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.472,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "(2020)."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 303.592, 662.171, 534.657, 679.151 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "30. Rostøl, J. T. et al. The Card1 nuclease provides defence during type III CRISPR immunity. Nature 590, 624–629 (2021).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 303.592, 636.036, 551.659, 661.689 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "31. Jia, N., Jones, R., Yang, G., Ouerfelli, O. & Patel, D. J. CRISPR-Cas III-A Csm6 CARF domain is a ring nuclease triggering stepwise cA4 cleavage with ApA>p formation terminating RNase activity. Mol. Cell 75, 944–956.e6 (2019).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 303.593, 609.9, 551.627, 635.554 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "32. Gerlt, J. A. et al. Enzyme function initiative-enzyme similarity tool (EFI-EST): A web tool for generating protein sequence similarity networks. Biochim. Biophys. Acta 1854, 1019–1037 (2015).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 303.593, 592.439, 551.661, 609.418 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "33. Otwinowski, Z. & Minor, W. Processing of X-ray diffraction data collected in oscillation mode. Methods Enzymol. 276, 307–326 (1997).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 303.593, 566.303, 551.61, 591.957 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "34. Adams, P. D. et al. PHENIX: a comprehensive Python-based system for macromolecular structure solution. Acta Crystallogr. Sect. D., Biol. Crystallogr. 66, 213–221 (2010).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 303.593, 548.841, 551.622, 565.821 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.472,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "35. Emsley, P., Lohkamp, B., Scott, W. G. & Cowtan, K. Features and development of Coot. Acta Crystallogr. Sect. D., Biol. Crystallogr. 66, 486–501 (2010).",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 422,
+    "page number" : 9,
+    "bounding box" : [ 303.591, 524.075, 382.999, 534.515 ],
+    "font" : "AdvOTcb88df00",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Acknowledgements"
+  }, {
+    "type" : "paragraph",
+    "id" : 423,
+    "page number" : 9,
+    "bounding box" : [ 303.591, 498.005, 551.65, 523.165 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 6.974,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This work was supported by the National Institutes of Health (grant AI150229 and GM120764 to R.H.H.). We thank F. Sun for assistance with LC-MS, Z. Wawrzak, and S. Anderson for help with data collection."
+  }, {
+    "type" : "paragraph",
+    "id" : 424,
+    "page number" : 9,
+    "bounding box" : [ 303.591, 475.49, 388.908, 485.929 ],
+    "font" : "AdvOTcb88df00",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Author contributions"
+  }, {
+    "type" : "paragraph",
+    "id" : 425,
+    "page number" : 9,
+    "bounding box" : [ 303.591, 432.015, 551.7, 474.579 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 6.974,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "R.H.H. conceived of the project. A.C. carried out in vitro reconstitution of CdnG. S.F. performed DNA degradation assays by Cap5. S.F. and A.C. carried out crystallization of Cap5 and data collection. R.H.H. solved crystal structures of Cap5. X.Z. carried out enzymatic assays of CD-NTases related to CdnG. R.H.H. wrote the manuscript with the input from all authors."
+  }, {
+    "type" : "paragraph",
+    "id" : 426,
+    "page number" : 9,
+    "bounding box" : [ 303.591, 409.499, 386.572, 419.939 ],
+    "font" : "AdvOTcb88df00",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Competing interests"
+  }, {
+    "type" : "paragraph",
+    "id" : 427,
+    "page number" : 9,
+    "bounding box" : [ 303.591, 400.89, 428.505, 408.589 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 6.974,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The authors declare no competing interests."
+  }, {
+    "type" : "paragraph",
+    "id" : 428,
+    "page number" : 9,
+    "bounding box" : [ 303.591, 378.375, 396.248, 388.814 ],
+    "font" : "AdvOTcb88df00",
+    "font size" : 9.465,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Additional information"
+  }, {
+    "type" : "paragraph",
+    "id" : 429,
+    "page number" : 9,
+    "bounding box" : [ 303.591, 361.035, 535.991, 377.464 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 6.974,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Supplementary information The online version contains supplementary material available at https://doi.org/10.1038/s41467-021-26738-2."
+  }, {
+    "type" : "paragraph",
+    "id" : 430,
+    "page number" : 9,
+    "bounding box" : [ 303.591, 343.63, 546.065, 351.329 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 6.974,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Correspondence and requests for materials should be addressed to Raven H. Huang."
+  }, {
+    "type" : "paragraph",
+    "id" : 431,
+    "page number" : 9,
+    "bounding box" : [ 303.591, 310.464, 551.662, 336.135 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 6.974,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Peer review information Nature Communications thanks Gintautas Tamulaitis and the other, anonymous, reviewer(s) for their contribution to the peer review of this work. Peer reviewer reports are available."
+  }, {
+    "type" : "paragraph",
+    "id" : 432,
+    "page number" : 9,
+    "bounding box" : [ 303.591, 292.549, 546.349, 300.248 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 6.974,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Reprints and permission information is available at http://www.nature.com/reprints"
+  }, {
+    "type" : "paragraph",
+    "id" : 433,
+    "page number" : 9,
+    "bounding box" : [ 303.592, 265.62, 551.658, 282.333 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 6.974,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional afﬁliations."
+  }, {
+    "type" : "paragraph",
+    "id" : 435,
+    "level" : "5",
+    "page number" : 9,
+    "bounding box" : [ 349.965, 227.295, 551.645, 243.952 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 6.974,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing,"
+  }, {
+    "type" : "paragraph",
+    "id" : 436,
+    "page number" : 9,
+    "bounding box" : [ 303.59, 146.623, 551.703, 226.037 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 6.974,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/ licenses/by/4.0/."
+  }, {
+    "type" : "paragraph",
+    "id" : 437,
+    "page number" : 9,
+    "bounding box" : [ 303.59, 122.698, 367.41, 130.397 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 6.974,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "© The Author(s) 2021"
+  }, {
+    "type" : "footer",
+    "id" : 439,
+    "page number" : 9,
+    "bounding box" : [ 43.597, 23.654, 551.694, 31.924 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 41,
+      "page number" : 9,
+      "bounding box" : [ 43.597, 23.654, 551.694, 31.924 ],
+      "heading level" : 6,
+      "font" : "AdvOTea1a7398",
+      "font size" : 6.725,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "NATURE COMMUNICATIONS| (2021) 12:6381 |https://doi.org/10.1038/s41467-021-26738-2|www.nature.com/naturecommunications 9"
+    } ]
+  } ]
+}

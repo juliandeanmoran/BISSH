@@ -1,0 +1,51 @@
+{
+  "file name" : "2022_Wolf.pdf",
+  "number of pages" : 11,
+  "author" : null,
+  "title" : "cdf362 3841..3851",
+  "creation date" : "D:191020702152010",
+  "modification date" : "D:20020705121305",
+  "kids" : [ {
+    "type" : "image",
+    "id" : 17,
+    "page number" : 2,
+    "bounding box" : [ 63.383, 489.848, 542.78, 755.646 ],
+    "source" : "2022_Wolf_images/imageFile1.png"
+  }, {
+    "type" : "image",
+    "id" : 22,
+    "page number" : 3,
+    "bounding box" : [ 61.398, 331.728, 287.597, 755.326 ],
+    "source" : "2022_Wolf_images/imageFile2.png"
+  }, {
+    "type" : "image",
+    "id" : 23,
+    "page number" : 4,
+    "bounding box" : [ 63.383, 394.968, 542.78, 754.966 ],
+    "source" : "2022_Wolf_images/imageFile3.png"
+  }, {
+    "type" : "image",
+    "id" : 24,
+    "page number" : 5,
+    "bounding box" : [ 60.435, 541.847, 545.232, 754.846 ],
+    "source" : "2022_Wolf_images/imageFile4.png"
+  }, {
+    "type" : "image",
+    "id" : 26,
+    "page number" : 6,
+    "bounding box" : [ 124.838, 580.207, 224.437, 755.406 ],
+    "source" : "2022_Wolf_images/imageFile5.png"
+  }, {
+    "type" : "image",
+    "id" : 27,
+    "page number" : 6,
+    "bounding box" : [ 320.428, 420.728, 542.427, 755.526 ],
+    "source" : "2022_Wolf_images/imageFile6.png"
+  }, {
+    "type" : "image",
+    "id" : 28,
+    "page number" : 7,
+    "bounding box" : [ 103.408, 513.967, 502.406, 755.166 ],
+    "source" : "2022_Wolf_images/imageFile7.png"
+  } ]
+}

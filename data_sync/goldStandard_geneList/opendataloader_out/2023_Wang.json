@@ -1,0 +1,2150 @@
+{
+  "file name" : "2023_Wang.pdf",
+  "number of pages" : 9,
+  "author" : "Lan Wang",
+  "title" : "The arms race between bacteria CBASS and bacteriophages",
+  "creation date" : "D:20230725184612+08'00'",
+  "modification date" : "D:20230725184612+08'00'",
+  "kids" : [ {
+    "type" : "paragraph",
+    "id" : 118,
+    "page number" : 1,
+    "bounding box" : [ 439.37, 783.797, 543.66, 810.427 ],
+    "font" : "AdvTT9b12cd41",
+    "font size" : 7.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "TYPE Review PUBLISHED 28 July 2023 DOI 10.3389/fimmu.2023.1224341"
+  }, {
+    "type" : "image",
+    "id" : 100,
+    "page number" : 1,
+    "bounding box" : [ 49.587, 691.557, 126.136, 706.683 ],
+    "source" : "2023_Wang_images/imageFile1.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 101,
+    "page number" : 1,
+    "bounding box" : [ 49.606, 664.119, 96.955, 671.84 ],
+    "font" : "AdvTT2c8ce45a",
+    "font size" : 7.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "OPEN ACCESS"
+  }, {
+    "type" : "paragraph",
+    "id" : 102,
+    "page number" : 1,
+    "bounding box" : [ 49.606, 649.917, 77.341, 655.984 ],
+    "font" : "AdvTT2c8ce45a",
+    "font size" : 5.5,
+    "text color" : "[0.39, 0.315, 0.32, 0.0]",
+    "content" : "EDITED BY"
+  }, {
+    "type" : "paragraph",
+    "id" : 103,
+    "page number" : 1,
+    "bounding box" : [ 49.606, 631.633, 179.825, 648.172 ],
+    "font" : "AdvTT9b12cd41",
+    "font size" : 7.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "Chaofeng Han, Second Military Medical University, China"
+  }, {
+    "type" : "paragraph",
+    "id" : 104,
+    "page number" : 1,
+    "bounding box" : [ 49.606, 617.432, 85.562, 623.499 ],
+    "font" : "AdvTT2c8ce45a",
+    "font size" : 5.5,
+    "text color" : "[0.39, 0.315, 0.32, 0.0]",
+    "content" : "REVIEWED BY"
+  }, {
+    "type" : "paragraph",
+    "id" : 105,
+    "page number" : 1,
+    "bounding box" : [ 49.606, 545.118, 175.525, 615.687 ],
+    "font" : "AdvTT9b12cd41",
+    "font size" : 7.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "Min-Kyu Kim, Korea Atomic Energy Research Institute (KAERI), Republic of Korea Alicja Wegrzyn, Polish Academy of Sciences, Poland Guijun Shang, Shanxi Academy of Advanced Research and Innovation, China"
+  }, {
+    "type" : "paragraph",
+    "id" : 106,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 49.606, 530.919, 104.118, 536.985 ],
+    "font" : "AdvTT2c8ce45a",
+    "font size" : 5.5,
+    "text color" : "[0.39, 0.315, 0.32, 0.0]",
+    "content" : "*CORRESPONDENCE"
+  }, {
+    "type" : "paragraph",
+    "id" : 107,
+    "page number" : 1,
+    "bounding box" : [ 49.606, 521.593, 95.573, 529.174 ],
+    "font" : "AdvTT9b12cd41",
+    "font size" : 7.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "Leiliang Zhang"
+  }, {
+    "type" : "paragraph",
+    "id" : 109,
+    "level" : "2",
+    "page number" : 1,
+    "bounding box" : [ 60.151, 511.728, 137.388, 519.309 ],
+    "font" : "AdvTT9b12cd41",
+    "font size" : 7.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "armzhang@hotmail.com"
+  }, {
+    "type" : "paragraph",
+    "id" : 110,
+    "page number" : 1,
+    "bounding box" : [ 49.606, 477.202, 122.293, 503.775 ],
+    "font" : "AdvTT9b12cd41",
+    "font size" : 7.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "RECEIVED 17 May 2023 ACCEPTED 06 July 2023 PUBLISHED 28 July 2023"
+  }, {
+    "type" : "paragraph",
+    "id" : 111,
+    "page number" : 1,
+    "bounding box" : [ 49.606, 462.661, 75.429, 468.727 ],
+    "font" : "AdvTT2c8ce45a",
+    "font size" : 5.5,
+    "text color" : "[0.39, 0.315, 0.32, 0.0]",
+    "content" : "CITATION"
+  }, {
+    "type" : "paragraph",
+    "id" : 113,
+    "page number" : 1,
+    "bounding box" : [ 49.606, 417.333, 161.223, 460.915 ],
+    "font" : "AdvTT9b12cd41",
+    "font size" : 7.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "Wang L and Zhang L (2023) The arms race between bacteria CBASS and bacteriophages. Front. Immunol. 14:1224341. doi: 10.3389/fimmu.2023.1224341"
+  }, {
+    "type" : "paragraph",
+    "id" : 115,
+    "page number" : 1,
+    "bounding box" : [ 49.606, 403.643, 81.446, 409.71 ],
+    "font" : "AdvTT2c8ce45a",
+    "font size" : 5.5,
+    "text color" : "[0.39, 0.315, 0.32, 0.0]",
+    "content" : "COPYRIGHT"
+  }, {
+    "type" : "paragraph",
+    "id" : 116,
+    "page number" : 1,
+    "bounding box" : [ 49.606, 295.328, 184.134, 401.898 ],
+    "font" : "AdvTT9b12cd41",
+    "font size" : 7.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "© 2023 Wang and Zhang. This is an openaccess article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+  }, {
+    "type" : "heading",
+    "id" : 89,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 222.18, 662.283, 534.519, 710.238 ],
+    "heading level" : 1,
+    "font" : "AdvTTd3a5f740",
+    "font size" : 21.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "The arms race between bacteria CBASS and bacteriophages"
+  }, {
+    "type" : "paragraph",
+    "id" : 90,
+    "page number" : 1,
+    "bounding box" : [ 222.18, 631.369, 417.926, 643.808 ],
+    "font" : "AdvTTd3a5f740",
+    "font size" : 11.0,
+    "text color" : "[0.52, 0.44, 0.44, 0.08]",
+    "content" : "Lan Wang1,2,3 and Leiliang Zhang 1,2,3*"
+  }, {
+    "type" : "paragraph",
+    "id" : 94,
+    "page number" : 1,
+    "bounding box" : [ 222.178, 570.178, 539.887, 622.774 ],
+    "font" : "AdvTT9b12cd41",
+    "font size" : 7.0,
+    "text color" : "[0.52, 0.44, 0.44, 0.08]",
+    "content" : "1Department of Clinical Laboratory Medicine, The First Afﬁliated Hospital of Shandong First Medical University and Shandong Provincial Qianfoshan Hospital, Jinan, Shandong, China, 2Medical Science and Technology Innovation Center, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan, Shandong, China, 3Department of Pathogen Biology, School of Clinical and Basic Medical Sciences, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan, Shandong, China"
+  }, {
+    "type" : "paragraph",
+    "id" : 95,
+    "page number" : 1,
+    "bounding box" : [ 222.18, 337.268, 545.681, 534.495 ],
+    "font" : "AdvTT9b12cd41",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "The Bacterial Cyclic oligonucleotide-Based Anti-phage Signaling System (CBASS) is an innate immune system that induces cell suicide to defend against phage infections. This system relies on cGAS/DncV-like nucleotidyltransferases (CD-NTase) to synthesize cyclic oligonucleotides (cOs) and CD-NTase-associated proteins (Caps) to execute cell death through DNA cleavage, membrane damage, and NAD depletion, thereby inhibiting phage replication. Ancillary proteins expressed in CBASS, in combination with CDNTase, ensure the normal synthesis of cOs and prepare CD-NTase for full activation by binding to phage genomes, proteins, or other unknown products. To counteract cell death induced by CBASS, phage genes encode immune evasion proteins that curb Cap recognition of cOs, allowing for phage replication, assembly, and propagation in bacterial cells. This review provides a comprehensive understanding of CBASS immunity, comparing it with different bacterial immune systems and highlighting the interplay between CBASS and phage. Additionally, it explores similar immune escape methods based on shared proteins and action mechanisms between prokaryotic and eukaryotic viruses."
+  }, {
+    "type" : "paragraph",
+    "id" : 96,
+    "page number" : 1,
+    "bounding box" : [ 222.18, 313.048, 252.584, 319.115 ],
+    "font" : "AdvTT2c8ce45a",
+    "font size" : 5.5,
+    "text color" : "[0.52, 0.44, 0.44, 0.08]",
+    "content" : "KEYWORDS"
+  }, {
+    "type" : "paragraph",
+    "id" : 97,
+    "page number" : 1,
+    "bounding box" : [ 222.18, 298.525, 429.107, 307.349 ],
+    "font" : "AdvTT2c8ce45a",
+    "font size" : 8.0,
+    "text color" : "[0.52, 0.44, 0.44, 0.08]",
+    "content" : "CBASS, cell suicide, CD-NTase, immune evasion, phage"
+  }, {
+    "type" : "heading",
+    "id" : 98,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 222.18, 218.861, 310.268, 233.617 ],
+    "heading level" : 2,
+    "font" : "AdvTTd3a5f740",
+    "font size" : 13.5,
+    "text color" : "[0.09, 0.95, 0.88, 0.01]",
+    "content" : "1 Introduction"
+  }, {
+    "type" : "paragraph",
+    "id" : 99,
+    "page number" : 1,
+    "bounding box" : [ 222.178, 69.469, 545.685, 204.354 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "Cyclic guanosine monophosphate (GMP)-adenosine monophosphate (AMP) (cGAMP) synthase (cGAS), activated by viral or bacterial DNA in the cytoplasm of mammalian cells, can synthesize cGAMP as a second messenger to initiate Stimulator of Interferon Genes (STING) and ultimately induce the production of interferons (IFNs) to defend against virus invasion (1). Cyclic oligonucleotide-Based Anti-phage Signaling System (CBASS) has been identiﬁed as a common bacterial immune system arousing cell suicide through cyclic oligonucleotides (cOs) generated by cGAS/DncV-like nucleotidyltransferases (CD-NTases, similar to cGAS in eukaryotic cells) to activate CDNTase-associated proteins (Caps) like CapV before completion of phage replication (2–4). Over 5,000 CBASS operons containing two or four gene systems commit diverse ancillary genes regulating CD-NTases activities, and express various effector cell-killing domains to"
+  }, {
+    "type" : "footer",
+    "id" : 120,
+    "page number" : 1,
+    "bounding box" : [ 49.606, 34.204, 545.898, 41.855 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 33,
+      "page number" : 1,
+      "bounding box" : [ 49.606, 34.204, 545.898, 41.855 ],
+      "heading level" : 3,
+      "font" : "AdvTTd3a5f740",
+      "font size" : 7.0,
+      "text color" : "[0.09, 0.95, 0.88, 0.01]",
+      "content" : "Frontiers in Immunology 01 frontiersin.org"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 121,
+    "page number" : 2,
+    "bounding box" : [ 49.606, 799.503, 545.934, 807.154 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 42,
+      "page number" : 2,
+      "bounding box" : [ 49.606, 799.503, 545.934, 807.154 ],
+      "heading level" : 3,
+      "font" : "AdvTTd3a5f740",
+      "font size" : 7.0,
+      "text color" : "[0.52, 0.44, 0.44, 0.08]",
+      "content" : "Wang and Zhang 10.3389/ﬁmmu.2023.1224341"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 122,
+    "page number" : 2,
+    "bounding box" : [ 49.606, 731.64, 290.67, 766.577 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "perform DNA degradation, membrane destruction, or cellular metabolites depletion, leading to bacterial abortive infection (Figure 1) (2, 4)."
+  }, {
+    "type" : "paragraph",
+    "id" : 123,
+    "page number" : 2,
+    "bounding box" : [ 63.609, 719.168, 290.62, 729.104 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "Recent studies have found two anti-CBASS (Acb) proteins,"
+  }, {
+    "type" : "list",
+    "id" : 124,
+    "level" : "3",
+    "page number" : 2,
+    "bounding box" : [ 49.605, 569.161, 290.743, 716.575 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 166,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 49.605, 569.161, 290.743, 716.575 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 9.0,
+      "text color" : "[0.71, 0.65, 0.64, 0.68]",
+      "content" : "Acb1 and Acb2, encoded by phage both directly target CD-NTase products cGAMP and then inhibit Cap effector activation to preserve cell survival and contribute to phage reproduction (2, 5). Moreover, NTases and MazG-like nucleotide pyrophosphatase, named Atd1, encoded by phage genome can block the Toll/ interleukin-1 receptor (TIR)-STING pathway to ensure phage propagation (6). This phenomenon of virus antagonizing innate immune system is more diverse in virus-invading eukaryotic cells. For example, poxvirus immune nucleases (poxins), degrading 2’,3’cGAMP, restrict the cGAS-STING pathway and inhibit the production of IFN (7). Prokaryotic and eukaryotic virus evolution in defending host immune systems present some similarities.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 125,
+    "page number" : 2,
+    "bounding box" : [ 49.605, 456.628, 290.725, 566.568 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "In this review, we will discuss the role of ancillary gene products in regulating CD-NTase activity, which is responsible for the synthesis of various cyclic oligonucleotides. Additionally, we will describe the structures and functions of the downstream Cap effectors that are modulated by multiple CBASS operons and compare their effector functions with CRISPR-Cas and Thoeris. Signiﬁcantly, we will conclude on the recent studies about the structures and functional styles of proteins encoded in the phage genome that antagonize the CBASS system. We will also brieﬂy"
+  }, {
+    "type" : "paragraph",
+    "id" : 126,
+    "page number" : 2,
+    "bounding box" : [ 304.893, 744.174, 545.938, 766.583 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "illustrate the similarities of virus escaping immune attack between prokaryotic and eukaryotic cells."
+  }, {
+    "type" : "heading",
+    "id" : 127,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 304.894, 693.607, 506.637, 723.84 ],
+    "heading level" : 2,
+    "font" : "AdvTTd3a5f740",
+    "font size" : 13.5,
+    "text color" : "[0.09, 0.95, 0.88, 0.01]",
+    "content" : "2 The formidable phage defense strategies of CBASS"
+  }, {
+    "type" : "paragraph",
+    "id" : 128,
+    "page number" : 2,
+    "bounding box" : [ 304.894, 668.918, 408.539, 682.034 ],
+    "font" : "AdvTTd3a5f740",
+    "font size" : 12.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "2.1 Cellular suicide"
+  }, {
+    "type" : "paragraph",
+    "id" : 129,
+    "page number" : 2,
+    "bounding box" : [ 304.894, 456.626, 546.025, 654.099 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "The CBASS system has formidable phage defense strategies, one of which is cellular suicide through abortive infection (Figure 2). The CD-NTase synthesizes diverse and abundant cyclic di- and trinucleotides that are speciﬁc to the infected cells (3). These cyclic oligonucleotides function as second messengers that are sensed by Second Messenger Oligonucleotide or Dinucleotide Synthetase (SMODS)-associated and fused to various effector domains (SAVED), STING domains, and other cyclic oligonucleotidesensing platforms of Caps. This activation of the Cap effector domain leads to the execution of cell suicide mainly through three individually classiﬁed effects, DNA degradation, membrane destruction, and cellular metabolites depletion (2, 8). Furthermore, the SAVED domain gene is widespread in Cap genes and co-exists with cell-killing domains, such as the HNH endonuclease domain, REase domain, TIR domain, calcineurin-like phosphoesterase domain, and two transmembrane helices (2TM) as the C-terminal"
+  }, {
+    "type" : "text block",
+    "id" : 130,
+    "page number" : 2,
+    "bounding box" : [ 49.606, 81.581, 545.953, 430.639 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 2,
+      "bounding box" : [ 127.729, 160.838, 467.931, 417.883 ],
+      "source" : "2023_Wang_images/imageFile2.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 2,
+      "page number" : 2,
+      "bounding box" : [ 60.832, 147.221, 84.727, 153.288 ],
+      "font" : "AdvTT2c8ce45a",
+      "font size" : 5.5,
+      "text color" : "[0.52, 0.44, 0.44, 0.08]",
+      "content" : "FIGURE 1"
+    }, {
+      "type" : "paragraph",
+      "id" : 3,
+      "page number" : 2,
+      "bounding box" : [ 60.832, 92.88, 529.564, 145.476 ],
+      "font" : "AdvTT9b12cd41",
+      "font size" : 7.0,
+      "text color" : "[0.52, 0.44, 0.44, 0.08]",
+      "content" : "The components of CBASS operons. CBASS operons are genetic structures found in bacterial cells that are responsible for defending against phage infections. They typically consist of three types of genes: CD-NTase genes, ancillary genes, and effector genes. CD-NTase genes encode the CDNTase enzyme, which is activated by phage genes or expression products to generate cyclic oligonucleotides (cOs). The ancillary genes produce proteins that help regulate the CD-NTase enzyme or activate the effector genes. Finally, the effector genes are responsible for inducing cell suicide and preventing phage replication. The speciﬁc arrangement and number of these genes can vary between different CBASS operons, but they all share this basic structure."
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 131,
+    "page number" : 2,
+    "bounding box" : [ 49.606, 34.202, 545.898, 41.853 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 34,
+      "page number" : 2,
+      "bounding box" : [ 49.606, 34.202, 545.898, 41.853 ],
+      "heading level" : 3,
+      "font" : "AdvTTd3a5f740",
+      "font size" : 7.0,
+      "text color" : "[0.09, 0.95, 0.88, 0.01]",
+      "content" : "Frontiers in Immunology 02 frontiersin.org"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 132,
+    "page number" : 3,
+    "bounding box" : [ 49.605, 799.502, 545.932, 807.153 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 43,
+      "page number" : 3,
+      "bounding box" : [ 49.605, 799.502, 545.932, 807.153 ],
+      "heading level" : 3,
+      "font" : "AdvTTd3a5f740",
+      "font size" : 7.0,
+      "text color" : "[0.52, 0.44, 0.44, 0.08]",
+      "content" : "Wang and Zhang 10.3389/ﬁmmu.2023.1224341"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 137,
+    "page number" : 3,
+    "bounding box" : [ 49.606, 411.42, 545.953, 765.524 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 4,
+      "page number" : 3,
+      "bounding box" : [ 141.902, 526.734, 453.867, 752.825 ],
+      "source" : "2023_Wang_images/imageFile3.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 5,
+      "page number" : 3,
+      "bounding box" : [ 60.832, 513.061, 85.068, 519.127 ],
+      "font" : "AdvTT2c8ce45a",
+      "font size" : 5.5,
+      "text color" : "[0.52, 0.44, 0.44, 0.08]",
+      "content" : "FIGURE 2"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 3,
+      "bounding box" : [ 60.83, 422.72, 532.914, 511.315 ],
+      "font" : "AdvTT9b12cd41",
+      "font size" : 7.0,
+      "text color" : "[0.52, 0.44, 0.44, 0.08]",
+      "content" : "An overview of how CBASS immunity functions to prevent phage replication in bacterial cells. CBASS is a bacterial immune system that prevents phage replication by inducing cell suicide through various mechanisms. When a phage infects a bacterial cell, phage genes or expression products can activate the CD-NTase with or without accessory proteins (Cap2 or HORMA bind to CD-NTase while Cap3 or Trip13 disassemble the combination of CD-NTase and target proteins or accessory proteins), which generates cyclic oligonucleotides (cOs). Cap2 functions as an ubiquitinase to catalyze CD-NTase as the substrate to bind to the target for CD-NTase full activation. These cOs are recognized by the effector sensing domain, which activates effectors to implement cell suicide through DNA cleavage (endonucleases: NucC for cAAA, Cap4 for 2’3’3’-cAAA or 3’3’3’-cAAG, and Cap5 for 3’2’-cGAMP), membrane destruction (phospholipase CapV for 3’3’-cGAMP and TM-domain-containing Cap effectors for U-containing CDNs), or NAD degradation (NAD hydrolases: TIR-SAVED for cA3 and TIR-STING for c-di-GMP). Most effectors require oligomerization to fulﬁll their function. Meanwhile, ThsA from Thoeris may be activated by v-cADPR produced by TIR-STING. Overall, CBASS is an effective immune system that promotes the survival of bacterial hosts by preventing phage replication. Phage DNA is red while bacterial host DNA is blue."
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 133,
+    "page number" : 3,
+    "bounding box" : [ 49.605, 272.543, 290.767, 394.955 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "cyclic oligonucleotide sensor of Cap effectors. The SAVED domain is capable of recognizing distinct cyclic oligonucleotide signals due to variations in its structure across different Caps (8, 9). Most CBASS operon conﬁgurations are composed of one cyclic oligonucleotide synthase and one Cap gene, which are named type I CBASS. Some CBASS operons have additional ancillary genes and are named type II/III CBASS (2). Heterogeneous Cap effectors accept host signals to promote cell death before the phage ﬁnishes a complete replication cycle, preventing the phage from spreading into the bystander bacteria."
+  }, {
+    "type" : "paragraph",
+    "id" : 134,
+    "page number" : 3,
+    "bounding box" : [ 49.606, 234.764, 165.134, 247.88 ],
+    "font" : "AdvTTd3a5f740",
+    "font size" : 12.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "2.2 DNA degradation"
+  }, {
+    "type" : "paragraph",
+    "id" : 135,
+    "page number" : 3,
+    "bounding box" : [ 49.605, 72.531, 290.694, 219.944 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "The nuclease effectors, including NucC, Cap4, and Cap5, are common endonuclease-related effectors that destroy host cellular DNA and phage genome to resist phage reproduction and implement abortive infection (Figure 2) (2). NucC is a monomer that is associated with the CD-NTase and contains a DNA endonuclease domain (Figure 3A) (8). In an inactive state, three NucC monomers form a homotrimer with an overall triangular architecture. The upstream signal cyclic AMP-AMP-AMP (cAAA) can activate the NucC trimer by binding to one trimer allosteric pocket with hydrogen bonds and p-stacking. Once activated, the NucC trimer conformationally changes, allowing two NucC trimers to interact with each other by hydrophobic clusters. The hexamer of"
+  }, {
+    "type" : "paragraph",
+    "id" : 136,
+    "page number" : 3,
+    "bounding box" : [ 304.892, 72.53, 545.985, 394.958 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "the activated NucC sensitizes each NucC active site’s capacity to cleave one strand of DNA (10, 11). Another endonuclease with a high afﬁnity for 3’2’-cGAMP, Cap5, consists of the SAVED domain and HNH nuclease domain, forming homodimers in an inactive state. In a homodimer, two SAVED domains recognizing 3’2’cGAMP form an open and ajar conﬁguration. Once 3’2’-cGAMP binds to one SAVED domain, it approaches the active site of the two HNH domains, which executes DNA degradation (Figure 3B) (12). Interestingly, both 3’2’-cGAMP and 2’3’-cGAMP have the 2’-5’ phosphate linkage which is generated by CD-NTase ﬁrst. However, 2’-5’ phosphate linkage of 3’2’-cGAMP is composed of the 2’-OH of ATP and the a-phosphate of GTP, different from the 2'3'-cGAMP' s one composed of 2’OH of GTP and the a-phosphate of ATP. And the different 3’-5’ phosphate linkage consisting of ATP and GTP forms accordingly. 3’2’-cGAMP synthesized by bacterial CD-NTase functions as the activator of Cap5 for DNA degradation. Bacterial or viral DNA initiates cGAS to generate 2’3’-cGAMP, which can bind to STING and trigger the STING signaling pathway for resisting infection in mammalian cells (12, 13). Cap4 also possesses the SAVED domain for sensing cyclic oligonucleotides like Cap5 (Figure 3C). A recent research has shown that Cap4 proteins can be classiﬁed into two types based on the position of the cyclic oligonucleotide (cOs) binding site. Type I Cap4 proteins, such as AbCap4, position the cAAA molecule in the center of the SAVED domain (Figure 3C) (14). In contrast, type II Cap4 proteins, such as EcCap4, position the cAAG molecule near the N-terminal of the"
+  }, {
+    "type" : "footer",
+    "id" : 138,
+    "page number" : 3,
+    "bounding box" : [ 49.605, 34.202, 545.897, 41.852 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 35,
+      "page number" : 3,
+      "bounding box" : [ 49.605, 34.202, 545.897, 41.852 ],
+      "heading level" : 3,
+      "font" : "AdvTTd3a5f740",
+      "font size" : 7.0,
+      "text color" : "[0.09, 0.95, 0.88, 0.01]",
+      "content" : "Frontiers in Immunology 03 frontiersin.org"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 139,
+    "page number" : 4,
+    "bounding box" : [ 49.604, 799.502, 545.931, 807.153 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 44,
+      "page number" : 4,
+      "bounding box" : [ 49.604, 799.502, 545.931, 807.153 ],
+      "heading level" : 3,
+      "font" : "AdvTTd3a5f740",
+      "font size" : 7.0,
+      "text color" : "[0.52, 0.44, 0.44, 0.08]",
+      "content" : "Wang and Zhang 10.3389/ﬁmmu.2023.1224341"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 144,
+    "page number" : 4,
+    "bounding box" : [ 49.606, 443.112, 545.953, 765.524 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 7,
+      "page number" : 4,
+      "bounding box" : [ 120.837, 522.387, 474.962, 740.073 ],
+      "source" : "2023_Wang_images/imageFile4.png"
+    }, {
+      "type" : "caption",
+      "id" : 8,
+      "page number" : 4,
+      "bounding box" : [ 120.805, 745.488, 330.054, 753.839 ],
+      "linked content id" : 7,
+      "font" : "HelveticaNeueLTStd-Bd",
+      "font size" : 7.0,
+      "text color" : "[0.74972, 0.67919, 0.6705, 0.90146]",
+      "content" : "A B"
+    }, {
+      "type" : "paragraph",
+      "id" : 9,
+      "page number" : 4,
+      "bounding box" : [ 120.755, 621.859, 356.343, 630.21 ],
+      "font" : "HelveticaNeueLTStd-Bd",
+      "font size" : 7.0,
+      "text color" : "[0.74972, 0.67919, 0.6705, 0.90146]",
+      "content" : "D E F"
+    }, {
+      "type" : "paragraph",
+      "id" : 10,
+      "page number" : 4,
+      "bounding box" : [ 410.863, 745.488, 416.05, 753.839 ],
+      "font" : "HelveticaNeueLTStd-Bd",
+      "font size" : 7.0,
+      "text color" : "[0.74972, 0.67919, 0.6705, 0.90146]",
+      "content" : "C"
+    }, {
+      "type" : "paragraph",
+      "id" : 11,
+      "page number" : 4,
+      "bounding box" : [ 60.832, 508.752, 85.068, 514.819 ],
+      "font" : "AdvTT2c8ce45a",
+      "font size" : 5.5,
+      "text color" : "[0.52, 0.44, 0.44, 0.08]",
+      "content" : "FIGURE 3"
+    }, {
+      "type" : "paragraph",
+      "id" : 12,
+      "page number" : 4,
+      "bounding box" : [ 60.829, 454.411, 533.503, 507.147 ],
+      "font" : "AdvTT9b12cd41",
+      "font size" : 7.0,
+      "text color" : "[0.52, 0.44, 0.44, 0.08]",
+      "content" : "Structures of CBASS effectors. (A) Crystal structure of E. coli MS115-1 NucC trimer with cAAA in apo form at 1.75 Å resolution (PDB: 6P7O, left). Crystal structure of E. coli MS115-1 NucC hexamer with cAAA at 1.67 Å of resolution (PDB: 6P7P, right). (B) Crystal structure of Asticcacaulis sp. Cap5 at 2.39 Å of resolution (PDB: 7RWK). (C) Crystal structure of Acinetobacter baumannii Cap4 SAVED/CARF-domain containing receptor with 2’3’3’cAAA at 2.10 Å of resolution (PDB: 6VM6). (D) Crystal structure of Yersinia aleksiciae Cap15 cyclic dinucleotide receptor of crystal form 2 at 2.60 Å of resolution (PDB: 7N35). (E) Crystal structure of Microbacterium ketosireducens TIR-SAVED effector bound to cA3 at 3.80 Å of resolution (PDB: 7QQK). (F) Crystal structure of SfSTING with c-di-GMP single ﬁber at 3.30 Å of resolution (PDB: 7UN8)."
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 140,
+    "page number" : 4,
+    "bounding box" : [ 49.606, 79.224, 290.706, 426.647 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "SAVED domain. This difference in cOs binding site location may contribute to the speciﬁcity of Cap4 proteins in different bacterial species (14). It is interesting to note that one SAVED domain formed by two CRISPR-associated Rossman fold (CARF) subunits of the Cap4 monomer recognizes the speciﬁc second messenger. Once activated, Cap4 can oligomerize into a high-order complex, which juxtaposes the active sites of the endonuclease domain, requiring ligand recognition. This oligomerization enforces its promiscuous nuclease activity for both host and phage genome (9, 14). In contrast to the endonucleases mentioned above, Cap18 has a 3’-5’ exonuclease primitive activity for degrading ssDNA or ssRNA, not requiring cyclic oligonucleotide binding. Coexisting with transcription factors such as CapW or CapH+CapP and Cap4 genes in CBASS operons, this Cap18 homodimer may regulate CBASS activation by eliminating ssDNA or ssRNA related to CBASS transcription factors (15). The bacterial CRISPR system also harbors a series of nuclease effector complexes for DNA or RNA damage. While NucC is present in both CBASS and some CRISPR systems, its function differs between the two. In CBASS, NucC induces cell suicide in response to DNA damage caused by the cytosine base editor. In CRISPR systems, NucC is involved in the degradation of foreign DNA by cleaving it into smaller fragments, which are then used by the CRISPR system to target and destroy the invading pathogen (16). NucC also has the ability to destroy bacteria chromosome for cell death instead of directly acting on phage genome (11, 17). Csx1 and Csm6 are ssRNases, and Can1 is a DNA endonuclease speciﬁc for cleaving ssRNA or dsDNA invasion, which does not cause abortive infection like"
+  }, {
+    "type" : "paragraph",
+    "id" : 141,
+    "page number" : 4,
+    "bounding box" : [ 304.896, 291.711, 545.99, 426.653 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "CBASS (18–20). Card1 can not only directly destroy the phage genome due to its restriction endonuclease activity for just cleaving ssDNA or ssRNA but also provides an alternative to cell suicide (21). Different choices may depend on the degree of phage infection in bacteria with various immune systems, implying that the emergence of CBASS immunity may reﬂect phage infection has reached an irreversible point from an overall perspective (21). In summary, endonucleases leading to DNA damage possess unique activation conformations and special cyclic oligonucleotide second messengers, which may determine their specialty in different bacteria."
+  }, {
+    "type" : "paragraph",
+    "id" : 142,
+    "page number" : 4,
+    "bounding box" : [ 304.894, 253.983, 451.123, 267.099 ],
+    "font" : "AdvTTd3a5f740",
+    "font size" : 12.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "2.3 Membrane destruction"
+  }, {
+    "type" : "paragraph",
+    "id" : 143,
+    "page number" : 4,
+    "bounding box" : [ 304.894, 79.221, 546.076, 239.163 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "It is interesting to note that programmed cell death can be induced by membrane damage, which breaks the acid-base and osmotic balance (Figure 2). In Vibrio cholerae, for example, the bacteria harbor their own cGAMP synthase, DncV, which can generate 3’3’-cGAMP, speciﬁcally for activating CapV, a phospholipase that executes inner membrane degradation during phage infection (22). Genetic evidence has shown that 3’3’-cGAMP can directly bind to and activate CapV. Once activated, CapV degrades phosphatidylethanolamine (PE) and phosphatidylglycerol (PG) in the cell membrane, causing rapid cell death to inhibit phage reproduction. In addition to enzymatic activity, TM effectors can also disrupt the inner membrane and are encoded in more than 40% of CBASS operons. The most common TM effector is Cap15, which is"
+  }, {
+    "type" : "footer",
+    "id" : 145,
+    "page number" : 4,
+    "bounding box" : [ 49.604, 34.202, 545.895, 41.853 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 36,
+      "page number" : 4,
+      "bounding box" : [ 49.604, 34.202, 545.895, 41.853 ],
+      "heading level" : 3,
+      "font" : "AdvTTd3a5f740",
+      "font size" : 7.0,
+      "text color" : "[0.09, 0.95, 0.88, 0.01]",
+      "content" : "Frontiers in Immunology 04 frontiersin.org"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 146,
+    "page number" : 5,
+    "bounding box" : [ 49.606, 799.728, 545.934, 807.379 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 45,
+      "page number" : 5,
+      "bounding box" : [ 49.606, 799.728, 545.934, 807.379 ],
+      "heading level" : 3,
+      "font" : "AdvTTd3a5f740",
+      "font size" : 7.0,
+      "text color" : "[0.52, 0.44, 0.44, 0.08]",
+      "content" : "Wang and Zhang 10.3389/ﬁmmu.2023.1224341"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 147,
+    "page number" : 5,
+    "bounding box" : [ 49.605, 469.384, 290.804, 768.118 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "composed of two N-terminal TM helices and a b-barrel C-terminal domain. The b-barrel domain functions as a uracil-containing cyclic dinucleotides sensor, forming a binding pocket (Figure 3D) (23). Once activated by cyclic dinucleotides (CDNs), Cap15 oligomerizes to form a high-order complex within the membrane, which is required for membrane damage. Interestingly, Cap15 without nucleotide second messenger recognition exists as an oligomeric complex rather than a monomer. Other important CBASS TMcontaining effectors, such as Cap13, Cap14 (with a SAVED domain), and Cap16 (with a NUDIX domain), also produce cell toxicity through oligomerization to damage the inner membrane, accompanied by several other mechanisms (23). Thoeris ThsA effector has been identiﬁed as possessing an N-terminal transmembrane domain and a C-terminal NAD-binding domain, which is distinct from ThsA with the SIR2 domain executing NAD depletion (24). This transmembrane-domain ThsA may modulate cell death like membrane destruction caused by Cap15. Notably, Cap16 with a mutation of its NUDIX domain does not lose cell toxicity (23), implying that inner membrane destruction caused by TM effector oligomerization may be a simple but predominant strategy to induce rapid cell death for inhibiting phage replication and may be difﬁcult for the phage to express certain proteins degrading or sequestering all kinds of uracil-containing cyclic dinucleotides."
+  }, {
+    "type" : "paragraph",
+    "id" : 148,
+    "page number" : 5,
+    "bounding box" : [ 49.606, 431.602, 151.356, 444.717 ],
+    "font" : "AdvTTd3a5f740",
+    "font size" : 12.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "2.4 NAD depletion"
+  }, {
+    "type" : "paragraph",
+    "id" : 149,
+    "page number" : 5,
+    "bounding box" : [ 49.604, 69.358, 290.708, 416.782 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "The TIR domain, which participates in NAD degradation, is widespread in different bacterial defense systems against phage invasion, such as CBASS and Thoeris (25). In CBASS, the TIR domain is fused to the SAVED or STING domain, which functions as the second messenger sensor. Upon phage infection, CD-NTase synthesizes 3’,3’,3’-cA3(same as 3’3’3’-cAAA and cAAA), which binds to each SAVED domain of two head-to-tail TIR-SAVED monomers to activate TIR-SAVED that ultimately forms a highordered ﬁlament (Figures 2, 3E). Cryo-EM has identiﬁed this ﬁlament as a right-handed superhelical solenoid, with seventeen TIR-SAVED monomers in each turn of the ﬁlament. The TIR domain NADase active sites, enclosed by SAVED dimer formation, possess no NADase activity, implying the requirement of TIRSAVED multimers for the highest NADase activity (26). Bacterial STING protein is homologous to the V-shaped human STING, but bacterial STING has no ability to recognize 2’-5’-linked cyclic dinucleotides, only speciﬁc for 3’-5’-linkage recognition. STING of TIR-STING has high afﬁnity with c-di-GMP, binding to the central chamber formed by two STING interfaces as well as the TIR-STING homodimer (Figure 3F). Upon activation, TIR-STING undergoes conformational changes that result in the tight enclosure of c-di-GMP within the STING pocket. This, in turn, facilitates the formation of ﬁlaments through head-to-head contacts between STING proteins. The oligomerization of TIR-STING brings together the NADase active sites of TIR domains, allowing for the efﬁcient degradation of nicotinamide adenine dinucleotide (NAD) into nicotinamide (NAM), ADP-ribose (ADPR), and a small amount of cyclic ADPR (cADPR). This unleashes the potent"
+  }, {
+    "type" : "paragraph",
+    "id" : 150,
+    "page number" : 5,
+    "bounding box" : [ 304.893, 281.901, 545.999, 766.81 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "NADase activity of TIR-STING (27, 28). Both Flavobacteriaceae sp. STING (Fs STING) and Capnocytophaga granulosa STING (Cg STING) are known for their ability to recognize 3’3’-cGAMP instead of c-di-GMP, which is attributed to differences in their amino acid residues and b-strand lids. This similarity to eukaryotic STING suggests that there may be an evolutionary relationship between bacteria and animal cells (29). Unlike the CBASS operon, Thoeris only possesses two genes: ThsA as the NADase and ThsB as a TIR domain (30). Thoeris TIR domains possess nucleotide hydrolases and Toll-like receptors, but do not play a major role in degrading NAD (31). Phage invasion initiates TIR domain to generate an isomer of cADPR, as well as 3’cADPR (32), which is speciﬁc for NAD cleavage and can activate downstream ThsA SIR domains to execute NAD depletion (33). Interestingly, the production of 3’cADPR is required for TIR domain selfassociation (32). Moreover, eukaryotic SARM1 SAM domains can assemble into an octamer, triggering NAD cleavage by its TIR domain (34). Together, protein effectors oligomerization is signiﬁcant for its function activation and rapid action for inhibiting phage or virus propagation. A recent study showed that NAD depletion can induce RelA expression and RelA synthesize (p) ppGpp, which initiates the mazFE toxin-antitoxin system to execute Abi, which is the same as starvation-inducing cell death. Atd1, which is a pyrophosphatase enzyme encoded by phages, has the ability to degrade (p)ppGpp, a signaling molecule that plays a role in regulating bacterial growth and stress responses. This degradation activity has been shown to hinder the abortive infection induced by the retron with TIR domain, which is a defense mechanism that some bacteria use to protect against phage infection (35). This phenomenon may suggest the possibility that multiple immune systems of bacteria are interconnected. Notably, previous research has identiﬁed some bacterial TIR domain proteins can cleave NAD into NAM, ADPR, and v-cADPR (36), implying bacteria may encode CBASS operons containing TIR domains producing v-cADPR along with ThsA homology, or oligomeric incomplete TIR domains of CBASS may produce 3’cADPR to activate ThsA. It is also possible that CBASS and Thoeris interact with each other to inhibit cell growth and terminate phage replication."
+  }, {
+    "type" : "paragraph",
+    "id" : 151,
+    "page number" : 5,
+    "bounding box" : [ 304.894, 244.118, 466.478, 257.234 ],
+    "font" : "AdvTTd3a5f740",
+    "font size" : 12.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "2.5 CBASS Starter: CD-NTase"
+  }, {
+    "type" : "paragraph",
+    "id" : 152,
+    "page number" : 5,
+    "bounding box" : [ 304.892, 69.356, 546.021, 229.299 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "CD-NTase is a cyclic oligonucleotide synthase with an unknown activation mechanism during phage infection. It is signiﬁcant for CBASS immunity initiation due to its DNA polymerase b-like nucleotidyltransferase protein fold for the generation of cyclic di- or trinucleotides (2, 3). A thermodenaturation assay has shown that certain combinations of nucleotides with donor pockets of CD-NTase (cGAS/DncV-like nucleotidyltransferase) can increase its thermo-stabilization, indicating that there is a speciﬁc reaction order for the nucleotides being catalyzed into cyclic oligonucleotides (37). The production of Vibrio cholerae enzyme dinucleotide cyclase in Vibrio (DncV) is not only signiﬁcant for the efﬁciency of Vibrio cholerae intestinal colonization (21) but also imperative for CBASS"
+  }, {
+    "type" : "footer",
+    "id" : 153,
+    "page number" : 5,
+    "bounding box" : [ 49.606, 34.428, 545.898, 42.079 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 37,
+      "page number" : 5,
+      "bounding box" : [ 49.606, 34.428, 545.898, 42.079 ],
+      "heading level" : 3,
+      "font" : "AdvTTd3a5f740",
+      "font size" : 7.0,
+      "text color" : "[0.09, 0.95, 0.88, 0.01]",
+      "content" : "Frontiers in Immunology 05 frontiersin.org"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 154,
+    "page number" : 6,
+    "bounding box" : [ 49.606, 799.502, 545.933, 807.153 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 46,
+      "page number" : 6,
+      "bounding box" : [ 49.606, 799.502, 545.933, 807.153 ],
+      "heading level" : 3,
+      "font" : "AdvTTd3a5f740",
+      "font size" : 7.0,
+      "text color" : "[0.52, 0.44, 0.44, 0.08]",
+      "content" : "Wang and Zhang 10.3389/ﬁmmu.2023.1224341"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 155,
+    "page number" : 6,
+    "bounding box" : [ 49.605, 531.631, 290.717, 766.577 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "defending against phage invasion through activating the effector phospholipase (CapV), executing inner membrane degradation for cell death (4). A four-gene CBASS operon considered as type II CBASS possesses DncV, CapV, and ancillary genes expressing ubiquitinase-like Cap2 containing an E1-E2 fusion domain and deubiquitylase-like Cap3 containing a JAB domain (4). Recent studies have identiﬁed that two Cap2 with adenylated E1 domains forming an all-in-one homodimer with two C-terminus of CDNTase can brace CD-NTase activity by catalyzing CD-NTase as a substrate to bind a speciﬁc target protein and be indispensable for the CD-NTase full activation, existing in a four-gene CBASS during phage infection (38, 39). Interplay between CD-NTase and Cap2 resembles eukaryotic interaction between ubiquitin and E1 and E2 domain of ubiquitinase. Differently, a Cap2 cysteine residue forms a thioester with a conserved C-terminal glycine or alanine of CDNTase, depending on ATP. Under Cap2 catalysis, the C-terminus of CD-NTase forms an isopeptide bond with one lysine of unknown phage proteins or other non-protein targets to completely activate CD-NTase itself. Interestingly, the C-terminus of cGAS still binds to"
+  }, {
+    "type" : "list",
+    "id" : 156,
+    "level" : "4",
+    "page number" : 6,
+    "bounding box" : [ 49.605, 431.627, 290.681, 529.095 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 49.605, 456.628, 290.678, 529.095 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 9.0,
+      "text color" : "[0.71, 0.65, 0.64, 0.68]",
+      "content" : "Cap2 by thioester bonds with three cysteines and even isopeptide bonds with ﬁve lysines. cGAS conjugation enhances the production of second messengers, thus strengthening the antiviral response. As an isopeptidase, Cap3 possesses deconjugation activity for CDNTase conjugation with activation factors, which can reduce the magnitude of the antiviral response. It is necessary for Cap2 and",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 49.605, 431.627, 290.681, 454.092 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 9.0,
+      "text color" : "[0.71, 0.65, 0.64, 0.68]",
+      "content" : "Cap3 to coexist integrally in their own CBASS for defending against some phages, implying that there are unknown beneﬁts of",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 157,
+    "page number" : 6,
+    "bounding box" : [ 304.893, 606.641, 545.971, 766.583 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "deconjugation created by Cap3 (38, 39). The regulation of CDNTase is also contained in type III CBASS, through HORMA (Hop1p, Rev7p, and Mad2) domain binding to CD-NTase to form a complex not upon phage infection and ATPase Pch2/ TRIP13 for disassembling the active HORMA-CD-NTase complex. The activation of 2:2 HORMA-CD-NTase complex containing the HORMA1 domain depends on the presence of long double-stranded DNA, but the CBASS operons containing the HORMA2 and HORMA3 domain do not require dsDNA (10). Ancillary proteins encoded in the CBASS operon can upregulate or downregulate CD-NTase activity, thus controlling CBASS antiviral strength and probably preventing mistaken cell suicide induced by normal factors in the cytoplasm (Figure 2)."
+  }, {
+    "type" : "heading",
+    "id" : 158,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 304.894, 553.065, 525.866, 583.355 ],
+    "heading level" : 2,
+    "font" : "AdvTTd3a5f740",
+    "font size" : 13.5,
+    "text color" : "[0.09, 0.95, 0.88, 0.01]",
+    "content" : "3 Phage self-salvation antagonizing CBASS immunity"
+  }, {
+    "type" : "paragraph",
+    "id" : 159,
+    "page number" : 6,
+    "bounding box" : [ 304.894, 528.376, 494.008, 541.492 ],
+    "font" : "AdvTTd3a5f740",
+    "font size" : 12.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "3.1 Second messengers’ reduction"
+  }, {
+    "type" : "paragraph",
+    "id" : 160,
+    "page number" : 6,
+    "bounding box" : [ 304.893, 431.622, 545.968, 516.562 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "Second messengers such as 3’,3’-cGAMP play a crucial role in activating Cap effectors that execute abortive infection in various ways to prevent phage replication. Recent studies have identiﬁed the anti-CBASS (Acb) protein encoded by the phage genome that can directly affect the cGAMP concentration in the cytoplasm (Figure 4) (5). The Acb1 gene was ﬁrst identiﬁed as T4 phage gene 57B and can degrade CBASS signals 3’3’-cGAMP, cUA, cAAA, and cAAG,"
+  }, {
+    "type" : "text block",
+    "id" : 161,
+    "page number" : 6,
+    "bounding box" : [ 49.606, 70.639, 545.953, 413.348 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 13,
+      "page number" : 6,
+      "bounding box" : [ 141.902, 158.967, 453.827, 400.592 ],
+      "source" : "2023_Wang_images/imageFile5.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 14,
+      "page number" : 6,
+      "bounding box" : [ 60.832, 145.294, 85.299, 151.36 ],
+      "font" : "AdvTT2c8ce45a",
+      "font size" : 5.5,
+      "text color" : "[0.52, 0.44, 0.44, 0.08]",
+      "content" : "FIGURE 4"
+    }, {
+      "type" : "paragraph",
+      "id" : 15,
+      "page number" : 6,
+      "bounding box" : [ 60.831, 81.937, 530.696, 143.549 ],
+      "font" : "AdvTT9b12cd41",
+      "font size" : 7.0,
+      "text color" : "[0.52, 0.44, 0.44, 0.08]",
+      "content" : "An overview of how phages counteract CBASS-induced cell suicide through various mechanisms. After the penetration of phages, the proteins expressed by phage genes (Red) in the cytoplasm can protect bacteria from cell death induced by CBASS effectors. Acb1 is a 3’-5’ bond hydrolase that transforms the ring oligonucleotide (3’3’-cGAMP, cUA, cAAA, and cAAG) into a linear one, while Acb2 sequesters cOs (2’3’-cGAMP, cAA, 3’3’cGAMP, cUU, and cUA) like sponges, both of which can block effectors such as CapV. The phage NTase synthesizes the inhibitor 3’3’-cGAMP competing with 3’3’-cGG to bind to TIR-STING, thereby reducing the activity of TIR NADase. Moreover, MazG-like Atd1 can degrade (p)ppGpp and inhibit cell death caused by MazF toxicity by stabilizing the MazEF complex in an inactive state. All of these anti-CBASS (Acb) proteins work together to protect bacteria from cell suicide induced by phage infection."
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 162,
+    "page number" : 6,
+    "bounding box" : [ 49.606, 34.202, 545.897, 41.853 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 38,
+      "page number" : 6,
+      "bounding box" : [ 49.606, 34.202, 545.897, 41.853 ],
+      "heading level" : 3,
+      "font" : "AdvTTd3a5f740",
+      "font size" : 7.0,
+      "text color" : "[0.09, 0.95, 0.88, 0.01]",
+      "content" : "Frontiers in Immunology 06 frontiersin.org"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 163,
+    "page number" : 7,
+    "bounding box" : [ 49.606, 799.728, 545.934, 807.379 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 47,
+      "page number" : 7,
+      "bounding box" : [ 49.606, 799.728, 545.934, 807.379 ],
+      "heading level" : 3,
+      "font" : "AdvTTd3a5f740",
+      "font size" : 7.0,
+      "text color" : "[0.52, 0.44, 0.44, 0.08]",
+      "content" : "Wang and Zhang 10.3389/ﬁmmu.2023.1224341"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 164,
+    "page number" : 7,
+    "bounding box" : [ 49.606, 531.858, 290.717, 766.804 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "but not the non-canonical 2’-5’ phosphoesters, such as 3’2’cGAMP. Moreover, the identiﬁcation of 273 Acb1 phage proteins proves that Acb1 is a widespread form of phage escaping CBASS attack. The crystal structures of Acb1 are composed of six central bstrands, adopting a compact 2H phosphoesterase fold to form a Ushape ligand-binding pocket. The bond of cyclic dinucleotides or trinucleotides and Acb1 plays an essential role in stabilizing the rotated state of the adenosine base, having four conserved contacts and only needing one base-speciﬁc contact occurring between E141 and adenosine N6 position, illustrating the necessity of adenosine. This interaction can adjust the ligand to an optimal state liable to reposition the 2’OH for attack on the 3’-5’ bond. Located at an active-site HxT/HxT tetrad, the 3’ scissile phosphate of 3’3’-cGAMP adenosine can be used for acid-base catalysis and ﬁnally 3’3’cGAMP is hydrolyzed into the linear product GpAp in a metalindependent reaction (5). The destruction of the cyclic state of normal CDNs terminates CBASS signaling in host defense, eventually protecting phage from abortive infection and promoting phage propagation."
+  }, {
+    "type" : "paragraph",
+    "id" : 165,
+    "page number" : 7,
+    "bounding box" : [ 49.605, 469.384, 290.725, 529.322 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "In the experiment of dsDNA podophage PaMx41 invading P. aeruginosa strain (BWHPSA011; Pa011) with CBASS-dependent antiphage immunity, the resistant PaMx41 possesses a no-stop mutation (X37Q) in orf24, which increases the length of gp24 (6). Through whole-genome sequencing, it has been found that the long gp24 , as the"
+  }, {
+    "type" : "list",
+    "id" : 166,
+    "level" : "3",
+    "page number" : 7,
+    "bounding box" : [ 49.605, 456.855, 290.714, 466.791 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 124,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 49.605, 456.855, 290.714, 466.791 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 9.0,
+      "text color" : "[0.71, 0.65, 0.64, 0.68]",
+      "content" : "Acb2 protein, which is similar to Vs.4 from phage T4 and distinct from",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 167,
+    "level" : "3",
+    "page number" : 7,
+    "bounding box" : [ 49.605, 94.358, 290.798, 454.318 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 49.605, 444.382, 290.698, 454.318 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 9.0,
+      "text color" : "[0.71, 0.65, 0.64, 0.68]",
+      "content" : "Acb1, is also present in other anti-CBASS phages such as PaMx33 (39).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 49.605, 94.358, 290.798, 441.79 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 9.0,
+      "text color" : "[0.71, 0.65, 0.64, 0.68]",
+      "content" : "Acb2 is also encoded in many tailed phages and has a conserved function to inhibit CBASS immunity. Instead of combining with Cap effectors, Acb2 binds to 3’3’-cGAMP like a “sponge” to indirectly reduce CapV phospholipase activity, sequestering the CDNs. A previous study showed that Tad1 (Thoeris anti-defense 1) proteins encoded by phages are able to catch and sequester the signal molecule 1’–2’ glycocyclic ADPR (gcADPR) to preclude abortive infection (40). These two proteins differ from Acb1 which has the ability to hydrolyze CDNs and stabilize the molecule in an active state. The crystal structure of Acb2 in its apo form revealed that one Acb2 protomer comprises one short N-terminal helix and two long anti-parallel helices with a Cterminal kink, which contacts tightly with two nearby protomers to form a compact homo-hexamer. As one Acb2 homo-hexamer combines with three 3’3’-cGAMP, 3’3’-cGAMP binds to the pocket formed by the highly conserved N- and C-terminal helices/loops of two protomers interacting in a head-to-head manner, which is stabilized by hydrogen bonds, a salt bridge between protomers and phosphate groups of 3’3’-cGAMP, and hydrophobic interactions (6). Based on isothermal calorimetry (ITC), native gels, and high-performance liquid chromatography (HPLC) experiments, Acb2 can bind to 2’3’-cGAMP, cAA, 3’3’-cGAMP, cUU, and cUA with high afﬁnity and can widely antagonize different kinds of CBASS types. Interestingly, phages with acb2 deletion have a missense point mutation in the major capsid gene, which assists phage to escape CBASS immunity. The wild-type major capsid gene is incapable of inducing CBASS-dependent cellular toxicity, while the mutated gene alone is insufﬁcient to help the phage evade all CBASS immunity. The interaction mechanism between the major capsid protein and CBASS needs further study.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 168,
+    "page number" : 7,
+    "bounding box" : [ 304.894, 741.882, 545.328, 767.527 ],
+    "font" : "AdvTTd3a5f740",
+    "font size" : 12.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "3.2 Blocking TIR-induced abortive infection by phage NTase and Atd1"
+  }, {
+    "type" : "paragraph",
+    "id" : 169,
+    "page number" : 7,
+    "bounding box" : [ 304.895, 467.172, 546.005, 727.062 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "TIR-STING is a protein that is activated by 3’3’-cGG, one of the downstream effectors of CBASS. It is a NADase that degrades NAD in the cytoplasm to induce cell suicide during phage infection. NTases, which are expressed by the phage genome in the cytoplasm, could generate a series of CDNs, including 3’3’-cGAMP, cAA, and cUA. The phage NTase synthesizes 3’3’-cGAMP in the bacterial cytoplasm, which competes with 3’3’-cGG for binding to TIRSTING. This competition reduces the activity of TIR NADase (Figure 4) (35). Adjacent to NTase genes, a phage Atd1 gene has been identiﬁed through plasmid-based functional screening as an additional antidefense gene. The expression product of Atd1 gene can degrade (p)ppGpp as a pyrophosphatase like MazG, which rescues MazE antitoxin expression and locks MazF toxicity (Figure 4). This stabilizes the MazEF complex in an inactive state, preventing cell death. In addition to Atd1, bioinformatics evidence has conﬁrmed the presence of DNA methyltransferases and NAD synthase in phage genomes, which suggests that cell-killing domains may be deprived of their functions in DNA cleavage and NAD degradation during phage invasion (35). These proteins work together to inhibit cell suicide by hindering the activation or execution of effector functions."
+  }, {
+    "type" : "heading",
+    "id" : 170,
+    "level" : "Subtitle",
+    "page number" : 7,
+    "bounding box" : [ 304.894, 431.29, 473.609, 446.045 ],
+    "heading level" : 2,
+    "font" : "AdvTTd3a5f740",
+    "font size" : 13.5,
+    "text color" : "[0.09, 0.95, 0.88, 0.01]",
+    "content" : "4 Conclusion and prospect"
+  }, {
+    "type" : "paragraph",
+    "id" : 171,
+    "page number" : 7,
+    "bounding box" : [ 304.895, 169.364, 545.975, 416.782 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "It is fascinating to see the different strategies that viruses have evolved to suppress host immune responses, and the importance of innate immune responses in defending against these invasions. The CBASS system is a rapid and efﬁcient cell-killing immunity that is activated by the generation of cOs by CD-NTase in response to phage cues. The full activation of CD-NTase in type II or III CBASS requires the presence of accessory proteins, and the decombining of these proteins is necessary for CD-NTase activity. The downstream Caps are activated by speciﬁc sensor parts that recognize cOs as second messengers, and these Caps implement cell death through various mechanisms to prevent phage replication, assembly, and propagation. It is interesting to note that some CBASS effectors process similar domains as Thoeris and CRISPR-Cas, and that phages have evolved mechanisms to prevent normal cOs or effectors from functioning. Understanding the interplay between CBASS and phage is important for developing a more accurate mechanism of CBASS immunity, exploring the evolution of innate immune responses in bacteria, and developing phage therapy. Continued research in this area will provide valuable insights into the complex interactions between viruses and their hosts."
+  }, {
+    "type" : "paragraph",
+    "id" : 172,
+    "page number" : 7,
+    "bounding box" : [ 304.895, 94.361, 545.951, 166.771 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "CBASS immune system is widespread in bacteria, including three types of effectors to cause the cell death. However, differing from CBASS, CRISPR-Cas and Thoeris only possess one type of effector included in CBASS, the nuclease of CRISPS-Cas and NADase of Thoeris. Moreover, the existence of self-limiting trans-acting ring nucleases degrading cO such as Crn1 and Csx3"
+  }, {
+    "type" : "footer",
+    "id" : 173,
+    "page number" : 7,
+    "bounding box" : [ 49.606, 34.428, 545.898, 42.079 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 39,
+      "page number" : 7,
+      "bounding box" : [ 49.606, 34.428, 545.898, 42.079 ],
+      "heading level" : 3,
+      "font" : "AdvTTd3a5f740",
+      "font size" : 7.0,
+      "text color" : "[0.09, 0.95, 0.88, 0.01]",
+      "content" : "Frontiers in Immunology 07 frontiersin.org"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 174,
+    "page number" : 8,
+    "bounding box" : [ 49.605, 799.729, 545.933, 807.38 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 48,
+      "page number" : 8,
+      "bounding box" : [ 49.605, 799.729, 545.933, 807.38 ],
+      "heading level" : 3,
+      "font" : "AdvTTd3a5f740",
+      "font size" : 7.0,
+      "text color" : "[0.52, 0.44, 0.44, 0.08]",
+      "content" : "Wang and Zhang 10.3389/ﬁmmu.2023.1224341"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 175,
+    "page number" : 8,
+    "bounding box" : [ 49.606, 631.862, 290.703, 766.804 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "inhibit the activity of RNase or DNase for stabilizing cell survival (41), indicating there is a certain risk of recurrence of phage infection on this phenomenon. Individual effectors, second messengers, and accessory proteins can be ordered in different operons executing cell death in different ways, meaning that it is difﬁcult for phage to completely inhibit all CBASS signal pathways in different bacteria. Once CBASS is activated, the infectious cell will suicide, which fundamentally suppresses the possibility of phage reproduction and propagation. Therefore, CBASS has great advantages over CRISPR and Thoeris because of its abundant diversity of operons and rapid cell-suicide mechanism."
+  }, {
+    "type" : "paragraph",
+    "id" : 176,
+    "page number" : 8,
+    "bounding box" : [ 49.605, 331.906, 290.777, 629.326 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "Both bacterial CBASS and animal cGAS-STING are mechanisms of host innate immune system against virus invasion, in which CDNTase and cyclic oligonucleotides play an essential role in initiating downstream effectors’ responses. Virus genes have evolved to antagonize host immunity. Similarly, poxins and Acb1 are both nuclease that cleave the 3’-5’ bond of cGAMP, thus suppressing host innate immunity (5, 7). As a viral nucleic acid sensor, eukaryotic cGAS could synthesize 2’, 3’-cGAMP, which activates STING on the ER and further induces IFN production to establish an antiviral state (42). However, the HSV-1 UL37 tegument protein acts as a deamidase to deamidate cGAS, aiming to abolish its ability to generate cGAMP, thereby inhibiting the cGAS-STING pathway (43). Additionally, the HSV-1 tegument protein UL41 is an RNase that degrades cGAS mRNA (44). Since CD-NTase and cGAS are homologs in structure and function (45), counteracting cGAS strategies by eukaryotic viruses may exist in a similar way during phage infection. The cleavage of STING by DTMUV NS2B3 protease activity can also be used as a reference strategy in CBASS, which contains the STING domain (46). A recent study has classiﬁed phage escape strategies, achieved through gene mutation, into three main categories: components of the phage core replication machinery, phage structural proteins, and host takeover mechanisms. This classiﬁcation provides a foundation for new ideas on how phages evade CBASS immunity and which phage components sensitize CBASS starter CD-NTase (47)."
+  }, {
+    "type" : "paragraph",
+    "id" : 177,
+    "page number" : 8,
+    "bounding box" : [ 49.606, 244.374, 290.716, 329.313 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "Identifying the target of CD-NTase and the phage component recognized by CD-NTase is crucial to fully understand the mechanism of action of the CBASS system. It is possible that multiple phage proteins work together to activate CBASS (47). Additionally, understanding how the accessory proteins interact with each other to regulate CD-NTase activity is important to gain a better understanding of the overall function of the system. Further"
+  }, {
+    "type" : "paragraph",
+    "id" : 178,
+    "page number" : 8,
+    "bounding box" : [ 304.895, 669.402, 545.953, 766.814 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "research is also needed to fully understand the interactions between CBASS and other immune systems and downstream effectors. Furthermore, additional research is needed to investigate whether the degradation of Acb2 or Tad1 proteins promotes phage release during the period when the phage is breaking down the host. Continued research in this area will provide valuable insights into the CBASS immune system and its potential applications in various ﬁelds, including medicine and biotechnology."
+  }, {
+    "type" : "heading",
+    "id" : 179,
+    "level" : "Subtitle",
+    "page number" : 8,
+    "bounding box" : [ 304.894, 631.302, 434.565, 646.058 ],
+    "heading level" : 2,
+    "font" : "AdvTTd3a5f740",
+    "font size" : 13.5,
+    "text color" : "[0.09, 0.95, 0.88, 0.01]",
+    "content" : "Author contributions"
+  }, {
+    "type" : "paragraph",
+    "id" : 180,
+    "page number" : 8,
+    "bounding box" : [ 304.894, 581.857, 545.95, 616.795 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "LW wrote the ﬁrst draft and generated the Figures. LZ conceived the study and revised the manuscript. All authors contributed to the article and approved the submitted version."
+  }, {
+    "type" : "heading",
+    "id" : 181,
+    "level" : "Subtitle",
+    "page number" : 8,
+    "bounding box" : [ 304.894, 543.825, 355.033, 558.58 ],
+    "heading level" : 2,
+    "font" : "AdvTTd3a5f740",
+    "font size" : 13.5,
+    "text color" : "[0.09, 0.95, 0.88, 0.01]",
+    "content" : "Funding"
+  }, {
+    "type" : "paragraph",
+    "id" : 182,
+    "page number" : 8,
+    "bounding box" : [ 304.895, 456.85, 545.93, 529.317 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "This work was supported by grants from the National Natural Science Foundation of China (82272306 and 82072270), Students research and technology programme of Shandong First Medical University (2022104391653), Taishan Scholars Program (tstp20221142), and the Academic promotion programme of Shandong First Medical University (2019LJ001)."
+  }, {
+    "type" : "heading",
+    "id" : 183,
+    "level" : "Subtitle",
+    "page number" : 8,
+    "bounding box" : [ 304.894, 418.817, 421.927, 433.573 ],
+    "heading level" : 2,
+    "font" : "AdvTTd3a5f740",
+    "font size" : 13.5,
+    "text color" : "[0.09, 0.95, 0.88, 0.01]",
+    "content" : "Conﬂict of interest"
+  }, {
+    "type" : "paragraph",
+    "id" : 184,
+    "page number" : 8,
+    "bounding box" : [ 304.895, 369.372, 545.977, 404.309 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "The authors declare that the research was conducted in the absence of any commercial or ﬁnancial relationships that could be construed as a potential conﬂict of interest."
+  }, {
+    "type" : "heading",
+    "id" : 185,
+    "level" : "Subtitle",
+    "page number" : 8,
+    "bounding box" : [ 304.894, 331.34, 403.947, 346.096 ],
+    "heading level" : 2,
+    "font" : "AdvTTd3a5f740",
+    "font size" : 13.5,
+    "text color" : "[0.09, 0.95, 0.88, 0.01]",
+    "content" : "Publisher’s note"
+  }, {
+    "type" : "paragraph",
+    "id" : 186,
+    "page number" : 8,
+    "bounding box" : [ 304.894, 244.365, 545.96, 316.832 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 9.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "All claims expressed in this article are solely those of the authors and do not necessarily represent those of their afﬁliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher."
+  }, {
+    "type" : "heading",
+    "id" : 187,
+    "level" : "Subtitle",
+    "page number" : 8,
+    "bounding box" : [ 49.606, 196.978, 118.888, 211.733 ],
+    "heading level" : 2,
+    "font" : "AdvTTd3a5f740",
+    "font size" : 13.5,
+    "text color" : "[0.09, 0.95, 0.88, 0.01]",
+    "content" : "References"
+  }, {
+    "type" : "list",
+    "id" : 188,
+    "level" : "4",
+    "page number" : 8,
+    "bounding box" : [ 57.09, 146.048, 290.684, 180.762 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 57.09, 173.034, 290.667, 180.762 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "1. Sun L, Wu J, Du F, Chen X, Chen ZJ. Cyclic GMP-AMP synthase is a cytosolic",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 88,
+        "page number" : 8,
+        "bounding box" : [ 49.606, 157.046, 290.681, 172.768 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "DNA sensor that activates the type I interferon pathway. Sci (New York N.Y.) (2013) 339:786–91. doi: 10.1126/science.1232458"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 57.09, 146.048, 290.684, 153.776 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "2. Millman A, Melamed S, Amitai G, Sorek R. Diversity and classiﬁcation of cyclic-",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 189,
+    "page number" : 8,
+    "bounding box" : [ 49.606, 130.06, 290.677, 145.782 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.0,
+    "text color" : "[0.0, 0.0, 0.0, 1.0]",
+    "content" : "oligonucleotide-based anti-phage signalling systems. Nat Microbiol (2020) 5:1608–15. doi: 10.1038/s41564-020-0777-y"
+  }, {
+    "type" : "list",
+    "id" : 190,
+    "level" : "4",
+    "page number" : 8,
+    "bounding box" : [ 57.09, 92.019, 290.665, 126.79 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 57.09, 119.062, 290.665, 126.79 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "3. Whiteley AT, Eaglesham JB, de Oliveira Mann CC, Morehouse BR, Lowey B,",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 87,
+        "page number" : 8,
+        "bounding box" : [ 49.607, 103.018, 290.674, 118.74 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "Nieminen EA, et al. Bacterial cGAS-like enzymes synthesize diverse nucleotide signals. Nature (2019) 567:194–9. doi: 10.1038/s41586-019-0953-5"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 57.09, 92.019, 290.655, 99.747 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "4. Cohen D, Melamed S, Millman A, Shulman G, Oppenheimer-Shaanan Y, Kacen",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 191,
+    "page number" : 8,
+    "bounding box" : [ 49.607, 84.026, 290.666, 91.753 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.0,
+    "text color" : "[0.0, 0.0, 0.0, 1.0]",
+    "content" : "A, et al. Cyclic GMP-AMP signalling protects bacteria against viral infection. Nature"
+  }, {
+    "type" : "paragraph",
+    "id" : 192,
+    "level" : "5",
+    "page number" : 8,
+    "bounding box" : [ 49.607, 76.032, 192.215, 83.76 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.0,
+    "text color" : "[0.71, 0.65, 0.64, 0.68]",
+    "content" : "(2019) 574:691–5. doi: 10.1038/s41586-019-1605-5"
+  }, {
+    "type" : "list",
+    "id" : 193,
+    "level" : "4",
+    "page number" : 8,
+    "bounding box" : [ 304.896, 157.046, 545.953, 180.761 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 312.38, 173.034, 545.953, 180.761 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "5. Hobbs SJ, Wein T, Lu A, Morehouse BR, Schnabel J, Leavitt A, et al. Phage anti-",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 86,
+        "page number" : 8,
+        "bounding box" : [ 304.896, 165.04, 545.954, 172.768 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "CBASS and anti-Pycsar nucleases subvert bacterial immunity. Nature (2022) 605:522–"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 304.896, 157.046, 405.129, 164.774 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "6. doi: 10.1038/s41586-022-04716-y",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 194,
+    "level" : "5",
+    "page number" : 8,
+    "bounding box" : [ 304.895, 130.06, 545.949, 153.775 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.0,
+    "text color" : "[0.0, 0.0, 0.0, 1.0]",
+    "content" : "6. Huiting E, Cao X, Ren J, Athukoralage JS, Luo Z, Silas S, et al. Bacteriophages inhibit and evade cGAS-like immune function in bacteria. Cell (2023) 186:864–876.e21. doi: 10.1016/j.cell.2022.12.041"
+  }, {
+    "type" : "list",
+    "id" : 195,
+    "level" : "4",
+    "page number" : 8,
+    "bounding box" : [ 312.378, 92.019, 545.975, 126.789 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 312.379, 119.061, 545.975, 126.789 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "7. Eaglesham JB, Pan Y, Kupper TS, Kranzusch PJ. Viral and metazoan poxins are",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 85,
+        "page number" : 8,
+        "bounding box" : [ 304.895, 103.017, 545.917, 118.739 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "cGAMP-speciﬁc nucleases that restrict cGAS-STING signalling. Nature (2019) 566:259–63. doi: 10.1038/s41586-019-0928-6"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 312.378, 92.019, 545.954, 99.747 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "8. Burroughs AM, Zhang D, Schäffer DE, Iyer LM, Aravind L. Comparative genomic",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 196,
+    "page number" : 8,
+    "bounding box" : [ 304.894, 76.031, 545.949, 91.753 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.0,
+    "text color" : "[0.0, 0.0, 0.0, 1.0]",
+    "content" : "analyses reveal a vast, novel network of nucleotide-centric systems in biological conﬂicts, immunity and signaling. Nucleic Acids Res (2015) 43:10633–54. doi: 10.1093/nar/gkv1267"
+  }, {
+    "type" : "footer",
+    "id" : 197,
+    "page number" : 8,
+    "bounding box" : [ 49.605, 34.429, 545.897, 42.079 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 40,
+      "page number" : 8,
+      "bounding box" : [ 49.605, 34.429, 545.897, 42.079 ],
+      "heading level" : 3,
+      "font" : "AdvTTd3a5f740",
+      "font size" : 7.0,
+      "text color" : "[0.09, 0.95, 0.88, 0.01]",
+      "content" : "Frontiers in Immunology 08 frontiersin.org"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 198,
+    "page number" : 9,
+    "bounding box" : [ 49.6, 799.727, 545.927, 807.378 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 49,
+      "page number" : 9,
+      "bounding box" : [ 49.6, 799.727, 545.927, 807.378 ],
+      "heading level" : 3,
+      "font" : "AdvTTd3a5f740",
+      "font size" : 7.0,
+      "text color" : "[0.52, 0.44, 0.44, 0.08]",
+      "content" : "Wang and Zhang 10.3389/ﬁmmu.2023.1224341"
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 199,
+    "level" : "5",
+    "page number" : 9,
+    "bounding box" : [ 49.605, 707.874, 290.714, 766.57 ],
+    "numbering style" : "unknown style",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 49.605, 734.86, 290.714, 766.57 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "9. Lowey B, Whiteley AT, Keszei AFA, Morehouse BR, Mathews IT, Antine SP, et al. CBASS immunity uses CARF-related effectors to sense 3'-5'- and 2'-5'-linked cyclic oligonucleotide signals and protect bacteria from phage infection. Cell (2020) 182:38– 49.e17. doi: 10.1016/j.cell.2020.05.019",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 49.605, 707.874, 290.671, 731.59 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "10. Ye Q, Lau RK, Mathews IT, Birkholz EA, Watrous JD, Azimi CS, et al. HORMA domain proteins and a trip13-like ATPase regulate bacterial cGAS-like enzymes to mediate bacteriophage immunity. Mol Cell (2020) 77:709 722.e7. doi: 10.1016/",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 200,
+    "level" : "6",
+    "page number" : 9,
+    "bounding box" : [ 49.605, 699.824, 106.143, 707.552 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 49.605, 699.824, 106.143, 707.552 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.71, 0.65, 0.64, 0.68]",
+      "content" : "j.molcel.2019.12.009",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 84,
+        "level" : "4",
+        "page number" : 9,
+        "bounding box" : [ 57.088, 572.831, 290.706, 696.553 ],
+        "numbering style" : "arabic numbers",
+        "number of list items" : 5,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 9,
+          "bounding box" : [ 57.088, 688.826, 290.665, 696.553 ],
+          "font" : "AdvOT1ef757c0",
+          "font size" : 7.0,
+          "text color" : "[0.0, 0.0, 0.0, 1.0]",
+          "content" : "11. Lau RK, Ye Q, Birkholz EA, Berg KR, Patel L, Mathews IT, et al. Structure and",
+          "kids" : [ {
+            "type" : "paragraph",
+            "id" : 80,
+            "page number" : 9,
+            "bounding box" : [ 49.605, 664.844, 290.705, 688.56 ],
+            "font" : "AdvOT1ef757c0",
+            "font size" : 7.0,
+            "text color" : "[0.0, 0.0, 0.0, 1.0]",
+            "content" : "mechanism of a cyclic trinucleotide-activated bacterial endonuclease mediating bacteriophage immunity. Mol Cell (2020) 77:723–733.e6. doi: 10.1016/ j.molcel.2019.12.010"
+          } ]
+        }, {
+          "type" : "list item",
+          "page number" : 9,
+          "bounding box" : [ 57.088, 653.846, 290.681, 661.574 ],
+          "font" : "AdvOT1ef757c0",
+          "font size" : 7.0,
+          "text color" : "[0.0, 0.0, 0.0, 1.0]",
+          "content" : "12. Fatma S, Chakravarti A, Zeng X, Huang RH. Molecular mechanisms of the",
+          "kids" : [ {
+            "type" : "paragraph",
+            "id" : 81,
+            "page number" : 9,
+            "bounding box" : [ 49.605, 637.858, 290.678, 653.58 ],
+            "font" : "AdvOT1ef757c0",
+            "font size" : 7.0,
+            "text color" : "[0.0, 0.0, 0.0, 1.0]",
+            "content" : "CdnG-Cap5 antiphage defense system employing 3',2'-cGAMP as the second messenger. Nat Commun (2021) 12:6381. doi: 10.1038/s41467-021-26738-2"
+          } ]
+        }, {
+          "type" : "list item",
+          "page number" : 9,
+          "bounding box" : [ 57.088, 626.86, 290.691, 634.588 ],
+          "font" : "AdvOT1ef757c0",
+          "font size" : 7.0,
+          "text color" : "[0.0, 0.0, 0.0, 1.0]",
+          "content" : "13. Ablasser A, Goldeck M, Cavlar T, Deimling T, Witte G, Röhl I, et al. cGAS",
+          "kids" : [ {
+            "type" : "paragraph",
+            "id" : 82,
+            "page number" : 9,
+            "bounding box" : [ 49.605, 610.872, 290.685, 626.594 ],
+            "font" : "AdvOT1ef757c0",
+            "font size" : 7.0,
+            "text color" : "[0.0, 0.0, 0.0, 1.0]",
+            "content" : "produces a 2'-5'-linked cyclic dinucleotide second messenger that activates STING. Nature (2013) 498:380 4. doi: 10.1038/nature12306"
+          } ]
+        }, {
+          "type" : "list item",
+          "page number" : 9,
+          "bounding box" : [ 57.088, 599.874, 290.684, 607.601 ],
+          "font" : "AdvOT1ef757c0",
+          "font size" : 7.0,
+          "text color" : "[0.0, 0.0, 0.0, 1.0]",
+          "content" : "14. Chang JJ, You BJ, Tien N, Wang YC, Yang CS, Hou MH, et al. Speciﬁc",
+          "kids" : [ {
+            "type" : "paragraph",
+            "id" : 83,
+            "page number" : 9,
+            "bounding box" : [ 49.604, 583.829, 290.717, 599.551 ],
+            "font" : "AdvOT1ef757c0",
+            "font size" : 7.0,
+            "text color" : "[0.0, 0.0, 0.0, 1.0]",
+            "content" : "recognition of cyclic oligonucleotides by Cap4 for phage infection. Int J Biol macromolecules (2023) 237:123656. doi: 10.1016/j.ijbiomac.2023.123656"
+          } ]
+        }, {
+          "type" : "list item",
+          "page number" : 9,
+          "bounding box" : [ 57.088, 572.831, 290.706, 580.559 ],
+          "font" : "AdvOT1ef757c0",
+          "font size" : 7.0,
+          "text color" : "[0.0, 0.0, 0.0, 1.0]",
+          "content" : "15. Liang Q, Richey ST, Ur SN, Ye Q, Lau RK, Corbett KD. Structure and activity of",
+          "kids" : [ ]
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 201,
+    "page number" : 9,
+    "bounding box" : [ 49.604, 556.843, 290.676, 572.565 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.0,
+    "text color" : "[0.0, 0.0, 0.0, 1.0]",
+    "content" : "a bacterial defense-associated 3'-5' exonuclease. Protein Sci Publ Protein Soc (2022) 31: e4374. doi: 10.1002/pro.4374"
+  }, {
+    "type" : "list",
+    "id" : 202,
+    "level" : "4",
+    "page number" : 9,
+    "bounding box" : [ 57.087, 472.824, 290.734, 553.573 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 57.088, 545.845, 290.734, 553.573 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "16. Duncan-Lowey B, Kranzusch PJ. CBASS phage defense and evolution of antiviral",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 75,
+        "page number" : 9,
+        "bounding box" : [ 49.605, 537.851, 287.963, 545.579 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "nucleotide signaling. Curr Opin Immunol (2022) 74:156–63. doi: 10.1016/j.coi.2022.01.002"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 57.087, 526.853, 290.694, 534.581 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "17. Mayo-Muñoz D, Smith LM, Garcia-Doval C, Malone LM, Harding KR, Jackson SA,",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 76,
+        "page number" : 9,
+        "bounding box" : [ 49.603, 510.865, 290.689, 526.587 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "et al. Type III CRISPR-Cas provides resistance against nucleus-forming jumbo phages via abortive infection. Mol Cell (2022) 82:4471 4486.e9. doi: 10.1016/j.molcel.2022.10.028"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 57.087, 499.867, 290.688, 507.595 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "18. McMahon SA, Zhu W, Graham S, Rambo R, White MF, Gloster TM. Structure",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 77,
+        "page number" : 9,
+        "bounding box" : [ 49.603, 483.822, 290.703, 499.601 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "and mechanism of a Type III CRISPR defence DNA nuclease activated by cyclic oligoadenylate. Nat Commun (2020) 11:500. doi: 10.1038/s41467-019-14222-x"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 57.087, 472.824, 290.699, 482.597 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "19. Kazlauskiene M, Kostiuk G, Venclovas Č., Tamulaitis G, Siksnys V. A cyclic",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 78,
+        "page number" : 9,
+        "bounding box" : [ 49.603, 464.83, 290.66, 472.558 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "oligonucleotide signaling pathway in type III CRISPR-Cas systems. Sci (New York N.Y.)"
+      }, {
+        "type" : "list",
+        "id" : 79,
+        "level" : "6",
+        "page number" : 9,
+        "bounding box" : [ 49.603, 367.831, 290.637, 464.564 ],
+        "numbering style" : "arabic numbers",
+        "number of list items" : 2,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 9,
+          "bounding box" : [ 49.603, 456.836, 183.0, 464.564 ],
+          "font" : "AdvOT1ef757c0",
+          "font size" : 7.0,
+          "text color" : "[0.0, 0.0, 0.0, 1.0]",
+          "content" : "(2017) 357:605–9. doi: 10.1126/science.aao0100",
+          "kids" : [ {
+            "type" : "paragraph",
+            "id" : 73,
+            "level" : "7",
+            "page number" : 9,
+            "bounding box" : [ 49.603, 429.85, 290.672, 453.566 ],
+            "font" : "AdvOT1ef757c0",
+            "font size" : 7.0,
+            "text color" : "[0.0, 0.0, 0.0, 1.0]",
+            "content" : "20. Sheppard NF, Glover CV, Terns 3RM, Terns MP. The CRISPR-associated Csx1 protein of Pyrococcus furiosus is an adenosine-speciﬁc endoribonuclease. RNA (New York N.Y.) (2016) 22:216–24. doi: 10.1261/rna.039842.113"
+          }, {
+            "type" : "list",
+            "id" : 74,
+            "level" : "4",
+            "page number" : 9,
+            "bounding box" : [ 57.086, 391.866, 290.707, 426.58 ],
+            "numbering style" : "arabic numbers",
+            "number of list items" : 2,
+            "list items" : [ {
+              "type" : "list item",
+              "page number" : 9,
+              "bounding box" : [ 57.086, 418.852, 290.703, 426.58 ],
+              "font" : "AdvOT1ef757c0",
+              "font size" : 7.0,
+              "text color" : "[0.0, 0.0, 0.0, 1.0]",
+              "content" : "21. Davies BW, Bogard RW, Young TS, Mekalanos JJ. Coordinated regulation of",
+              "kids" : [ {
+                "type" : "paragraph",
+                "id" : 71,
+                "page number" : 9,
+                "bounding box" : [ 49.602, 410.858, 290.659, 418.586 ],
+                "font" : "AdvOT1ef757c0",
+                "font size" : 7.0,
+                "text color" : "[0.0, 0.0, 0.0, 1.0]",
+                "content" : "accessory genetic elements produces cyclic di-nucleotides for V. cholerae virulence. Cell"
+              }, {
+                "type" : "paragraph",
+                "id" : 72,
+                "level" : "7",
+                "page number" : 9,
+                "bounding box" : [ 49.602, 402.864, 189.34, 410.592 ],
+                "font" : "AdvOT1ef757c0",
+                "font size" : 7.0,
+                "text color" : "[0.71, 0.65, 0.64, 0.68]",
+                "content" : "(2012) 149:358 70. doi: 10.1016/j.cell.2012.01.053"
+              } ]
+            }, {
+              "type" : "list item",
+              "page number" : 9,
+              "bounding box" : [ 57.086, 391.866, 290.707, 399.594 ],
+              "font" : "AdvOT1ef757c0",
+              "font size" : 7.0,
+              "text color" : "[0.0, 0.0, 0.0, 1.0]",
+              "content" : "22. Severin GB, Ramliden MS, Hawver LA, Wang K, Pell ME, Kieninger AK, et al.",
+              "kids" : [ ]
+            } ]
+          } ]
+        }, {
+          "type" : "list item",
+          "page number" : 9,
+          "bounding box" : [ 49.605, 367.831, 290.637, 391.603 ],
+          "font" : "AdvOT1ef757c0",
+          "font size" : 7.0,
+          "text color" : "[0.0, 0.0, 0.0, 1.0]",
+          "content" : "(2018). Direct activation of a phospholipase by cyclic GMP-AMP in El Tor Vibrio cholerae, Proc Natl Acad Sci USA (2018) 115:E6048 E6055. doi: 10.1073/ pnas.1801233115",
+          "kids" : [ ]
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 203,
+    "level" : "4",
+    "page number" : 9,
+    "bounding box" : [ 57.086, 247.868, 290.71, 364.56 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 5,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 57.088, 356.832, 290.673, 364.56 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "23. Duncan-Lowey B, McNamara-Bordewick NK, Tal N, Sorek R, Kranzusch PJ.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 67,
+        "page number" : 9,
+        "bounding box" : [ 49.605, 340.845, 290.685, 356.566 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "Effector-mediated membrane disruption controls cell death in CBASS antiphage defense. Mol Cell (2021) 81:5039–5051.e5. doi: 10.1016/j.molcel.2021.10.020"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 57.088, 329.846, 290.71, 337.574 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "24. Gao L, Altae-Tran H, Böhning F, Makarova KS, Segel M, Schmid-Burgk JL, et al.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 68,
+        "page number" : 9,
+        "bounding box" : [ 49.604, 313.859, 290.669, 329.58 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "Diverse enzymatic activities mediate antiviral immunity in prokaryotes. Sci (New York N.Y.) (2020) 369:1077 84. doi: 10.1126/science.aba0372"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 57.086, 302.86, 290.709, 310.588 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "25. Garb J, Lopatina A, Bernheim A, Zaremba M, Siksnys V, Melamed S, et al.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 69,
+        "page number" : 9,
+        "bounding box" : [ 49.603, 286.873, 290.681, 302.594 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "Multiple phage resistance systems inhibit infection via SIR2-dependent NAD(+) depletion. Nat Microbiol (2022) 7:1849 56. doi: 10.1038/s41564-022-01207-8"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 57.086, 275.874, 290.68, 283.602 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "26. Hogrel G, Guild A, Graham S, Rickman H, Grüschow S, Bertrand Q, et al. Cyclic",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 70,
+        "page number" : 9,
+        "bounding box" : [ 49.603, 259.83, 290.677, 275.608 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "nucleotide-induced helical structure activates a TIR immune effector. Nature (2022) 608:808–12. doi: 10.1038/s41586-022-05070-9"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 57.086, 247.868, 290.706, 255.596 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "27. Morehouse BR, Yip MCJ, Keszei AFA, McNamara-Bordewick NK, Shao S,",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 204,
+    "page number" : 9,
+    "bounding box" : [ 49.603, 231.88, 290.691, 247.602 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.0,
+    "text color" : "[0.0, 0.0, 0.0, 1.0]",
+    "content" : "Kranzusch PJ. Cryo-EM structure of an active bacterial TIR-STING ﬁlament complex. Nature (2022) 608:803 7. doi: 10.1038/s41586-022-04999-1"
+  }, {
+    "type" : "paragraph",
+    "id" : 205,
+    "level" : "6",
+    "page number" : 9,
+    "bounding box" : [ 304.892, 742.854, 545.963, 766.57 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.0,
+    "text color" : "[0.0, 0.0, 0.0, 1.0]",
+    "content" : "28. Morehouse BR, Govande AA, Millman A, Keszei AFA, Lowey B, Oﬁr G, et al. STING cyclic dinucleotide sensing originated in bacteria. Nature (2020) 586:429–33. doi: 10.1038/s41586-020-2719-5"
+  }, {
+    "type" : "list",
+    "id" : 206,
+    "level" : "4",
+    "page number" : 9,
+    "bounding box" : [ 312.376, 623.855, 545.949, 739.584 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 5,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 312.376, 731.856, 545.931, 739.584 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "29. Ko TP, Wang YC, Yang CS, Hou MH, Chen CJ, Chiu YF, et al. Crystal structure",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 63,
+        "page number" : 9,
+        "bounding box" : [ 304.893, 715.868, 545.948, 731.59 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "and functional implication of bacterial STING. Nat Commun (2022) 13:26. doi: 10.1038/s41467-021-26583-3"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 312.376, 704.87, 545.949, 712.598 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "30. Doron S, Melamed S, Oﬁr G, Leavitt A, Lopatina A, Keren M, et al. Systematic",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 64,
+        "page number" : 9,
+        "bounding box" : [ 304.893, 688.826, 545.957, 704.604 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "discovery of antiphage defense systems in the microbial pangenome. Sci (New York N.Y.) (2018) 359:eaar4120. doi: 10.1126/science.aar4120"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 312.376, 677.828, 545.936, 685.555 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "31. Ka D, Oh H, Park E, Kim JH, Bae E. Structural and functional evidence of",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 65,
+        "page number" : 9,
+        "bounding box" : [ 304.893, 661.84, 545.936, 677.562 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "bacterial antiphage protection by Thoeris defense system via NAD(+) degradation. Nat Commun (2020) 11:2816. doi: 10.1038/s41467-020-16703-w"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 312.376, 650.842, 545.913, 658.569 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "32. Manik MK, Shi Y, Li S, Zaydman MA, Damaraju N, Eastman S, et al. Cyclic",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 66,
+        "page number" : 9,
+        "bounding box" : [ 304.893, 634.854, 545.962, 650.576 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "ADP ribose isomers: Production, chemical structures, and immune signaling. Sci (New York N.Y.) (2022) 377:eadc8969. doi: 10.1126/science.adc8969"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 312.376, 623.855, 545.923, 631.583 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "33. Oﬁr G, Herbst E, Baroz M, Cohen D, Millman A, Doron S, et al. Antiviral",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 207,
+    "page number" : 9,
+    "bounding box" : [ 304.891, 607.868, 545.909, 623.59 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.0,
+    "text color" : "[0.0, 0.0, 0.0, 1.0]",
+    "content" : "activity of bacterial TIR domains via immune signalling molecules. Nature (2021) 600:116 20. doi: 10.1038/s41586-021-04098-7"
+  }, {
+    "type" : "list",
+    "id" : 208,
+    "level" : "4",
+    "page number" : 9,
+    "bounding box" : [ 312.374, 388.863, 545.962, 604.597 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 9,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 312.374, 596.869, 545.919, 604.597 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "34. Horseﬁeld S, Burdett H, Zhang X, Manik MK, Shi Y, Chen J, et al. NAD(+)",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 54,
+        "page number" : 9,
+        "bounding box" : [ 304.891, 580.825, 545.903, 596.603 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "cleavage activity by animal and plant TIR domains in cell death pathways. Sci (New York N.Y.) (2019) 365:793–9.10.1126/science.aax1911"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 312.378, 569.828, 545.92, 577.556 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "35. Ho P, Chen Y, Biswas S, Canﬁeld E, Abdolvahabi A, Feldman DE. Bacteriophage",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 55,
+        "page number" : 9,
+        "bounding box" : [ 304.894, 553.84, 545.912, 569.562 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "antidefense genes that neutralize TIR and STING immune responses. Cell Rep (2023) 42:112305. doi: 10.1016/j.celrep.2023.112305"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 312.378, 542.842, 545.943, 550.57 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "36. Essuman K, Summers DW, Sasaki Y, Mao X, Yim AKY, DiAntonio A, et al. TIR",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 56,
+        "page number" : 9,
+        "bounding box" : [ 304.894, 534.848, 545.942, 542.576 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "domain proteins are an ancient family of NAD(+)-consuming enzymes. Curr Biol CB"
+      }, {
+        "type" : "paragraph",
+        "id" : 57,
+        "level" : "5",
+        "page number" : 9,
+        "bounding box" : [ 304.894, 526.854, 453.126, 534.582 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "(2018) 28:421–430.e4. doi: 10.1016/j.cub.2017.12.024"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 312.378, 515.856, 545.962, 523.584 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "37. Govande AA, Duncan-Lowey B, Eaglesham JB, Whiteley AT, Kranzusch PJ.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 58,
+        "page number" : 9,
+        "bounding box" : [ 304.894, 499.868, 545.951, 515.59 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "Molecular basis of CD-NTase nucleotide selection in CBASS anti-phage defense. Cell Rep (2021) 35:109206. doi: 10.1016/j.celrep.2021.109206"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 312.378, 488.87, 545.941, 496.598 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "38. Ledvina HE, Ye Q, Gu Y, Sullivan AE, Quan Y, Lau RK, et al. An E1-E2 fusion",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 59,
+        "page number" : 9,
+        "bounding box" : [ 304.894, 472.825, 545.951, 488.604 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "protein primes antiviral immune signalling in bacteria. Nature (2023) 616:319 25. doi: 10.1038/s41586-022-05647-4"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 312.378, 461.827, 545.934, 469.555 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "39. Jenson JM, Li T, Du F, Ea CK, Chen ZJ. Ubiquitin-like conjugation by bacterial",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 60,
+        "page number" : 9,
+        "bounding box" : [ 304.894, 445.839, 545.947, 461.561 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "cGAS enhances anti-phage defence. Nature (2023) 616:326–31. doi: 10.1038/s41586023-05862-7"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 312.378, 434.841, 545.944, 442.569 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "40. Leavitt A, Yirmiya E, Amitai G, Lu A, Garb J, Herbst E, et al. Viruses inhibit TIR",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 61,
+        "page number" : 9,
+        "bounding box" : [ 304.894, 418.853, 545.951, 434.575 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "gcADPR signalling to overcome bacterial defence. Nature (2022) 611:326–31. doi: 10.1038/s41586-022-05375-9"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 312.378, 407.855, 545.934, 415.583 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "41. Patel DJ, Yu Y, Jia N. Bacterial origins of cyclic nucleotide-activated antiviral",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 62,
+        "page number" : 9,
+        "bounding box" : [ 304.894, 399.861, 537.211, 407.589 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "immune signaling. Mol Cell (2022) 82:4591 610. doi: 10.1016/j.molcel.2022.11.006"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 312.378, 388.863, 545.927, 396.591 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "42. Zhang X, Bai XC, Chen ZJ. Structures and mechanisms in the cGAS-STING",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 209,
+    "page number" : 9,
+    "bounding box" : [ 304.894, 372.875, 545.937, 388.597 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.0,
+    "text color" : "[0.0, 0.0, 0.0, 1.0]",
+    "content" : "innate immunity pathway. Immunity (2020) 53:43 53. doi: 10.1016/ j.immuni.2020.05.013"
+  }, {
+    "type" : "list",
+    "id" : 210,
+    "level" : "4",
+    "page number" : 9,
+    "bounding box" : [ 312.374, 284.83, 545.964, 369.605 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 4,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 312.377, 361.877, 545.934, 369.605 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "43. Zhang J, Zhao J, Xu S, Li J, He S, Zeng Y, et al. Species-speciﬁc deamidation of",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 50,
+        "page number" : 9,
+        "bounding box" : [ 304.894, 345.832, 545.92, 361.554 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "cGAS by herpes simplex virus UL37 protein facilitates viral replication. Cell Host Microbe (2018) 24:234–248.e5. doi: 10.1016/j.chom.2018.07.004"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 312.377, 334.834, 545.897, 342.562 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "44. Su C, Zheng C. Herpes Simplex Virus 1 Abrogates the cGAS/STING-Mediated",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 51,
+        "page number" : 9,
+        "bounding box" : [ 304.893, 326.84, 545.941, 334.568 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "Cytosolic DNA-Sensing Pathway via Its Virion Host Shutoff Protein, UL41. J Virol"
+      }, {
+        "type" : "paragraph",
+        "id" : 52,
+        "level" : "5",
+        "page number" : 9,
+        "bounding box" : [ 304.893, 318.846, 440.904, 326.574 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "(2017). 91:e02414-16. doi: 10.1128/JVI.02414-16"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 312.376, 305.864, 545.964, 313.592 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "45. Kranzusch PJ. cGAS and CD-NTase enzymes: structure, mechanism, and",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 53,
+        "page number" : 9,
+        "bounding box" : [ 304.892, 297.87, 532.35, 305.598 ],
+        "font" : "AdvOT1ef757c0",
+        "font size" : 7.0,
+        "text color" : "[0.0, 0.0, 0.0, 1.0]",
+        "content" : "evolution. Curr Opin Struct Biol (2019) 59:178 87. doi: 10.1016/j.sbi.2019.08.003"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 9,
+      "bounding box" : [ 312.374, 284.83, 545.906, 292.558 ],
+      "font" : "AdvOT1ef757c0",
+      "font size" : 7.0,
+      "text color" : "[0.0, 0.0, 0.0, 1.0]",
+      "content" : "46. Wu Z, Zhang W, Wu Y, Wang T, Wu S, Wang M, et al. Binding of the duck",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 211,
+    "page number" : 9,
+    "bounding box" : [ 304.89, 260.849, 545.92, 284.564 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.0,
+    "text color" : "[0.0, 0.0, 0.0, 1.0]",
+    "content" : "tembusu virus protease to STING is mediated by NS2B and is crucial for STING cleavage and for impaired induction of IFN-b. J Immunol (Baltimore Md. 1950) (2019) 203:3374–85. doi: 10.4049/jimmunol.1900956"
+  }, {
+    "type" : "paragraph",
+    "id" : 212,
+    "level" : "6",
+    "page number" : 9,
+    "bounding box" : [ 304.889, 231.878, 545.939, 255.594 ],
+    "font" : "AdvOT1ef757c0",
+    "font size" : 7.0,
+    "text color" : "[0.0, 0.0, 0.0, 1.0]",
+    "content" : "47. Stokar-Avihail A, Fedorenko T, Hör J, Garb J, Leavitt A, Millman A, et al. Discovery of phage determinants that confer sensitivity to bacterial immune systems. Cell (2023) 186:1863 1876.e16. doi: 10.1016/j.cell.2023.02.029"
+  }, {
+    "type" : "footer",
+    "id" : 213,
+    "page number" : 9,
+    "bounding box" : [ 49.6, 34.426, 545.898, 42.082 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 41,
+      "page number" : 9,
+      "bounding box" : [ 49.6, 34.426, 545.898, 42.082 ],
+      "heading level" : 3,
+      "font" : "AdvTTd3a5f740",
+      "font size" : 7.0,
+      "text color" : "[0.09, 0.95, 0.88, 0.01]",
+      "content" : "Frontiers in Immunology 09 frontiersin.org"
+    } ]
+  } ]
+}

@@ -1,0 +1,1730 @@
+{
+  "file name" : "2023_Rousset.pdf",
+  "number of pages" : 8,
+  "author" : "François Rousset",
+  "title" : "The evolutionary success of regulated cell death in bacterial immunity",
+  "creation date" : "D:20230731173541+05'30'",
+  "modification date" : "D:20241208143452-05'00'",
+  "kids" : [ {
+    "type" : "paragraph",
+    "id" : 55,
+    "page number" : 1,
+    "bounding box" : [ 190.261, 760.329, 360.762, 770.383 ],
+    "font" : "ArialMT",
+    "font size" : 9.0,
+    "text color" : "[0.13000686466693878, 0.5900053381919861, 0.8200045824050903]",
+    "content" : "Available online at www.sciencedirect.com"
+  }, {
+    "type" : "image",
+    "id" : 54,
+    "page number" : 1,
+    "bounding box" : [ 60.945, 717.789, 107.093, 768.756 ],
+    "source" : "2023_Rousset_images/imageFile1.png"
+  }, {
+    "type" : "image",
+    "id" : 57,
+    "page number" : 1,
+    "bounding box" : [ 441.354, 729.184, 557.008, 768.756 ],
+    "source" : "2023_Rousset_images/imageFile2.png"
+  }, {
+    "type" : "heading",
+    "id" : 58,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 60.945, 675.921, 454.345, 713.036 ],
+    "heading level" : 1,
+    "font" : "HelveticaNeueLTStd-Bd",
+    "font size" : 16.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The evolutionary success of regulated cell death in bacterial immunity"
+  }, {
+    "type" : "image",
+    "id" : 72,
+    "page number" : 1,
+    "bounding box" : [ 530.875, 661.209, 558.955, 689.289 ],
+    "source" : "2023_Rousset_images/imageFile3.png"
+  }, {
+    "type" : "heading",
+    "id" : 59,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 60.945, 658.226, 302.331, 675.716 ],
+    "heading level" : 2,
+    "font" : "HelveticaNeueLTStd-Roman",
+    "font size" : 15.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "François Rousset and Rotem Sorek"
+  }, {
+    "type" : "paragraph",
+    "id" : 74,
+    "page number" : 1,
+    "bounding box" : [ 529.399, 659.037, 547.381, 669.004 ],
+    "font" : "TimesNewRomanPSMT",
+    "font size" : 9.0,
+    "text color" : "[0.855, 0.855, 0.855]",
+    "content" : "]]]]]]"
+  }, {
+    "type" : "paragraph",
+    "id" : 60,
+    "page number" : 1,
+    "bounding box" : [ 60.945, 437.61, 300.948, 619.979 ],
+    "font" : "HelveticaNeueLTStd-Roman",
+    "font size" : 8.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Bacteria employ a complex arsenal of immune mechanisms to defend themselves against phages. Recent studies demonstrate that these immune mechanisms frequently involve regulated cell death in response to phage infection. By sacrificing infected cells, this strategy prevents the spread of phages within the surrounding population. In this review, we discuss the principles of regulated cell death in bacterial defense, and show that over 70% of sequenced prokaryotes employ this strategy as part of their defensive arsenals. We highlight the modularity of defense systems involving regulated cell death, explaining how shuffling between phage-sensing and cell-killing protein domains dominates their evolution. Some of these defense systems are the evolutionary ancestors of key components of eukaryotic immunity, highlighting their importance in shaping the evolutionary trajectory of immune systems across the tree of life."
+  }, {
+    "type" : "paragraph",
+    "id" : 61,
+    "page number" : 1,
+    "bounding box" : [ 60.945, 395.982, 300.958, 423.891 ],
+    "font" : "HelveticaNeueLTStd-Roman",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Address Department of Molecular Genetics, Weizmann Institute of Science, Rehovot, Israel"
+  }, {
+    "type" : "paragraph",
+    "id" : 62,
+    "page number" : 1,
+    "bounding box" : [ 60.945, 377.047, 285.287, 385.792 ],
+    "font" : "HelveticaNeueLTStd-Roman",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Corresponding author: Sorek, Rotem(rotem.sorek@weizmann.ac.il)"
+  }, {
+    "type" : "paragraph",
+    "id" : 63,
+    "page number" : 1,
+    "bounding box" : [ 63.722, 245.463, 289.267, 358.185 ],
+    "font" : "HelveticaNeueLTStd-Roman",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Current Opinion in Microbiology 2023, 74:102312 This review comes from a themed issue on Evolution of anti-viral defense Edited by Philip Kranzusch For complete overview of the section, please refer to the article collection, “Evolution of anti-viral defense (June 2023)” Available online 6 April 2023 https://doi.org/10.1016/j.mib.2023.102312 1369–5274/© 2023 Elsevier Ltd. All rights reserved."
+  }, {
+    "type" : "heading",
+    "id" : 64,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 60.945, 179.87, 125.097, 192.993 ],
+    "heading level" : 3,
+    "font" : "HelveticaNeueLTStd-Bd",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Introduction"
+  }, {
+    "type" : "paragraph",
+    "id" : 65,
+    "page number" : 1,
+    "bounding box" : [ 60.945, 64.739, 300.969, 180.249 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Phages have constituted a major evolutionary pressure on prokaryotes for billions of years, promoting a dynamic arms race that has yielded remarkable genetic innovations. As part of this arms race, bacteria have evolved successful strategies to defend against phages, among which are restriction-modification (RM) and CRISPR–Cas systems that directly target phage nucleic acids. However, early studies on phage–host interactions described another paradigm for bacterial defense, involving genetic systems that inflict cell death or growth arrest before completion of"
+  }, {
+    "type" : "paragraph",
+    "id" : 66,
+    "page number" : 1,
+    "bounding box" : [ 318.952, 551.897, 558.963, 621.373 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "the phage replication cycle, a mechanism termed abortive infection (Abi) [1]. This phenomenon has been explored since the 1980s, mainly by studying the model organisms Escherichia coli and Lactococcus lactis and their phages [1], but its biological significance and general relevance to bacterial immunity were not fully appreciated."
+  }, {
+    "type" : "paragraph",
+    "id" : 67,
+    "page number" : 1,
+    "bounding box" : [ 318.952, 379.382, 558.965, 540.87 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In recent years, the prokaryotic immune repertoire was shown to be much more complex than previously envisioned [2–11]. To date, over 100 different antiphage systems have been described in bacteria and archaea, most of which were discovered since 2018. These discoveries surprisingly exposed numerous, highly abundant defense systems that mediate Abi, therefore bringing this defense strategy back in the spotlight. In this review, we show that defense by regulated cell death constitutes a major form of antiviral immunity among prokaryotes. We describe the evolutionary principles that make this strategy so successful in the microbial world and explain how it also contributed to the evolution of eukaryotic immune systems."
+  }, {
+    "type" : "heading",
+    "id" : 68,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 318.954, 356.015, 480.61, 369.138 ],
+    "heading level" : 3,
+    "font" : "HelveticaNeueLTStd-Bd",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Principles of abortive infection"
+  }, {
+    "type" : "paragraph",
+    "id" : 69,
+    "page number" : 1,
+    "bounding box" : [ 318.954, 148.929, 558.956, 356.394 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Abortive infection mechanisms inflict regulated death or dormancy of the infected cell before the phage can successfully complete its replication cycle. By preventing the release of new viral particles to the environment, Abi enables the survival of the surrounding microbial population that would otherwise be wiped out after a few infection cycles [12] (Figure 1). The general principle of regulated cell death in prokaryotes has long been disputed based on the widespread view of prokaryotes as planktonic unicellular organisms, questioning the benefit of this strategy in natural environments [13]. But in fact, microbial populations are frequently structured as communities of genetically identical or nearly identical cells, meaning that Abi would benefit kin cells and ensure the propagation of kin genes through evolution [13]. Since most phages have a narrow host range and usually only infect members of a single species, prevention of phage spread would protect only the kin but not unrelated cells [14]."
+  }, {
+    "type" : "heading",
+    "id" : 70,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 318.954, 113.993, 540.598, 138.624 ],
+    "heading level" : 3,
+    "font" : "HelveticaNeueLTStd-Bd",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Over 70% of prokaryotes encode abortive infection systems"
+  }, {
+    "type" : "paragraph",
+    "id" : 71,
+    "page number" : 1,
+    "bounding box" : [ 318.954, 56.405, 558.964, 114.372 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Studies from recent years have significantly expanded our knowledge on the repertoire of defense systems encoded in the prokaryotic pan-genome [2–11], providing the opportunity to estimate the general importance of Abi mechanisms in bacterial defense. Examination of 131"
+  }, {
+    "type" : "footer",
+    "id" : 76,
+    "page number" : 1,
+    "bounding box" : [ 60.945, 32.721, 558.946, 41.668 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 21,
+      "page number" : 1,
+      "bounding box" : [ 60.945, 32.721, 558.946, 41.668 ],
+      "heading level" : 5,
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "www.sciencedirect.com Current Opinion in Microbiology 2023, 74:102312"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 77,
+    "page number" : 2,
+    "bounding box" : [ 53.858, 698.636, 181.226, 759.151 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 29,
+      "page number" : 2,
+      "bounding box" : [ 53.858, 749.607, 181.226, 759.151 ],
+      "heading level" : 4,
+      "font" : "HelveticaNeueLTStd-Bd",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "2 Evolution of anti-viral defense"
+    }, {
+      "type" : "paragraph",
+      "id" : 30,
+      "page number" : 2,
+      "bounding box" : [ 53.858, 698.636, 83.143, 707.583 ],
+      "font" : "HelveticaNeueLTStd-Bd",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Figure 1"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 85,
+    "page number" : 2,
+    "bounding box" : [ 122.003, 425.82, 483.719, 687.537 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 1,
+      "page number" : 2,
+      "bounding box" : [ 127.253, 439.07, 478.47, 682.287 ],
+      "source" : "2023_Rousset_images/imageFile4.png"
+    }, {
+      "type" : "caption",
+      "id" : 2,
+      "page number" : 2,
+      "bounding box" : [ 408.103, 430.317, 478.128, 435.903 ],
+      "linked content id" : 1,
+      "font" : "ArialMT",
+      "font size" : 5.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Current Opinion in Microbiology"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 86,
+    "page number" : 2,
+    "bounding box" : [ 53.858, 387.195, 551.882, 414.932 ],
+    "font" : "HelveticaNeueLTStd-Roman",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "General principle of abortive infection (Abi).During infection of an Abi-expressing cell, the sensor module detects a viral cue and transmits the signal to an effector module that executes cell death before completion of the phage replication cycle. As a result, no viable phages are released from infected cells and the surrounding population remains protected."
+  }, {
+    "type" : "paragraph",
+    "id" : 78,
+    "page number" : 2,
+    "bounding box" : [ 53.858, 264.354, 293.877, 368.356 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "systems currently listed in DefenseFinder [15] shows that for 57 of them (43.5%), there is strong evidence in the literature supporting an Abi mechanism. Beyond some of the original Abi genes discovered in L. lactis and E. coli [1], this list includes many recently discovered antiphage systems, including Avs [11], cyclic oligonucleotide-based antiphage signaling systems (CBASS) [10], Lamassu [6], short prokaryotic argonautes (pAgo) [16–18], retrons [3,8,9], and many more."
+  }, {
+    "type" : "paragraph",
+    "id" : 79,
+    "page number" : 2,
+    "bounding box" : [ 53.858, 114.856, 293.878, 253.384 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "We used DefenseFinder to analyze 3895 curated prokaryotic genomes [6], revealing a total of 26 740 defense systems (Figure 2a). This analysis shows that most sequenced prokaryotic genomes (72.5%) encode at least one Abi system, with an average of 1.71 systems per genome (Figure 2b and c). These numbers are certainly an underestimate, since the mechanisms of many recently discovered defense systems are still unknown. Interestingly, Abi systems are more prevalent in bacteria than in archaea (in 73.3% versus 45.6% of analyzed genomes), suggesting either differences in defense strategies or a gap in our knowledge of archaeal Abi systems (Figure 2d)."
+  }, {
+    "type" : "heading",
+    "id" : 80,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 53.858, 76.859, 271.583, 101.49 ],
+    "heading level" : 3,
+    "font" : "HelveticaNeueLTStd-Bd",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Genetic architecture of abortive infection systems"
+  }, {
+    "type" : "paragraph",
+    "id" : 81,
+    "page number" : 2,
+    "bounding box" : [ 53.858, 53.74, 293.871, 77.238 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Most defense systems involving regulated cell death encode two key modules: the phage-sensing module,"
+  }, {
+    "type" : "paragraph",
+    "id" : 82,
+    "page number" : 2,
+    "bounding box" : [ 311.865, 183.848, 551.882, 368.354 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "responsible for detecting that the cell has been infected; and the effector module, which executes cell death or growth arrest once activated by the phage-sensing module (Figure 1) [12]. These two modules are frequently found in two separate proteins. For example, in the defense systems CBASS, Pycsar, and Thoeris, the phage-sensing module is coupled with an enzymatic domain that produces a signaling molecule following phage detection [10,19,20], and the cell-killing module is encoded on a second protein that executes cell death upon binding the respective signaling molecule [19–27]. In other cases, including in the Avs, CapRel, and DSR proteins, the phage-sensing and cell-killing domains are present in the same protein, such that phage sensing results in a conformational change that activates the cellkilling domain [11,28,29]."
+  }, {
+    "type" : "heading",
+    "id" : 83,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 311.868, 145.855, 528.527, 170.486 ],
+    "heading level" : 3,
+    "font" : "HelveticaNeueLTStd-Bd",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Phage-sensing modules are sentinels for invasion"
+  }, {
+    "type" : "paragraph",
+    "id" : 84,
+    "page number" : 2,
+    "bounding box" : [ 311.868, 53.74, 551.884, 146.233 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Defense systems that rely on regulated cell death pose a threat to the encoding cell, as inadvertent activation of the system would be toxic. As a result, such systems must be tightly blocked when the cell is not infected and should be activated only when phage infection is sensed. This gatekeeping function is enabled by the sensor module that detects a specific viral cue, and only then transmits the signal to the cell-killing module [12]."
+  }, {
+    "type" : "footer",
+    "id" : 88,
+    "page number" : 2,
+    "bounding box" : [ 53.859, 32.721, 551.851, 41.668 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 22,
+      "page number" : 2,
+      "bounding box" : [ 53.859, 32.721, 551.851, 41.668 ],
+      "heading level" : 5,
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Current Opinion in Microbiology 2023, 74:102312 www.sciencedirect.com"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 89,
+    "page number" : 3,
+    "bounding box" : [ 60.945, 698.636, 558.96, 759.151 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 31,
+      "page number" : 3,
+      "bounding box" : [ 312.378, 749.607, 558.96, 759.151 ],
+      "heading level" : 4,
+      "font" : "HelveticaNeueLTStd-Bd",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Regulated cell death in bacterial immunity Rousset and Sorek 3"
+    }, {
+      "type" : "paragraph",
+      "id" : 32,
+      "page number" : 3,
+      "bounding box" : [ 60.945, 698.636, 90.23, 707.583 ],
+      "font" : "HelveticaNeueLTStd-Bd",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Figure 2"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 95,
+    "page number" : 3,
+    "bounding box" : [ 81.468, 307.672, 538.368, 687.558 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 3,
+      "page number" : 3,
+      "bounding box" : [ 463.14, 311.862, 533.16, 317.448 ],
+      "font" : "ArialMT",
+      "font size" : 5.0,
+      "text color" : "[0.09, 0.09, 0.082]",
+      "content" : "Current Opinion in Microbiology"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 96,
+    "page number" : 3,
+    "bounding box" : [ 60.945, 259.493, 558.949, 296.956 ],
+    "font" : "HelveticaNeueLTStd-Roman",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Abortive infection is a highly prevalent defense strategy in prokaryotes. (a) Classification of antiphage defense systems listed in DefenseFinder [15]. (b) Fraction of genomes encoding at least one system classified as RM, Abi, possible Abi, CRISPR–Cas, or unknown. Systems were classified as ‘Possible Abi’ if they encode an effector domain present in known Abi systems, or if they function as toxin–antitoxin systems. (c) Distribution of the number of known Abi systems per genome. (d) Prevalence of known Abi systems in bacteria and archaea (n = 3781 and 114, respectively)."
+  }, {
+    "type" : "paragraph",
+    "id" : 90,
+    "page number" : 3,
+    "bounding box" : [ 60.945, 56.236, 300.966, 240.684 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "In many cases, sensor modules detect infection by physically interacting with a conserved phage component. For example, proteins of the Avs family sense the phage terminase or portal proteins that are essential for packing DNA into the phage head [11]. These Avs proteins, which are evolutionarily related to eukaryotic nucleotide-binding domain leucine-rich repeat-containing proteins (NLRs) [11,30], have a C-terminal domain that directly binds the phage protein. This binding triggers a conformational change that induces oligomerization of the Avs protein and activation of its N-terminal cell-killing effector domain [11]. Similarly, the CapRel defense protein binds the phage major capsid protein [28], and the DSR2 defense protein recognizes the phage tail tube [29]. Defense systems can also sense a phage-specific nucleic acid structure, as suggested for"
+  }, {
+    "type" : "paragraph",
+    "id" : 91,
+    "page number" : 3,
+    "bounding box" : [ 318.952, 205.734, 558.958, 240.684 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "short pAgo systems [16–18] as well as for Lamassu and CBASS systems that can detect single-stranded DNA or RNA secondary structures, respectively [31,32]."
+  }, {
+    "type" : "paragraph",
+    "id" : 92,
+    "page number" : 3,
+    "bounding box" : [ 318.952, 125.231, 558.924, 194.707 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Sensor modules in Abi systems can also detect phage invasion by sensing its effect on host functions. For instance, the ToxIN system is activated by sensing that the phage has inhibited host transcription [33], while some retrons are activated when they sense that phage proteins inhibit the host RecBCD machinery [9,34]."
+  }, {
+    "type" : "paragraph",
+    "id" : 93,
+    "page number" : 3,
+    "bounding box" : [ 318.952, 56.236, 558.952, 114.203 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "There is an inherent conflict between Abi systems that defend via cell killing and non-Abi systems such as RM systems, which defend while preserving cell viability. If the cell encodes the latter, cell survival should be favored. To ensure this, there is frequently a temporal"
+  }, {
+    "type" : "footer",
+    "id" : 98,
+    "page number" : 3,
+    "bounding box" : [ 60.945, 32.721, 558.946, 41.668 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 23,
+      "page number" : 3,
+      "bounding box" : [ 60.945, 32.721, 558.946, 41.668 ],
+      "heading level" : 5,
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "www.sciencedirect.com Current Opinion in Microbiology 2023, 74:102312"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 99,
+    "page number" : 4,
+    "bounding box" : [ 53.858, 749.607, 181.226, 759.151 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 33,
+      "page number" : 4,
+      "bounding box" : [ 53.858, 749.607, 181.226, 759.151 ],
+      "heading level" : 4,
+      "font" : "HelveticaNeueLTStd-Bd",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "4 Evolution of anti-viral defense"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 100,
+    "page number" : 4,
+    "bounding box" : [ 53.858, 605.759, 293.86, 709.761 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "separation in the activities of the two types of systems: RM and CRISPR–Cas systems target phage DNA at the very early steps of infection, while Abi systems frequently detect signals that appear later in the infection cycle, once it is clear that RM and CRISPR–Cas systems were not successful in clearing the phage DNA [34]. This is exemplified by the PARIS system [4] and the PrrC protein [35] that only trigger Abi in the presence of phage-encoded proteins that inhibit RM systems."
+  }, {
+    "type" : "heading",
+    "id" : 101,
+    "level" : "Subtitle",
+    "page number" : 4,
+    "bounding box" : [ 53.858, 567.31, 285.495, 591.941 ],
+    "heading level" : 3,
+    "font" : "HelveticaNeueLTStd-Bd",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Cell-killing modules target essential cellular components"
+  }, {
+    "type" : "paragraph",
+    "id" : 102,
+    "page number" : 4,
+    "bounding box" : [ 53.858, 498.212, 293.875, 567.688 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Once activated by their sensor modules, cell-killing effectors in Abi systems target essential host components, leading to rapid cell death or growth arrest. Targeted cell components are frequently nucleic acids, the translation machinery, small molecules essential for survival, or the cell membrane (Table 1)."
+  }, {
+    "type" : "paragraph",
+    "id" : 103,
+    "page number" : 4,
+    "bounding box" : [ 53.858, 291.226, 293.88, 487.185 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "A variety of effector nuclease domains in multiple defense systems degrade DNA or RNA nonspecifically, such that both phage and host nucleic acids are affected [11,22,23,33,36,37]. Effectors can block translation via tRNA modification or cleavage [28,35] or via proteolytic cleavage of the translation elongation factor Tu [38]. Multiple families of effector domains degrade the essential metabolite NAD+, including Toll/interleukin-1 receptor (TIR) [18,19,24–26], SIR2 [6,16,20,29], and SEFIR domains [6]. Another type of effectors are nucleosidases that cleave ATP molecules into adenine and ribose-5′-triphosphate [39]. Depletion of NAD+ and ATP not only deprives the cell from its main energy molecules, but was also suggested to activate the phage lysis machinery to induce premature cell lysis [39]. Another way to induce cell death is to directly breach the cell membrane. Multiple proteins have independently"
+  }, {
+    "type" : "paragraph",
+    "id" : 104,
+    "page number" : 4,
+    "bounding box" : [ 311.866, 628.773, 551.873, 709.758 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "evolved as cell-killing defense effectors to execute this task: (i) patatin-like phospholipases degrade inner membrane phospholipids [10,40], (ii) a diversity of transmembrane effectors disrupt inner membrane integrity [19,27], and (iii) bacterial gasdermins form large pores in the inner membrane once activated by proteolysis, similar to their human homologs [41]."
+  }, {
+    "type" : "heading",
+    "id" : 105,
+    "level" : "Subtitle",
+    "page number" : 4,
+    "bounding box" : [ 311.868, 590.327, 542.045, 614.958 ],
+    "heading level" : 3,
+    "font" : "HelveticaNeueLTStd-Bd",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Shuffling through evolution: playing genetic Lego to evade resistance"
+  }, {
+    "type" : "paragraph",
+    "id" : 106,
+    "page number" : 4,
+    "bounding box" : [ 311.868, 440.726, 551.875, 590.706 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Examining the repertoire of Abi systems present in microbial genomes reveals remarkable shuffling between sensor and effector modules (Figure 3). Avs proteins that sense the phage terminase and portal proteins can encode more than 15 different types of cell-killing domains, including those that target DNA, NAD+, and the cell membrane [11]. Conversely, a given effector domain can be found associated with many types of sensor domains. For example, Cap4 nuclease effectors can be found in CBASS [21], Lamassu [6], and Avs systems [11], while SIR2 NAD -cleaving domains are found in many systems, including Thoeris [20], pAgo [16,29], and DSR [29] (Figure 3)."
+  }, {
+    "type" : "paragraph",
+    "id" : 107,
+    "page number" : 4,
+    "bounding box" : [ 311.869, 291.228, 551.876, 429.699 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "It is likely that evolutionary shuffling between sensor and effector modules in Abi systems serves to restore defense efficiency when phages evolve to escape bacterial defense. In some cases, phages can mutate their proteins to escape detection by the sensor module [9,11,29,34]. In other cases, phages may acquire antidefense proteins that interfere with the cell-killing module [8,42,43] or disrupt signal transmission between the sensor and effector modules [44–47]. Such phage escape capabilities can be counteracted by shuffling between sensor and effector Abi modules. Indeed, it was experimentally shown that the sensor module of Thoeris"
+  }, {
+    "type" : "paragraph",
+    "id" : 108,
+    "page number" : 4,
+    "bounding box" : [ 59.868, 257.168, 262.029, 280.912 ],
+    "font" : "HelveticaNeueLTStd-Bd",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Table 1 | Major host-targeting effector functions in Abi systems."
+  }, {
+    "type" : "paragraph",
+    "id" : 109,
+    "page number" : 4,
+    "bounding box" : [ 59.868, 228.682, 511.524, 250.75 ],
+    "font" : "HelveticaNeueLTStd-Roman",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Molecular function Domain Systems where it is found References DNA degradation Cap4 nuclease CBASS, Lamassu, and Avs [6,11,21]"
+  }, {
+    "type" : "paragraph",
+    "id" : 110,
+    "page number" : 4,
+    "bounding box" : [ 173.82, 181.173, 515.026, 227.902 ],
+    "font" : "HelveticaNeueLTStd-Roman",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "NucC CBASS, type-III CRISPR [22,58,59] HNH CBASS, Avs, and retrons [3,9,11,23] Mrr CBASS, Avs, and pAgo [11,37,60] REase Lamassu, Avs, and Detocs [6,11,39] Toprim Old, Retrons, PARIS, and Detocs [3,4,9,39,61]"
+  }, {
+    "type" : "paragraph",
+    "id" : 111,
+    "page number" : 4,
+    "bounding box" : [ 59.868, 162.181, 485.837, 180.394 ],
+    "font" : "HelveticaNeueLTStd-Roman",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "RNA degradation ToxN ToxIN [33] RnlA RnlAB [36]"
+  }, {
+    "type" : "paragraph",
+    "id" : 112,
+    "page number" : 4,
+    "bounding box" : [ 59.868, 133.665, 485.837, 161.401 ],
+    "font" : "HelveticaNeueLTStd-Roman",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Translational arrest RelA CapRel [28] Peptidase_U49 Lit [38] P-loop NTPase PrrC [35]"
+  }, {
+    "type" : "paragraph",
+    "id" : 113,
+    "page number" : 4,
+    "bounding box" : [ 59.868, 105.148, 545.881, 133.849 ],
+    "font" : "HelveticaNeueLTStd-Roman",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "NAD+ depletion TIR CBASS, Pycsar, Avs, Retrons, pAgo, and SpbK [9,11,18,19,24–26,62] SIR2 Thoeris, Dsr, Lamassu, pAgo, and Avs [6,11,16,20,29] SEFIR SEFIR [6]"
+  }, {
+    "type" : "paragraph",
+    "id" : 114,
+    "page number" : 4,
+    "bounding box" : [ 59.868, 86.156, 519.197, 104.426 ],
+    "font" : "HelveticaNeueLTStd-Roman",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "ATP degradation PNP CBASS, Detocs, Avs, and pAgo [39] Membrane disruption Transmembrane CBASS, Pycsar, Avs, Retrons, and Thoeris [2,9,11,19,27]"
+  }, {
+    "type" : "paragraph",
+    "id" : 115,
+    "page number" : 4,
+    "bounding box" : [ 173.82, 67.164, 496.262, 85.433 ],
+    "font" : "HelveticaNeueLTStd-Roman",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Patatin CBASS [10,40] Gasdermin Gasdermin [41]"
+  }, {
+    "type" : "footer",
+    "id" : 117,
+    "page number" : 4,
+    "bounding box" : [ 53.859, 32.721, 551.851, 41.668 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 24,
+      "page number" : 4,
+      "bounding box" : [ 53.859, 32.721, 551.851, 41.668 ],
+      "heading level" : 5,
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Current Opinion in Microbiology 2023, 74:102312 www.sciencedirect.com"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 118,
+    "page number" : 5,
+    "bounding box" : [ 312.378, 749.607, 558.96, 759.151 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 34,
+      "page number" : 5,
+      "bounding box" : [ 312.378, 749.607, 558.96, 759.151 ],
+      "heading level" : 4,
+      "font" : "HelveticaNeueLTStd-Bd",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Regulated cell death in bacterial immunity Rousset and Sorek 5"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 123,
+    "page number" : 5,
+    "bounding box" : [ 60.945, 698.636, 90.23, 707.583 ],
+    "font" : "HelveticaNeueLTStd-Bd",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Figure 3"
+  }, {
+    "type" : "text block",
+    "id" : 124,
+    "page number" : 5,
+    "bounding box" : [ 81.468, 342.765, 538.369, 687.569 ],
+    "kids" : [ {
+      "type" : "caption",
+      "id" : 4,
+      "page number" : 5,
+      "bounding box" : [ 462.739, 346.955, 532.759, 352.541 ],
+      "linked content id" : 5,
+      "font" : "ArialMT",
+      "font size" : 5.0,
+      "text color" : "[0.09, 0.09, 0.082]",
+      "content" : "Current Opinion in Microbiology"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 5,
+      "bounding box" : [ 86.718, 356.015, 533.119, 682.319 ],
+      "source" : "2023_Rousset_images/imageFile5.png"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 125,
+    "page number" : 5,
+    "bounding box" : [ 60.945, 247.107, 558.968, 331.82 ],
+    "font" : "HelveticaNeueLTStd-Roman",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Shuffling of sensor and effector modules promotes Abi diversity. A limited number of effector domains execute cell death and are repeatedly associated with different sensor modules, increasing the diversity of Abi systems. Examples of genetic shuffling between effector and sensor modules are shown. The C-terminal repeats in Avs proteins sense a phage component, inducing oligomerization of the protein through the central ATPase domain and activation of the effector domain. In short pAgos, the MID and Piwi domains are involved in the recruitment of short RNA guides to activate the effector domain upon binding to the target nucleic acid. In CBASS, a CD-NTase enzyme produces a cyclic oligonucleotide signal that is sensed by the nucleotide-binding domain of a second protein to activate its effector domain. In retrons, a reverse transcriptase produces a short msDNA, together forming a surveillance complex that detects phage invasion. Abbreviation: REase, restriction endonuclease; PNP, purine nucleoside phosphorylase; APAZ, analog of PAZ; MID, middle domain; PIWI, P-element-induced wimpy testis; Nuc binding, cyclic oligonucleotide-binding domain; CD-NTase, cGAS/DcnV-like nucleotidyltransferase; RT, reverse transcriptase; msDNA, multicopy single-stranded DNA."
+  }, {
+    "type" : "paragraph",
+    "id" : 119,
+    "page number" : 5,
+    "bounding box" : [ 60.945, 123.756, 300.963, 216.249 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "can be exchanged between two Thoeris systems, leading to a corresponding swap in the phages recognized by the two systems [20]. Similarly, exchanging the phage-sensing domains between two CapRel proteins led to a switch in phage-sensing capacity [28]. On the other hand, the observed swapping of effector modules between Abi systems likely serves to restore defense when phages evolve to inhibit the effector function."
+  }, {
+    "type" : "heading",
+    "id" : 120,
+    "level" : "Subtitle",
+    "page number" : 5,
+    "bounding box" : [ 60.945, 88.368, 290.252, 112.999 ],
+    "heading level" : 3,
+    "font" : "HelveticaNeueLTStd-Bd",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Gain and loss of abortive infection systems shape bacterial pan-immunity"
+  }, {
+    "type" : "paragraph",
+    "id" : 121,
+    "page number" : 5,
+    "bounding box" : [ 60.945, 53.74, 300.94, 88.747 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Another level of evolutionary shuffling can be observed when examining the diversity of defense systems in the microbial pan-genome. Remarkably, strains of the same"
+  }, {
+    "type" : "paragraph",
+    "id" : 122,
+    "page number" : 5,
+    "bounding box" : [ 318.952, 52.711, 558.956, 216.248 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "species can encode dramatically different sets of Abi systems, despite sharing a very similar core genome [15,48–50]. It was demonstrated that defense systems are dynamically lost and reacquired by bacteria via horizontal gene transfer on short evolutionary timescales, a process that leads to a ‘pan-immune system’ shared by strains of the same species [50–53]. Presumably, the residual toxicity of Abi systems inflicts a fitness cost that favors the loss of these systems in the absence of phage. Abi systems can then be regained by horizontal transfer, which is largely mediated by mobile genetic elements (MGEs) such as transposons, temperate phages, or integrative and conjugative elements [4,5,7,51–54]. Indeed, it was recently shown that ∼90% of the defense"
+  }, {
+    "type" : "footer",
+    "id" : 127,
+    "page number" : 5,
+    "bounding box" : [ 60.945, 32.721, 558.946, 41.668 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 25,
+      "page number" : 5,
+      "bounding box" : [ 60.945, 32.721, 558.946, 41.668 ],
+      "heading level" : 5,
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "www.sciencedirect.com Current Opinion in Microbiology 2023, 74:102312"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 128,
+    "page number" : 6,
+    "bounding box" : [ 53.858, 749.607, 181.226, 759.151 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 35,
+      "page number" : 6,
+      "bounding box" : [ 53.858, 749.607, 181.226, 759.151 ],
+      "heading level" : 4,
+      "font" : "HelveticaNeueLTStd-Bd",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "6 Evolution of anti-viral defense"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 129,
+    "page number" : 6,
+    "bounding box" : [ 53.858, 628.777, 293.877, 709.761 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "systems in strains of E. coli are carried on MGEs [48]. Abi systems are often compact and are therefore easily carried by temperate phages and phage satellites that are typically constrained by the size of cargo DNA they can package. Some temperate phages and their satellites encode Abi systems in dedicated hotspots in their genomes [4,5,7,54]."
+  }, {
+    "type" : "heading",
+    "id" : 130,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 53.858, 605.35, 212.922, 618.473 ],
+    "heading level" : 3,
+    "font" : "HelveticaNeueLTStd-Bd",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Conclusions and perspectives"
+  }, {
+    "type" : "paragraph",
+    "id" : 131,
+    "page number" : 6,
+    "bounding box" : [ 53.858, 375.246, 293.88, 605.729 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Findings from recent years have brought Abi mechanisms in bacterial defense back into the spotlight. Beyond their abundance and function in protecting bacteria against phages, these systems have played an important evolutionary role in shaping the innate immune system of eukaryotes [55]. Indeed, the bacterial CBASS system was shown to be the evolutionary ancestor of the animal cGAS–STING antiviral pathway [10,25,56], and other components of the eukaryotic innate immune system, including gasdermins [41], NLRs [11,30], TIR signaling [20,45], and ATP nucleosidases [39], have all likely evolved from bacterial systems that exert cell death to defend against phages. Therefore, understanding bacterial Abi systems contributes to understanding the evolution of our own immune system. Accumulating evidence suggests that additional proteins involved in eukaryotic immunity evolved from bacterial Abi systems, highlighting the potential of studying these systems to generate novel insights on the innate immune mechanisms of eukaryotes [6,20,39,45,57]."
+  }, {
+    "type" : "heading",
+    "id" : 132,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 53.858, 351.876, 138.523, 364.999 ],
+    "heading level" : 3,
+    "font" : "HelveticaNeueLTStd-Bd",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Data Availability"
+  }, {
+    "type" : "paragraph",
+    "id" : 133,
+    "page number" : 6,
+    "bounding box" : [ 53.858, 328.246, 225.79, 340.236 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Data will be made available on request."
+  }, {
+    "type" : "heading",
+    "id" : 134,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 53.858, 304.878, 233.875, 318.001 ],
+    "heading level" : 3,
+    "font" : "HelveticaNeueLTStd-Bd",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Declaration of Competing Interest"
+  }, {
+    "type" : "paragraph",
+    "id" : 135,
+    "page number" : 6,
+    "bounding box" : [ 53.858, 269.74, 293.863, 293.238 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 10.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "R.S. is a scientific cofounder and advisor of BiomX and Ecophage"
+  }, {
+    "type" : "heading",
+    "id" : 136,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 53.858, 246.37, 157.71, 259.493 ],
+    "heading level" : 3,
+    "font" : "HelveticaNeueLTStd-Bd",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Acknowledgements"
+  }, {
+    "type" : "paragraph",
+    "id" : 137,
+    "page number" : 6,
+    "bounding box" : [ 53.858, 165.369, 293.871, 246.361 ],
+    "font" : "Caslon540LTStd-Roman",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "We thank members of the Sorek lab and the anonymous reviewers for critical comments. F.R was supported by the Clore Foundation postdoctoral fellowship and by the Dean of Faculty fellowship from the Weizmann Institute of Science. R.S. was supported, in part, by the European Research Council (Grant ERC-AdG GA 101018520), Israel Science Foundation (MAPATS Grant 2720/22), the Deutsche Forschungsgemeinschaft (SPP 2330, Grant 464312965), the Ernest and Bonnie Beutler Research Program of Excellence in Genomic Medicine, and the Knell Family Center for Microbiology."
+  }, {
+    "type" : "heading",
+    "id" : 138,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 53.858, 141.375, 260.188, 154.498 ],
+    "heading level" : 3,
+    "font" : "HelveticaNeueLTStd-Bd",
+    "font size" : 11.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "References and recommended reading"
+  }, {
+    "type" : "paragraph",
+    "id" : 139,
+    "page number" : 6,
+    "bounding box" : [ 53.858, 122.156, 290.878, 140.425 ],
+    "font" : "HelveticaNeueLTStd-Roman",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Papers of particular interest, published within the period of review, have been highlighted as:"
+  }, {
+    "type" : "paragraph",
+    "id" : 140,
+    "level" : "1",
+    "page number" : 6,
+    "bounding box" : [ 60.321, 105.545, 130.311, 114.913 ],
+    "font" : "HelveticaNeueLTStd-Roman",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "•• of special interest"
+  }, {
+    "type" : "paragraph",
+    "id" : 141,
+    "level" : "1",
+    "page number" : 6,
+    "bounding box" : [ 60.321, 97.551, 146.411, 106.92 ],
+    "font" : "HelveticaNeueLTStd-Roman",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "•• of outstanding interest"
+  }, {
+    "type" : "paragraph",
+    "id" : 142,
+    "level" : "2",
+    "page number" : 6,
+    "bounding box" : [ 53.858, 62.202, 289.279, 87.137 ],
+    "font" : "HelveticaNeueLTStd-Bd",
+    "font size" : 7.5,
+    "text color" : "[0.13, 0.59, 0.82]",
+    "content" : "1. Chopin MC, Chopin A, Bidnenko E: Phage abortive infection in lactococci: variations on a theme. Curr Opin Microbiol 2005, 8:473-479."
+  }, {
+    "type" : "list",
+    "id" : 143,
+    "level" : "3",
+    "page number" : 6,
+    "bounding box" : [ 311.867, 54.605, 551.871, 707.41 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 17,
+    "next list id" : 147,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 311.867, 682.647, 551.855, 707.41 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "2. Doron S, Melamed S, Ofir G, Leavitt A, Lopatina A, Keren M, Amitai G, Sorek R: Systematic discovery of antiphage defense systems in the microbial pangenome. Science 2018, 359:eaar4120.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 311.867, 644.89, 551.855, 677.646 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "3. Gao L, Altae-Tran H, Böhning F, Makarova KS, Segel M, SchmidBurgk JL, Koob J, Wolf YI, Koonin EV, Zhang F: Diverse enzymatic activities mediate antiviral immunity in prokaryotes. Science 2020, 369:1077-1084.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 311.867, 607.132, 551.845, 639.889 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "4. Rousset F, Depardieu F, Miele S, Dowding J, Laval A-L, Lieberman E, Garry D, Rocha EPC, Bernheim A, Bikard D: Phages and their satellites encode hotspots of antiviral systems. Cell Host Microbe 2022, 30:740-753.e5.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 311.867, 593.387, 318.122, 602.131 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "5.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 44,
+        "level" : "1",
+        "page number" : 6,
+        "bounding box" : [ 311.301, 585.676, 315.05, 594.421 ],
+        "font" : "HelveticaNeueLTStd-Roman",
+        "font size" : 7.5,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "•"
+      }, {
+        "type" : "paragraph",
+        "id" : 45,
+        "page number" : 6,
+        "bounding box" : [ 327.741, 569.375, 551.883, 602.304 ],
+        "font" : "HelveticaNeueLTStd-Bd",
+        "font size" : 7.5,
+        "text color" : "[0.13, 0.59, 0.82]",
+        "content" : "Vassallo CN, Doering CR, Littlehale ML, Teodoro GIC, Laub MT: A functional selection reveals previously undetected anti-phage defence systems in the E. coli pangenome. Nat Microbiol 2022, 7:1568-1579."
+      }, {
+        "type" : "paragraph",
+        "id" : 46,
+        "page number" : 6,
+        "bounding box" : [ 311.867, 553.418, 551.845, 570.156 ],
+        "font" : "HelveticaNeueLTStd-Roman",
+        "font size" : 7.5,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "This paper presents a high-throughput experimental screening approach to functionally select Abi systems from fragmented DNA."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 311.867, 515.631, 551.845, 548.386 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "6. Millman A, Melamed S, Leavitt A, Doron S, Bernheim A, Hör J, Garb J, Bechon N, Brandis A, Lopatina A, et al.: An expanded arsenal of immune systems that protect bacteria from phages. Cell Host Microbe 2022, 30:1556-1569.e5.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 311.867, 477.873, 551.856, 510.629 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "7. Fillol-Salom A, Rostøl JT, Ojiogu AD, Chen J, Douce G, Humphrey S, Penadés JR: Bacteriophages benefit from mobilizing pathogenicity islands encoding immune systems against competitors. Cell 2022, 185:3248-3262.e20.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 311.867, 440.116, 550.229, 472.871 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "8. Bobonis J, Mitosch K, Mateus A, Karcher N, Kritikos G, Selkrig J, Zietek M, Monzon V, Pfalz B, Garcia-Santamarina S, et al.: Bacterial retrons encode phage-defending tripartite toxin–antitoxin systems. Nature 2022, 609:144-150.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 311.867, 410.352, 551.848, 435.171 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "9. Millman A, Bernheim A, Stokar-Avihail A, Fedorenko T, Voichek M, Leavitt A, Oppenheimer-Shaanan Y, Sorek R: Bacterial retrons function in anti-phage defense. Cell 2020, 183:1551-1561.e12.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 311.867, 372.594, 548.801, 405.407 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "10. Cohen D, Melamed S, Millman A, Shulman G, OppenheimerShaanan Y, Kacen A, Doron S, Amitai G, Sorek R: Cyclic GMP–AMP signalling protects bacteria against viral infection. Nature 2019, 574:1-5.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 311.867, 358.904, 322.292, 367.649 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "11.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 47,
+        "level" : "1",
+        "page number" : 6,
+        "bounding box" : [ 311.47, 351.138, 318.97, 359.882 ],
+        "font" : "HelveticaNeueLTStd-Roman",
+        "font size" : 7.5,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "••"
+      }, {
+        "type" : "paragraph",
+        "id" : 48,
+        "page number" : 6,
+        "bounding box" : [ 327.798, 334.894, 548.333, 367.649 ],
+        "font" : "HelveticaNeueLTStd-Roman",
+        "font size" : 7.5,
+        "text color" : "[0.13, 0.59, 0.82]",
+        "content" : "Gao LA, Wilkinson ME, Strecker J, Makarova KS, Macrae RK, Koonin EV, Zhang F: Prokaryotic innate immunity through pattern recognition of conserved viral proteins. Science 2022, 377:eabm4096."
+      }, {
+        "type" : "paragraph",
+        "id" : 49,
+        "page number" : 6,
+        "bounding box" : [ 311.867, 310.886, 551.882, 335.618 ],
+        "font" : "HelveticaNeueLTStd-Roman",
+        "font size" : 7.5,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "A landmark study demonstrating that bacterial NLR-like proteins detect phage portal and terminase proteins, leading to the activation of an effector domain to trigger cell death."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 311.867, 289.143, 551.842, 306.083 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "12. Lopatina A, Tal N, Sorek R: Abortive infection: bacterial suicide as an antiviral immune strategy. Annu Rev Virol 2020, 7:371-384.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 311.867, 267.373, 551.841, 284.313 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "13. Bayles KW: Bacterial programmed cell death: making sense of a paradox. Nat Rev Microbiol 2013, 12:63-69.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 311.867, 245.602, 549.289, 262.544 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "14. Hyman P, Abedon ST: Bacteriophage host range and bacterial resistance. Adv Appl Microbiol 2010, 70:217-248.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 311.867, 231.912, 322.292, 240.657 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "15.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 50,
+        "level" : "1",
+        "page number" : 6,
+        "bounding box" : [ 311.47, 224.146, 315.22, 232.89 ],
+        "font" : "HelveticaNeueLTStd-Roman",
+        "font size" : 7.5,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "•"
+      }, {
+        "type" : "paragraph",
+        "id" : 51,
+        "page number" : 6,
+        "bounding box" : [ 327.798, 215.839, 551.873, 240.657 ],
+        "font" : "HelveticaNeueLTStd-Roman",
+        "font size" : 7.5,
+        "text color" : "[0.13, 0.59, 0.82]",
+        "content" : "Tesson F, Hervé A, Mordret E, Touchon M, d’Humières C, Cury J, Bernheim A: Systematic and quantitative view of the antiviral arsenal of prokaryotes. Nat Commun 2022, 13:1-10."
+      }, {
+        "type" : "paragraph",
+        "id" : 52,
+        "page number" : 6,
+        "bounding box" : [ 311.867, 183.894, 551.879, 216.619 ],
+        "font" : "HelveticaNeueLTStd-Roman",
+        "font size" : 7.5,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "This paper introduces DefenseFinder, a bioinformatic pipeline to detect antiphage systems in prokaryotic genomes, and presents an in-depth analysis of the distribution of defense systems in the prokaryotic pangenome."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 311.867, 138.113, 542.269, 179.691 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "16. Zaremba M, Dakineviciene D, Golovinas E, Zagorskaitė E, Stankunas E, Lopatina A, Sorek R, Manakova E, Ruksenaite A, Silanskas A, et al.: Short prokaryotic Argonautes provide defence against incoming mobile genetic elements through NAD+ depletion. Nat Microbiol 2022, 7:1857-1869.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 311.867, 92.393, 551.852, 133.169 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "17. Zeng Z, Chen Y, Pinilla-Redondo R, Shah SA, Zhao F, Wang C, Hu Z, Wu C, Zhang C, Whitaker RJ, et al.: A short prokaryotic Argonaute activates membrane effector to confer antiviral defense. Cell Host Microbe 2022, https://doi.org/10.1016/j.chom. 2022.04.015",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 6,
+      "bounding box" : [ 311.867, 54.605, 551.871, 87.417 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "18. Koopal B, Potocnik A, Mutte SK, Aparicio-Maldonado C, Lindhoud S, Vervoort JJM, Brouns SJJ, Swarts DC: Short prokaryotic Argonaute systems trigger cell death upon detection of invading DNA. Cell 2022, 185:1471-1486.e19.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 145,
+    "page number" : 6,
+    "bounding box" : [ 53.859, 32.721, 551.851, 41.668 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 26,
+      "page number" : 6,
+      "bounding box" : [ 53.859, 32.721, 551.851, 41.668 ],
+      "heading level" : 5,
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Current Opinion in Microbiology 2023, 74:102312 www.sciencedirect.com"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 146,
+    "page number" : 7,
+    "bounding box" : [ 312.378, 749.607, 558.96, 759.151 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 36,
+      "page number" : 7,
+      "bounding box" : [ 312.378, 749.607, 558.96, 759.151 ],
+      "heading level" : 4,
+      "font" : "HelveticaNeueLTStd-Bd",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Regulated cell death in bacterial immunity Rousset and Sorek 7"
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 147,
+    "level" : "3",
+    "page number" : 7,
+    "bounding box" : [ 60.945, 116.429, 300.974, 707.411 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 16,
+    "previous list id" : 143,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 60.945, 674.599, 300.918, 707.411 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "19. Tal N, Morehouse BR, Millman A, Stokar-Avihail A, Avraham C, Fedorenko T, Yirmiya E, Herbst E, Brandis A, Mehlman T, et al.: Cyclic CMP and cyclic UMP mediate bacterial immunity against phages. Cell 2021, 184:5728-5739.e16.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 60.945, 636.898, 300.953, 669.654 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "20. Ofir G, Herbst E, Baroz M, Cohen D, Millman A, Doron S, Tal N, Malheiro DBA, Malitsky S, Amitai G, et al.: Antiviral activity of bacterial TIR domains via immune signalling molecules. Nature 2021, 600:116-120.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 60.945, 591.147, 300.966, 631.897 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "21. Lowey B, Whiteley AT, Keszei AFA, Morehouse BR, Mathews IT, Antine SP, Cabrera VJ, Kashin D, Niemann P, Jain M, et al.: CBASS immunity uses CARF-related effectors to sense 3′–5′- and 2′–5′-linked cyclic oligonucleotide signals and protect bacteria from phage infection. Cell 2020, 182:38-49.e17.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 60.945, 545.396, 300.92, 586.145 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "22. Lau RK, Ye Q, Birkholz EA, Berg KR, Patel L, Mathews IT, Watrous JD, Ego K, Whiteley AT, Lowey B, et al.: Structure and mechanism of a cyclic trinucleotide-activated bacterial endonuclease mediating bacteriophage immunity. Mol Cell 2020, 77:723-733.e6.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 60.945, 507.638, 287.381, 540.567 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "23. Fatma S, Chakravarti A, Zeng X, Huang RH: Molecular mechanisms of the CdnG-Cap5 antiphage defense system employing 3′,2′-cGAMP as the second messenger. Nat Commun 2021, 12:1-9.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 60.945, 477.874, 300.974, 502.637 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "24. Morehouse BR, Yip MCJ, Keszei AFA, McNamara-Bordewick NK, Shao S, Kranzusch PJ: Cryo-EM structure of an active bacterial TIR–STING filament complex. Nature 2022, 608:803.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 60.945, 448.111, 300.932, 472.93 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "25. Morehouse BR, Govande AA, Millman A, Keszei AFA, Lowey B, Ofir G, Shao S, Sorek R, Kranzusch PJ: STING cyclic dinucleotide sensing originated in bacteria. Nature 2020, 586:429-433.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 60.945, 410.353, 300.943, 443.166 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "26. Hogrel G, Guild A, Graham S, Rickman H, Grüschow S, Bertrand Q, Spagnolo L, White MF: Cyclic nucleotide-induced helical structure activates a TIR immune effector. Nature 2022, 608:808-812.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 60.945, 372.652, 300.948, 405.409 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "27. Duncan-Lowey B, Mcnamara-Bordewick NK, Tal N, Sorek R, Kranzusch Correspondence PJ, Kranzusch PJ: Effector-mediated membrane disruption controls cell death in CBASS antiphage defense. Mol Cell 2021, 81:5039-5051.e5.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 60.945, 358.906, 71.37, 367.651 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "28.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 38,
+        "level" : "1",
+        "page number" : 7,
+        "bounding box" : [ 60.548, 351.139, 68.048, 359.884 ],
+        "font" : "HelveticaNeueLTStd-Roman",
+        "font size" : 7.5,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "••"
+      }, {
+        "type" : "paragraph",
+        "id" : 39,
+        "page number" : 7,
+        "bounding box" : [ 76.875, 334.895, 300.925, 367.651 ],
+        "font" : "HelveticaNeueLTStd-Roman",
+        "font size" : 7.5,
+        "text color" : "[0.13, 0.59, 0.82]",
+        "content" : "Zhang T, Tamman H, Coppieters ’t Wallant K, Kurata T, LeRoux M, Srikant S, Brodiazhenko T, Cepauskas A, Talavera A, Martens C, et al.: Direct activation of a bacterial innate immune system by a viral capsid protein. Nature 2022, 612:132-140."
+      }, {
+        "type" : "paragraph",
+        "id" : 40,
+        "page number" : 7,
+        "bounding box" : [ 60.945, 310.887, 300.939, 335.676 ],
+        "font" : "HelveticaNeueLTStd-Roman",
+        "font size" : 7.5,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "This study shows that the CapRel defense protein mediates tRNA pyrophosphorylation to arrest translation once activated by a phage major capsid protein."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 60.945, 297.167, 71.37, 305.912 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "29.",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 41,
+        "level" : "1",
+        "page number" : 7,
+        "bounding box" : [ 60.548, 289.4, 64.298, 298.145 ],
+        "font" : "HelveticaNeueLTStd-Roman",
+        "font size" : 7.5,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "•"
+      }, {
+        "type" : "paragraph",
+        "id" : 42,
+        "page number" : 7,
+        "bounding box" : [ 76.875, 273.156, 300.926, 305.912 ],
+        "font" : "HelveticaNeueLTStd-Roman",
+        "font size" : 7.5,
+        "text color" : "[0.13, 0.59, 0.82]",
+        "content" : "Garb J, Lopatina A, Bernheim A, Zaremba M, Siksnys V, Melamed S, Leavitt A, Millman A, Amitai G, Sorek R: Multiple phage resistance systems inhibit infection via SIR2-dependent NAD+ depletion. Nat Microbiol 2022, 7:1849-1856."
+      }, {
+        "type" : "paragraph",
+        "id" : 43,
+        "page number" : 7,
+        "bounding box" : [ 60.945, 257.141, 300.966, 273.881 ],
+        "font" : "HelveticaNeueLTStd-Roman",
+        "font size" : 7.5,
+        "text color" : "[0.0, 0.0, 0.0]",
+        "content" : "This study shows that multiple antiphage Abi systems utilize a sirtuin (SIR2) domain to deplete NAD+ once infection is detected."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 60.945, 227.405, 300.944, 252.166 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "30. Kibby EM, Conte AN, Burroughs AM, Nagy TA, Vargas JA, Aravind L, Whiteley AT: Bacterial NLR-related proteins protect against phage. bioRxiv 2022, https://doi.org/10.1101/2022.07.19.500537",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 60.945, 189.677, 288.988, 222.575 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "31. Robins WP, Meader BT, Toska J, Mekalanos JJ: Cell densitydependent death triggered by viral palindromic DNA sequences. bioRxiv 2022, https://doi.org/10.1101/2022.11.18. 517080",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 60.945, 159.913, 300.925, 184.645 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "32. Banh DV, Roberts CG, Amador AM, Brady SF, Marraffini LA: Bacterial cGAS senses a viral RNA to initiate immunity. bioRxiv 2023, https://doi.org/10.1101/2023.03.07.531596",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 60.945, 130.12, 294.629, 155.054 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "33. Guegler CK, Laub MT: Shutoff of host transcription triggers a toxin-antitoxin system to cleave phage RNA and abort infection. Mol Cell 2021, 81:2361-2373.e9.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 60.945, 116.429, 71.37, 125.174 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "34.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 149,
+    "page number" : 7,
+    "bounding box" : [ 76.876, 84.398, 300.971, 125.174 ],
+    "font" : "HelveticaNeueLTStd-Roman",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "Stokar-Avihail A, Fedorenko T, Garb J, Leavitt A, Millman A, Shulman G, Wojtania N, Melamed S, Amitai G, Sorek R: Discovery of phage determinants that confer sensitivity to bacterial immune systems. bioRxiv 2022, https://doi.org/10.1101/2022.08. 27.505566."
+  }, {
+    "type" : "paragraph",
+    "id" : 148,
+    "level" : "1",
+    "page number" : 7,
+    "bounding box" : [ 60.548, 108.663, 68.048, 117.407 ],
+    "font" : "HelveticaNeueLTStd-Roman",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "••"
+  }, {
+    "type" : "paragraph",
+    "id" : 150,
+    "page number" : 7,
+    "bounding box" : [ 60.945, 60.417, 300.955, 85.15 ],
+    "font" : "HelveticaNeueLTStd-Roman",
+    "font size" : 7.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "This study provides a systematic investigation of the sensing mechanisms of antiphage systems, highlighting how Abi systems can sense viral signals at different stages of the phage replication cycle."
+  }, {
+    "type" : "list",
+    "id" : 151,
+    "level" : "3",
+    "page number" : 7,
+    "bounding box" : [ 318.953, 54.605, 558.969, 707.582 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 18,
+    "next list id" : 155,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 318.953, 682.647, 558.936, 707.582 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "35. Penner M, Morad I, Snyder L, Kaufmann G: Phage T4-coded Stp: double-edged effector of coupled DNA and tRNA-restriction systems. J Mol Biol 1995, 249:857-868.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 318.953, 644.266, 558.928, 677.022 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "36. Garcia-Rodriguez G, Charlier D, Wilmaerts D, Michiels J, Loris R: Alternative dimerization is required for activity and inhibition of the HEPN ribonuclease RnlA. Nucleic Acids Res 2021, 49:7164-7178.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 318.953, 621.929, 558.945, 638.87 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "37. Ryazansky S, Kulbachinskiy A, Aravin AA: The expanded universe of prokaryotic argonaute proteins. MBio 2018, 9:1-20.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 318.953, 591.542, 558.931, 616.533 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "38. Yu YTN, Snyder L: Translation elongation factor Tu cleaved by a phage-exclusion system. Proc Natl Acad Sci USA 1994, 91:802-806.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 318.953, 553.248, 558.928, 585.973 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "39. Rousset F, Yirmiya E, Nesher S, Brandis A, Mehlman T, Itkin M, Malitsky S, Millman A, Melamed S, Sorek R: A conserved family of immune effectors cleaves cellular ATP upon viral infection. bioRxiv 2023, https://doi.org/10.1101/2023.01.24.525353",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 318.953, 506.843, 558.943, 547.649 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "40. Severin GB, Ramliden MS, Hawver LA, Wang K, Pell ME, Kieninger AK, Khataokar A, O’Hara BJ, Behrmann LV, Neiditch MB, et al.: Direct activation of a phospholipase by cyclic GMP-AMP in El Tor Vibrio cholerae. Proc Natl Acad Sci USA 2018, 115:E6048-E6055.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 318.953, 468.518, 545.023, 501.274 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "41. Johnson AG, Wein T, Mayer ML, Duncan-Lowey B, Yirmiya E, Oppenheimer-Shaana Y, Amitai G, Sorek R, Kranzusch PJ: Bacterial gasdermins reveal an ancient mechanism of cell death. Science 2022, 375:221-225.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 318.953, 430.137, 558.969, 462.95 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "42. LeRoux M, Srikant S, Teodoro GIC, Zhang T, Littlehale ML, Doron S, Badiee M, Leung AKL, Sorek R, Laub MT: The DarTG toxinantitoxin system provides phage defence by ADP-ribosylating viral DNA. Nat Microbiol 2022, 7:1028-1040.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 318.953, 399.806, 553.876, 424.741 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "43. Srikant S, Guegler CK, Laub MT: The evolution of a counterdefense mechanism in a virus constrains its host range. Elife 2022, 11:e79549.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 318.953, 361.426, 556.435, 394.238 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "44. Hobbs SJ, Wein T, Lu A, Morehouse BR, Schnabel J, Leavitt A, Yirmiya E, Sorek R, Kranzusch PJ: Phage anti-CBASS and antiPycsar nucleases subvert bacterial immunity. Nature 2022, 605:522-526.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 318.953, 323.101, 558.961, 355.857 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "45. Leavitt A, Yirmiya E, Amitai G, Lu A, Garb J, Herbst E, Morehouse BR, Hobbs SJ, Antine SP, Sun Z-YJ, et al.: Viruses inhibit TIR gcADPR signaling to overcome bacterial defense. Nature 2022, 611:326-331.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 318.953, 284.75, 558.929, 317.705 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "46. Ho P, Chen Y, Biswas S, Canfield E, Feldman DE: Bacteriophage anti-defense genes that neutralize TIR and STING immune responses. bioRxiv 2022, https://doi.org/10.1101/2022.06.09. 495361",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 318.953, 246.397, 553.447, 279.152 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "47. Huiting E, Cao X, Ren J, Athukoralage JS, Luo Z, Silas S, An N, Carion H, Zhou Y, Fraser JS, et al.: Bacteriophages inhibit and evade cGAS-like immune function in bacteria. Cell 2023, 186:864-876.e21.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 318.953, 216.039, 558.965, 241.0 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "48. Hochhauser D, Millman A, Sorek R: The defence island repertoire of the Escherichia coli pan-genome. bioRxiv 2022, https://doi. org/10.1101/2022.06.09.495481",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 318.953, 169.721, 558.943, 210.441 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "49. Johnson MC, Laderman E, Huiting E, Zhang C, Davidson A, BondyDenomy J: Core defense hotspots within Pseudomonas aeruginosa are a consistent and rich source of anti-phage defense systems. bioRxiv 2022, https://doi.org/10.1101/2022.11. 11.516204",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 318.953, 139.303, 553.867, 164.295 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "50. Bernheim A, Sorek R: The pan-immune system of bacteria: antiviral defence as a community resource. Nat Rev Microbiol 2020, 18:113-119.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 318.953, 100.979, 557.27, 133.735 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "51. LeGault KN, Hays SG, Angermeyer A, McKitterick AC, Johura FT, Sultana M, Ahmed T, Alam M, Seed KD: Temporal shifts in antibiotic resistance elements govern phage-pathogen conflicts. Science 2021, 373:eabg2166.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 7,
+      "bounding box" : [ 318.953, 54.605, 556.375, 95.411 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "52. Hussain FA, Dubert J, Elsherbini J, Murphy M, VanInsberghe D, Arevalo P, Kauffman K, Rodino-Janeiro BK, Gavin H, Gomez A, et al.: Rapid evolutionary turnover of mobile genetic elements drives bacterial resistance to phages. Science 2021, 374:488-492.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 153,
+    "page number" : 7,
+    "bounding box" : [ 60.945, 32.721, 558.946, 41.668 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 27,
+      "page number" : 7,
+      "bounding box" : [ 60.945, 32.721, 558.946, 41.668 ],
+      "heading level" : 5,
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "www.sciencedirect.com Current Opinion in Microbiology 2023, 74:102312"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 154,
+    "page number" : 8,
+    "bounding box" : [ 53.858, 749.607, 181.226, 759.151 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 37,
+      "page number" : 8,
+      "bounding box" : [ 53.858, 749.607, 181.226, 759.151 ],
+      "heading level" : 4,
+      "font" : "HelveticaNeueLTStd-Bd",
+      "font size" : 8.0,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "8 Evolution of anti-viral defense"
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 155,
+    "level" : "3",
+    "page number" : 8,
+    "bounding box" : [ 53.858, 539.643, 293.865, 707.411 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 5,
+    "previous list id" : 151,
+    "next list id" : 156,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 53.858, 674.599, 293.704, 707.411 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "53. Piel D, Bruto M, Labreuche Y, Blanquart F, Goudenège D, BarciaCruz R, Chenivesse S, Le Panse S, James A, Dubert J, et al.: Phage–host coevolution in natural populations. Nat Microbiol 2022, 7:1075-1086.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 53.858, 636.898, 293.865, 669.654 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "54. Owen SV, Wenner N, Dulberger CL, Rodwell EV, Bowers-Barnard A, Quinones-Olvera N, Rigden DJ, Rubin EJ, Garner EC, Baym M, et al.: Prophages encode phage-defense systems with cognate self-immunity. Cell Host Microbe 2021, 29:1620-1633.e8.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 53.858, 615.128, 293.864, 632.069 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "55. Wein T, Sorek R: Bacterial origins of human cell-autonomous innate immune mechanisms. Nat Rev Immunol 2022, 22:629-638.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 53.858, 577.37, 293.839, 610.126 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "56. Whiteley AT, Eaglesham JB, de Oliveira Mann CC, Morehouse BR, Lowey B, Nieminen EA, Danilchanka O, King DS, Lee ASY, Mekalanos JJ, et al.: Bacterial cGAS-like enzymes synthesize diverse nucleotide signals. Nature 2019, 567:194-199.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 53.858, 539.643, 293.843, 572.425 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "57. Cury J, Mordret E, Trejo VH, Tesson F, Ofir G, Poirier EZ, Bernheim A: Conservation of antiviral systems across domains of life reveals novel immune mechanisms in humans. bioRxiv 2022, https://doi.org/10.1101/2022.12.12.520048",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 156,
+    "level" : "3",
+    "page number" : 8,
+    "bounding box" : [ 311.867, 539.613, 551.88, 707.583 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 5,
+    "previous list id" : 155,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 311.867, 674.599, 551.816, 707.583 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "58. Grüschow S, Adamson CS, White MF: Specificity and sensitivity of an RNA targeting type III CRISPR complex coupled with a NucC endonuclease effector. Nucleic Acids Res 2021, 49:13122-13134.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 311.867, 628.904, 551.861, 669.654 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "59. Mayo-Muñoz D, Smith LM, Garcia-Doval C, Malone LM, Harding KR, Jackson SA, Hampton HG, Fagerlund RD, Gumy LF, Fineran PC: Type III CRISPR-Cas provides resistance against nucleusforming jumbo phages via abortive infection. Mol Cell 2022, 8:4471-4486.e9.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 311.867, 599.14, 531.999, 624.075 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "60. Millman A, Melamed S, Amitai G, Sorek R: Diversity and classification of cyclic-oligonucleotide-based anti-phage signalling systems. Nat Microbiol 2020, 5:1608-1615.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 311.867, 577.37, 551.88, 594.312 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "61. Myung H, Calendar R: The old exonuclease of bacteriophage P2. J Bacteriol 1995, 177:497-501.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 8,
+      "bounding box" : [ 311.867, 539.613, 551.876, 572.598 ],
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "62. Johnson CM, Harden MM, Grossman AD: Interactions between mobile genetic elements: An anti-phage gene in an integrative and conjugative element protects host cells from predation by a temperate bacteriophage. PLOS Genet 2022, 18:e1010065.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "footer",
+    "id" : 158,
+    "page number" : 8,
+    "bounding box" : [ 53.859, 32.721, 551.851, 41.668 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 28,
+      "page number" : 8,
+      "bounding box" : [ 53.859, 32.721, 551.851, 41.668 ],
+      "heading level" : 5,
+      "font" : "HelveticaNeueLTStd-Roman",
+      "font size" : 7.5,
+      "text color" : "[0.0, 0.0, 0.0]",
+      "content" : "Current Opinion in Microbiology 2023, 74:102312 www.sciencedirect.com"
+    } ]
+  } ]
+}

@@ -1,0 +1,4499 @@
+{
+  "file name" : "2022_Johnson.pdf",
+  "number of pages" : 5,
+  "author" : null,
+  "title" : "Bacterial gasdermins reveal an ancient mechanism of cell death",
+  "creation date" : "D:20220111160920+08'00'",
+  "modification date" : "D:20241211202244-08'00'",
+  "kids" : [ {
+    "type" : "caption",
+    "id" : 263,
+    "page number" : 1,
+    "bounding box" : [ 36.85, 726.912, 85.61, 735.655 ],
+    "linked content id" : 264,
+    "font" : "AdvTT82e34213.B",
+    "font size" : 7.372,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "RESEARCH"
+  }, {
+    "type" : "image",
+    "id" : 264,
+    "page number" : 1,
+    "bounding box" : [ 36.85, 715.35, 557.167, 727.71 ],
+    "source" : "2022_Johnson_images/imageFile1.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 249,
+    "page number" : 1,
+    "bounding box" : [ 36.85, 699.154, 101.295, 708.36 ],
+    "font" : "AdvTTf99636c8.B",
+    "font size" : 7.97,
+    "text color" : "[0.7686274647712708, 0.08235294371843338, 0.10980392247438431]",
+    "content" : "CELL BIOLOGY"
+  }, {
+    "type" : "paragraph",
+    "id" : 260,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 393.054, 646.591, 557.268, 708.306 ],
+    "font" : "AdvTTd7835f12",
+    "font size" : 8.668,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "(14). Palmitoylation contributes to stability of the inactive state protein (Fig. 1E), and modeling suggests substantial reorganization of residues along the hydrophobic tunnel during bGSDM activation (Fig. 1D and fig. S2, C and D) (6)."
+  }, {
+    "type" : "image",
+    "id" : 247,
+    "page number" : 1,
+    "bounding box" : [ 201.743, 40.568, 214.103, 706.685 ],
+    "source" : "2022_Johnson_images/imageFile2.png"
+  }, {
+    "type" : "image",
+    "id" : 248,
+    "page number" : 1,
+    "bounding box" : [ 379.826, 40.568, 392.186, 706.685 ],
+    "source" : "2022_Johnson_images/imageFile3.png"
+  }, {
+    "type" : "heading",
+    "id" : 250,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 36.85, 655.351, 284.314, 696.428 ],
+    "heading level" : 1,
+    "font" : "AdvOT17d99a6a.B",
+    "font size" : 17.933,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "Bacterial gasdermins reveal an ancient mechanism of cell death"
+  }, {
+    "type" : "paragraph",
+    "id" : 251,
+    "page number" : 1,
+    "bounding box" : [ 36.849, 625.819, 352.21, 646.511 ],
+    "font" : "AdvTT1ef22648.B",
+    "font size" : 7.97,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "Alex G. Johnson1,2†, Tanita Wein3†, Megan L. Mayer4, Brianna Duncan-Lowey1,2, Erez Yirmiya3, Yaara Oppenheimer-Shaanan3, Gil Amitai3, Rotem Sorek3*, Philip J. Kranzusch1,2,5*"
+  }, {
+    "type" : "paragraph",
+    "id" : 261,
+    "page number" : 1,
+    "bounding box" : [ 393.052, 280.471, 557.239, 645.547 ],
+    "font" : "AdvTTd7835f12",
+    "font size" : 8.668,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "The majority of bGSDMs (43 of 50) are genomically encoded next to one or more genes with a predicted protease domain (Fig. 2A; fig. S5, A to C; and table S1). In most cases, the associated proteases are caspase-like peptidases, including peptidase C14 (Pfam database ID PF00656) and CHAT (Pfam ID PF12770) proteases (Fig. 2B and fig. S5A). Fungal gasdermins are also commonly encoded next to protease domain–containing genes (40 of52) (tableS3 and fig. S5B) and are activated through proteolysis (13). bGSDMprotease systems are found in diverse bacteria and archaea, as well as in metagenomic samples of prokaryotic origin (fig. S5D and table S4). Analysis of the bGSDM-associated proteases revealed that they are fused to divergent repeat or NACHT domains frequently involved in pathogen recognition and inflammasome function in human innate immunity (Fig. 2B and fig. S5C) (15). bGSDM genes are occasionally encoded near known immune defense systems(Fig. 2A, fig.S7A, and tables S1 and S4), so we tested bGSDM systems for a role in antiphage defense. bGSDM systems evolutionarily distant from the model organism Escherichia coli exhibited no discernible phage restriction (fig. S6). However, a four-geneoperonfromLysobacterenzymogenes exhibitedrobust defenseagainstcoliphagesT4, T5, and T6 (Fig. 2, C and D, and fig. S6, B and C). Deletion of the bGSDM gene from the Lysobacter operon abolished protection (Fig. 2, C and D, and fig. S6C). Thus, the bGSDM is essential for defense."
+  }, {
+    "type" : "paragraph",
+    "id" : 252,
+    "page number" : 1,
+    "bounding box" : [ 36.85, 510.822, 379.016, 614.026 ],
+    "font" : "AdvTTb278f7d1",
+    "font size" : 7.97,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "Gasdermin proteins form large membrane pores in human cells that release immune cytokines and induce lytic cell death. Gasdermin pore formation is triggered by caspase-mediated cleavage during inflammasome signaling and is critical for defense against pathogens and cancer. We discovered gasdermin homologs encoded in bacteria that defended against phages and executed cell death. Structures of bacterial gasdermins revealed a conserved pore-forming domain that was stabilized in the inactive state with a buried lipid modification. Bacterial gasdermins were activated by dedicated caspase-like proteases that catalyzed site-specific cleavage and the removal of an inhibitory C-terminal peptide. Release of autoinhibition induced the assembly of large and heterogeneous pores that disrupted membrane integrity. Thus, pyroptosis is an ancient form of regulated cell death shared between bacteria and animals."
+  }, {
+    "type" : "paragraph",
+    "id" : 253,
+    "page number" : 1,
+    "bounding box" : [ 36.85, 427.52, 46.642, 495.431 ],
+    "font" : "AdvTTa86e0a63",
+    "font size" : 62.765,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "I"
+  }, {
+    "type" : "paragraph",
+    "id" : 254,
+    "page number" : 1,
+    "bounding box" : [ 50.797, 437.453, 201.013, 488.68 ],
+    "font" : "AdvTTd7835f12",
+    "font size" : 8.668,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "n mammals, gasdermin proteins execute pyroptotic cell death by oligomerizing into membrane pores that release inflammatory cytokines and induce cell lysis. The human genome encodes six gasdermin"
+  }, {
+    "type" : "paragraph",
+    "id" : 257,
+    "page number" : 1,
+    "bounding box" : [ 214.924, 437.45, 379.104, 488.676 ],
+    "font" : "AdvTTd7835f12",
+    "font size" : 8.668,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "NTD (fig. S2B and table S2), including the conservation of a twisted central antiparallel b sheet and the shared placement of connecting helices and strands throughout the periphery (Fig. 1, B and C)."
+  }, {
+    "type" : "paragraph",
+    "id" : 255,
+    "page number" : 1,
+    "bounding box" : [ 36.849, 270.037, 201.077, 436.352 ],
+    "font" : "AdvTTd7835f12",
+    "font size" : 8.668,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "proteins (GSDMA to GSDME and pejvakin), including the prototypical member GSDMD (1–3). Gasdermin activation requires caspaseor granzyme-mediated cleavage of an interdomain linker that liberates a lipophilic N-terminal domain (NTD) from a large inhibitoryC-terminal domain(CTD)(4–6).Proteolysis enables gasdermin NTD oligomerization and the formation of membrane pores important for innate immunity in mammals and primitive eukaryotes (7–9). Recent structural analyses have explained a mechanism of gasdermin pore formation (5, 6, 10, 11), but the evolutionary origin and biological roles of diverse gasdermin proteins remain unknown (12)."
+  }, {
+    "type" : "paragraph",
+    "id" : 258,
+    "page number" : 1,
+    "bounding box" : [ 214.923, 207.28, 379.126, 436.348 ],
+    "font" : "AdvTTd7835f12",
+    "font size" : 8.668,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "The structures revealed complete absence of the large a-helical CTD required to maintain mammalian gasdermins in an autoinhibited state (Fig. 1). Although lacking the CTD, the bGSDM structures adopted the same conformation as that of the inactive mammalian gasdermin complex (Fig. 1, B and C). In the inactive structure of mammalian GSDMA3, the NTD forms two interfaces with the CTD that mediate autoinhibition, with the primary interface at the a1 helix and the b1-b2 hairpin (Fig. 1C) (5, 11). Cleavage of GSDMA3 results in NTD activation through the lengthening of strands b3, b5, b7, and b9 and oligomerization of ~27 protomers into a membrane-spanning pore (2, 5, 6). Both the Bradyrhizobium and Vitiosangium bGSDM structures contained strands equivalent to GSDMA3 b1 to b2 and b6 to b9, but in bGSDMs, a short C-terminal peptide wrapped around the twisted b sheet core and terminated across strand b2 to stabilize the inactivated state (Fig. 1, B and C)."
+  }, {
+    "type" : "paragraph",
+    "id" : 262,
+    "page number" : 1,
+    "bounding box" : [ 393.052, 39.864, 557.262, 279.426 ],
+    "font" : "AdvTTd7835f12",
+    "font size" : 8.668,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "Expression of some of the bGSDM-protease systems in E. coli induced potent cellular toxicity in the absence of phage infection (Fig. 2, E and F; fig. S7, B and C; and table S5). Particularly strong toxicity was observed for a Runella system, which required bGSDM palmitoylation (Fig. 2E and fig. S7, B and C). Time-lapse microscopy in the presence of propidium iodide (PI) showed that cells expressing the Runella system ceased dividing and lost membrane integrity, which suggests that bGSDM activation induces membrane disruption (Fig. 2, E and F; fig. S7D; and movies S1 and S2). Mutation of the predicted Runella caspase-like protease active site residues H796 and C804 ablated all cellular toxicity(Fig.3A).The Runella bGSDM and protease only induced cellular toxicity when expressed together, which suggests that the protease targets bGSDM during system activation (Fig. 3A and fig. S8A). In fact, a mutationthatdisrupted the activesite ofthe second trypsin-like protease in the Lysobacter bGSDM system abolished antiphage defense (fig. S8B)."
+  }, {
+    "type" : "paragraph",
+    "id" : 256,
+    "page number" : 1,
+    "bounding box" : [ 36.85, 144.518, 201.036, 268.993 ],
+    "font" : "AdvTTd7835f12",
+    "font size" : 8.668,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "While analyzing bacterial antiphage defense islands, we identified uncharacterized genes with predicted homology to mammalian gasdermins (table S1). Sequence analysis revealed 50 bacterial gasdermins (bGSDMs) that form a clade distinct from that of eukaryotic homologs (Fig. 1A and fig. S1) (7, 9, 13). We determined crystal structures of bGSDMs from Bradyrhizobiumtropiciagriand Vitiosangium sp., which revealed that bGSDMs each adopt a shared overall architecture that exhibits notable homology to the mammalian gasdermin"
+  }, {
+    "type" : "paragraph",
+    "id" : 259,
+    "page number" : 1,
+    "bounding box" : [ 214.925, 39.921, 379.142, 206.235 ],
+    "font" : "AdvTTd7835f12",
+    "font size" : 8.668,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "While building the bGSDM atomic models, we observed a snakelike density protruding from the Bradyrhizobium cysteine C3 sidechain. The density occupies a hydrophobic tunnel across the protein that is capped by F25 from the C-terminal peptide. In the 1.5-Å Bradyrhizobium bGSDM electrondensity map, the density could be assigned as a 16-carbon palmitoyl thioester (Fig. 1D and fig. S2C). We confirmed bGSDM palmitoylation with mass spectrometry and found thata cysteine atthis position is conserved in gasdermins across most bacteria and some fungi (Fig. 1A and fig. S3, A and B). The presence of the palmitoyl in a hydrophobic cavity suggests that bGSDM palmitoylation occurs through autocatalysis"
+  }, {
+    "type" : "image",
+    "id" : 267,
+    "page number" : 1,
+    "bounding box" : [ 36.862, 131.237, 201.381, 143.597 ],
+    "source" : "2022_Johnson_images/imageFile4.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 268,
+    "page number" : 1,
+    "bounding box" : [ 36.85, 64.269, 199.826, 136.521 ],
+    "font" : "AdvTTec37d199",
+    "font size" : 6.725,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "1Department of Microbiology, Harvard Medical School, Boston, MA 02115, USA. 2Department of Cancer Immunology and Virology, Dana-Farber Cancer Institute, Boston, MA 02115, USA. 3Department of Molecular Genetics, Weizmann Institute of Science, Rehovot 76100, Israel. 4Harvard Center for Cryo-Electron Microscopy, Harvard Medical School, Boston, MA 02115, USA. 5Parker Institute for Cancer Immunotherapy, Dana-Farber Cancer Institute, Boston, MA 02115, USA."
+  }, {
+    "type" : "paragraph",
+    "id" : 269,
+    "level" : "2",
+    "page number" : 1,
+    "bounding box" : [ 36.85, 40.443, 200.242, 63.434 ],
+    "font" : "AdvTTb278f7d1",
+    "font size" : 6.227,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "*Corresponding author. Email: philip_kranzusch@dfci.harvard.edu (P.J.K.); rotem.sorek@weizmann.ac.il (R.S.) †These authors contributed equally to this work."
+  }, {
+    "type" : "paragraph",
+    "id" : 270,
+    "page number" : 1,
+    "bounding box" : [ 564.226, 231.466, 573.154, 524.53 ],
+    "font" : "Times-Roman",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Downloaded from https://www.science.org at University of Toronto on December 11, 2024"
+  }, {
+    "type" : "paragraph",
+    "id" : 265,
+    "page number" : 1,
+    "bounding box" : [ 36.85, 14.649, 557.144, 24.102 ],
+    "font" : "AdvTTd7835f12",
+    "font size" : 6.974,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "Johnson et al., Science 375, 221–225 (2022) 14 January 2022 1 of 5"
+  }, {
+    "type" : "header",
+    "id" : 271,
+    "page number" : 2,
+    "bounding box" : [ 36.85, 715.35, 557.167, 735.655 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 66,
+      "page number" : 2,
+      "bounding box" : [ 36.85, 726.912, 132.731, 735.655 ],
+      "heading level" : 5,
+      "font" : "AdvTT82e34213.B",
+      "font size" : 7.372,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "RESEARCH | REPORT"
+    }, {
+      "type" : "image",
+      "id" : 67,
+      "page number" : 2,
+      "bounding box" : [ 36.85, 715.35, 557.167, 727.71 ],
+      "source" : "2022_Johnson_images/imageFile5.png"
+    } ]
+  }, {
+    "type" : "heading",
+    "id" : 292,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 41.726, 695.198, 47.746, 707.868 ],
+    "heading level" : 2,
+    "font" : "BentonSansCondensed-Bold",
+    "font size" : 10.0,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "A"
+  }, {
+    "type" : "image",
+    "id" : 272,
+    "page number" : 2,
+    "bounding box" : [ 201.743, 40.568, 214.103, 706.685 ],
+    "source" : "2022_Johnson_images/imageFile6.png"
+  }, {
+    "type" : "image",
+    "id" : 273,
+    "page number" : 2,
+    "bounding box" : [ 379.826, 40.568, 392.186, 706.685 ],
+    "source" : "2022_Johnson_images/imageFile7.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 301,
+    "page number" : 2,
+    "bounding box" : [ 512.983, 658.012, 548.11, 703.062 ],
+    "font" : "Helvetica",
+    "font size" : 6.035,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "Prokaryotes Fungi Invertebrates Vertebrates"
+  }, {
+    "type" : "paragraph",
+    "id" : 356,
+    "page number" : 2,
+    "bounding box" : [ 76.529, 672.482, 80.16, 678.295 ],
+    "font" : "Helvetica",
+    "font size" : 5.029,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "C"
+  }, {
+    "type" : "paragraph",
+    "id" : 357,
+    "page number" : 2,
+    "bounding box" : [ 81.891, 666.291, 85.245, 672.104 ],
+    "font" : "Helvetica",
+    "font size" : 5.029,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "B"
+  }, {
+    "type" : "paragraph",
+    "id" : 359,
+    "page number" : 2,
+    "bounding box" : [ 115.501, 663.529, 118.855, 669.342 ],
+    "font" : "Helvetica",
+    "font size" : 5.029,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "E"
+  }, {
+    "type" : "paragraph",
+    "id" : 358,
+    "page number" : 2,
+    "bounding box" : [ 86.594, 659.706, 98.009, 665.52 ],
+    "font" : "Helvetica",
+    "font size" : 5.029,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "D A"
+  }, {
+    "type" : "paragraph",
+    "id" : 361,
+    "page number" : 2,
+    "bounding box" : [ 129.912, 656.874, 133.266, 662.687 ],
+    "font" : "Helvetica",
+    "font size" : 5.029,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "P"
+  }, {
+    "type" : "paragraph",
+    "id" : 304,
+    "page number" : 2,
+    "bounding box" : [ 45.464, 644.918, 74.78, 651.894 ],
+    "font" : "Helvetica",
+    "font size" : 6.035,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "N-term cys"
+  }, {
+    "type" : "table",
+    "id" : 296,
+    "level" : "5",
+    "page number" : 2,
+    "bounding box" : [ 90.61, 623.557, 95.638, 645.555 ],
+    "number of rows" : 5,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 91.113, 623.808, 94.683, 645.303 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 5,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 94.683, 640.527, 95.579, 645.303 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 94.683, 635.935, 95.579, 640.527 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 94.683, 631.342, 95.579, 635.935 ],
+        "row number" : 3,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 4,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 94.683, 626.748, 95.579, 631.342 ],
+        "row number" : 4,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 5,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 94.683, 623.808, 95.579, 626.748 ],
+        "row number" : 5,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 299,
+    "level" : "6",
+    "page number" : 2,
+    "bounding box" : [ 477.35, 637.507, 495.803, 644.483 ],
+    "font" : "Helvetica",
+    "font size" : 6.035,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "100 aa"
+  }, {
+    "type" : "paragraph",
+    "id" : 302,
+    "page number" : 2,
+    "bounding box" : [ 62.244, 624.133, 74.645, 643.729 ],
+    "font" : "Helvetica",
+    "font size" : 6.035,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "NTD CTD"
+  }, {
+    "type" : "paragraph",
+    "id" : 297,
+    "page number" : 2,
+    "bounding box" : [ 477.279, 624.389, 495.732, 631.365 ],
+    "font" : "Helvetica",
+    "font size" : 6.035,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "400 aa"
+  }, {
+    "type" : "image",
+    "id" : 278,
+    "page number" : 2,
+    "bounding box" : [ 46.794, 548.724, 147.825, 619.356 ],
+    "source" : "2022_Johnson_images/imageFile8.png"
+  }, {
+    "type" : "image",
+    "id" : 279,
+    "page number" : 2,
+    "bounding box" : [ 147.474, 443.364, 181.325, 619.356 ],
+    "source" : "2022_Johnson_images/imageFile9.png"
+  }, {
+    "type" : "heading",
+    "id" : 294,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 41.726, 595.964, 47.756, 608.634 ],
+    "heading level" : 2,
+    "font" : "BentonSansCondensed-Bold",
+    "font size" : 10.0,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "B"
+  }, {
+    "type" : "paragraph",
+    "id" : 328,
+    "page number" : 2,
+    "bounding box" : [ 402.143, 591.786, 485.42, 608.634 ],
+    "font" : "Helvetica-Oblique",
+    "font size" : 7.04,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "D Bradyrhizobium F"
+  }, {
+    "type" : "image",
+    "id" : 284,
+    "page number" : 2,
+    "bounding box" : [ 183.954, 542.964, 277.04, 605.376 ],
+    "source" : "2022_Johnson_images/imageFile10.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 329,
+    "page number" : 2,
+    "bounding box" : [ 485.421, 590.102, 530.897, 599.924 ],
+    "font" : "Helvetica",
+    "font size" : 7.04,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "O−FC omit map"
+  }, {
+    "type" : "image",
+    "id" : 282,
+    "page number" : 2,
+    "bounding box" : [ 293.034, 508.164, 389.476, 596.316 ],
+    "source" : "2022_Johnson_images/imageFile11.png"
+  }, {
+    "type" : "text block",
+    "id" : 288,
+    "page number" : 2,
+    "bounding box" : [ 408.866, 461.328, 552.409, 587.743 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 3,
+      "page number" : 2,
+      "bounding box" : [ 408.714, 492.924, 516.727, 587.856 ],
+      "source" : "2022_Johnson_images/imageFile12.png"
+    }, {
+      "type" : "image",
+      "id" : 4,
+      "page number" : 2,
+      "bounding box" : [ 516.294, 461.304, 552.545, 587.856 ],
+      "source" : "2022_Johnson_images/imageFile13.png"
+    }, {
+      "type" : "image",
+      "id" : 5,
+      "page number" : 2,
+      "bounding box" : [ 408.714, 461.304, 516.727, 493.236 ],
+      "source" : "2022_Johnson_images/imageFile14.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 6,
+      "page number" : 2,
+      "bounding box" : [ 419.847, 556.279, 433.268, 563.46 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.035,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "F211"
+    }, {
+      "type" : "paragraph",
+      "id" : 7,
+      "page number" : 2,
+      "bounding box" : [ 448.081, 537.72, 458.478, 544.901 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.035,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "L24"
+    }, {
+      "type" : "paragraph",
+      "id" : 8,
+      "page number" : 2,
+      "bounding box" : [ 487.35, 568.691, 501.103, 575.872 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.035,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "F253"
+    }, {
+      "type" : "paragraph",
+      "id" : 9,
+      "page number" : 2,
+      "bounding box" : [ 510.576, 562.663, 522.312, 569.844 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.035,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "M12"
+    }, {
+      "type" : "paragraph",
+      "id" : 10,
+      "page number" : 2,
+      "bounding box" : [ 534.501, 535.005, 542.213, 542.186 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.035,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "C3"
+    }, {
+      "type" : "paragraph",
+      "id" : 11,
+      "page number" : 2,
+      "bounding box" : [ 458.245, 571.908, 468.642, 579.089 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.035,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "L22"
+    }, {
+      "type" : "paragraph",
+      "id" : 12,
+      "page number" : 2,
+      "bounding box" : [ 456.103, 496.115, 466.838, 503.296 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.035,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "V90"
+    }, {
+      "type" : "paragraph",
+      "id" : 13,
+      "page number" : 2,
+      "bounding box" : [ 454.896, 470.094, 466.64, 477.275 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.035,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "I163"
+    }, {
+      "type" : "paragraph",
+      "id" : 14,
+      "page number" : 2,
+      "bounding box" : [ 486.143, 486.983, 499.564, 494.164 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.035,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "L115"
+    }, {
+      "type" : "paragraph",
+      "id" : 15,
+      "page number" : 2,
+      "bounding box" : [ 521.914, 500.95, 532.65, 508.131 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.035,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "V86"
+    }, {
+      "type" : "paragraph",
+      "id" : 16,
+      "page number" : 2,
+      "bounding box" : [ 425.236, 530.969, 435.971, 538.15 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.035,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "P26"
+    }, {
+      "type" : "paragraph",
+      "id" : 17,
+      "page number" : 2,
+      "bounding box" : [ 531.264, 481.295, 541.662, 488.476 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.035,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "L78"
+    }, {
+      "type" : "paragraph",
+      "id" : 18,
+      "page number" : 2,
+      "bounding box" : [ 430.585, 465.207, 440.982, 472.388 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.035,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "L91"
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 280,
+    "page number" : 2,
+    "bounding box" : [ 46.794, 478.464, 147.825, 549.036 ],
+    "source" : "2022_Johnson_images/imageFile15.png"
+  }, {
+    "type" : "image",
+    "id" : 285,
+    "page number" : 2,
+    "bounding box" : [ 183.954, 480.804, 277.04, 543.216 ],
+    "source" : "2022_Johnson_images/imageFile16.png"
+  }, {
+    "type" : "image",
+    "id" : 340,
+    "page number" : 2,
+    "bounding box" : [ 224.874, 534.204, 232.559, 541.836 ],
+    "source" : "2022_Johnson_images/imageFile17.png"
+  }, {
+    "type" : "image",
+    "id" : 339,
+    "page number" : 2,
+    "bounding box" : [ 225.174, 534.504, 232.369, 541.536 ],
+    "source" : "2022_Johnson_images/imageFile18.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 341,
+    "page number" : 2,
+    "bounding box" : [ 226.76, 535.032, 230.391, 541.016 ],
+    "font" : "Helvetica-Bold",
+    "font size" : 5.029,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "C"
+  }, {
+    "type" : "image",
+    "id" : 337,
+    "page number" : 2,
+    "bounding box" : [ 367.794, 528.564, 375.472, 536.076 ],
+    "source" : "2022_Johnson_images/imageFile19.png"
+  }, {
+    "type" : "image",
+    "id" : 336,
+    "page number" : 2,
+    "bounding box" : [ 368.094, 528.804, 375.298, 535.896 ],
+    "source" : "2022_Johnson_images/imageFile20.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 338,
+    "page number" : 2,
+    "bounding box" : [ 369.997, 529.442, 373.628, 535.426 ],
+    "font" : "Helvetica-Bold",
+    "font size" : 5.029,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "N"
+  }, {
+    "type" : "image",
+    "id" : 334,
+    "page number" : 2,
+    "bounding box" : [ 344.754, 517.644, 352.439, 525.216 ],
+    "source" : "2022_Johnson_images/imageFile21.png"
+  }, {
+    "type" : "image",
+    "id" : 333,
+    "page number" : 2,
+    "bounding box" : [ 345.054, 517.944, 352.258, 524.916 ],
+    "source" : "2022_Johnson_images/imageFile22.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 335,
+    "page number" : 2,
+    "bounding box" : [ 346.871, 518.32, 350.502, 524.304 ],
+    "font" : "Helvetica-Bold",
+    "font size" : 5.029,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "C"
+  }, {
+    "type" : "image",
+    "id" : 343,
+    "page number" : 2,
+    "bounding box" : [ 261.114, 512.484, 268.791, 520.116 ],
+    "source" : "2022_Johnson_images/imageFile23.png"
+  }, {
+    "type" : "image",
+    "id" : 342,
+    "page number" : 2,
+    "bounding box" : [ 261.294, 512.784, 268.497, 519.816 ],
+    "source" : "2022_Johnson_images/imageFile24.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 344,
+    "page number" : 2,
+    "bounding box" : [ 99.921, 503.546, 266.606, 519.079 ],
+    "font" : "Helvetica-Bold",
+    "font size" : 5.029,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "N N"
+  }, {
+    "type" : "paragraph",
+    "id" : 331,
+    "page number" : 2,
+    "bounding box" : [ 367.785, 510.383, 375.497, 517.564 ],
+    "font" : "Helvetica-Bold",
+    "font size" : 6.035,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "C4"
+  }, {
+    "type" : "paragraph",
+    "id" : 330,
+    "page number" : 2,
+    "bounding box" : [ 257.255, 504.192, 264.967, 511.373 ],
+    "font" : "Helvetica-Bold",
+    "font size" : 6.035,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "C3"
+  }, {
+    "type" : "image",
+    "id" : 346,
+    "page number" : 2,
+    "bounding box" : [ 98.034, 503.004, 105.711, 510.516 ],
+    "source" : "2022_Johnson_images/imageFile25.png"
+  }, {
+    "type" : "image",
+    "id" : 345,
+    "page number" : 2,
+    "bounding box" : [ 98.214, 503.184, 105.418, 510.276 ],
+    "source" : "2022_Johnson_images/imageFile26.png"
+  }, {
+    "type" : "image",
+    "id" : 283,
+    "page number" : 2,
+    "bounding box" : [ 293.034, 449.604, 389.476, 508.416 ],
+    "source" : "2022_Johnson_images/imageFile27.png"
+  }, {
+    "type" : "image",
+    "id" : 348,
+    "page number" : 2,
+    "bounding box" : [ 162.954, 494.424, 170.639, 502.056 ],
+    "source" : "2022_Johnson_images/imageFile28.png"
+  }, {
+    "type" : "image",
+    "id" : 347,
+    "page number" : 2,
+    "bounding box" : [ 163.254, 494.724, 170.449, 501.756 ],
+    "source" : "2022_Johnson_images/imageFile29.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 349,
+    "page number" : 2,
+    "bounding box" : [ 165.233, 495.258, 168.864, 501.242 ],
+    "font" : "Helvetica-Bold",
+    "font size" : 5.029,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "C"
+  }, {
+    "type" : "image",
+    "id" : 286,
+    "page number" : 2,
+    "bounding box" : [ 183.954, 449.724, 277.04, 481.056 ],
+    "source" : "2022_Johnson_images/imageFile30.png"
+  }, {
+    "type" : "image",
+    "id" : 281,
+    "page number" : 2,
+    "bounding box" : [ 46.794, 443.364, 147.825, 478.716 ],
+    "source" : "2022_Johnson_images/imageFile31.png"
+  }, {
+    "type" : "heading",
+    "id" : 325,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 41.726, 435.214, 258.785, 451.398 ],
+    "heading level" : 3,
+    "font" : "Helvetica-Oblique",
+    "font size" : 7.04,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "C BradyrhizobiumbGSDM"
+  }, {
+    "type" : "paragraph",
+    "id" : 293,
+    "page number" : 2,
+    "bounding box" : [ 323.886, 435.214, 364.184, 451.398 ],
+    "font" : "Helvetica-Oblique",
+    "font size" : 7.04,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "Vitiosangium bGSDM"
+  }, {
+    "type" : "paragraph",
+    "id" : 295,
+    "page number" : 2,
+    "bounding box" : [ 76.387, 435.212, 106.118, 451.396 ],
+    "font" : "Helvetica",
+    "font size" : 7.04,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "mouse GSDMA3"
+  }, {
+    "type" : "paragraph",
+    "id" : 306,
+    "page number" : 2,
+    "bounding box" : [ 402.642, 437.841, 407.902, 450.511 ],
+    "font" : "BentonSansCondensed-Bold",
+    "font size" : 10.0,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "E"
+  }, {
+    "type" : "paragraph",
+    "id" : 320,
+    "page number" : 2,
+    "bounding box" : [ 451.43, 426.926, 548.767, 445.423 ],
+    "font" : "Helvetica",
+    "font size" : 6.035,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "hydroxylamine + hydroxylamine N-term cys"
+  }, {
+    "type" : "paragraph",
+    "id" : 316,
+    "page number" : 2,
+    "bounding box" : [ 428.697, 429.471, 435.407, 436.447 ],
+    "font" : "Helvetica",
+    "font size" : 6.035,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "70"
+  }, {
+    "type" : "paragraph",
+    "id" : 369,
+    "page number" : 2,
+    "bounding box" : [ 98.326, 414.114, 129.725, 421.885 ],
+    "font" : "Helvetica",
+    "font size" : 5.029,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "β10 β11"
+  }, {
+    "type" : "paragraph",
+    "id" : 386,
+    "page number" : 2,
+    "bounding box" : [ 250.502, 413.975, 289.412, 420.951 ],
+    "font" : "Helvetica-Oblique",
+    "font size" : 6.035,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "autoinhibition?"
+  }, {
+    "type" : "paragraph",
+    "id" : 366,
+    "page number" : 2,
+    "bounding box" : [ 78.43, 414.113, 84.399, 420.298 ],
+    "font" : "Symbol",
+    "font size" : 5.029,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "α3"
+  }, {
+    "type" : "paragraph",
+    "id" : 315,
+    "page number" : 2,
+    "bounding box" : [ 428.697, 411.373, 435.407, 418.349 ],
+    "font" : "Helvetica",
+    "font size" : 6.035,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "60"
+  }, {
+    "type" : "paragraph",
+    "id" : 318,
+    "page number" : 2,
+    "bounding box" : [ 417.376, 386.984, 427.198, 408.621 ],
+    "font" : "Helvetica",
+    "font size" : 7.04,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "T(°C)m"
+  }, {
+    "type" : "paragraph",
+    "id" : 324,
+    "page number" : 2,
+    "bounding box" : [ 502.859, 398.885, 540.562, 405.861 ],
+    "font" : "Helvetica",
+    "font size" : 6.035,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "no N-term cys"
+  }, {
+    "type" : "table",
+    "id" : 289,
+    "level" : "3",
+    "page number" : 2,
+    "bounding box" : [ 104.129, 362.544, 111.27, 403.05 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 104.506, 367.869, 110.892, 402.775 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 1,
+          "page number" : 2,
+          "bounding box" : [ 104.92, 381.107, 110.476, 387.292 ],
+          "font" : "Helvetica",
+          "font size" : 5.029,
+          "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+          "content" : "β9"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 104.506, 362.669, 107.699, 367.869 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 107.699, 362.669, 110.892, 367.869 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 314,
+    "page number" : 2,
+    "bounding box" : [ 428.697, 393.276, 435.407, 400.252 ],
+    "font" : "Helvetica",
+    "font size" : 6.035,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "50"
+  }, {
+    "type" : "list",
+    "id" : 363,
+    "level" : "9",
+    "page number" : 2,
+    "bounding box" : [ 72.051, 363.021, 88.672, 399.833 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 72.052, 393.648, 88.672, 399.833 ],
+      "font" : "Symbol",
+      "font size" : 5.029,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "β2 β1",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 72.051, 363.021, 77.607, 369.206 ],
+      "font" : "Symbol",
+      "font size" : 5.029,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "β3",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 383,
+    "page number" : 2,
+    "bounding box" : [ 195.388, 391.762, 322.191, 398.43 ],
+    "font" : "Helvetica-Bold",
+    "font size" : 5.029,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "C C"
+  }, {
+    "type" : "table",
+    "id" : 370,
+    "level" : "10",
+    "page number" : 2,
+    "bounding box" : [ 319.222, 374.138, 364.845, 398.41 ],
+    "number of rows" : 3,
+    "number of columns" : 6,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 319.474, 391.822, 323.587, 397.969 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 2,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 2,
+          "page number" : 2,
+          "bounding box" : [ 318.561, 391.762, 322.191, 397.747 ],
+          "font" : "Helvetica-Bold",
+          "font size" : 5.029,
+          "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+          "content" : "C"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 323.587, 394.557, 328.296, 397.969 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 328.296, 394.557, 334.934, 397.969 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 334.934, 394.557, 339.27, 397.969 ],
+        "row number" : 1,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 339.27, 394.557, 346.969, 397.969 ],
+        "row number" : 1,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 346.969, 374.515, 364.535, 397.969 ],
+        "row number" : 1,
+        "column number" : 6,
+        "row span" : 3,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 323.587, 391.822, 328.296, 394.557 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 328.296, 391.822, 334.934, 394.557 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 334.934, 391.822, 339.27, 394.557 ],
+        "row number" : 2,
+        "column number" : 4,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 339.27, 391.822, 346.969, 394.557 ],
+        "row number" : 2,
+        "column number" : 5,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 319.474, 374.515, 346.969, 391.822 ],
+        "row number" : 3,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 5,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 365,
+    "page number" : 2,
+    "bounding box" : [ 60.393, 388.948, 66.361, 395.133 ],
+    "font" : "Symbol",
+    "font size" : 5.029,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "α2"
+  }, {
+    "type" : "heading",
+    "id" : 367,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 94.018, 381.106, 99.574, 387.291 ],
+    "heading level" : 9,
+    "font" : "Helvetica",
+    "font size" : 5.029,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "β6"
+  }, {
+    "type" : "table",
+    "id" : 378,
+    "level" : "16",
+    "page number" : 2,
+    "bounding box" : [ 272.824, 370.589, 277.745, 384.48 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 272.95, 370.777, 274.924, 384.291 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 2,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 274.924, 373.36, 277.62, 384.291 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 274.924, 370.777, 277.62, 373.36 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 373,
+    "level" : "13",
+    "page number" : 2,
+    "bounding box" : [ 392.602, 369.906, 398.906, 383.544 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 392.727, 370.094, 396.45, 383.356 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 2,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 396.45, 372.678, 398.781, 383.356 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 396.45, 370.094, 398.781, 372.678 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 313,
+    "page number" : 2,
+    "bounding box" : [ 428.697, 375.179, 435.407, 382.155 ],
+    "font" : "Helvetica",
+    "font size" : 6.035,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "40"
+  }, {
+    "type" : "paragraph",
+    "id" : 351,
+    "page number" : 2,
+    "bounding box" : [ 139.298, 373.677, 149.631, 379.662 ],
+    "font" : "Helvetica-Bold",
+    "font size" : 5.029,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "CTD"
+  }, {
+    "type" : "table",
+    "id" : 353,
+    "level" : "8",
+    "page number" : 2,
+    "bounding box" : [ 82.325, 348.346, 89.466, 378.874 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 82.702, 352.871, 89.088, 378.622 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 20,
+          "page number" : 2,
+          "bounding box" : [ 83.116, 363.022, 88.672, 369.207 ],
+          "font" : "Helvetica",
+          "font size" : 5.029,
+          "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+          "content" : "β5"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 82.702, 348.472, 85.895, 352.871 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 85.895, 348.472, 89.088, 352.871 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 381,
+    "page number" : 2,
+    "bounding box" : [ 278.392, 370.629, 282.022, 376.614 ],
+    "font" : "Helvetica-Bold",
+    "font size" : 5.029,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "N"
+  }, {
+    "type" : "paragraph",
+    "id" : 376,
+    "page number" : 2,
+    "bounding box" : [ 399.553, 369.948, 403.184, 375.932 ],
+    "font" : "Helvetica-Bold",
+    "font size" : 5.029,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "N"
+  }, {
+    "type" : "table",
+    "id" : 374,
+    "level" : "14",
+    "page number" : 2,
+    "bounding box" : [ 327.986, 363.924, 335.127, 375.221 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 328.363, 368.53, 334.749, 374.97 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 328.363, 364.05, 331.632, 368.53 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 331.632, 364.05, 334.749, 368.53 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 362,
+    "page number" : 2,
+    "bounding box" : [ 125.884, 368.796, 131.852, 374.981 ],
+    "font" : "Symbol",
+    "font size" : 5.029,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "α1"
+  }, {
+    "type" : "table",
+    "id" : 377,
+    "level" : "15",
+    "page number" : 2,
+    "bounding box" : [ 215.846, 344.685, 222.987, 368.444 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 216.223, 361.863, 219.416, 368.319 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 219.416, 361.863, 222.609, 368.319 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 216.223, 344.937, 222.609, 361.863 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 371,
+    "level" : "11",
+    "page number" : 2,
+    "bounding box" : [ 339.17, 344.298, 346.311, 367.761 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 339.547, 361.484, 342.589, 367.636 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 342.589, 361.484, 345.933, 367.636 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 339.547, 344.55, 345.933, 361.484 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 312,
+    "page number" : 2,
+    "bounding box" : [ 428.697, 357.082, 435.407, 364.058 ],
+    "font" : "Helvetica",
+    "font size" : 6.035,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "30"
+  }, {
+    "type" : "table",
+    "id" : 372,
+    "level" : "12",
+    "page number" : 2,
+    "bounding box" : [ 306.765, 347.069, 323.931, 363.146 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 306.953, 357.004, 310.271, 362.994 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 310.271, 357.004, 319.785, 362.994 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 306.953, 347.195, 319.785, 357.004 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "table",
+    "id" : 379,
+    "level" : "17",
+    "page number" : 2,
+    "bounding box" : [ 226.549, 343.131, 241.074, 360.941 ],
+    "number of rows" : 2,
+    "number of columns" : 3,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 226.926, 348.393, 233.313, 360.689 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 233.313, 343.319, 240.946, 360.689 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 3,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 226.926, 343.319, 230.12, 348.393 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 230.12, 343.319, 240.946, 348.393 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 308,
+    "page number" : 2,
+    "bounding box" : [ 416.784, 323.984, 469.372, 358.556 ],
+    "font" : "Helvetica-Oblique",
+    "font size" : 6.035,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "BradyrhizobiumVitiosangium"
+  }, {
+    "type" : "paragraph",
+    "id" : 310,
+    "page number" : 2,
+    "bounding box" : [ 490.857, 328.104, 543.394, 358.178 ],
+    "font" : "Helvetica-Oblique",
+    "font size" : 6.035,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "(C3A)GillisiaRhodoplanes"
+  }, {
+    "type" : "paragraph",
+    "id" : 309,
+    "page number" : 2,
+    "bounding box" : [ 459.28, 325.963, 495.791, 357.553 ],
+    "font" : "Helvetica-Oblique",
+    "font size" : 6.035,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "Runella (WT) Runella"
+  }, {
+    "type" : "table",
+    "id" : 352,
+    "level" : "7",
+    "page number" : 2,
+    "bounding box" : [ 93.299, 338.868, 100.44, 355.184 ],
+    "number of rows" : 2,
+    "number of columns" : 2,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 93.676, 350.507, 96.797, 355.059 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 96.797, 350.507, 100.062, 355.059 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 93.676, 339.12, 100.062, 350.507 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 21,
+          "page number" : 2,
+          "bounding box" : [ 94.018, 341.049, 99.574, 347.234 ],
+          "font" : "Helvetica",
+          "font size" : 5.029,
+          "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+          "content" : "β7"
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 355,
+    "page number" : 2,
+    "bounding box" : [ 126.852, 348.113, 130.482, 354.097 ],
+    "font" : "Helvetica-Bold",
+    "font size" : 5.029,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "N"
+  }, {
+    "type" : "table",
+    "id" : 290,
+    "level" : "4",
+    "page number" : 2,
+    "bounding box" : [ 104.129, 334.062, 121.351, 350.403 ],
+    "number of rows" : 2,
+    "number of columns" : 3,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 104.506, 338.746, 110.892, 350.152 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ {
+          "type" : "paragraph",
+          "id" : 19,
+          "page number" : 2,
+          "bounding box" : [ 104.92, 341.331, 110.475, 347.516 ],
+          "font" : "Helvetica",
+          "font size" : 5.029,
+          "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+          "content" : "β8"
+        } ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 110.892, 334.196, 121.226, 350.152 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 2,
+        "column span" : 1,
+        "kids" : [ ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 104.506, 334.196, 107.644, 338.746 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ ]
+      }, {
+        "type" : "table cell",
+        "page number" : 2,
+        "bounding box" : [ 107.644, 334.196, 121.226, 338.746 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 2,
+        "kids" : [ ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 364,
+    "page number" : 2,
+    "bounding box" : [ 83.116, 336.922, 88.672, 343.107 ],
+    "font" : "Helvetica",
+    "font size" : 5.029,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "β4"
+  }, {
+    "type" : "paragraph",
+    "id" : 368,
+    "page number" : 2,
+    "bounding box" : [ 118.77, 324.698, 124.738, 330.882 ],
+    "font" : "Symbol",
+    "font size" : 5.029,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "α4"
+  }, {
+    "type" : "list",
+    "id" : 387,
+    "level" : "18",
+    "page number" : 2,
+    "bounding box" : [ 36.85, 184.044, 291.046, 308.247 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "next list id" : 394,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 2,
+      "bounding box" : [ 36.85, 184.044, 291.046, 308.247 ],
+      "font" : "AdvTT1ef22648.B",
+      "font size" : 7.97,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "Fig. 1. Structures of bGSDMs reveal homology with mammalian cell death effectors. (A) Gasdermin phylogenetic tree. The sizes of the gasdermin NTDs and CTDs are depicted. Vertebrate gasdermins are labeled with single letters (“A” to “E”) indicating human gasdermins GSDMA to GSDME, and “P” depicts pejvakin. The black teardrop indicates a conserved N-terminal cysteine (N-term cys). A representative set of 20 fungal gasdermins are included in the tree. aa, amino acid. (B) Crystal structures of bGSDMs from species of the genera Bradyrhizobium and Vitiosangium. bGSDM structures reveal homology to the NTD of mammalian gasdermins in an inactive conformation, including mouse GSDMA3 (Protein Data Bank ID 5B5R). (C) Gasdermin topology diagrams indicate a conserved central core of the bacterial and mammalian NTD. bGSDMs notably lack the CTD required",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 388,
+    "page number" : 2,
+    "bounding box" : [ 302.966, 184.043, 553.965, 308.17 ],
+    "font" : "AdvTTec37d199",
+    "font size" : 7.97,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "for autoinhibition of mammalian gasdermins and instead encode a short C-terminal peptide. (D) Simulated annealing FO−FC omit map (contoured at 3.0 s) from the Bradyrhizobium bGSDM fit with a palmitoyl modification at C3. Omit map is shown as green mesh, and select residues forming a hydrophobic pocket around the palmitoyl group are indicated. (E) Melting temperatures (Tm) of bGSDMs with and without N-terminal cysteines, as determined with thermofluor assays. Data are the means and standard deviations of three technical replicates and are representative of three independent experiments. WT, wild-type. Single-letter abbreviations for the amino acid residues are as follows: A, Ala; C, Cys; D, Asp; E, Glu; F, Phe; G, Gly; H, His; I, Ile; K, Lys; L, Leu; M, Met; N, Asn; P, Pro; Q, Gln; R, Arg; S, Ser; T, Thr; V, Val; W, Trp; and Y, Tyr."
+  }, {
+    "type" : "paragraph",
+    "id" : 274,
+    "page number" : 2,
+    "bounding box" : [ 36.849, 39.865, 201.014, 143.42 ],
+    "font" : "AdvTTd7835f12",
+    "font size" : 8.668,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "We focused on the Runella system and reconstituted cleavage with purified components(Fig.3B and fig. S8,Ato F). Coincubation with the protease resulted in specific bGSDM cleavage and formation of a lower–molecular weight Runella bGSDM species (fig. S8A). Cleavage requires the protease catalytic residues but not bGSDM palmitoylation (Fig. 3B and fig. S8, D and E). Using mass spectrometry, we determined that the Runella"
+  }, {
+    "type" : "paragraph",
+    "id" : 275,
+    "page number" : 2,
+    "bounding box" : [ 214.921, 39.864, 379.105, 143.419 ],
+    "font" : "AdvTTd7835f12",
+    "font size" : 8.668,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "bGSDM cleavage site occurs after the P1 residue L247 (fig. S9, A and B). A 2.9-Å structure of the Runella bGSDM (table S2) revealed that cleavage occurs in a loop that immediately precedes the C-terminal peptide (Fig. 3, C and D). Packing in the Runella bGSDM crystal lattice additionally indicates an ability of the peptide to dissociate from the bGSDM face, which supports release after cleavage (fig. S10A)."
+  }, {
+    "type" : "paragraph",
+    "id" : 276,
+    "page number" : 2,
+    "bounding box" : [ 393.051, 39.864, 557.182, 143.419 ],
+    "font" : "AdvTTd7835f12",
+    "font size" : 8.668,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "Analysisofthehigh-resolutionBradyrhizobium bGSDM structure explains how the C-terminal peptide restrains the bGSDM core (Fig. 3E). Bradyrhizobium bGSDM F245 and F247 lay along the surface formed between the mammalian b9 strand and the a1 helix equivalent positions and are further supported with contacts between N21 and the peptide backbone. A Bradyrhizobium-specific b strand from N21 to L24 extends off the b9 strand equivalent"
+  }, {
+    "type" : "paragraph",
+    "id" : 389,
+    "page number" : 2,
+    "bounding box" : [ 564.226, 231.466, 573.154, 524.53 ],
+    "font" : "Times-Roman",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Downloaded from https://www.science.org at University of Toronto on December 11, 2024"
+  }, {
+    "type" : "footer",
+    "id" : 390,
+    "page number" : 2,
+    "bounding box" : [ 36.85, 14.649, 557.145, 24.102 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 62,
+      "page number" : 2,
+      "bounding box" : [ 36.85, 14.649, 557.145, 24.102 ],
+      "heading level" : 4,
+      "font" : "AdvTTd7835f12",
+      "font size" : 6.974,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "Johnson et al., Science 375, 221 225 (2022) 14 January 2022 2 of 5"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 391,
+    "page number" : 3,
+    "bounding box" : [ 36.85, 715.35, 557.167, 735.655 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 68,
+      "page number" : 3,
+      "bounding box" : [ 36.85, 726.912, 132.731, 735.655 ],
+      "heading level" : 5,
+      "font" : "AdvTT82e34213.B",
+      "font size" : 7.372,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "RESEARCH | REPORT"
+    }, {
+      "type" : "image",
+      "id" : 69,
+      "page number" : 3,
+      "bounding box" : [ 36.85, 715.35, 557.167, 727.71 ],
+      "source" : "2022_Johnson_images/imageFile32.png"
+    } ]
+  }, {
+    "type" : "list",
+    "id" : 394,
+    "level" : "18",
+    "page number" : 3,
+    "bounding box" : [ 36.85, 186.539, 196.069, 707.195 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "previous list id" : 387,
+    "next list id" : 526,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 36.85, 687.558, 193.533, 707.195 ],
+      "font" : "AdvTT1ef22648.B",
+      "font size" : 7.97,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "Fig. 2. bGSDMs are associated with proteases, defend from phages, and execute cell death.",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 116,
+        "level" : "19",
+        "page number" : 3,
+        "bounding box" : [ 36.85, 415.694, 206.726, 686.275 ],
+        "numbering style" : "english letters",
+        "number of list items" : 2,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 36.85, 635.319, 206.652, 686.275 ],
+          "font" : "AdvTTec37d199",
+          "font size" : 7.97,
+          "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+          "content" : "(A) Representative instances of bGSDMs and associated proteases in their genomic neighborhoods. Genes known to be involved in antiphage defense are shown in yellow. TA, toxin-antitoxin; Abi, abortive infection; ATPase, adenosine triphosphatase.",
+          "kids" : [ ]
+        }, {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 36.85, 415.694, 206.726, 634.005 ],
+          "font" : "AdvTTec37d199",
+          "font size" : 7.97,
+          "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+          "content" : "(B) Types of proteases found adjacent to bGSDMs (n = 59). Some bGSDMs appear with more than one adjacent protease. Caspase-like proteases include peptidase C14 (n = 15) and CHAT (n = 23). Cases in which the protease gene also encodes an additional domain are indicated. TPR, tetratricopeptide repeat; LRR, leucine-rich repeat. (C) A bGSDM-containing operon protects against phages. The efficiency of plating of phages on E. coli MG1655 cells expressing the Lysobacter bGSDM WT or mutated operon is shown. Data represent plaque-forming units (PFU) per milliliter and are the averages of three independent replicates, with individual data points overlaid. GFP represents a control strain. Statistical significance was determined by a one-way analysis of variance (ANOVA) and Tukey multiple comparison test. Not significant (n.s.) ≥ 0.05; **P = 0.001 to 0.01. (D) Growth of liquid cultures of E. coli expressing the WT and mutated Lysobacter bGSDM operons. Cells were infected with phage T6. For each experiment, data represent one out of three biological",
+          "kids" : [ ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "id" : 117,
+        "page number" : 3,
+        "bounding box" : [ 36.85, 352.875, 557.136, 414.244 ],
+        "font" : "AdvTTec37d199",
+        "font size" : 7.97,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "replicates (replicates are shown in fig. S6). OD600, optical density at 600 nm. (E) The Runella bGSDM operon causes cell death. E. coli DH5a cells expressing the Runella protease and WT or C3A-mutated bGSDM were examined by time-lapse microscopy. Overlay images from PI (red) and phase contrast of cells captured at the start of the experiment and after 120 min of incubation are shown. Scale bar, 2 mm. (F) bGSDM operons are toxic. Cells encoding protease and WT or mutated bGDSM were plated in 10-fold serial dilution on LB-agar in conditions that repress operon expression (1% glucose) or induce expression (0.2% arabinose)."
+      }, {
+        "type" : "paragraph",
+        "id" : 119,
+        "page number" : 3,
+        "bounding box" : [ 350.594, 624.58, 514.453, 631.661 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.3450980484485626, 0.3490196168422699, 0.35686275362968445]",
+        "content" : "110k 120k 130k"
+      }, {
+        "type" : "paragraph",
+        "id" : 123,
+        "page number" : 3,
+        "bounding box" : [ 340.785, 677.351, 350.712, 684.506 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.3450980484485626, 0.3490196168422699, 0.35686275362968445]",
+        "content" : "20k"
+      }, {
+        "type" : "paragraph",
+        "id" : 124,
+        "page number" : 3,
+        "bounding box" : [ 416.572, 677.377, 499.7, 684.459 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.3450980484485626, 0.3490196168422699, 0.35686275362968445]",
+        "content" : "10k 1k"
+      }, {
+        "type" : "paragraph",
+        "id" : 127,
+        "page number" : 3,
+        "bounding box" : [ 322.822, 648.914, 482.986, 655.995 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.3450980484485626, 0.3490196168422699, 0.35686275362968445]",
+        "content" : "5k 15k 25k"
+      }, {
+        "type" : "paragraph",
+        "id" : 131,
+        "page number" : 3,
+        "bounding box" : [ 226.495, 632.646, 262.152, 645.852 ],
+        "font" : "Helvetica-Oblique",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "Runella zeae DSM 19591"
+      }, {
+        "type" : "paragraph",
+        "id" : 132,
+        "page number" : 3,
+        "bounding box" : [ 226.495, 626.751, 273.021, 632.652 ],
+        "font" : "Helvetica",
+        "font size" : 5.104,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "G563DRAFT_02010"
+      }, {
+        "type" : "paragraph",
+        "id" : 133,
+        "page number" : 3,
+        "bounding box" : [ 226.495, 685.704, 297.171, 698.91 ],
+        "font" : "Helvetica-Oblique",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "Bradyrhizobium tropiciagri SEMIA 6148"
+      }, {
+        "type" : "paragraph",
+        "id" : 134,
+        "page number" : 3,
+        "bounding box" : [ 226.495, 679.809, 273.037, 685.709 ],
+        "font" : "Helvetica",
+        "font size" : 5.104,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "Ga0098714_109513"
+      }, {
+        "type" : "paragraph",
+        "id" : 135,
+        "page number" : 3,
+        "bounding box" : [ 226.494, 657.838, 282.663, 671.044 ],
+        "font" : "Helvetica-Oblique",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "Desulfuromonadales Unclassified Bin 1"
+      }, {
+        "type" : "paragraph",
+        "id" : 136,
+        "page number" : 3,
+        "bounding box" : [ 226.494, 651.943, 273.036, 657.843 ],
+        "font" : "Helvetica",
+        "font size" : 5.104,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "Ga0182885_104519"
+      }, {
+        "type" : "list",
+        "id" : 138,
+        "level" : "20",
+        "page number" : 3,
+        "bounding box" : [ 218.62, 582.208, 443.583, 707.875 ],
+        "numbering style" : "english letters",
+        "number of list items" : 2,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 218.62, 695.205, 224.64, 707.875 ],
+          "font" : "BentonSansCondensed-Bold",
+          "font size" : 10.0,
+          "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+          "content" : "A",
+          "kids" : [ {
+            "type" : "paragraph",
+            "id" : 83,
+            "page number" : 3,
+            "bounding box" : [ 332.485, 670.257, 383.882, 677.338 ],
+            "font" : "Helvetica",
+            "font size" : 6.125,
+            "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+            "content" : "CRISPR-cas type I"
+          }, {
+            "type" : "paragraph",
+            "id" : 84,
+            "page number" : 3,
+            "bounding box" : [ 315.521, 697.92, 456.691, 705.001 ],
+            "font" : "Helvetica",
+            "font size" : 6.125,
+            "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+            "content" : "Transposase Abi bGSDM"
+          }, {
+            "type" : "paragraph",
+            "id" : 85,
+            "page number" : 3,
+            "bounding box" : [ 411.143, 644.609, 446.42, 651.69 ],
+            "font" : "Helvetica",
+            "font size" : 6.125,
+            "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+            "content" : "Caspase-like"
+          }, {
+            "type" : "paragraph",
+            "id" : 86,
+            "page number" : 3,
+            "bounding box" : [ 401.487, 697.918, 432.121, 704.999 ],
+            "font" : "Helvetica",
+            "font size" : 6.125,
+            "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+            "content" : "Trypsin-like"
+          }, {
+            "type" : "paragraph",
+            "id" : 87,
+            "page number" : 3,
+            "bounding box" : [ 430.118, 670.176, 465.395, 677.257 ],
+            "font" : "Helvetica",
+            "font size" : 6.125,
+            "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+            "content" : "Caspase-like"
+          }, {
+            "type" : "paragraph",
+            "id" : 88,
+            "page number" : 3,
+            "bounding box" : [ 390.623, 697.919, 543.847, 705.0 ],
+            "font" : "Helvetica",
+            "font size" : 6.125,
+            "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+            "content" : "TA Abi"
+          }, {
+            "type" : "image",
+            "id" : 90,
+            "page number" : 3,
+            "bounding box" : [ 398.034, 415.344, 475.506, 423.756 ],
+            "source" : "2022_Johnson_images/imageFile33.png"
+          }, {
+            "type" : "image",
+            "id" : 91,
+            "page number" : 3,
+            "bounding box" : [ 477.174, 415.344, 554.743, 423.756 ],
+            "source" : "2022_Johnson_images/imageFile34.png"
+          }, {
+            "type" : "image",
+            "id" : 92,
+            "page number" : 3,
+            "bounding box" : [ 398.034, 424.344, 475.506, 432.816 ],
+            "source" : "2022_Johnson_images/imageFile35.png"
+          }, {
+            "type" : "image",
+            "id" : 93,
+            "page number" : 3,
+            "bounding box" : [ 477.174, 424.404, 554.709, 432.756 ],
+            "source" : "2022_Johnson_images/imageFile36.png"
+          }, {
+            "type" : "paragraph",
+            "id" : 94,
+            "page number" : 3,
+            "bounding box" : [ 372.682, 415.654, 393.447, 422.735 ],
+            "font" : "Helvetica-Oblique",
+            "font size" : 6.125,
+            "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+            "content" : "Runella"
+          }, {
+            "type" : "paragraph",
+            "id" : 95,
+            "page number" : 3,
+            "bounding box" : [ 340.807, 424.944, 396.976, 432.025 ],
+            "font" : "Helvetica-Oblique",
+            "font size" : 6.125,
+            "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+            "content" : "Desulfuromonadales"
+          }, {
+            "type" : "paragraph",
+            "id" : 96,
+            "page number" : 3,
+            "bounding box" : [ 420.369, 398.626, 539.23, 405.708 ],
+            "font" : "Helvetica",
+            "font size" : 6.125,
+            "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+            "content" : "1% glucose 0.2% arabinose"
+          }, {
+            "type" : "image",
+            "id" : 97,
+            "page number" : 3,
+            "bounding box" : [ 477.174, 406.344, 554.646, 414.756 ],
+            "source" : "2022_Johnson_images/imageFile37.png"
+          }, {
+            "type" : "image",
+            "id" : 98,
+            "page number" : 3,
+            "bounding box" : [ 398.034, 406.344, 475.521, 414.696 ],
+            "source" : "2022_Johnson_images/imageFile38.png"
+          }, {
+            "type" : "paragraph",
+            "id" : 99,
+            "page number" : 3,
+            "bounding box" : [ 356.754, 407.281, 395.214, 414.362 ],
+            "font" : "Helvetica-Oblique",
+            "font size" : 6.125,
+            "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+            "content" : "Runella (C3A)"
+          }, {
+            "type" : "image",
+            "id" : 100,
+            "page number" : 3,
+            "bounding box" : [ 397.734, 433.404, 475.746, 441.816 ],
+            "source" : "2022_Johnson_images/imageFile39.png"
+          }, {
+            "type" : "paragraph",
+            "id" : 101,
+            "page number" : 3,
+            "bounding box" : [ 353.076, 434.234, 395.471, 441.315 ],
+            "font" : "Helvetica-Oblique",
+            "font size" : 6.125,
+            "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+            "content" : "Bradyrhizobium"
+          }, {
+            "type" : "paragraph",
+            "id" : 102,
+            "page number" : 3,
+            "bounding box" : [ 328.161, 581.186, 334.211, 593.856 ],
+            "font" : "BentonSansCondensed-Bold",
+            "font size" : 10.0,
+            "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+            "content" : "C"
+          }, {
+            "type" : "paragraph",
+            "id" : 103,
+            "page number" : 3,
+            "bounding box" : [ 218.62, 485.151, 223.88, 497.821 ],
+            "font" : "BentonSansCondensed-Bold",
+            "font size" : 10.0,
+            "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+            "content" : "E"
+          }, {
+            "type" : "paragraph",
+            "id" : 105,
+            "page number" : 3,
+            "bounding box" : [ 228.45, 531.555, 259.083, 538.636 ],
+            "font" : "Helvetica",
+            "font size" : 6.125,
+            "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+            "content" : "Trypsin-like"
+          }, {
+            "type" : "paragraph",
+            "id" : 106,
+            "page number" : 3,
+            "bounding box" : [ 228.45, 549.556, 255.384, 571.38 ],
+            "font" : "Helvetica",
+            "font size" : 6.125,
+            "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+            "content" : "Subtilase Peptidase U49"
+          }, {
+            "type" : "paragraph",
+            "id" : 107,
+            "page number" : 3,
+            "bounding box" : [ 228.45, 574.666, 255.384, 587.871 ],
+            "font" : "Helvetica",
+            "font size" : 6.125,
+            "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+            "content" : "Peptidase C1-like"
+          }, {
+            "type" : "paragraph",
+            "id" : 109,
+            "page number" : 3,
+            "bounding box" : [ 272.015, 539.845, 275.421, 546.926 ],
+            "font" : "Helvetica",
+            "font size" : 6.125,
+            "text color" : "[1.0, 1.0, 1.0]",
+            "content" : "7"
+          }, {
+            "type" : "paragraph",
+            "id" : 110,
+            "page number" : 3,
+            "bounding box" : [ 272.015, 553.907, 275.421, 560.987 ],
+            "font" : "Helvetica",
+            "font size" : 6.125,
+            "text color" : "[1.0, 1.0, 1.0]",
+            "content" : "6"
+          }, {
+            "type" : "paragraph",
+            "id" : 111,
+            "page number" : 3,
+            "bounding box" : [ 281.652, 565.467, 285.057, 572.548 ],
+            "font" : "Helvetica",
+            "font size" : 6.125,
+            "text color" : "[1.0, 1.0, 1.0]",
+            "content" : "6"
+          }, {
+            "type" : "paragraph",
+            "id" : 112,
+            "page number" : 3,
+            "bounding box" : [ 291.344, 569.992, 294.749, 577.072 ],
+            "font" : "Helvetica",
+            "font size" : 6.125,
+            "text color" : "[1.0, 1.0, 1.0]",
+            "content" : "2"
+          }, {
+            "type" : "paragraph",
+            "id" : 114,
+            "page number" : 3,
+            "bounding box" : [ 243.6, 504.396, 290.862, 511.742 ],
+            "font" : "Helvetica",
+            "font size" : 6.125,
+            "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+            "content" : "NACHT LRR"
+          }, {
+            "type" : "paragraph",
+            "id" : 115,
+            "page number" : 3,
+            "bounding box" : [ 243.623, 511.37, 314.207, 518.526 ],
+            "font" : "Helvetica",
+            "font size" : 6.125,
+            "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+            "content" : "TPR WD40 repeat"
+          } ]
+        }, {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 218.62, 582.208, 443.583, 594.878 ],
+          "font" : "BentonSansCondensed-Bold",
+          "font size" : 10.0,
+          "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+          "content" : "B D",
+          "kids" : [ ]
+        } ]
+      }, {
+        "type" : "image",
+        "id" : 139,
+        "page number" : 3,
+        "bounding box" : [ 477.174, 433.464, 554.692, 441.816 ],
+        "source" : "2022_Johnson_images/imageFile40.png"
+      }, {
+        "type" : "paragraph",
+        "id" : 142,
+        "page number" : 3,
+        "bounding box" : [ 441.571, 454.566, 457.572, 461.647 ],
+        "font" : "Helvetica-Oblique",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "pBAD"
+      }, {
+        "type" : "paragraph",
+        "id" : 143,
+        "page number" : 3,
+        "bounding box" : [ 256.503, 477.254, 306.963, 484.474 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "WT C3A"
+      }, {
+        "type" : "paragraph",
+        "id" : 144,
+        "page number" : 3,
+        "bounding box" : [ 244.118, 486.625, 319.183, 493.706 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "Runella bGSDM + protease"
+      }, {
+        "type" : "paragraph",
+        "id" : 145,
+        "page number" : 3,
+        "bounding box" : [ 226.431, 454.114, 241.407, 461.194 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "0 min"
+      }, {
+        "type" : "paragraph",
+        "id" : 146,
+        "page number" : 3,
+        "bounding box" : [ 220.328, 417.454, 242.115, 424.534 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "120 min"
+      }, {
+        "type" : "image",
+        "id" : 148,
+        "page number" : 3,
+        "bounding box" : [ 281.094, 402.264, 317.345, 438.456 ],
+        "source" : "2022_Johnson_images/imageFile41.png"
+      }, {
+        "type" : "image",
+        "id" : 149,
+        "page number" : 3,
+        "bounding box" : [ 281.094, 439.944, 317.345, 476.196 ],
+        "source" : "2022_Johnson_images/imageFile42.png"
+      }, {
+        "type" : "image",
+        "id" : 150,
+        "page number" : 3,
+        "bounding box" : [ 243.414, 402.264, 279.892, 438.456 ],
+        "source" : "2022_Johnson_images/imageFile43.png"
+      }, {
+        "type" : "image",
+        "id" : 152,
+        "page number" : 3,
+        "bounding box" : [ 243.414, 439.944, 279.665, 476.196 ],
+        "source" : "2022_Johnson_images/imageFile44.png"
+      }, {
+        "type" : "paragraph",
+        "id" : 154,
+        "page number" : 3,
+        "bounding box" : [ 323.165, 680.786, 325.714, 690.854 ],
+        "font" : "Helvetica",
+        "font size" : 8.709,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "["
+      }, {
+        "type" : "paragraph",
+        "id" : 156,
+        "page number" : 3,
+        "bounding box" : [ 297.611, 531.992, 321.781, 555.454 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "Caspase -like 38"
+      }, {
+        "type" : "paragraph",
+        "id" : 158,
+        "page number" : 3,
+        "bounding box" : [ 343.096, 465.178, 367.116, 491.978 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "full systemGFP"
+      }, {
+        "type" : "paragraph",
+        "id" : 159,
+        "page number" : 3,
+        "bounding box" : [ 354.358, 467.493, 361.46, 474.302 ],
+        "font" : "Symbol",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "Δ"
+      }, {
+        "type" : "paragraph",
+        "id" : 160,
+        "page number" : 3,
+        "bounding box" : [ 355.688, 470.654, 375.114, 491.891 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "bGSDM"
+      }, {
+        "type" : "paragraph",
+        "id" : 161,
+        "page number" : 3,
+        "bounding box" : [ 329.99, 502.393, 335.891, 535.577 ],
+        "font" : "Helvetica",
+        "font size" : 5.104,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "PFU / mL (log)"
+      }, {
+        "type" : "list",
+        "id" : 162,
+        "level" : "21",
+        "page number" : 3,
+        "bounding box" : [ 337.98, 489.118, 346.778, 496.199 ],
+        "numbering style" : "arabic numbers",
+        "number of list items" : 1,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 3,
+          "bounding box" : [ 337.98, 489.118, 346.778, 496.199 ],
+          "font" : "Helvetica",
+          "font size" : 6.125,
+          "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+          "content" : "102",
+          "kids" : [ {
+            "type" : "list",
+            "id" : 82,
+            "level" : "21",
+            "page number" : 3,
+            "bounding box" : [ 337.98, 513.293, 346.778, 520.374 ],
+            "numbering style" : "arabic numbers",
+            "number of list items" : 1,
+            "list items" : [ {
+              "type" : "list item",
+              "page number" : 3,
+              "bounding box" : [ 337.98, 513.293, 346.778, 520.374 ],
+              "font" : "Helvetica",
+              "font size" : 6.125,
+              "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+              "content" : "105",
+              "kids" : [ {
+                "type" : "list",
+                "id" : 81,
+                "level" : "21",
+                "page number" : 3,
+                "bounding box" : [ 337.98, 537.469, 346.778, 552.608 ],
+                "numbering style" : "arabic numbers",
+                "number of list items" : 2,
+                "list items" : [ {
+                  "type" : "list item",
+                  "page number" : 3,
+                  "bounding box" : [ 337.98, 537.469, 346.778, 544.55 ],
+                  "font" : "Helvetica",
+                  "font size" : 6.125,
+                  "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+                  "content" : "108",
+                  "kids" : [ {
+                    "type" : "list",
+                    "id" : 79,
+                    "level" : "22",
+                    "page number" : 3,
+                    "bounding box" : [ 337.98, 497.176, 346.778, 512.316 ],
+                    "numbering style" : "unknown style",
+                    "number of list items" : 2,
+                    "list items" : [ {
+                      "type" : "list item",
+                      "page number" : 3,
+                      "bounding box" : [ 337.98, 497.176, 346.778, 504.257 ],
+                      "font" : "Helvetica",
+                      "font size" : 6.125,
+                      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+                      "content" : "103",
+                      "kids" : [ ]
+                    }, {
+                      "type" : "list item",
+                      "page number" : 3,
+                      "bounding box" : [ 337.98, 505.235, 346.778, 512.316 ],
+                      "font" : "Helvetica",
+                      "font size" : 6.125,
+                      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+                      "content" : "104",
+                      "kids" : [ ]
+                    } ]
+                  }, {
+                    "type" : "list",
+                    "id" : 80,
+                    "level" : "22",
+                    "page number" : 3,
+                    "bounding box" : [ 337.98, 521.352, 346.778, 536.492 ],
+                    "numbering style" : "unknown style",
+                    "number of list items" : 2,
+                    "list items" : [ {
+                      "type" : "list item",
+                      "page number" : 3,
+                      "bounding box" : [ 337.98, 521.352, 346.778, 528.433 ],
+                      "font" : "Helvetica",
+                      "font size" : 6.125,
+                      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+                      "content" : "106",
+                      "kids" : [ ]
+                    }, {
+                      "type" : "list item",
+                      "page number" : 3,
+                      "bounding box" : [ 337.98, 529.411, 346.778, 536.492 ],
+                      "font" : "Helvetica",
+                      "font size" : 6.125,
+                      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+                      "content" : "107",
+                      "kids" : [ ]
+                    } ]
+                  } ]
+                }, {
+                  "type" : "list item",
+                  "page number" : 3,
+                  "bounding box" : [ 337.98, 545.527, 346.778, 552.608 ],
+                  "font" : "Helvetica",
+                  "font size" : 6.125,
+                  "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+                  "content" : "109",
+                  "kids" : [ ]
+                } ]
+              } ]
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "id" : 164,
+        "page number" : 3,
+        "bounding box" : [ 362.462, 563.445, 426.189, 569.347 ],
+        "font" : "Helvetica",
+        "font size" : 5.104,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "T5 T4 T6"
+      }, {
+        "type" : "paragraph",
+        "id" : 166,
+        "page number" : 3,
+        "bounding box" : [ 467.836, 474.996, 555.692, 489.934 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "0 100 200 300 Time (min)"
+      }, {
+        "type" : "paragraph",
+        "id" : 168,
+        "page number" : 3,
+        "bounding box" : [ 455.772, 503.1, 464.284, 510.181 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "0.2"
+      }, {
+        "type" : "paragraph",
+        "id" : 169,
+        "page number" : 3,
+        "bounding box" : [ 455.772, 525.55, 464.284, 532.631 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "0.4"
+      }, {
+        "type" : "paragraph",
+        "id" : 170,
+        "page number" : 3,
+        "bounding box" : [ 455.772, 548.0, 464.284, 555.08 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "0.6"
+      }, {
+        "type" : "paragraph",
+        "id" : 171,
+        "page number" : 3,
+        "bounding box" : [ 444.374, 517.745, 452.92, 532.889 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "OD600"
+      }, {
+        "type" : "paragraph",
+        "id" : 172,
+        "page number" : 3,
+        "bounding box" : [ 455.772, 514.325, 464.284, 521.406 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "0.3"
+      }, {
+        "type" : "paragraph",
+        "id" : 173,
+        "page number" : 3,
+        "bounding box" : [ 455.772, 536.776, 464.284, 543.857 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "0.5"
+      }, {
+        "type" : "paragraph",
+        "id" : 174,
+        "page number" : 3,
+        "bounding box" : [ 455.772, 491.874, 464.284, 498.955 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "0.1"
+      }, {
+        "type" : "paragraph",
+        "id" : 176,
+        "page number" : 3,
+        "bounding box" : [ 453.048, 564.009, 554.276, 582.539 ],
+        "font" : "Helvetica",
+        "font size" : 5.104,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "MOI T6 2 2×10-3 2×10-4 uninfected full system ΔbGSDM"
+      }, {
+        "type" : "paragraph",
+        "id" : 179,
+        "page number" : 3,
+        "bounding box" : [ 391.132, 596.712, 557.18, 603.793 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.3450980484485626, 0.3490196168422699, 0.35686275362968445]",
+        "content" : "5481K 5491K 5501K"
+      }, {
+        "type" : "paragraph",
+        "id" : 183,
+        "page number" : 3,
+        "bounding box" : [ 466.286, 617.757, 509.576, 624.837 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "ATPase TA"
+      }, {
+        "type" : "paragraph",
+        "id" : 186,
+        "page number" : 3,
+        "bounding box" : [ 226.647, 603.696, 296.439, 616.902 ],
+        "font" : "Helvetica-Oblique",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "Lysobacter enzymogenes YC36"
+      }, {
+        "type" : "paragraph",
+        "id" : 187,
+        "page number" : 3,
+        "bounding box" : [ 226.647, 597.801, 267.513, 603.702 ],
+        "font" : "Helvetica",
+        "font size" : 5.104,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "Ga0399710_4913"
+      }, {
+        "type" : "paragraph",
+        "id" : 188,
+        "page number" : 3,
+        "bounding box" : [ 419.117, 617.756, 449.75, 624.837 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "Trypsin-like"
+      }, {
+        "type" : "paragraph",
+        "id" : 190,
+        "page number" : 3,
+        "bounding box" : [ 316.963, 596.712, 334.671, 603.793 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.3450980484485626, 0.3490196168422699, 0.35686275362968445]",
+        "content" : "5471K"
+      }, {
+        "type" : "paragraph",
+        "id" : 191,
+        "page number" : 3,
+        "bounding box" : [ 372.432, 465.18, 389.893, 491.978 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "GFP full sy"
+      }, {
+        "type" : "paragraph",
+        "id" : 192,
+        "page number" : 3,
+        "bounding box" : [ 382.495, 477.172, 396.451, 491.892 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "stem"
+      }, {
+        "type" : "paragraph",
+        "id" : 193,
+        "page number" : 3,
+        "bounding box" : [ 383.694, 467.492, 390.796, 474.301 ],
+        "font" : "Symbol",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "Δ"
+      }, {
+        "type" : "paragraph",
+        "id" : 194,
+        "page number" : 3,
+        "bounding box" : [ 385.025, 470.654, 395.701, 481.464 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "bG"
+      }, {
+        "type" : "paragraph",
+        "id" : 195,
+        "page number" : 3,
+        "bounding box" : [ 390.277, 476.913, 416.324, 491.89 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "SDMGF"
+      }, {
+        "type" : "paragraph",
+        "id" : 196,
+        "page number" : 3,
+        "bounding box" : [ 410.9, 484.296, 418.951, 491.977 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "P"
+      }, {
+        "type" : "paragraph",
+        "id" : 197,
+        "page number" : 3,
+        "bounding box" : [ 401.489, 465.178, 410.197, 473.642 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "fu"
+      }, {
+        "type" : "paragraph",
+        "id" : 198,
+        "page number" : 3,
+        "bounding box" : [ 404.773, 469.091, 425.509, 491.891 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "ll system"
+      }, {
+        "type" : "paragraph",
+        "id" : 199,
+        "page number" : 3,
+        "bounding box" : [ 412.752, 467.493, 419.854, 474.301 ],
+        "font" : "Symbol",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "Δ"
+      }, {
+        "type" : "paragraph",
+        "id" : 200,
+        "page number" : 3,
+        "bounding box" : [ 414.082, 470.653, 433.507, 491.89 ],
+        "font" : "Helvetica",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "bGSDM"
+      }, {
+        "type" : "paragraph",
+        "id" : 202,
+        "page number" : 3,
+        "bounding box" : [ 347.67, 580.717, 363.669, 587.797 ],
+        "font" : "Helvetica-Oblique",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "pBAD"
+      }, {
+        "type" : "paragraph",
+        "id" : 203,
+        "page number" : 3,
+        "bounding box" : [ 328.672, 450.068, 333.612, 462.738 ],
+        "font" : "BentonSansCondensed-Bold",
+        "font size" : 10.0,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "F"
+      }, {
+        "type" : "paragraph",
+        "id" : 204,
+        "page number" : 3,
+        "bounding box" : [ 374.061, 583.609, 424.938, 590.689 ],
+        "font" : "Helvetica-Oblique",
+        "font size" : 6.125,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "Lysobacter system"
+      }, {
+        "type" : "paragraph",
+        "id" : 206,
+        "page number" : 3,
+        "bounding box" : [ 362.206, 558.064, 368.729, 562.785 ],
+        "font" : "Helvetica",
+        "font size" : 4.084,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "n.s."
+      }, {
+        "type" : "paragraph",
+        "id" : 208,
+        "page number" : 3,
+        "bounding box" : [ 390.829, 540.345, 397.35, 545.066 ],
+        "font" : "Helvetica",
+        "font size" : 4.084,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "n.s."
+      }, {
+        "type" : "paragraph",
+        "id" : 210,
+        "level" : "2",
+        "page number" : 3,
+        "bounding box" : [ 359.307, 552.706, 426.198, 558.963 ],
+        "font" : "Helvetica",
+        "font size" : 4.084,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "** n.s."
+      }, {
+        "type" : "paragraph",
+        "id" : 211,
+        "level" : "2",
+        "page number" : 3,
+        "bounding box" : [ 366.904, 548.833, 370.875, 554.734 ],
+        "font" : "Helvetica",
+        "font size" : 5.104,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "**"
+      }, {
+        "type" : "paragraph",
+        "id" : 212,
+        "level" : "2",
+        "page number" : 3,
+        "bounding box" : [ 388.824, 534.97, 392.794, 540.871 ],
+        "font" : "Helvetica",
+        "font size" : 5.104,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "**"
+      }, {
+        "type" : "paragraph",
+        "id" : 213,
+        "level" : "2",
+        "page number" : 3,
+        "bounding box" : [ 395.733, 531.006, 399.703, 536.907 ],
+        "font" : "Helvetica",
+        "font size" : 5.104,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "**"
+      }, {
+        "type" : "paragraph",
+        "id" : 214,
+        "level" : "2",
+        "page number" : 3,
+        "bounding box" : [ 417.67, 548.833, 421.641, 554.733 ],
+        "font" : "Helvetica",
+        "font size" : 5.104,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "**"
+      }, {
+        "type" : "paragraph",
+        "id" : 215,
+        "level" : "2",
+        "page number" : 3,
+        "bounding box" : [ 424.58, 544.999, 428.551, 550.899 ],
+        "font" : "Helvetica",
+        "font size" : 5.104,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "**"
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 36.85, 186.539, 196.069, 321.173 ],
+      "font" : "AdvTT1ef22648.B",
+      "font size" : 7.97,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "Fig. 3. bGSDMs are activated by proteolytic cleavage. (A) Toxicity of Runella bGSDM in vivo requires the associated protease. Bacteria expressing WT and mutated versions of the Runella bGSDM–protease operon were grown on LB-agar in conditions that repress or induce expression. Data represent colony-forming units (CFU) per milliliter, and bar graphs represent an average of three independent replicates, with individual data points overlaid. Asterisks indicate statistically significant differences compared with the respective noninduced control using twosided t test. n.s. ≥ 0.05; ***P = 0.0001 to 0.001;",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 392,
+    "page number" : 3,
+    "bounding box" : [ 201.743, 40.568, 214.103, 706.685 ],
+    "source" : "2022_Johnson_images/imageFile45.png"
+  }, {
+    "type" : "image",
+    "id" : 393,
+    "page number" : 3,
+    "bounding box" : [ 379.826, 40.568, 392.186, 706.685 ],
+    "source" : "2022_Johnson_images/imageFile46.png"
+  }, {
+    "type" : "image",
+    "id" : 399,
+    "page number" : 3,
+    "bounding box" : [ 453.114, 292.044, 557.536, 320.796 ],
+    "source" : "2022_Johnson_images/imageFile47.png"
+  }, {
+    "type" : "heading",
+    "id" : 407,
+    "level" : "Subtitle",
+    "page number" : 3,
+    "bounding box" : [ 215.494, 307.21, 452.605, 319.88 ],
+    "heading level" : 2,
+    "font" : "BentonSansCondensed-Bold",
+    "font size" : 10.0,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "A C"
+  }, {
+    "type" : "heading",
+    "id" : 419,
+    "level" : "Subtitle",
+    "page number" : 3,
+    "bounding box" : [ 336.438, 307.21, 342.468, 319.88 ],
+    "heading level" : 2,
+    "font" : "BentonSansCondensed-Bold",
+    "font size" : 10.0,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "B"
+  }, {
+    "type" : "paragraph",
+    "id" : 440,
+    "level" : "13",
+    "page number" : 3,
+    "bounding box" : [ 294.23, 304.079, 322.337, 315.665 ],
+    "font" : "Helvetica",
+    "font size" : 5.09,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "non-induced induced"
+  }, {
+    "type" : "paragraph",
+    "id" : 438,
+    "page number" : 3,
+    "bounding box" : [ 236.979, 304.849, 281.103, 311.91 ],
+    "font" : "Helvetica",
+    "font size" : 6.108,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "Runella bGSDM"
+  }, {
+    "type" : "paragraph",
+    "id" : 416,
+    "level" : "12",
+    "page number" : 3,
+    "bounding box" : [ 358.954, 282.096, 405.024, 307.376 ],
+    "font" : "Helvetica",
+    "font size" : 6.108,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "+ bGSDM WT WT"
+  }, {
+    "type" : "paragraph",
+    "id" : 454,
+    "page number" : 3,
+    "bounding box" : [ 241.742, 294.722, 320.528, 301.779 ],
+    "font" : "Helvetica",
+    "font size" : 4.072,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "n.s. n.s. **** n.s. n.s. ***"
+  }, {
+    "type" : "paragraph",
+    "id" : 446,
+    "page number" : 3,
+    "bounding box" : [ 226.838, 294.722, 234.148, 300.606 ],
+    "font" : "Helvetica",
+    "font size" : 5.09,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "109"
+  }, {
+    "type" : "paragraph",
+    "id" : 418,
+    "page number" : 3,
+    "bounding box" : [ 369.313, 282.094, 419.305, 300.478 ],
+    "font" : "Helvetica",
+    "font size" : 6.108,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "none H796AC840A"
+  }, {
+    "type" : "image",
+    "id" : 400,
+    "page number" : 3,
+    "bounding box" : [ 453.114, 263.364, 557.536, 292.236 ],
+    "source" : "2022_Johnson_images/imageFile48.png"
+  }, {
+    "type" : "list",
+    "id" : 452,
+    "level" : "14",
+    "page number" : 3,
+    "bounding box" : [ 226.838, 277.208, 234.148, 291.849 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 226.838, 277.208, 234.148, 283.092 ],
+      "font" : "Helvetica",
+      "font size" : 5.09,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "107",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 226.838, 285.965, 234.148, 291.849 ],
+      "font" : "Helvetica",
+      "font size" : 5.09,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "108",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 460,
+    "page number" : 3,
+    "bounding box" : [ 215.453, 251.212, 222.389, 290.548 ],
+    "font" : "Helvetica",
+    "font size" : 6.0,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "CFU / mL (log)"
+  }, {
+    "type" : "paragraph",
+    "id" : 420,
+    "page number" : 3,
+    "bounding box" : [ 332.587, 283.245, 358.052, 290.306 ],
+    "font" : "Helvetica",
+    "font size" : 6.108,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "protease:"
+  }, {
+    "type" : "heading",
+    "id" : 409,
+    "level" : "Subtitle",
+    "page number" : 3,
+    "bounding box" : [ 343.892, 276.295, 355.095, 283.563 ],
+    "heading level" : 7,
+    "font" : "Helvetica-Bold",
+    "font size" : 6.108,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "kDa"
+  }, {
+    "type" : "paragraph",
+    "id" : 426,
+    "page number" : 3,
+    "bounding box" : [ 529.144, 270.205, 553.316, 283.374 ],
+    "font" : "Helvetica",
+    "font size" : 6.108,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "cleavage site"
+  }, {
+    "type" : "text block",
+    "id" : 408,
+    "page number" : 3,
+    "bounding box" : [ 356.706, 216.35, 412.117, 282.177 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 49,
+      "page number" : 3,
+      "bounding box" : [ 356.814, 216.384, 412.233, 282.276 ],
+      "source" : "2022_Johnson_images/imageFile49.png"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 415,
+    "page number" : 3,
+    "bounding box" : [ 344.94, 270.775, 355.129, 277.836 ],
+    "font" : "Helvetica",
+    "font size" : 6.108,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "250"
+  }, {
+    "type" : "paragraph",
+    "id" : 445,
+    "page number" : 3,
+    "bounding box" : [ 226.838, 268.451, 234.148, 274.335 ],
+    "font" : "Helvetica",
+    "font size" : 5.09,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "106"
+  }, {
+    "type" : "paragraph",
+    "id" : 414,
+    "page number" : 3,
+    "bounding box" : [ 348.337, 262.663, 355.129, 269.724 ],
+    "font" : "Helvetica",
+    "font size" : 6.108,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "95"
+  }, {
+    "type" : "list",
+    "id" : 451,
+    "level" : "14",
+    "page number" : 3,
+    "bounding box" : [ 226.838, 250.935, 234.148, 265.577 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 226.838, 250.935, 234.148, 256.82 ],
+      "font" : "Helvetica",
+      "font size" : 5.09,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "104",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 3,
+      "bounding box" : [ 226.838, 259.693, 234.148, 265.577 ],
+      "font" : "Helvetica",
+      "font size" : 5.09,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "105",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "image",
+    "id" : 401,
+    "page number" : 3,
+    "bounding box" : [ 453.114, 234.804, 557.536, 263.556 ],
+    "source" : "2022_Johnson_images/imageFile50.png"
+  }, {
+    "type" : "image",
+    "id" : 428,
+    "page number" : 3,
+    "bounding box" : [ 492.774, 253.044, 500.457, 260.676 ],
+    "source" : "2022_Johnson_images/imageFile51.png"
+  }, {
+    "type" : "image",
+    "id" : 427,
+    "page number" : 3,
+    "bounding box" : [ 493.014, 253.404, 500.213, 260.436 ],
+    "source" : "2022_Johnson_images/imageFile52.png"
+  }, {
+    "type" : "heading",
+    "id" : 429,
+    "level" : "Subtitle",
+    "page number" : 3,
+    "bounding box" : [ 458.239, 251.609, 498.328, 259.71 ],
+    "heading level" : 8,
+    "font" : "Helvetica-Bold",
+    "font size" : 5.09,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "C N"
+  }, {
+    "type" : "paragraph",
+    "id" : 406,
+    "page number" : 3,
+    "bounding box" : [ 421.145, 251.499, 443.202, 258.768 ],
+    "font" : "Helvetica-Bold",
+    "font size" : 6.108,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "bGSDM"
+  }, {
+    "type" : "image",
+    "id" : 431,
+    "page number" : 3,
+    "bounding box" : [ 456.354, 250.884, 464.037, 258.396 ],
+    "source" : "2022_Johnson_images/imageFile53.png"
+  }, {
+    "type" : "image",
+    "id" : 430,
+    "page number" : 3,
+    "bounding box" : [ 456.594, 251.124, 463.793, 258.156 ],
+    "source" : "2022_Johnson_images/imageFile54.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 413,
+    "page number" : 3,
+    "bounding box" : [ 348.337, 250.839, 355.129, 257.9 ],
+    "font" : "Helvetica",
+    "font size" : 6.108,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "43"
+  }, {
+    "type" : "paragraph",
+    "id" : 405,
+    "page number" : 3,
+    "bounding box" : [ 420.587, 245.193, 447.066, 252.254 ],
+    "font" : "Helvetica-Oblique",
+    "font size" : 6.108,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "full-length"
+  }, {
+    "type" : "paragraph",
+    "id" : 412,
+    "page number" : 3,
+    "bounding box" : [ 348.337, 244.387, 355.129, 251.448 ],
+    "font" : "Helvetica",
+    "font size" : 6.108,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "34"
+  }, {
+    "type" : "paragraph",
+    "id" : 444,
+    "page number" : 3,
+    "bounding box" : [ 226.838, 242.179, 234.148, 248.063 ],
+    "font" : "Helvetica",
+    "font size" : 5.09,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "103"
+  }, {
+    "type" : "paragraph",
+    "id" : 404,
+    "level" : "11",
+    "page number" : 3,
+    "bounding box" : [ 420.399, 236.997, 441.174, 244.058 ],
+    "font" : "Helvetica-Oblique",
+    "font size" : 6.108,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "cleaved"
+  }, {
+    "type" : "paragraph",
+    "id" : 411,
+    "page number" : 3,
+    "bounding box" : [ 348.337, 236.961, 355.129, 244.022 ],
+    "font" : "Helvetica",
+    "font size" : 6.108,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "26"
+  }, {
+    "type" : "paragraph",
+    "id" : 448,
+    "page number" : 3,
+    "bounding box" : [ 218.27, 208.543, 305.369, 243.73 ],
+    "font" : "Helvetica",
+    "font size" : 5.09,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "protease (alone)bGSDM (alone)bGSDM+proteaseprotease (H796A)protease (C840A)"
+  }, {
+    "type" : "paragraph",
+    "id" : 442,
+    "page number" : 3,
+    "bounding box" : [ 288.562, 203.374, 324.363, 243.282 ],
+    "font" : "Helvetica",
+    "font size" : 5.09,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "bGSDM+protease(separate plasmids)"
+  }, {
+    "type" : "image",
+    "id" : 402,
+    "page number" : 3,
+    "bounding box" : [ 453.114, 206.244, 557.536, 234.996 ],
+    "source" : "2022_Johnson_images/imageFile55.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 421,
+    "page number" : 3,
+    "bounding box" : [ 524.147, 214.457, 549.488, 230.839 ],
+    "font" : "Helvetica",
+    "font size" : 7.126,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "Runella bGSDM"
+  }, {
+    "type" : "paragraph",
+    "id" : 410,
+    "page number" : 3,
+    "bounding box" : [ 348.337, 219.907, 355.129, 226.968 ],
+    "font" : "Helvetica",
+    "font size" : 6.108,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "17"
+  }, {
+    "type" : "heading",
+    "id" : 422,
+    "level" : "Subtitle",
+    "page number" : 3,
+    "bounding box" : [ 214.139, 192.782, 341.698, 205.452 ],
+    "heading level" : 2,
+    "font" : "BentonSansCondensed-Bold",
+    "font size" : 10.0,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "D E"
+  }, {
+    "type" : "heading",
+    "id" : 432,
+    "level" : "Subtitle",
+    "page number" : 3,
+    "bounding box" : [ 488.909, 193.059, 527.813, 203.001 ],
+    "heading level" : 6,
+    "font" : "Helvetica",
+    "font size" : 7.126,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "2FO−FC map"
+  }, {
+    "type" : "paragraph",
+    "id" : 424,
+    "page number" : 3,
+    "bounding box" : [ 241.996, 193.745, 308.924, 201.983 ],
+    "font" : "Helvetica",
+    "font size" : 7.126,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "Runella bGSDM loop"
+  }, {
+    "type" : "paragraph",
+    "id" : 436,
+    "page number" : 3,
+    "bounding box" : [ 360.302, 193.745, 436.946, 201.983 ],
+    "font" : "Helvetica-Oblique",
+    "font size" : 7.126,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "Bradyrhizobium bGSDM"
+  }, {
+    "type" : "text block",
+    "id" : 397,
+    "page number" : 3,
+    "bounding box" : [ 465.381, 132.184, 550.619, 192.731 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 43,
+      "page number" : 3,
+      "bounding box" : [ 465.534, 131.904, 522.43, 192.576 ],
+      "source" : "2022_Johnson_images/imageFile56.png"
+    }, {
+      "type" : "image",
+      "id" : 44,
+      "page number" : 3,
+      "bounding box" : [ 522.174, 131.904, 550.746, 192.576 ],
+      "source" : "2022_Johnson_images/imageFile57.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 45,
+      "page number" : 3,
+      "bounding box" : [ 516.008, 145.769, 529.929, 153.038 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.108,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "F247"
+    }, {
+      "type" : "paragraph",
+      "id" : 46,
+      "page number" : 3,
+      "bounding box" : [ 509.588, 181.419, 524.186, 188.688 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.108,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "A246"
+    }, {
+      "type" : "paragraph",
+      "id" : 47,
+      "page number" : 3,
+      "bounding box" : [ 500.096, 141.762, 548.817, 155.742 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.108,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "F245 N21"
+    }, {
+      "type" : "paragraph",
+      "id" : 48,
+      "page number" : 3,
+      "bounding box" : [ 534.314, 184.76, 548.577, 192.029 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.108,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "P244"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 398,
+    "page number" : 3,
+    "bounding box" : [ 343.678, 77.405, 453.572, 192.605 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 25,
+      "page number" : 3,
+      "bounding box" : [ 343.734, 135.324, 398.944, 192.996 ],
+      "source" : "2022_Johnson_images/imageFile58.png"
+    }, {
+      "type" : "image",
+      "id" : 26,
+      "page number" : 3,
+      "bounding box" : [ 398.514, 135.324, 453.729, 192.996 ],
+      "source" : "2022_Johnson_images/imageFile59.png"
+    }, {
+      "type" : "image",
+      "id" : 27,
+      "page number" : 3,
+      "bounding box" : [ 343.734, 77.904, 398.944, 135.516 ],
+      "source" : "2022_Johnson_images/imageFile60.png"
+    }, {
+      "type" : "image",
+      "id" : 28,
+      "page number" : 3,
+      "bounding box" : [ 398.514, 77.904, 453.729, 135.516 ],
+      "source" : "2022_Johnson_images/imageFile61.png"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 423,
+    "page number" : 3,
+    "bounding box" : [ 220.207, 77.592, 329.247, 192.405 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 30,
+      "page number" : 3,
+      "bounding box" : [ 220.254, 134.844, 274.997, 192.336 ],
+      "source" : "2022_Johnson_images/imageFile62.png"
+    }, {
+      "type" : "image",
+      "id" : 31,
+      "page number" : 3,
+      "bounding box" : [ 274.674, 134.844, 329.369, 192.336 ],
+      "source" : "2022_Johnson_images/imageFile63.png"
+    }, {
+      "type" : "image",
+      "id" : 32,
+      "page number" : 3,
+      "bounding box" : [ 220.254, 77.604, 274.997, 135.036 ],
+      "source" : "2022_Johnson_images/imageFile64.png"
+    }, {
+      "type" : "image",
+      "id" : 33,
+      "page number" : 3,
+      "bounding box" : [ 274.674, 77.604, 329.369, 135.036 ],
+      "source" : "2022_Johnson_images/imageFile65.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 34,
+      "page number" : 3,
+      "bounding box" : [ 247.593, 94.11, 262.192, 101.379 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.108,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "N244"
+    }, {
+      "type" : "paragraph",
+      "id" : 35,
+      "page number" : 3,
+      "bounding box" : [ 223.704, 117.304, 238.302, 124.573 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.108,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "R245"
+    }, {
+      "type" : "paragraph",
+      "id" : 36,
+      "page number" : 3,
+      "bounding box" : [ 247.253, 134.352, 261.516, 141.62 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.108,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "V246"
+    }, {
+      "type" : "paragraph",
+      "id" : 37,
+      "page number" : 3,
+      "bounding box" : [ 243.907, 167.777, 257.828, 175.045 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.108,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "L247"
+    }, {
+      "type" : "paragraph",
+      "id" : 38,
+      "page number" : 3,
+      "bounding box" : [ 297.016, 148.473, 311.957, 155.741 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.108,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "G248"
+    }, {
+      "type" : "paragraph",
+      "id" : 39,
+      "page number" : 3,
+      "bounding box" : [ 293.462, 124.843, 307.724, 132.112 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.108,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "E249"
+    }, {
+      "type" : "paragraph",
+      "id" : 40,
+      "page number" : 3,
+      "bounding box" : [ 313.486, 119.374, 328.084, 126.642 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.108,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "N250"
+    }, {
+      "type" : "paragraph",
+      "id" : 41,
+      "page number" : 3,
+      "bounding box" : [ 299.355, 97.067, 314.632, 104.336 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.108,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "M251"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 395,
+    "level" : "2",
+    "page number" : 3,
+    "bounding box" : [ 36.85, 39.319, 557.21, 185.225 ],
+    "font" : "AdvTTec37d199",
+    "font size" : 7.97,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "****P < 0.0001. (B) Runella bGSDM cleavage by its associated protease is dependent on catalytic histidine and cysteine residues in vitro. Fifteen percent SDS–polyacrylamide gel electrophoresis (SDS-PAGE) gels were run after cleavage at room temperature for 18 hours and visualized by Coomassie staining. (C) The Runella bGSDM crystal structure and protease cleavage site. The Runella bGSDM structure is shown in lavender with the last 21 amino acids highlighted as gray spheres. (D) Close-up view of the Runella bGSDM cleavage site wherein cleavage occurs after the P1 L247 residue. (E) Structural overview of the Bradyrhizobium CTD and autoinhibitory interactions. The bGSDM is colored purple except for its last 16 residues, which are colored yellow. Insets show interactions of F245 and F247 adjacent to D21 of the N-terminal b sheet (top) and F253 and the palmitoyl modification at C3 (bottom). The 2FO−FC (contoured at 1.5 s) map is shown as gray mesh fit to the last 16 residues."
+  }, {
+    "type" : "text block",
+    "id" : 396,
+    "page number" : 3,
+    "bounding box" : [ 465.381, 77.385, 550.594, 130.058 ],
+    "kids" : [ {
+      "type" : "image",
+      "id" : 22,
+      "page number" : 3,
+      "bounding box" : [ 465.534, 77.664, 522.43, 129.996 ],
+      "source" : "2022_Johnson_images/imageFile66.png"
+    }, {
+      "type" : "image",
+      "id" : 23,
+      "page number" : 3,
+      "bounding box" : [ 522.174, 77.664, 550.746, 129.996 ],
+      "source" : "2022_Johnson_images/imageFile67.png"
+    }, {
+      "type" : "paragraph",
+      "id" : 24,
+      "page number" : 3,
+      "bounding box" : [ 490.904, 96.244, 541.56, 104.337 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 6.108,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "F253 C3"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 434,
+    "page number" : 3,
+    "bounding box" : [ 455.186, 90.287, 464.421, 97.348 ],
+    "font" : "Helvetica",
+    "font size" : 6.108,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "90°"
+  }, {
+    "type" : "paragraph",
+    "id" : 461,
+    "page number" : 3,
+    "bounding box" : [ 564.226, 231.466, 573.154, 524.53 ],
+    "font" : "Times-Roman",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Downloaded from https://www.science.org at University of Toronto on December 11, 2024"
+  }, {
+    "type" : "footer",
+    "id" : 462,
+    "page number" : 3,
+    "bounding box" : [ 36.85, 14.649, 557.144, 24.102 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 63,
+      "page number" : 3,
+      "bounding box" : [ 36.85, 14.649, 557.144, 24.102 ],
+      "heading level" : 4,
+      "font" : "AdvTTd7835f12",
+      "font size" : 6.974,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "Johnson et al., Science 375, 221 225 (2022) 14 January 2022 3 of 5"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 463,
+    "page number" : 4,
+    "bounding box" : [ 36.85, 715.35, 557.167, 735.655 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 70,
+      "page number" : 4,
+      "bounding box" : [ 36.85, 726.912, 132.731, 735.655 ],
+      "heading level" : 5,
+      "font" : "AdvTT82e34213.B",
+      "font size" : 7.372,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "RESEARCH | REPORT"
+    }, {
+      "type" : "image",
+      "id" : 71,
+      "page number" : 4,
+      "bounding box" : [ 36.85, 715.35, 557.167, 727.71 ],
+      "source" : "2022_Johnson_images/imageFile68.png"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 473,
+    "page number" : 4,
+    "bounding box" : [ 40.479, 695.197, 143.412, 707.867 ],
+    "font" : "BentonSansCondensed-Bold",
+    "font size" : 10.0,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "A B"
+  }, {
+    "type" : "paragraph",
+    "id" : 475,
+    "page number" : 4,
+    "bounding box" : [ 332.489, 695.197, 338.539, 707.867 ],
+    "font" : "BentonSansCondensed-Bold",
+    "font size" : 10.0,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "C"
+  }, {
+    "type" : "image",
+    "id" : 464,
+    "page number" : 4,
+    "bounding box" : [ 201.743, 40.568, 214.103, 706.685 ],
+    "source" : "2022_Johnson_images/imageFile69.png"
+  }, {
+    "type" : "image",
+    "id" : 465,
+    "page number" : 4,
+    "bounding box" : [ 379.826, 40.568, 392.186, 706.685 ],
+    "source" : "2022_Johnson_images/imageFile70.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 505,
+    "page number" : 4,
+    "bounding box" : [ 69.117, 696.716, 111.231, 704.905 ],
+    "font" : "Helvetica",
+    "font size" : 7.084,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "GFP-bGSDM"
+  }, {
+    "type" : "paragraph",
+    "id" : 489,
+    "page number" : 4,
+    "bounding box" : [ 158.733, 693.434, 173.925, 700.453 ],
+    "font" : "Helvetica",
+    "font size" : 6.072,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "1,400"
+  }, {
+    "type" : "image",
+    "id" : 472,
+    "page number" : 4,
+    "bounding box" : [ 174.054, 623.304, 247.745, 696.276 ],
+    "source" : "2022_Johnson_images/imageFile71.png"
+  }, {
+    "type" : "image",
+    "id" : 471,
+    "page number" : 4,
+    "bounding box" : [ 51.894, 418.524, 553.566, 696.036 ],
+    "source" : "2022_Johnson_images/imageFile72.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 479,
+    "page number" : 4,
+    "bounding box" : [ 249.531, 683.718, 300.213, 690.737 ],
+    "font" : "Helvetica",
+    "font size" : 6.072,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "bGSDM + protease"
+  }, {
+    "type" : "paragraph",
+    "id" : 488,
+    "page number" : 4,
+    "bounding box" : [ 158.733, 683.326, 173.925, 690.345 ],
+    "font" : "Helvetica",
+    "font size" : 6.072,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "1,200"
+  }, {
+    "type" : "paragraph",
+    "id" : 487,
+    "page number" : 4,
+    "bounding box" : [ 158.733, 673.218, 173.925, 680.237 ],
+    "font" : "Helvetica",
+    "font size" : 6.072,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "1,000"
+  }, {
+    "type" : "paragraph",
+    "id" : 486,
+    "page number" : 4,
+    "bounding box" : [ 163.287, 663.11, 173.415, 670.129 ],
+    "font" : "Helvetica",
+    "font size" : 6.072,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "800"
+  }, {
+    "type" : "paragraph",
+    "id" : 480,
+    "page number" : 4,
+    "bounding box" : [ 152.705, 656.523, 159.724, 668.807 ],
+    "font" : "Helvetica",
+    "font size" : 6.072,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "RFU"
+  }, {
+    "type" : "paragraph",
+    "id" : 485,
+    "page number" : 4,
+    "bounding box" : [ 163.287, 653.002, 173.415, 660.021 ],
+    "font" : "Helvetica",
+    "font size" : 6.072,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "600"
+  }, {
+    "type" : "paragraph",
+    "id" : 491,
+    "page number" : 4,
+    "bounding box" : [ 249.532, 651.83, 313.323, 658.849 ],
+    "font" : "Helvetica",
+    "font size" : 6.072,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "bGSDM-C3A + protease"
+  }, {
+    "type" : "paragraph",
+    "id" : 484,
+    "page number" : 4,
+    "bounding box" : [ 163.287, 642.894, 173.415, 649.913 ],
+    "font" : "Helvetica",
+    "font size" : 6.072,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "400"
+  }, {
+    "type" : "paragraph",
+    "id" : 478,
+    "page number" : 4,
+    "bounding box" : [ 249.531, 634.038, 270.734, 641.057 ],
+    "font" : "Helvetica",
+    "font size" : 6.072,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "bGSDM"
+  }, {
+    "type" : "paragraph",
+    "id" : 483,
+    "page number" : 4,
+    "bounding box" : [ 163.287, 632.787, 173.415, 639.806 ],
+    "font" : "Helvetica",
+    "font size" : 6.072,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "200"
+  }, {
+    "type" : "paragraph",
+    "id" : 482,
+    "page number" : 4,
+    "bounding box" : [ 168.935, 622.679, 172.311, 629.698 ],
+    "font" : "Helvetica",
+    "font size" : 6.072,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "0"
+  }, {
+    "type" : "paragraph",
+    "id" : 481,
+    "page number" : 4,
+    "bounding box" : [ 173.207, 616.464, 249.711, 623.483 ],
+    "font" : "Helvetica",
+    "font size" : 6.072,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "0 10 20 30 40 50 60"
+  }, {
+    "type" : "paragraph",
+    "id" : 477,
+    "page number" : 4,
+    "bounding box" : [ 190.655, 609.079, 219.138, 616.098 ],
+    "font" : "Helvetica",
+    "font size" : 6.072,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "Time (min)"
+  }, {
+    "type" : "paragraph",
+    "id" : 506,
+    "page number" : 4,
+    "bounding box" : [ 52.325, 605.955, 130.077, 614.144 ],
+    "font" : "Helvetica",
+    "font size" : 7.084,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "GFP-bGSDM + protease"
+  }, {
+    "type" : "paragraph",
+    "id" : 516,
+    "page number" : 4,
+    "bounding box" : [ 160.765, 592.923, 212.904, 599.942 ],
+    "font" : "Helvetica",
+    "font size" : 6.072,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "bGSDM + protease"
+  }, {
+    "type" : "paragraph",
+    "id" : 515,
+    "page number" : 4,
+    "bounding box" : [ 147.265, 584.667, 212.901, 591.686 ],
+    "font" : "Helvetica",
+    "font size" : 6.072,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "bGSDM-C3A + protease"
+  }, {
+    "type" : "paragraph",
+    "id" : 522,
+    "level" : "2",
+    "page number" : 4,
+    "bounding box" : [ 316.821, 576.612, 329.418, 585.971 ],
+    "font" : "Helvetica",
+    "font size" : 8.096,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "****"
+  }, {
+    "type" : "paragraph",
+    "id" : 514,
+    "page number" : 4,
+    "bounding box" : [ 141.52, 576.41, 212.901, 583.429 ],
+    "font" : "Helvetica",
+    "font size" : 6.072,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "bGSDM-L247A + protease"
+  }, {
+    "type" : "paragraph",
+    "id" : 513,
+    "page number" : 4,
+    "bounding box" : [ 140.166, 568.153, 212.889, 575.172 ],
+    "font" : "Helvetica",
+    "font size" : 6.072,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "bGSDM + protease-H796A"
+  }, {
+    "type" : "paragraph",
+    "id" : 521,
+    "level" : "2",
+    "page number" : 4,
+    "bounding box" : [ 287.774, 561.374, 294.073, 570.732 ],
+    "font" : "Helvetica",
+    "font size" : 8.096,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "**"
+  }, {
+    "type" : "paragraph",
+    "id" : 512,
+    "page number" : 4,
+    "bounding box" : [ 140.166, 559.896, 212.889, 566.915 ],
+    "font" : "Helvetica",
+    "font size" : 6.072,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "bGSDM + protease-C840A"
+  }, {
+    "type" : "paragraph",
+    "id" : 520,
+    "page number" : 4,
+    "bounding box" : [ 255.832, 554.563, 265.528, 561.582 ],
+    "font" : "Helvetica",
+    "font size" : 6.072,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "n.s."
+  }, {
+    "type" : "paragraph",
+    "id" : 511,
+    "page number" : 4,
+    "bounding box" : [ 191.314, 551.639, 212.906, 558.658 ],
+    "font" : "Helvetica",
+    "font size" : 6.072,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "bGSDM"
+  }, {
+    "type" : "paragraph",
+    "id" : 510,
+    "page number" : 4,
+    "bounding box" : [ 196.732, 543.382, 212.148, 550.401 ],
+    "font" : "Helvetica",
+    "font size" : 6.072,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "buffer"
+  }, {
+    "type" : "paragraph",
+    "id" : 508,
+    "page number" : 4,
+    "bounding box" : [ 214.995, 531.262, 306.316, 537.695 ],
+    "font" : "Helvetica",
+    "font size" : 5.565,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "0 400 800 1,200"
+  }, {
+    "type" : "paragraph",
+    "id" : 518,
+    "page number" : 4,
+    "bounding box" : [ 241.749, 522.505, 282.559, 529.523 ],
+    "font" : "Helvetica",
+    "font size" : 6.071,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "RFU (at 1 hour)"
+  }, {
+    "type" : "paragraph",
+    "id" : 476,
+    "page number" : 4,
+    "bounding box" : [ 40.479, 508.948, 46.739, 521.618 ],
+    "font" : "BentonSansCondensed-Bold",
+    "font size" : 10.0,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "D"
+  }, {
+    "type" : "text block",
+    "id" : 525,
+    "page number" : 4,
+    "bounding box" : [ 55.532, 418.819, 196.196, 513.798 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 53,
+      "page number" : 4,
+      "bounding box" : [ 58.748, 504.197, 79.373, 512.627 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 7.084,
+      "text color" : "[1.0, 1.0, 1.0]",
+      "content" : "Z = 29"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 523,
+    "page number" : 4,
+    "bounding box" : [ 201.678, 418.819, 342.341, 513.798 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 52,
+      "page number" : 4,
+      "bounding box" : [ 204.4, 504.343, 225.026, 512.773 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 7.084,
+      "text color" : "[1.0, 1.0, 1.0]",
+      "content" : "Z = 53"
+    } ]
+  }, {
+    "type" : "text block",
+    "id" : 524,
+    "page number" : 4,
+    "bounding box" : [ 410.101, 418.448, 550.082, 513.792 ],
+    "kids" : [ {
+      "type" : "paragraph",
+      "id" : 50,
+      "page number" : 4,
+      "bounding box" : [ 413.771, 503.579, 434.396, 512.009 ],
+      "font" : "Helvetica-Bold",
+      "font size" : 7.084,
+      "text color" : "[1.0, 1.0, 1.0]",
+      "content" : "Z = 80"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 474,
+    "page number" : 4,
+    "bounding box" : [ 40.479, 405.028, 45.739, 417.698 ],
+    "font" : "BentonSansCondensed-Bold",
+    "font size" : 10.0,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "E"
+  }, {
+    "type" : "paragraph",
+    "id" : 495,
+    "page number" : 4,
+    "bounding box" : [ 388.949, 397.106, 457.627, 412.378 ],
+    "font" : "Helvetica",
+    "font size" : 7.084,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "inflammasomes, cytotoxic lymphocytes"
+  }, {
+    "type" : "paragraph",
+    "id" : 498,
+    "page number" : 4,
+    "bounding box" : [ 144.818, 397.106, 215.042, 412.378 ],
+    "font" : "Helvetica",
+    "font size" : 7.084,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "environmental signals, phage infection"
+  }, {
+    "type" : "paragraph",
+    "id" : 493,
+    "page number" : 4,
+    "bounding box" : [ 465.733, 375.288, 502.095, 397.645 ],
+    "font" : "Helvetica",
+    "font size" : 7.084,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "caspases, granzymes, others?"
+  }, {
+    "type" : "paragraph",
+    "id" : 497,
+    "level" : "15",
+    "page number" : 4,
+    "bounding box" : [ 82.235, 382.0, 131.454, 397.273 ],
+    "font" : "Helvetica",
+    "font size" : 7.084,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "caspase-like, other proteases"
+  }, {
+    "type" : "paragraph",
+    "id" : 501,
+    "page number" : 4,
+    "bounding box" : [ 274.5, 376.025, 365.582, 393.927 ],
+    "font" : "Helvetica",
+    "font size" : 7.084,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "cell death cytokine transport"
+  }, {
+    "type" : "paragraph",
+    "id" : 504,
+    "page number" : 4,
+    "bounding box" : [ 211.133, 380.073, 248.536, 388.262 ],
+    "font" : "Helvetica",
+    "font size" : 7.084,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "other roles?"
+  }, {
+    "type" : "paragraph",
+    "id" : 499,
+    "page number" : 4,
+    "bounding box" : [ 272.61, 355.361, 306.393, 370.634 ],
+    "font" : "Helvetica",
+    "font size" : 7.084,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "membrane leakage"
+  }, {
+    "type" : "list",
+    "id" : 526,
+    "level" : "18",
+    "page number" : 4,
+    "bounding box" : [ 36.85, 298.021, 267.338, 307.226 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 1,
+    "previous list id" : 394,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 36.85, 298.021, 267.338, 307.226 ],
+      "font" : "AdvTT1ef22648.B",
+      "font size" : 7.97,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "Fig. 4. Cleaved bGSDMs form membrane pores to elicit cell death.",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 529,
+    "page number" : 4,
+    "bounding box" : [ 302.966, 214.432, 557.231, 307.147 ],
+    "font" : "AdvTTec37d199",
+    "font size" : 7.97,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "values for each condition at 60 min. Error bars represent the SEM of three technical replicates, and statistical significance was determined by one-way ANOVA and Tukey multiple comparison test. n.s. ≥ 0.05; **P = 0.001 to 0.01; ****P < 0.0001. (C) Negative stain electron microscopy of Runella gasdermin pores in DOPC liposomes (left) and in mesh-like arrays (right). Scale bars, 50 nm. (D) Slices from representative tomogram (1 of 10) of Runella gasdermin pores in DOPC liposomes, at three different depths (Z). Yellow arrowheads indicate pores inserted within the liposome membrane. Scale bars, 50 nm. (E) Model of pyroptosis for bGSDMs and mammalian gasdermins."
+  }, {
+    "type" : "list",
+    "id" : 527,
+    "level" : "6",
+    "page number" : 4,
+    "bounding box" : [ 36.85, 245.838, 291.043, 296.795 ],
+    "numbering style" : "english letters",
+    "number of list items" : 2,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 36.85, 266.67, 284.078, 296.795 ],
+      "font" : "AdvTTec37d199",
+      "font size" : 7.97,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "(A) GFP was fused to the N terminus of the Runella bGSDM. Cells expressing GFP-bGSDM alone (top) or with the caspase-like protease (bottom) are shown. GFP is colored green. Membrane dye (FM4-64) is in magenta. Scale bar, 1 mm.",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 4,
+      "bounding box" : [ 36.85, 245.838, 291.043, 265.388 ],
+      "font" : "AdvTTec37d199",
+      "font size" : 7.97,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "(B) Cleaved Runella gasdermin permeabilizes liposome membranes. Relative fluorescence units (RFU) were measured continuously from cleavage reactions of",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 528,
+    "page number" : 4,
+    "bounding box" : [ 36.849, 214.43, 291.109, 244.389 ],
+    "font" : "AdvTTec37d199",
+    "font size" : 7.97,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "dioleoylphosphatidylcholine (DOPC) liposomes loaded with TbCl3 with an external solution containing 20 mM dipicolonic acid (DPA). The top plot represents an example of time-course liposome leakage, whereas the bottom bar chart shows"
+  }, {
+    "type" : "paragraph",
+    "id" : 466,
+    "page number" : 4,
+    "bounding box" : [ 36.85, 39.865, 201.035, 174.945 ],
+    "font" : "AdvTTd7835f12",
+    "font size" : 8.668,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "and is supported by a short parallel b strand from F253 to D255. Bradyrhizobium bGSDM F253 latches over the palmitoyl modification, with similar hydrophobic contacts also observed in the Runella and Vitiosangium structures(fig.S10,AandB).TheBradyrhizobium bGSDM C-terminal peptide terminates below the strand equivalent to b2 and is supported by hydrogen bonds from R27 to the L256 backbone and N29 to E258. Truncation of the C-terminal peptide in the Runella, Bradyrhizobium, or Vitiosangium bGSDM constructs led to arrested cell growth, which"
+  }, {
+    "type" : "paragraph",
+    "id" : 467,
+    "page number" : 4,
+    "bounding box" : [ 214.922, 144.464, 379.057, 174.771 ],
+    "font" : "AdvTTd7835f12",
+    "font size" : 8.668,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "confirms that the C-terminal peptide is required to maintain the bGSDM autoinhibition (fig. S11, A and B)."
+  }, {
+    "type" : "paragraph",
+    "id" : 469,
+    "page number" : 4,
+    "bounding box" : [ 393.054, 102.623, 557.196, 174.77 ],
+    "font" : "AdvTTd7835f12",
+    "font size" : 8.668,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "capable of activating divergent bGSDMs engineered to contain the Runella cleavage loop, which suggests that additional contacts specify bGSDM recognition (fig. S11, G and H). Thus, like their mammalian homologs, bGSDMs are cell death effectors activated by proteolytic cleavage."
+  }, {
+    "type" : "paragraph",
+    "id" : 468,
+    "page number" : 4,
+    "bounding box" : [ 214.923, 39.864, 379.144, 143.419 ],
+    "font" : "AdvTTd7835f12",
+    "font size" : 8.668,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "We next used mutagenesis of the Runella bGSDM system to define the specificity of proteolytic cleavage and bGSDM activation. In vitro, the L247 P1 position was essential for cleavage, and proteolysis was inhibited by mutations that disrupt the P1′ glycine and the P4, P3, P2, and P3′ residues (fig. S11, C and D). Likewise, mutations that disrupt the P1 and P1′ positions eliminated toxicity in vivo (fig. S11, E and F). The Runella protease was not"
+  }, {
+    "type" : "paragraph",
+    "id" : 470,
+    "page number" : 4,
+    "bounding box" : [ 393.054, 39.864, 557.189, 101.579 ],
+    "font" : "AdvTTd7835f12",
+    "font size" : 8.668,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "To determine whether activated bGSDMs associate with bacterial membranes, we fused green fluorescent protein (GFP) to the N terminus of the Runella bGSDM and visualized expression in E. coli. Upon coexpression with the Runella protease, GFP-bGSDM"
+  }, {
+    "type" : "paragraph",
+    "id" : 530,
+    "page number" : 4,
+    "bounding box" : [ 564.226, 231.466, 573.154, 524.53 ],
+    "font" : "Times-Roman",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Downloaded from https://www.science.org at University of Toronto on December 11, 2024"
+  }, {
+    "type" : "footer",
+    "id" : 531,
+    "page number" : 4,
+    "bounding box" : [ 36.85, 14.649, 557.145, 24.102 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 64,
+      "page number" : 4,
+      "bounding box" : [ 36.85, 14.649, 557.145, 24.102 ],
+      "heading level" : 4,
+      "font" : "AdvTTd7835f12",
+      "font size" : 6.974,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "Johnson et al., Science 375, 221 225 (2022) 14 January 2022 4 of 5"
+    } ]
+  }, {
+    "type" : "header",
+    "id" : 532,
+    "page number" : 5,
+    "bounding box" : [ 36.85, 715.35, 557.167, 735.655 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 72,
+      "page number" : 5,
+      "bounding box" : [ 36.85, 726.912, 132.731, 735.655 ],
+      "heading level" : 5,
+      "font" : "AdvTT82e34213.B",
+      "font size" : 7.372,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "RESEARCH | REPORT"
+    }, {
+      "type" : "image",
+      "id" : 73,
+      "page number" : 5,
+      "bounding box" : [ 36.85, 715.35, 557.167, 727.71 ],
+      "source" : "2022_Johnson_images/imageFile73.png"
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 535,
+    "page number" : 5,
+    "bounding box" : [ 36.849, 447.826, 201.037, 708.308 ],
+    "font" : "AdvTTd7835f12",
+    "font size" : 8.668,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "coalesced into membrane-associated puncta and induced cellular toxicity (Fig. 4A and fig. S12, A to C). Transmission electron microscopy analysis of E. coli expressing the active Runella bGSDM system revealed clear disruption of membrane integrity (fig. S13, A to C). In vitro reconstituted Runella bGSDM activity demonstrated that cleaved Runella bGSDMs permeabilized liposomes and caused rapid release of the internal contents (Fig. 4B and fig. S14, A and B). Protease active-site or bGSDM cleavage-site mutations disrupted all liposome permeabilization, which confirms that proteolysis is essential for bGSDM activation (Fig. 4B and fig. S14B). Blocking bGSDM palmitoylation with mutation of residue C3 reduced but did not abolish liposome leakage or membrane-associated puncta formation in cells (Fig. 4B and fig. S12A). Likewise, a C7A mutation to the putative Lysobacter bGSDM palmitoylation site was not sufficient to abolish antiphage defense (fig. S8B), which suggests that lipid-modification supports but is not required for membrane permeabilization."
+  }, {
+    "type" : "paragraph",
+    "id" : 537,
+    "page number" : 5,
+    "bounding box" : [ 214.922, 405.988, 379.183, 708.303 ],
+    "font" : "AdvTTd7835f12",
+    "font size" : 8.668,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "Our results support a model for gasdermin pore formation and effector function that has notable parallels between bacteria and mammals (Fig. 4E). bGSDM systems can exert antiphage defense, and the fusion of bGSDMassociated proteases with NACHT and repeat domains suggests that, similar to inflammasome sensors in mammals, foreign pathogen recognition may control the initiation of gasdermin cleavage (Fig. 2, B to D) (15, 17). In both mammalian gasdermin and bGSDM systems, proteolytic cleavage after the lipophilic NTD releases gasdermin inhibition. The notably short C-terminal peptide responsible for bGSDM inhibitionsuggeststhe possibilitythat short-form eukaryotic gasdermins, including pejvakin, may undergo activation through a similar mechanism. Furthermore, widespread palmitoylation of bGSDMs indicates that cysteine modifications are a conserved mechanism for regulating gasdermin pores (18). The size distribution of pores from Runella and Bacteroidetes species might suggest that bGSDM pores, like those in mammals, could be customized for the secretion of certain molecules (10). Defining the cues that activate bGSDM systems will provide insight into their roles in prokaryotic biology and the origins of pyroptotic cell death."
+  }, {
+    "type" : "image",
+    "id" : 533,
+    "page number" : 5,
+    "bounding box" : [ 201.743, 40.568, 214.103, 706.685 ],
+    "source" : "2022_Johnson_images/imageFile74.png"
+  }, {
+    "type" : "image",
+    "id" : 534,
+    "page number" : 5,
+    "bounding box" : [ 379.826, 40.568, 392.186, 706.685 ],
+    "source" : "2022_Johnson_images/imageFile75.png"
+  }, {
+    "type" : "paragraph",
+    "id" : 541,
+    "level" : "6",
+    "page number" : 5,
+    "bounding box" : [ 393.052, 699.499, 540.167, 706.56 ],
+    "font" : "AdvTTec37d199",
+    "font size" : 6.227,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "18. F. Humphries et al., Science 369, 1633–1637 (2020)."
+  }, {
+    "type" : "paragraph",
+    "id" : 542,
+    "page number" : 5,
+    "bounding box" : [ 393.052, 677.606, 466.438, 684.511 ],
+    "font" : "AdvTTf99636c8.B",
+    "font size" : 5.978,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "ACKNOWLEDGMENTS"
+  }, {
+    "type" : "paragraph",
+    "id" : 543,
+    "page number" : 5,
+    "bounding box" : [ 393.051, 300.946, 557.187, 674.641 ],
+    "font" : "AdvTTec37d199",
+    "font size" : 6.227,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "The authors thank members of the Kranzusch and Sorek laboratories for helpful discussions. Mass spectrometry was performed at the Biopolymers and Proteomics Core Facility at the Koch Institute of MIT, the Taplin Mass Spectrometry Facility at Harvard Medical School, and the Weizmann De Botton Protein Profiling Institute. We thank W. Shih’s laboratory for training and use of the JEOL-1400 electron microscope, the Harvard Center for Cryo-Electron Microscopy (HC2EM), the HMS Electron Microscopy Facility, M. Eck for sharing computational resources, and the SBGrid consortium for computational support. We thank J. Leitz and A. Brunger for sharing scripts for cryo-ET reconstruction. Funding: This study was supported by the Pew Biomedical Scholars Program (P.J.K.), the Burroughs Wellcome Fund PATH award (P.J.K.), the Mathers Foundation (P.J.K.), the Parker Institute for Cancer Immunotherapy (P.J.K.), European Research Council grant ERC-CoG 681203 (R.S.), Israel Science Foundation grant ISF 296/ 21 (R.S.), the Ernest and Bonnie Beutler Research Program of Excellence in Genomic Medicine (R.S.), the Minerva Foundation and Federal German Ministry for Education and Research (R.S.), the Knell Family Center for Microbiology (R.S.), the Yotam project and the Weizmann Institute Sustainability and Energy Research Initiative (R.S.), the Dr. Barry Sherman Institute for Medicinal Chemistry (R.S.), National Institute of Health Cancer Immunology training grant T32CA207021 (A.G.J.), a Life Science Research Foundation postdoctoral fellowship of the Open Philanthropy Project (A.G.J.), a Minerva Foundation postdoctoral fellowship (T.W.), and a Herchel Smith Graduate Research Fellowship (B.D.-L.). Author contributions: Conceptualization: A.G.J., T.W., G.A., R.S., and P.J.K. Methodology: A.G.J., T.W., M.L.M., B.D.-L., E.Y., Y.O.-S., R.S., and P.J.K. Investigation: A.G.J., T.W., M.L.M., B.D.-L., E.Y., Y.O.-S., R.S., and P.J.K. Visualization: A.G.J., T.W., and M.L.M. Funding acquisition: R.S. and P.J.K. Project administration: R.S. and P.J.K. Supervision: R.S. and P.J.K. Writing original draft: A.G.J., T.W., R.S., and P.J.K. Writing review and editing: A.G.J., T.W., M.L.M., B.D.-L., E.Y., Y.O.-S., G.A., R.S., and P.J.K. Competing interests: R.S. is a scientific cofounder and advisor of BiomX, Pantheon Bioscience, and Ecophage. The remaining authors have no competing interests to declare. Data and materials availability: Atomic coordinates and structure factors for the reported crystal structures have been deposited with the Protein Data Bank under accession numbers 7N50 (Bradyrhizobium bGSDM), 7N51 (Vitiosangium bGSDM), and 7N52 (Runella bGSDM). Correspondence and requests for other materials should be addressed to P.J.K. or R.S."
+  }, {
+    "type" : "paragraph",
+    "id" : 536,
+    "page number" : 5,
+    "bounding box" : [ 36.849, 154.947, 201.058, 446.781 ],
+    "font" : "AdvTTd7835f12",
+    "font size" : 8.668,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "To compare the bGSDM pore with its mammalian counterparts, we used electron microscopy to visualize Runella bGSDM cleavage reactions and liposomes (Fig. 4C and fig. S15, A to C). bGSDM pores were observed within liposomes and as fragmented mesh-like arrays. Cryo–electron microscopy (cryo-EM) and two-dimensional (2D) classification analysis of detergent-solubilized complexes revealed that Runella bGSDM forms a ringlike pore that exhibits a width of ~50 Å and an inner diameter ranging from 200 to 300 Å (fig. S17, A to D). Runella bGSDM pores within liposomes measured ~240 to 330 Å—larger than the 135- to 215-Å mammalian gasdermin pores (fig. S17, A to D) (6, 10, 16). We also reconstituted cleavage of a bGSDM from a metagenomic Bacteroidetes scaffold and observed smaller 130- to 190-Å pores within liposomes, which suggests heterogeneity in the architecture of diverse bGSDM pores (fig. S18, A to D, and fig. S19, A to C). Cryo– electron tomography (cryo-ET) tilt series reconstructions of the pore-liposome assemblies confirmed that bGSDM pores span the liposomal surface to disrupt membrane integrity (Fig. 4D, fig. S20, and movies S3 and S4)."
+  }, {
+    "type" : "paragraph",
+    "id" : 538,
+    "page number" : 5,
+    "bounding box" : [ 214.923, 381.84, 302.145, 388.744 ],
+    "font" : "AdvTTf99636c8.B",
+    "font size" : 5.978,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "REFERENCES AND NOTES"
+  }, {
+    "type" : "list",
+    "id" : 539,
+    "level" : "7",
+    "page number" : 5,
+    "bounding box" : [ 214.922, 163.466, 379.123, 378.874 ],
+    "numbering style" : "arabic numbers",
+    "number of list items" : 15,
+    "list items" : [ {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 214.923, 371.813, 349.009, 378.874 ],
+      "font" : "AdvTTec37d199",
+      "font size" : 6.227,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "1. N. Kayagaki et al., Nature 526, 666–671 (2015).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 214.923, 363.195, 334.208, 370.256 ],
+      "font" : "AdvTTec37d199",
+      "font size" : 6.227,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "2. J. Shi et al., Nature 526, 660 665 (2015).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 214.924, 354.577, 348.208, 361.638 ],
+      "font" : "AdvTTec37d199",
+      "font size" : 6.227,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "3. W. T. He et al., Cell Res. 25, 1285–1298 (2015).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 214.924, 345.96, 332.506, 353.021 ],
+      "font" : "AdvTTec37d199",
+      "font size" : 6.227,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "4. X. Liu et al., Nature 535, 153–158 (2016).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 214.924, 337.342, 333.375, 344.403 ],
+      "font" : "AdvTTec37d199",
+      "font size" : 6.227,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "5. J. Ding et al., Nature 535, 111–116 (2016).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 214.925, 328.725, 379.075, 335.786 ],
+      "font" : "AdvTTec37d199",
+      "font size" : 6.227,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "6. J. Ruan, S. Xia, X. Liu, J. Lieberman, H. Wu, Nature 557, 62 67",
+      "kids" : [ {
+        "type" : "paragraph",
+        "id" : 76,
+        "level" : "1",
+        "page number" : 5,
+        "bounding box" : [ 224.903, 320.732, 242.593, 327.792 ],
+        "font" : "AdvTTec37d199",
+        "font size" : 6.227,
+        "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+        "content" : "(2018)."
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 214.925, 304.177, 374.354, 319.175 ],
+      "font" : "AdvTTec37d199",
+      "font size" : 6.227,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "7. S. Jiang, Z. Zhou, Y. Sun, T. Zhang, L. Sun, Sci. Immunol. 5, eabd2591 (2020).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 214.925, 295.559, 375.277, 302.62 ],
+      "font" : "AdvTTec37d199",
+      "font size" : 6.227,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "8. J. Lieberman, H. Wu, J. C. Kagan, Sci. Immunol. 4, eaav1447",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 77,
+        "level" : "8",
+        "page number" : 5,
+        "bounding box" : [ 224.903, 263.017, 243.565, 294.626 ],
+        "numbering style" : "arabic numbers",
+        "number of list items" : 2,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 5,
+          "bounding box" : [ 224.903, 287.566, 242.593, 294.626 ],
+          "font" : "AdvTTec37d199",
+          "font size" : 6.227,
+          "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+          "content" : "(2019).",
+          "kids" : [ {
+            "type" : "paragraph",
+            "id" : 75,
+            "level" : "9",
+            "page number" : 5,
+            "bounding box" : [ 214.925, 271.011, 370.902, 286.009 ],
+            "font" : "AdvTTec37d199",
+            "font size" : 6.227,
+            "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+            "content" : "9. A. Daskalov, P. S. Mitchell, A. Sandstrom, R. E. Vance, N. L. Glass, Proc. Natl. Acad. Sci. U.S.A. 117, 18600–18607"
+          } ]
+        }, {
+          "type" : "list item",
+          "page number" : 5,
+          "bounding box" : [ 224.903, 263.017, 243.565, 270.078 ],
+          "font" : "AdvTTec37d199",
+          "font size" : 6.227,
+          "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+          "content" : "(2020).",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 214.925, 255.023, 333.089, 262.084 ],
+      "font" : "AdvTTec37d199",
+      "font size" : 6.227,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "10. S. Xia et al., Nature 593, 607–611 (2021).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 214.926, 247.086, 338.056, 254.147 ],
+      "font" : "AdvTTec37d199",
+      "font size" : 6.227,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "11. Z. Liu et al., Immunity 51, 43–49.e4 (2019).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 214.926, 238.469, 377.198, 245.53 ],
+      "font" : "AdvTTec37d199",
+      "font size" : 6.227,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "12. P. Broz, P. Pelegrín, F. Shao, Nat. Rev. Immunol. 20, 143–157",
+      "kids" : [ {
+        "type" : "list",
+        "id" : 78,
+        "level" : "8",
+        "page number" : 5,
+        "bounding box" : [ 224.904, 213.92, 243.565, 237.536 ],
+        "numbering style" : "arabic numbers",
+        "number of list items" : 2,
+        "list items" : [ {
+          "type" : "list item",
+          "page number" : 5,
+          "bounding box" : [ 224.904, 230.475, 243.565, 237.536 ],
+          "font" : "AdvTTec37d199",
+          "font size" : 6.227,
+          "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+          "content" : "(2020).",
+          "kids" : [ {
+            "type" : "paragraph",
+            "id" : 74,
+            "level" : "9",
+            "page number" : 5,
+            "bounding box" : [ 214.926, 221.857, 362.504, 228.918 ],
+            "font" : "AdvTTec37d199",
+            "font size" : 6.227,
+            "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+            "content" : "13. C. Clavé et al., bioRxiv 2021.06.03.446900 [Preprint]"
+          } ]
+        }, {
+          "type" : "list item",
+          "page number" : 5,
+          "bounding box" : [ 224.905, 213.92, 243.222, 220.981 ],
+          "font" : "AdvTTec37d199",
+          "font size" : 6.227,
+          "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+          "content" : "(2021).",
+          "kids" : [ ]
+        } ]
+      } ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 214.927, 197.309, 379.123, 212.364 ],
+      "font" : "AdvTTec37d199",
+      "font size" : 6.227,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "14. D. Kümmel, U. Heinemann, M. Veit, Proc. Natl. Acad. Sci. U.S.A. 103, 12701–12706 (2006).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 214.927, 180.758, 376.903, 195.756 ],
+      "font" : "AdvTTec37d199",
+      "font size" : 6.227,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "15. M. Shi, P. Zhang, S. M. Vora, H. Wu, Curr. Opin. Cell Biol. 63, 194–203 (2020).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 214.923, 172.14, 359.008, 179.201 ],
+      "font" : "AdvTTec37d199",
+      "font size" : 6.227,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "16. J. M. Hansen et al., Cell 184, 3178 3191.e18 (2021).",
+      "kids" : [ ]
+    }, {
+      "type" : "list item",
+      "page number" : 5,
+      "bounding box" : [ 214.922, 163.466, 379.092, 170.527 ],
+      "font" : "AdvTTec37d199",
+      "font size" : 6.227,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "17. G. Kaur, A. M. Burroughs, L. M. Iyer, L. Aravind, eLife 9, e52696",
+      "kids" : [ ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "id" : 544,
+    "page number" : 5,
+    "bounding box" : [ 393.052, 270.608, 482.396, 277.512 ],
+    "font" : "AdvTTf99636c8.B",
+    "font size" : 5.978,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "SUPPLEMENTARY MATERIALS"
+  }, {
+    "type" : "paragraph",
+    "id" : 545,
+    "page number" : 5,
+    "bounding box" : [ 393.052, 212.789, 494.178, 267.699 ],
+    "font" : "AdvTTec37d199",
+    "font size" : 6.227,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "science.org/doi/10.1126/science.abj8432 Materials and Methods Figs. S1 to S20 Tables S1 to S6 References (19–47) MDAR Reproducibility Checklist Movies S1 to S4"
+  }, {
+    "type" : "paragraph",
+    "id" : 546,
+    "page number" : 5,
+    "bounding box" : [ 393.052, 187.504, 535.304, 194.565 ],
+    "font" : "AdvTTec37d199",
+    "font size" : 6.227,
+    "text color" : "[0.0, 0.0, 1.0]",
+    "content" : "View/request a protocol for this paper from Bio-protocol."
+  }, {
+    "type" : "paragraph",
+    "id" : 547,
+    "page number" : 5,
+    "bounding box" : [ 393.052, 155.642, 498.402, 178.634 ],
+    "font" : "AdvTTec37d199",
+    "font size" : 6.227,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "7 June 2021; resubmitted 21 October 2021 Accepted 22 November 2021 10.1126/science.abj8432"
+  }, {
+    "type" : "paragraph",
+    "id" : 540,
+    "level" : "1",
+    "page number" : 5,
+    "bounding box" : [ 224.901, 155.529, 243.562, 162.59 ],
+    "font" : "AdvTTec37d199",
+    "font size" : 6.227,
+    "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+    "content" : "(2020)."
+  }, {
+    "type" : "paragraph",
+    "id" : 549,
+    "page number" : 5,
+    "bounding box" : [ 564.226, 231.466, 573.154, 524.53 ],
+    "font" : "Times-Roman",
+    "font size" : 8.0,
+    "text color" : "[0.0]",
+    "content" : "Downloaded from https://www.science.org at University of Toronto on December 11, 2024"
+  }, {
+    "type" : "footer",
+    "id" : 550,
+    "page number" : 5,
+    "bounding box" : [ 36.85, 14.649, 557.144, 24.102 ],
+    "kids" : [ {
+      "type" : "heading",
+      "id" : 65,
+      "page number" : 5,
+      "bounding box" : [ 36.85, 14.649, 557.144, 24.102 ],
+      "heading level" : 4,
+      "font" : "AdvTTd7835f12",
+      "font size" : 6.974,
+      "text color" : "[0.13725490868091583, 0.12156862765550613, 0.125490203499794]",
+      "content" : "Johnson et al., Science 375, 221 225 (2022) 14 January 2022 5 of 5"
+    } ]
+  } ]
+}
