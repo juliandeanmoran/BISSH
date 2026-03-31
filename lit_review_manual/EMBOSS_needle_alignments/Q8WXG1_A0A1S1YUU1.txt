@@ -1,0 +1,73 @@
+########################################
+# Program: needle
+# Rundate: Tue 31 Mar 2026 22:32:19
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20260331-223216-0044-33718717-p2m.asequence
+#    -bsequence emboss_needle-I20260331-223216-0044-33718717-p2m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: A0A1S1YUU1
+# 2: Q8WXG1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 372
+# Identity:      95/372 (25.5%)
+# Similarity:   154/372 (41.4%)
+# Gaps:          93/372 (25.0%)
+# Score: 374.5
+# 
+#
+#=======================================
+
+A0A1S1YUU1         1 --------------------------------------------------      0
+                                                                       
+Q8WXG1             1 MWVLTPAAFAGKLLSVFRQPLSSLWRSLVPLFCWLRATFWLLATKRRKQQ     50
+
+A0A1S1YUU1         1 -------MNKLVSGNNIIP----SVNFHLWEPCNMRCKFCF--AKFQDVK     37
+                            ..|....:..:|    |||:|....||.:|.|||  ||    .
+Q8WXG1            51 LVLRGPDETKEEEEDPPLPTTPTSVNYHFTRQCNYKCGFCFHTAK----T     96
+
+A0A1S1YUU1        38 STILPKGHLKKEQTLEIVEQLAEYGFQKITFVGGEPTL---CPWISELIK     84
+                     |.:||....|:...|     |.|.|.:||.|.||||.|   ..::.:|::
+Q8WXG1            97 SFVLPLEEAKRGLLL-----LKEAGMEKINFSGGEPFLQDRGEYLGKLVR    141
+
+A0A1S1YUU1        85 --KANLLGMTTMIVTNGSNLSKDFLVQNQSYLDWITLSIDSINSSTNKVV    132
+                       |..|...:..||:|||.:.:.:......|||.:.:|.||.:...|.::
+Q8WXG1           142 FCKVELRLPSVSIVSNGSLIRERWFQNYGEYLDILAISCDSFDEEVNVLI    191
+
+A0A1S1YUU1       133 GRST-NSIHPDRIYYNQLIQTIYEYGYRLKINTVVTKANLNEDLNDFVND    181
+                     ||.. ...|.:.:  .:|.:...:|....|||:|:.:.|:.||:.:.:..
+Q8WXG1           192 GRGQGKKNHVENL--QKLRRWCRDYRVAFKINSVINRFNVEEDMTEQIKA    239
+
+A0A1S1YUU1       182 AKPERWKVFQVLPVRGQND-----NDIDELLISEKEFNEYVNRHSKNKFL    226
+                     ..|.||||||.|.:.|:|.     .:.:..:|.::||..::.||.:...|
+Q8WXG1           240 LNPVRWKVFQCLLIEGENCGEDALREAERFVIGDEEFERFLERHKEVSCL    289
+
+A0A1S1YUU1       227 ITETNTDMTNTYVMVDPAGRFFNNQNGNYMYSDHILEVGVQKAFEEMGYN    276
+                     :.|:|..|.::|:::|...||.|.:.|....|..||:|||::|.:..|::
+Q8WXG1           290 VPESNQKMKDSYLILDEYMRFLNCRKGRKDPSKSILDVGVEEAIKFSGFD    339
+
+A0A1S1YUU1       277 YDKFIDRKGIYQWK--------    290
+                     ...|:.|.|.|.|.        
+Q8WXG1           340 EKMFLKRGGKYIWSKADLKLDW    361
+
+
+#---------------------------------------
+#---------------------------------------

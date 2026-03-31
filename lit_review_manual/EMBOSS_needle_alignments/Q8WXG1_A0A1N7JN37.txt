@@ -1,0 +1,73 @@
+########################################
+# Program: needle
+# Rundate: Tue 31 Mar 2026 20:38:11
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20260331-203806-0681-42029268-p1m.asequence
+#    -bsequence emboss_needle-I20260331-203806-0681-42029268-p1m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: A0A1N7JN37
+# 2: Q8WXG1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 384
+# Identity:     105/384 (27.3%)
+# Similarity:   160/384 (41.7%)
+# Gaps:         116/384 (30.2%)
+# Score: 388.5
+# 
+#
+#=======================================
+
+A0A1N7JN37         1 --------------------------------------------------      0
+                                                                       
+Q8WXG1             1 MWVLTPAAFAGKLLSVFRQPLSSLWRSLVPLFCWLRATFWLLATKRRKQQ     50
+
+A0A1N7JN37         1 ------METSFEGIIP-------SVNYHLWEPCNMKCRFCFAT-------     30
+                           .||..|...|       |||||....||.||.|||.|       
+Q8WXG1            51 LVLRGPDETKEEEEDPPLPTTPTSVNYHFTRQCNYKCGFCFHTAKTSFVL    100
+
+A0A1N7JN37        31 -FQEAKKILPKGHLPKEQSLELIKQIAGMGFKKITFAGGEPTI---CPWI     76
+                      .:|||:           .|.|:|: |||  :||.|:||||.:   ..::
+Q8WXG1           101 PLEEAKR-----------GLLLLKE-AGM--EKINFSGGEPFLQDRGEYL    136
+
+A0A1N7JN37        77 SDLIAAAK-ESGMTTM-LVTNGTKLNETFFKKNQKNLDWIILSIDSLNDT    124
+                     ..|:...| |..:.:: :|:||:.:.|.:|:...:.||.:.:|.||.::.
+Q8WXG1           137 GKLVRFCKVELRLPSVSIVSNGSLIRERWFQNYGEYLDILAISCDSFDEE    186
+
+A0A1N7JN37       125 TNIKSGRAFKGKEPLTAEAYKLLIDEIKR----YGFQLKINTVVHHLNYN    170
+                     .|:..||. :||:.......||     :|    |....|||:|::..|..
+Q8WXG1           187 VNVLIGRG-QGKKNHVENLQKL-----RRWCRDYRVAFKINSVINRFNVE    230
+
+A0A1N7JN37       171 ESLMDLILYAQPKRWKVFQVLPMKGEND-----EHIEEFIISQQQFDHFI    215
+                     |.:.:.|....|.||||||.|.::|||.     ...|.|:|..::|:.|:
+Q8WXG1           231 EDMTEQIKALNPVRWKVFQCLLIEGENCGEDALREAERFVIGDEEFERFL    280
+
+A0A1N7JN37       216 ANHQFLKDHEILVSEDNSEMKDSYVMIDPAGRFFTNKEGFQEYSRPILEA    265
+                     ..|   |:...||.|.|.:|||||:::|...||...::|.::.|:.||:.
+Q8WXG1           281 ERH---KEVSCLVPESNQKMKDSYLILDEYMRFLNCRKGRKDPSKSILDV    327
+
+A0A1N7JN37       266 GAKKAYDEMDYSYRNFLDRGGLYQWD--------    291
+                     |.::|.....:..:.||.|||.|.|.        
+Q8WXG1           328 GVEEAIKFSGFDEKMFLKRGGKYIWSKADLKLDW    361
+
+
+#---------------------------------------
+#---------------------------------------

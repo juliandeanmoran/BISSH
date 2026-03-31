@@ -1,0 +1,73 @@
+########################################
+# Program: needle
+# Rundate: Tue 31 Mar 2026 21:09:21
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20260331-210918-0137-35030055-p2m.asequence
+#    -bsequence emboss_needle-I20260331-210918-0137-35030055-p2m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P0DW49
+# 2: Q8WXG1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 391
+# Identity:      92/391 (23.5%)
+# Similarity:   145/391 (37.1%)
+# Gaps:         123/391 (31.5%)
+# Score: 288.0
+# 
+#
+#=======================================
+
+P0DW49             1 --------------------------------------------------      0
+                                                                       
+Q8WXG1             1 MWVLTPAAFAGKLLSVFRQPLSSLWRSLVPLFCWLRATFWLLATKRRKQQ     50
+
+P0DW49             1 -----------MHNHNKIANKELVVNWHITEACNYRCGYCF--AKWGKQK     37
+                                ......:......||:|.|..|||:||:||  ||     
+Q8WXG1            51 LVLRGPDETKEEEEDPPLPTTPTSVNYHFTRQCNYKCGFCFHTAK-----     95
+
+P0DW49            38 GELIQDVASISQLMDAISGLPAVLNQMHAANFEGVRLNLVGGETFLNYR-     86
+                           .:.:..|.:|..|| .:|.:   |..|  ::|..|||.||..| 
+Q8WXG1            96 ------TSFVLPLEEAKRGL-LLLKE---AGME--KINFSGGEPFLQDRG    133
+
+P0DW49            87 -KIKEVVKQAKKRGLKL---SAITNGSRINNDFINLIANNFASIGFSVDS    132
+                      .:.::|:..|.. |:|   |.::|||.|...:..........:..|.||
+Q8WXG1           134 EYLGKLVRFCKVE-LRLPSVSIVSNGSLIRERWFQNYGEYLDILAISCDS    182
+
+P0DW49           133 VDNSTNLNIGRVE--KNAVMNPEKIIHTIASIRAINPKIEIKVNTVVSDL    180
+                     .|...|:.|||.:  ||.|.|.:|:.......|     :..|:|:|::..
+Q8WXG1           183 FDEEVNVLIGRGQGKKNHVENLQKLRRWCRDYR-----VAFKINSVINRF    227
+
+P0DW49           181 NKSEDLSDFIGQVMPNKWKIFKVLPV-----------VANHHLISEEQFT    219
+                     |..||:::.|..:.|.:||:|:.|.:           .|...:|.:|:|.
+Q8WXG1           228 NVEEDMTEQIKALNPVRWKVFQCLLIEGENCGEDALREAERFVIGDEEFE    277
+
+P0DW49           220 RFLRRHQRFGEIIYAEDNTEMVDSYIMIDPIGRFFQ----NSDFNNGYYY    265
+                     |||.||:....:: .|.|.:|.|||:::|...||..    ..|      .
+Q8WXG1           278 RFLERHKEVSCLV-PESNQKMKDSYLILDEYMRFLNCRKGRKD------P    320
+
+P0DW49           266 SRPILQVGIHQAFNEINFNANKFYSR-----YKRASLN---    298
+                     |:.||.||:.:|.....|:...|..|     :.:|.|.   
+Q8WXG1           321 SKSILDVGVEEAIKFSGFDEKMFLKRGGKYIWSKADLKLDW    361
+
+
+#---------------------------------------
+#---------------------------------------
