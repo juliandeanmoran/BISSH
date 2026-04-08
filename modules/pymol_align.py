@@ -75,8 +75,8 @@ def get_alphafold_structures(
 ) -> tuple[pl.DataFrame, str, str]:
     
     # Initialize column structures
-    col_query_structure_file_name = col_query_uniprot_id.replace("_id", "_AF_file")
-    col_target_structure_file_name = col_target_uniprot_id.replace("_id", "_AF_file")
+    col_query_structure_file_name = "Bacterial_protein_AF_file"
+    col_target_structure_file_name = "Human_protein_AF_file"
     col_query_structure_file, col_target_structure_file = [], []
 
     for i in range(len(df_uniprot_ids)):
