@@ -187,7 +187,7 @@ def pymol_align_pairs(
     out_dir: str,
     pymol_align_method: str,
     overwrite: bool = False,
-) -> pl.DataFrame:
+) -> tuple[pl.DataFrame, str]:
     
     col_struct_paths, col_rmsd, col_aligned_atoms = [], [], []
 
@@ -207,11 +207,12 @@ def pymol_align_pairs(
         col_rmsd.append(rmsd)
         col_aligned_atoms.append(aligned_atoms)
     
+    col_pse = "PyMOL_aligned_filePath"
     df = df_structure_files.with_columns(
-        pl.Series("PyMOL_aligned_filePath", col_struct_paths)
+        pl.Series(col_pse, col_struct_paths)
     ).with_columns(
         pl.Series("PyMOL_RMSD", col_rmsd)
     ).with_columns(
         pl.Series("PyMOL_aligned_atoms", col_aligned_atoms)
     )
-    return df
+    return df, col_pse
