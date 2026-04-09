@@ -1,5 +1,6 @@
 import logging
 import os
+import pymol2
 import requests
 import subprocess
 import tempfile
@@ -216,3 +217,109 @@ def pymol_align_pairs(
         pl.Series("PyMOL_aligned_atoms", col_aligned_atoms)
     )
     return df, col_pse
+
+
+# ────────────────────────────────────────────────────────────
+#       PyMol: render to PNG
+# ────────────────────────────────────────────────────────────
+
+def render_pse(
+        pse_path: Path,
+        query_id: str,
+        target_id: str,
+        out_dir: Path,
+        width=1200,
+        height=900,
+        dpi=300,
+        render_single_proteins: bool = False,
+        overwrite: bool = False,
+        evade_watermark: int = None
+    ) -> None:
+    with pymol2.PyMOL() as pymol:
+
+        out_path = out_dir / f"{query_id}_{target_id}_aligned.png"
+
+        if not overwrite and Path(out_path).exists():
+            logger.warning(f"Overwrite is {overwrite} and {out_path} already exists.")
+            logger.warning(f"For {query_id}, {target_id}, aborting capture(s) ...")
+            return None
+
+        cmd = pymol.cmd
+        cmd.reinitialize()
+        cmd.load(str(pse_path))
+
+        # Configure scene
+        cmd.bg_color("white")
+        cmd.hide("everything", "all")
+        cmd.show("cartoon", "all")
+        cmd.orient()
+
+        cmd.set("ray_opaque_background", 0)
+        cmd.set("antialias", 2)
+
+        # Render pairwise alignment
+        cmd.ray(width, height)
+        cmd.png(str(out_path), dpi=dpi)
+        logger.info(f"For {query_id}, {target_id}, wrote capture to {out_path}.")
+
+        if render_single_proteins:
+            out_path_s1 = out_dir / f"{query_id}_{target_id}_aligned_s1_{query_id}.png"
+            out_path_s2 = out_dir / f"{query_id}_{target_id}_aligned_s2_{target_id}.png"
+
+            objs = cmd.get_object_list("all")
+            if len(objs) < 2:
+                logger.error(f"Expected ≥2 objects, found {len(objs)}")
+                logger.error(f"For {query_id}, {target_id}, aborting s1, s2 captures ...")
+                return None
+
+            s1, s2 = objs[:2]
+
+            # Render structure 1 (bacterial)
+            cmd.disable("all")
+            cmd.enable(s1)
+
+            if evade_watermark is not None:
+                cmd.zoom(s1, buffer=evade_watermark + 10)
+                cmd.move("y", -evade_watermark)
+
+            cmd.ray(width, height)
+            cmd.png(str(out_path_s1), dpi=dpi)
+            logger.info(f"For {query_id}, wrote s1 capture to {out_path_s1}.")
+
+            # Render structure 2 (human)
+            cmd.disable("all")
+            cmd.enable(s2)
+            cmd.ray(width, height)
+
+            cmd.png(str(out_path_s2), dpi=dpi)
+            logger.info(f"For {target_id}, wrote s2 capture to {out_path_s2}.")
+        return None
+    
+def render_pses(
+    df_pse: pl.DataFrame,
+    col_pse: str,
+    col_query_id: str,
+    col_target_id: str,
+    out_dir: Path,
+    dpi: int = 300,
+    render_single_proteins: bool = False,
+    overwrite: bool = False,
+    evade_watermark: int = None
+) -> None:
+    
+    for i in range(len(df_pse)):
+        query_id = df_pse[i, col_query_id]
+        target_id = df_pse[i, col_target_id]
+        pse_path = df_pse[i, col_pse]
+
+        render_pse(
+            pse_path=pse_path,
+            query_id=query_id,
+            target_id=target_id,
+            out_dir=out_dir,
+            dpi=dpi,
+            overwrite=overwrite,
+            render_single_proteins=render_single_proteins,
+            evade_watermark=evade_watermark
+        )
+    return None
