@@ -44,7 +44,6 @@
 
 
 6. ESM-2 for regional prioritization
-    - 
 
 
 
