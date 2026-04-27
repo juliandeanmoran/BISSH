@@ -3,6 +3,14 @@
 ### 2026-04-10
 
 
+# Participants
+
+1. J Moran
+2. S Scherer
+3. C Marshall
+4. C Trost
+5. V Furlan
+
 
 # Take-homes
 
@@ -12,11 +20,6 @@
     - UI with sliders?
 
 2. Build Blastp canonical flagger tool
-
-
-
-
-
 
 
 
@@ -44,8 +47,3 @@
 
 
 6. ESM-2 for regional prioritization
-
-
-
-# Grant discourse
-

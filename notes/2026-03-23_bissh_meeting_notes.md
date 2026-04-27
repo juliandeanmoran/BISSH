@@ -3,8 +3,10 @@
 ### 2026-03-23
 
 
-# Attendees
-- C Trost, V Furlan
+# Participants
+1. J Moran
+2. C Trost
+3. V Furlan
 
 
 
