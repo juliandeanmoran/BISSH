@@ -12,6 +12,7 @@
 5. V Furlan
 
 
+
 # Take-homes
 
 1. Build two composite scores:
@@ -19,7 +20,11 @@
     - one for good structural homology, bad sequence homology
     - UI with sliders?
 
+
 2. Build Blastp canonical flagger tool
+
+
+
 
 
 
