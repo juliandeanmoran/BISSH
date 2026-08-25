@@ -88,3 +88,11 @@ Big categories in top 100:
 - RNA / DNA helicases
 - Cysteine sulferases / lysases
 - tRNA methyltransferase
+
+
+
+# Blasting proteins
+
+- psiBLAST -- position-specific iterative BLAST
+	+ use domain-specific
+	+ beware of same protein with different e-values with each iteration (i.e. results will be duplicated -- take the lowest e-value)
