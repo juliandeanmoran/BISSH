@@ -3,13 +3,11 @@
 ### 2026-08-28
 
 
-
 # Software dev
 
 1. Merge
 
 2. Add term to composite that penalises bad matches
-
 
 
 # Data science
