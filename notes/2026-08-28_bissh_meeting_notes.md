@@ -96,3 +96,29 @@ Big categories in top 100:
 - psiBLAST -- position-specific iterative BLAST
 	+ use domain-specific
 	+ beware of same protein with different e-values with each iteration (i.e. results will be duplicated -- take the lowest e-value)
+
+
+# To do from meetings
+
+1. Systematic pairwise BLAST
+
+2. Systematic abstract search
+	- `f"{bact_gene_name) homologous to {hs_gene_name}" >> bool`
+	- `f"{hs_gene_name} has immune function?" >> bool`
+
+3. Gold set: use gene names instead of UniProt
+
+4. Make chromosomal map of high-score sets
+
+
+
+# Ideal publication threshold
+
+1. Use this tool
+2. Diagnose new cases
+>> American Journal of X (5 to 15 impact factor)
+
+
+1. Use this tool
+2. Find this new system in humans (Vinicius)
+>> Nature (>15 impact factor)
