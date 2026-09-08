@@ -100,6 +100,8 @@ Big categories in top 100:
 
 # To do from meetings
 
+0. Use the domain-specific FoldSeek dataset
+
 1. Systematic pairwise BLAST
 
 2. Systematic abstract search
@@ -109,6 +111,11 @@ Big categories in top 100:
 3. Gold set: use gene names instead of UniProt
 
 4. Make chromosomal map of high-score sets
+
+5. Distinguish between domain-specific overlaps and full overlaps
+	- add penalizations
+
+6. Merge branches
 
 
 
