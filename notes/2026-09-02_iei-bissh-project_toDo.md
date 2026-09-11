@@ -38,25 +38,40 @@ Merge status:
 - `feature/pymol_composite` supersedes but needs to conform to `dev`'s ETL
     - use `feature`'s updated composite weightings and parameters
     - read composite weightings and parameters solely from root .env
+    - status: COMPLETE
 
 5. Caching retrieved PDB structures
 - `feature/pymol_composite` supersedes but needs to conform to `dev`'s ETL
-    - i.e. keep DuckDB alignment results cache
+    - i.e. keep DuckDB alignment results cache from `feature/pymol_composite`
     - additionally, keep a permanent cache of all retrieved structures (@juliandeanmoran: does `dev` do this? confirm)
     - additionally, update DuckDB with `bacteria_pdb` and `human_pdb` fields
     - additionally, those fields should give the file location of the pdb structures in the structure cache
+    - additionally, update DuckDB with `pymol_aligned_residues` and `aligned-span`
+    - status: COMPLETE
 
 6. Data feed from data -> [backend?] -> frontend lefthand navigator
 - `feature/pymol_composite` supersedes but needs to conform to `dev`'s ETL
-    - i.e. just feed the new composite score from data-> frontend
+    - most important: feed the new composite score from data-> frontend
+    - ensure pairs in the lefthand navigator are ranked in descending order by composite score; i.e., highest-ranked pair at the top
+    - status: COMPLETE
 
 7. Composite display on frontend righthand per-pair panel
-- update `dev`'s backend  to compute new composite score in real-time
+- update `dev`'s backend to compute `feature/pymol_composite`'s composite score in real-time
     - pass to per-pair righthand panels
     - read composite weightings and parameters solely from root .env
-    - ensure root .env reached backend at runtime; i.e. no dockerignore
+    - ensure root .env reaches backend at runtime; i.e. no dockerignore
+    - status: COMPLETE
+
+8. Manage PyMOL with conda
+- single command for run
+    - no per-node considerations on launch
+    - status: COMPLETE
 ```
 
 
 2. Improve gene name annotation in `final_output`
 - i.e. query the UniParc db for all accessions that do not get a gene name (this is currently 33% of the results)
+
+
+
+3. 
