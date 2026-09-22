@@ -33,7 +33,6 @@ Merge status:
     - i.e. throw out disorder flag
     - status: COMPLETE
 
-
 4. Composite scoring annotation
 - `feature/pymol_composite` supersedes but needs to conform to `dev`'s ETL
     - use `feature`'s updated composite weightings and parameters
