@@ -144,4 +144,11 @@ run_pipeline.sh
 
 # Message
 
-I have a pl.DataFrame with cols `defense_uniprot_ac`, `human_entryId`, `composite_score`. For each unique `hunan_entryId`, I would like to find the row with the highest composite score. What's the syntax? I gather it's some kind of groupby, sort call and then slicing out of the first row for each group.
+
+Consider the notebook at `vis/plot_blastp_v_compScore.ipynb`; please look at its cell headered `Annotate with protein sequences`.
+
+We have two helper functions that submit batched accession->sequence requests to APIs: `batch_uniprot_sequences()` and `batch_uniparc_sequences()`. In turn, we have an accession mapping function, `map_uniprotkb_to_uniparc()`.
+
+All these are called by the op function, `build_seq_lookup()`.
+
+Something, however, is not right with this arrangement. As I recall, the logic was only 70% complete. Some things stand out to be: the `+400` hardcoding after `len(accessions)`. I also think this code is very poorly readable.
