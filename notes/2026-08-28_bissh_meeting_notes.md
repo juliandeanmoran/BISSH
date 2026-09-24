@@ -33,6 +33,7 @@ I have confirmed your analysis results. We have three unique gold-standard human
 We now need to determine why we do not see a D5EID4:Q8WXG1 pair or a Q6XGD5:Q8N884 pair in the composite score dataset. May you please tell me the e-value for these two pairs? Please remember that our e-value dataset is between repIDs, so you will have to find their repIDs first.
 
 
+
 ┌─────────┬───────────┬────────────┐
 │ Protein │   Role    │   repID    │
 ├─────────┼───────────┼────────────┤
@@ -129,3 +130,16 @@ Big categories in top 100:
 1. Use this tool
 2. Find this new system in humans (Vinicius)
 >> Nature (>15 impact factor)
+
+
+
+# Note
+
+```bash
+sbatch --export=ALL,\
+DATA_ROOT=/hpf/largeprojects/tcagstor/users/juliandeanmoran/projects/iei-project/data/pipeline_data,\
+run_pipeline.sh
+
+
+
+```
