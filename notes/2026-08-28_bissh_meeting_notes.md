@@ -137,9 +137,11 @@ Big categories in top 100:
 
 ```bash
 sbatch --export=ALL,\
-DATA_ROOT=/hpf/largeprojects/tcagstor/users/juliandeanmoran/projects/iei-project/data/pipeline_data,\
+DATA_ROOT=/hpf/largeprojects/tcagstor/users/juliandeanmoran/projects/iei-project/data/pipeline_data \
 run_pipeline.sh
-
-
-
 ```
+
+
+# Message
+
+I have a pl.DataFrame with cols `defense_uniprot_ac`, `human_entryId`, `composite_score`. For each unique `hunan_entryId`, I would like to find the row with the highest composite score. What's the syntax? I gather it's some kind of groupby, sort call and then slicing out of the first row for each group.
