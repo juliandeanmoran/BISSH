@@ -12,8 +12,23 @@
 
 # Data science
 
-1. Do pairwise BLASTp and psiBLAST of all protein pairs in composite
-    - plot BLASTp score against composite score (?)
+0. Use the domain-specific FoldSeek dataset in pipeline
 
-2. Do cursory GPT-5-mediated lit review of high-scoring protein pairs?
-    - do these gene names have documented homology? TRUE / FALSE
+1. Systematic pairwise BLAST
+    - plot BLASTp score against composite score (?)
+	- status: COMPLETE
+
+2. Systematic abstract search
+	- `f"{bact_gene_name) homologous to {hs_gene_name}" >> bool`
+	- `f"{hs_gene_name} has immune function?" >> bool`
+	- i.e. cursory GPT-5-mediated lit review of high-scoring protein pairs
+
+3. Gold set comparison: use gene names instead of UniProt
+
+4. Make chromosomal map of high-score sets
+
+5. Distinguish between domain-specific overlaps and full overlaps
+	- add penalizations
+
+6. Merge branches
+	- status: COMPLETE

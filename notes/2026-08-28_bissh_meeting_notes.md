@@ -99,27 +99,6 @@ Big categories in top 100:
 	+ beware of same protein with different e-values with each iteration (i.e. results will be duplicated -- take the lowest e-value)
 
 
-# To do from meetings
-
-0. Use the domain-specific FoldSeek dataset
-
-1. Systematic pairwise BLAST
-
-2. Systematic abstract search
-	- `f"{bact_gene_name) homologous to {hs_gene_name}" >> bool`
-	- `f"{hs_gene_name} has immune function?" >> bool`
-
-3. Gold set: use gene names instead of UniProt
-
-4. Make chromosomal map of high-score sets
-
-5. Distinguish between domain-specific overlaps and full overlaps
-	- add penalizations
-
-6. Merge branches
-
-
-
 # Ideal publication threshold
 
 1. Use this tool
