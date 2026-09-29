@@ -13,6 +13,7 @@
 # Data science
 
 0. Use the domain-specific FoldSeek dataset in pipeline
+	- status: COMPLETE
 
 1. Systematic pairwise BLAST
     - plot BLASTp score against composite score (?)
@@ -32,3 +33,5 @@
 
 6. Merge branches
 	- status: COMPLETE
+
+7. Conduct a pathway analysis of the gene list
