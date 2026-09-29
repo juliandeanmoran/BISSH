@@ -6,11 +6,11 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-09-04T10:56:17.175862</dc:date>
+    <dc:date>2026-09-29T16:11:37.980540</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
-      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
      </cc:Agent>
     </dc:creator>
    </cc:Work>
@@ -1478,8 +1478,45 @@ z
 " style="fill: #dd513a; opacity: 0.8"/>
     </g>
     <g id="text_19">
-     <!-- C-type lectin receptors (CLRs) -->
+     <!-- Interleukin-17 signaling -->
      <g transform="translate(664.753125 203.509102) scale(0.11 -0.11)">
+      <use xlink:href="#DejaVuSans-2c"/>
+      <use xlink:href="#DejaVuSans-51" transform="translate(29.5 0)"/>
+      <use xlink:href="#DejaVuSans-57" transform="translate(92.875 0)"/>
+      <use xlink:href="#DejaVuSans-48" transform="translate(132.078125 0)"/>
+      <use xlink:href="#DejaVuSans-55" transform="translate(193.609375 0)"/>
+      <use xlink:href="#DejaVuSans-4f" transform="translate(234.71875 0)"/>
+      <use xlink:href="#DejaVuSans-48" transform="translate(262.5 0)"/>
+      <use xlink:href="#DejaVuSans-58" transform="translate(324.03125 0)"/>
+      <use xlink:href="#DejaVuSans-4e" transform="translate(387.40625 0)"/>
+      <use xlink:href="#DejaVuSans-4c" transform="translate(445.3125 0)"/>
+      <use xlink:href="#DejaVuSans-51" transform="translate(473.09375 0)"/>
+      <use xlink:href="#DejaVuSans-10" transform="translate(536.46875 0)"/>
+      <use xlink:href="#DejaVuSans-14" transform="translate(572.546875 0)"/>
+      <use xlink:href="#DejaVuSans-1a" transform="translate(636.171875 0)"/>
+      <use xlink:href="#DejaVuSans-3" transform="translate(699.796875 0)"/>
+      <use xlink:href="#DejaVuSans-56" transform="translate(731.578125 0)"/>
+      <use xlink:href="#DejaVuSans-4c" transform="translate(783.671875 0)"/>
+      <use xlink:href="#DejaVuSans-4a" transform="translate(811.453125 0)"/>
+      <use xlink:href="#DejaVuSans-51" transform="translate(874.9375 0)"/>
+      <use xlink:href="#DejaVuSans-44" transform="translate(938.3125 0)"/>
+      <use xlink:href="#DejaVuSans-4f" transform="translate(999.59375 0)"/>
+      <use xlink:href="#DejaVuSans-4c" transform="translate(1027.375 0)"/>
+      <use xlink:href="#DejaVuSans-51" transform="translate(1055.15625 0)"/>
+      <use xlink:href="#DejaVuSans-4a" transform="translate(1118.53125 0)"/>
+     </g>
+    </g>
+    <g id="patch_32">
+     <path d="M 633.953125 220.009961 
+L 655.953125 220.009961 
+L 655.953125 212.309961 
+L 633.953125 212.309961 
+z
+" style="fill: #f37819; opacity: 0.8"/>
+    </g>
+    <g id="text_20">
+     <!-- C-type lectin receptors (CLRs) -->
+     <g transform="translate(664.753125 220.009961) scale(0.11 -0.11)">
       <defs>
        <path id="DejaVuSans-b" d="M 1984 4856 
 Q 1566 4138 1362 3434 
@@ -1547,43 +1584,6 @@ z
       <use xlink:href="#DejaVuSans-35" transform="translate(1337.90625 0)"/>
       <use xlink:href="#DejaVuSans-56" transform="translate(1407.390625 0)"/>
       <use xlink:href="#DejaVuSans-c" transform="translate(1459.484375 0)"/>
-     </g>
-    </g>
-    <g id="patch_32">
-     <path d="M 633.953125 220.009961 
-L 655.953125 220.009961 
-L 655.953125 212.309961 
-L 633.953125 212.309961 
-z
-" style="fill: #f37819; opacity: 0.8"/>
-    </g>
-    <g id="text_20">
-     <!-- Interleukin-17 signaling -->
-     <g transform="translate(664.753125 220.009961) scale(0.11 -0.11)">
-      <use xlink:href="#DejaVuSans-2c"/>
-      <use xlink:href="#DejaVuSans-51" transform="translate(29.5 0)"/>
-      <use xlink:href="#DejaVuSans-57" transform="translate(92.875 0)"/>
-      <use xlink:href="#DejaVuSans-48" transform="translate(132.078125 0)"/>
-      <use xlink:href="#DejaVuSans-55" transform="translate(193.609375 0)"/>
-      <use xlink:href="#DejaVuSans-4f" transform="translate(234.71875 0)"/>
-      <use xlink:href="#DejaVuSans-48" transform="translate(262.5 0)"/>
-      <use xlink:href="#DejaVuSans-58" transform="translate(324.03125 0)"/>
-      <use xlink:href="#DejaVuSans-4e" transform="translate(387.40625 0)"/>
-      <use xlink:href="#DejaVuSans-4c" transform="translate(445.3125 0)"/>
-      <use xlink:href="#DejaVuSans-51" transform="translate(473.09375 0)"/>
-      <use xlink:href="#DejaVuSans-10" transform="translate(536.46875 0)"/>
-      <use xlink:href="#DejaVuSans-14" transform="translate(572.546875 0)"/>
-      <use xlink:href="#DejaVuSans-1a" transform="translate(636.171875 0)"/>
-      <use xlink:href="#DejaVuSans-3" transform="translate(699.796875 0)"/>
-      <use xlink:href="#DejaVuSans-56" transform="translate(731.578125 0)"/>
-      <use xlink:href="#DejaVuSans-4c" transform="translate(783.671875 0)"/>
-      <use xlink:href="#DejaVuSans-4a" transform="translate(811.453125 0)"/>
-      <use xlink:href="#DejaVuSans-51" transform="translate(874.9375 0)"/>
-      <use xlink:href="#DejaVuSans-44" transform="translate(938.3125 0)"/>
-      <use xlink:href="#DejaVuSans-4f" transform="translate(999.59375 0)"/>
-      <use xlink:href="#DejaVuSans-4c" transform="translate(1027.375 0)"/>
-      <use xlink:href="#DejaVuSans-51" transform="translate(1055.15625 0)"/>
-      <use xlink:href="#DejaVuSans-4a" transform="translate(1118.53125 0)"/>
      </g>
     </g>
     <g id="patch_33">
