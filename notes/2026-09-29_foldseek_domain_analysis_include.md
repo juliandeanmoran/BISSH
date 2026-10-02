@@ -45,3 +45,40 @@
 
 # Conclusion
 - We should not include the FoldSeek domain-specific alignment dataset
+
+
+# Dataset notes
+
+### `Structures_from_groups.csv`
+
+Authors filtered Foldseek e-value graph for `e_value <= 10e-3`. Each e-value connection in the graph is also annotated with amino acid span positions, so the authors isolated each specific protein's (let's call it `P`) pairwise combinations against all others (let's call them `x`) and hierarchically clustered those isolated alignments by start:end position ("pooling"). Given my notation we might say that they are hierarchically clustering only within each specific instance of `P <--> x` for all possible values of `P`.
+
+More e-value filtering ensues of those candidate families; they apply some membership, character-length, and Pfam filtering as well. Eventually they get their domain families, which are given by this dataset.
+
+
+1. `structure_ID` is the tag associated with each family domain
+  - follows format `f"{accession}_{i}"`
+  - ... where `accession` is the Uniprot ID associated with `P`
+  - ... where `i` is an integer indicating "this is the `i`th domain found on `P`" after the pooling
+
+
+2. `structure_start`, `structure_end` give amino-acid residue positions on `P` 
+  - ... where domain spans (first and last residue inside structure after pooling).
+
+
+3. `group_ID`: key to both tables
+  - cluster/community/group identifier that groups individual structures into a superfamily
+  - single structure may carry more than one group_ID (semicolon-delimited), i.e. it can belong to more than one group
+
+
+4. `uniprot`: Uniprot accession of `P`
+  - redundant given it is already included in `structure_ID`
+
+
+5. `pfam_all` lists all Pfams that overlap with `structure_ID`
+  - semicolon-delimited when there is more than one
+
+
+6. `pfam_overlap_rel`: length of  region overlapping between the Pfam and structure_ID divided by the total length of the Pfam
+  - reported as parallel list in same order as `pfam_all`
+  - cannot exceed 1.0 because included portion of the Pfam cannot be longer than the whole Pfam
