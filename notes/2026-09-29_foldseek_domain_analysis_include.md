@@ -16,7 +16,7 @@
 
 3. for each sequence ...
   - filter for pairs with `e_value <= 10e-3`
-  - cluster start and end position of each foldseek hit
+  - hierarchically cluster start and end position of each foldseek hit (here, they are clustering alignments for each protein against all others)
   - with network, filter for domains (clusters) with `span <= 350 AAs`
   - with network, filter for domains (clusters) with `>= 5 nodes`
   - with network, filter for edges with `e_value <= 10e-5`
@@ -36,7 +36,7 @@
 
 3. start and end positions clustered ussing hierarchical clustering
   - alignments were first trimmed using `span <= 350 AAs`
-  - hierarchical clustering height parameter of 250
+  - hierarchical clustering height parameter of 250 (again, it's every specific protein P <--> x, where x can be any other protein)
   - this was used to define consensus alignmed domains
   - this is the sole unique part of this analysis that our pipeline does not inclue
   - this is also not really relevant to our research question
