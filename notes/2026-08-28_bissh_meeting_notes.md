@@ -99,6 +99,27 @@ Big categories in top 100:
 	+ beware of same protein with different e-values with each iteration (i.e. results will be duplicated -- take the lowest e-value)
 
 
+# To do from meetings
+
+0. Use the domain-specific FoldSeek dataset
+
+1. Systematic pairwise BLAST
+
+2. Systematic abstract search
+	- `f"{bact_gene_name) homologous to {hs_gene_name}" >> bool`
+	- `f"{hs_gene_name} has immune function?" >> bool`
+
+3. Gold set: use gene names instead of UniProt
+
+4. Make chromosomal map of high-score sets
+
+5. Distinguish between domain-specific overlaps and full overlaps
+	- add penalizations
+
+6. Merge branches
+
+
+
 # Ideal publication threshold
 
 1. Use this tool
@@ -120,14 +141,3 @@ DATA_ROOT=/hpf/largeprojects/tcagstor/users/juliandeanmoran/projects/iei-project
 run_pipeline.sh
 ```
 
-
-# Message
-
-
-Consider the notebook at `vis/plot_blastp_v_compScore.ipynb`; please look at its cell headered `Annotate with protein sequences`.
-
-We have two helper functions that submit batched accession->sequence requests to APIs: `batch_uniprot_sequences()` and `batch_uniparc_sequences()`. In turn, we have an accession mapping function, `map_uniprotkb_to_uniparc()`.
-
-All these are called by the op function, `build_seq_lookup()`.
-
-Something, however, is not right with this arrangement. As I recall, the logic was only 70% complete. Some things stand out to be: the `+400` hardcoding after `len(accessions)`. I also think this code is very poorly readable.
