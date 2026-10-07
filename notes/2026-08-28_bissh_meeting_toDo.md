@@ -52,7 +52,7 @@
 Foldseek: recover more gold-standard pairs by ...
     a. converting gold standard proteins to repIDs
     b. converting those repIDs to gene names
-    c. seeing if those gene names have a pair in my composite_score df
+    c. seeing if those gene names have a pair in my `composite_score` df
 ```
 
 
@@ -62,3 +62,8 @@ Foldseek: recover more gold-standard pairs by ...
 DefenseFinder: recover more gold-standard pairs by ...
 	a. map gold-standard accessions back to DefenseFinder accessions that are sequence-homologous 
 ```
+
+
+11. Send out the data to C Marshall
+    - IUIS-IEI annotation with > 0.85
+    - subset: low-sequence homology, high composite score (composite score > 0.85), annotate with IUIS-IEI
